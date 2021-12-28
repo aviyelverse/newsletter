@@ -31,9 +31,11 @@ app.get("", (req, res) => {
     watchDescription:
       "Aviyel works with the creators and the contributors to get you up to date code with the highest quality and security compliances.",
     learnMainTitle: "LEARN",
-    learnImageUrl: "",
-    learnArticleTitle: "",
-    learnArticleDescription: "",
+    learnImageUrl:
+      "https://user-images.githubusercontent.com/37651620/147545803-ee37a315-b4c6-42b2-885b-5a88970d2b35.png",
+    learnArticleTitle: "Share and Learn",
+    learnArticleDescription:
+      "We ensure that your knowledge is hosted and shared seamlessly across the community. Aviyel is a platform to teach, learn, and earn.",
 
     manifestoArticleUrl:
       "https://aviyel.com/post/33/manifesto-aviyel?utm_source=mailjet&utm_medium=articles_faq&utm_campaign=post_33",
