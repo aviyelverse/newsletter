@@ -26,10 +26,22 @@
         color: #8661d1;
         text-decoration: underline;
       }
+      #whole_body{
+        background-color: #f5f1fd;
+      }
+
+      @media (max-width: 620px) {
+        #whole_body{
+      -webkit-text-size-adjust: 100%;
+      background-color: #ffffff;
+          }
+        }
+        @media (max-width: 380px) {
+            #gardening_big_image{
+                display: none;
+            }
+        }
       @media (max-width: 480px) {
-         #gardening_big_image{
-            display: none;
-         }
         #table_column_3 .vertical-column-padding {
           padding: 0px !important;
         }
@@ -80,6 +92,7 @@
         }
       }
       @media only screen and (min-width: 620px) {
+    
         .topic-title-row {
           width: 600px !important;
         }
@@ -164,6 +177,7 @@
     "
   >
     <table
+      id="whole_body"
       style="
         border-collapse: collapse;
         table-layout: fixed;
@@ -173,7 +187,6 @@
         vertical-align: top;
         min-width: 320px;
         margin: 0 auto;
-        background-color: #f5f1fd;
         width: 100%;
       "
       cellpadding="0"
