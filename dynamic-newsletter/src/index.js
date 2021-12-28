@@ -24,6 +24,16 @@ app.get("", (req, res) => {
     amaImageUrl:
       "https://user-images.githubusercontent.com/37651620/147545522-a3398a1a-6b3c-4a50-b7f6-7fefe21e0ab4.png",
     amaArticleTitle: "Showcase Open Source Projects",
+    watchmainTitle: "WATCH",
+    watchImageUrl:
+      "https://user-images.githubusercontent.com/37651620/147545806-8fc8a026-640e-4f12-a672-eb082789c470.png",
+    watchTitle: "Up to Date Code. Latest and the Best",
+    watchDescription:
+      "Aviyel works with the creators and the contributors to get you up to date code with the highest quality and security compliances.",
+    learnMainTitle: "LEARN",
+    learnImageUrl: "",
+    learnArticleTitle: "",
+    learnArticleDescription: "",
 
     manifestoArticleUrl:
       "https://aviyel.com/post/33/manifesto-aviyel?utm_source=mailjet&utm_medium=articles_faq&utm_campaign=post_33",
