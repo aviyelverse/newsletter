@@ -15,7 +15,8 @@ app.get("", (req, res) => {
     gardeningBigImage:
       "https://user-images.githubusercontent.com/37651620/147542872-e3499b05-c33a-484c-952f-c850b361f05f.png",
     readTitle: "READ",
-    
+    readImageUrl:
+      "https://user-images.githubusercontent.com/37651620/147545716-938a14be-47b4-4cc9-8b8c-1502e229e6f4.png",
   });
 });
 
