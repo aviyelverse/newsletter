@@ -20,6 +20,8 @@ app.get("", (req, res) => {
     readArticleTitle: "Build and Incentivise Strong Communities",
     readArticleDescription:
       "Tools to grow and incentivise a strong community around your open source projects. Aviyel ensures a seamless exchange of knowledge and ideas with the community.",
+    manifestoArticleUrl:
+      "https://aviyel.com/post/33/manifesto-aviyel?utm_source=mailjet&utm_medium=articles_faq&utm_campaign=post_33",
   });
 });
 
