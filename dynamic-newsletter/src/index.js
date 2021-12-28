@@ -36,6 +36,12 @@ app.get("", (req, res) => {
     learnArticleTitle: "Share and Learn",
     learnArticleDescription:
       "We ensure that your knowledge is hosted and shared seamlessly across the community. Aviyel is a platform to teach, learn, and earn.",
+    funMainTitle: "FUN",
+    funImageUrl:
+      "https://user-images.githubusercontent.com/37651620/147545802-f8565128-eb56-464d-914c-945f77dc7317.png",
+    funArticleTitle: "Follow interests and Earn",
+    funArticleDescription:
+      "Join and contribute to the most interesting open source projects, upgrade your skills, be a part of great communities and get paid for it.",
 
     manifestoArticleUrl:
       "https://aviyel.com/post/33/manifesto-aviyel?utm_source=mailjet&utm_medium=articles_faq&utm_campaign=post_33",
