@@ -26,6 +26,21 @@
         color: #8661d1;
         text-decoration: underline;
       }
+      #whole_body{
+        background-color: #f5f1fd;
+      }
+
+      @media (max-width: 620px) {
+        #whole_body{
+      -webkit-text-size-adjust: 100%;
+      background-color: #ffffff;
+          }
+        }
+        @media (max-width: 380px) {
+            #gardening_big_image{
+                display: none;
+            }
+        }
       @media (max-width: 480px) {
         #table_column_3 .vertical-column-padding {
           padding: 0px !important;
@@ -77,6 +92,7 @@
         }
       }
       @media only screen and (min-width: 620px) {
+    
         .topic-title-row {
           width: 600px !important;
         }
@@ -98,24 +114,41 @@
       }
 
       @media (max-width: 620px) {
+        html, body {
+        overflow-x: hidden;
+         }
+
+         .aviyel_footer_container{
+            background-color: #8661d1 !important;
+         }
+
+        .vertical-aviyel-text-align{
+            text-align: center !important;
+        }
         .aviyel-row-container {
           max-width: 100% !important;
-          padding-left: 0px !important;
+          padding-left: 10px !important;
           padding-right: 0px !important;
+          
+          
         }
         .topic-title-row .topic-title-coloumn {
           min-width: 320px !important;
           max-width: 100% !important;
           display: block !important;
+          
         }
         .topic-title-row {
           width: calc(100% - 40px) !important;
+          
         }
         .topic-title-coloumn {
           width: 100% !important;
+          
         }
         .topic-title-coloumn > div {
           margin: 0 auto;
+          
         }
       }
       body {
@@ -161,6 +194,7 @@
     "
   >
     <table
+      id="whole_body"
       style="
         border-collapse: collapse;
         table-layout: fixed;
@@ -170,7 +204,6 @@
         vertical-align: top;
         min-width: 320px;
         margin: 0 auto;
-        background-color: #f5f1fd;
         width: 100%;
       "
       cellpadding="0"
@@ -303,6 +336,7 @@
                   <div
                     id="u_column_4"
                     class="topic-title-coloumn topic-title-coloumn-50"
+                    
                     style="
                       max-width: 320px;
                       min-width: 300px;
@@ -312,6 +346,7 @@
                   >
                     <div style="width: 100% !important">
                       <div
+                      id="table_content_image_2"
                         class="vertical-column-padding"
                         style="
                           padding: 0px 20px 0px 0px;
@@ -341,6 +376,7 @@
                                 align="left"
                               >
                                 <table
+                                  id="table_content_image_2"
                                   height="0px"
                                   align="center"
                                   border="0"
@@ -384,7 +420,7 @@
                                       "
                                     >
                                       <span
-                                        class="v-padding"
+                                        class="vertical-padding"
                                         style="
                                           display: block;
                                           padding: 10px 30px;
@@ -456,6 +492,7 @@
             </div>
 
             <div
+              id="gardening_big_image"
               class="aviyel-row-container"
               style="
                 padding: 0px;
@@ -574,7 +611,7 @@
                                     font-size: 28px;
                                   "
                                 >
-                                  <strong></strong><br />
+                                  <br />
                                 </h1>
                               </td>
                             </tr>
@@ -613,9 +650,9 @@
                                       text-align: center;
                                       color: #ffffff00;
                                       background-color: #ffffff00;
-                                      border-radius: 10px;
-                                      -webkit-border-radius: 10px;
-                                      -moz-border-radius: 10px;
+                                      border-radius: 5px;
+                                      -webkit-border-radius:  5px;
+                                      -moz-border-radius: 5px;
                                       width: auto;
                                       max-width: 100%;
                                       overflow-wrap: break-word;
@@ -625,7 +662,7 @@
                                     "
                                   >
                                     <span
-                                      class="v-padding"
+                                      class="vertical-padding"
                                       style="
                                         display: block;
                                         padding: 10px 30px;
@@ -637,7 +674,7 @@
                                             font-size: 14px;
                                             line-height: 16.8px;
                                           "
-                                          >Aviyel</span
+                                          > <br/></span
                                         ></strong
                                       ></span
                                     >
@@ -1196,9 +1233,9 @@
                                       text-align: center;
                                       color: #8661d1;
                                       background-color: #ffffff;
-                                      border-radius: 10px;
-                                      -webkit-border-radius: 10px;
-                                      -moz-border-radius: 10px;
+                                      border-radius: 5px;
+                                      -webkit-border-radius:  5px;
+                                      -moz-border-radius: 5px;
                                       width: auto;
                                       max-width: 100%;
                                       overflow-wrap: break-word;
@@ -1220,11 +1257,11 @@
                                     "
                                   >
                                     <span
-                                      class="v-padding"
+                                      class="vertical-padding"
                                       style="
                                         display: block;
-                                        padding: 5px 20px;
-                                        line-height: 120%;
+                                        padding: 3px 10px;
+                                        line-height: 90%;
                                       "
                                       >comments &gt;</span
                                     >
@@ -1432,9 +1469,9 @@
                                       text-align: center;
                                       color: #8661d1;
                                       background-color: #ffffff;
-                                      border-radius: 10px;
-                                      -webkit-border-radius: 10px;
-                                      -moz-border-radius: 10px;
+                                      border-radius: 5px;
+                                      -webkit-border-radius:  5px;
+                                      -moz-border-radius: 5px;
                                       width: auto;
                                       max-width: 100%;
                                       overflow-wrap: break-word;
@@ -1456,11 +1493,11 @@
                                     "
                                   >
                                     <span
-                                      class="v-padding"
+                                      class="vertical-padding"
                                       style="
                                         display: block;
-                                        padding: 5px 20px;
-                                        line-height: 120%;
+                                        padding: 3px 10px;
+                                        line-height: 90%;
                                       "
                                       >comments &gt;</span
                                     >
@@ -1665,9 +1702,9 @@
                                       text-align: center;
                                       color: #8661d1;
                                       background-color: #ffffff;
-                                      border-radius: 10px;
-                                      -webkit-border-radius: 10px;
-                                      -moz-border-radius: 10px;
+                                      border-radius: 5px;
+                                      -webkit-border-radius:  5px;
+                                      -moz-border-radius: 5px;
                                       width: auto;
                                       max-width: 100%;
                                       overflow-wrap: break-word;
@@ -1689,11 +1726,11 @@
                                     "
                                   >
                                     <span
-                                      class="v-padding"
+                                      class="vertical-padding"
                                       style="
                                         display: block;
-                                        padding: 5px 20px;
-                                        line-height: 120%;
+                                        padding: 3px 10px;
+                                        line-height: 90%;
                                       "
                                       >comments &gt;</span
                                     >
@@ -2140,11 +2177,11 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
-                                      padding: 5px 20px;
-                                      line-height: 120%;
+                                        padding: 3px 10px;
+                                        line-height: 90%;
                                     "
                                     >Read more &gt;</span
                                   >
@@ -2351,11 +2388,11 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
-                                      padding: 5px 20px;
-                                      line-height: 120%;
+                                        padding: 3px 10px;
+                                        line-height: 90%;
                                     "
                                     >Read more &gt;</span
                                   >
@@ -2561,11 +2598,11 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
-                                      padding: 5px 20px;
-                                      line-height: 120%;
+                                        padding: 3px 10px;
+                                        line-height: 90%;
                                     "
                                     >Read more &gt;</span
                                   >
@@ -3038,7 +3075,7 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
                                       padding: 5px 20px;
@@ -3273,7 +3310,7 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
                                       padding: 5px 20px;
@@ -3505,7 +3542,7 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
                                       padding: 5px 20px;
@@ -3982,7 +4019,7 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
                                       padding: 5px 20px;
@@ -4219,7 +4256,7 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
                                       padding: 5px 20px;
@@ -4453,7 +4490,7 @@
                                   "
                                 >
                                   <span
-                                    class="v-padding"
+                                    class="vertical-padding"
                                     style="
                                       display: block;
                                       padding: 5px 20px;
@@ -5504,9 +5541,9 @@
                                       text-align: center;
                                       color: #8661d1;
                                       background-color: #ffffff;
-                                      border-radius: 10px;
-                                      -webkit-border-radius: 10px;
-                                      -moz-border-radius: 10px;
+                                      border-radius: 5px;
+                                      -webkit-border-radius:  5px;
+                                      -moz-border-radius: 5px;
                                       width: auto;
                                       max-width: 100%;
                                       overflow-wrap: break-word;
@@ -5528,7 +5565,7 @@
                                     "
                                   >
                                     <span
-                                      class="v-padding"
+                                      class="vertical-padding"
                                       style="
                                         display: block;
                                         padding: 10px 20px;
@@ -5662,7 +5699,7 @@
             </div>
 
             <div
-              class="aviyel-row-container"
+              class="aviyel-row-container aviyel_footer_container"
               style="padding: 0px; background-color: transparent"
             >
               <div
@@ -5772,7 +5809,7 @@
                           role="presentation"
                           cellpadding="0"
                           cellspacing="0"
-                          width="80%"
+                          width="100%"
                           border="0"
                         >
                           <tbody>
@@ -5796,7 +5833,7 @@
                                   "
                                 >
                                   
-                                    <p style="font-size: 14px; line-height: 140%">
+                                    <p style="font-size: 14px; line-height: 140%" >
                                         Join and contribute to the most interesting open source projects, upgrade your skills, be a part of great communities and get paid for it.
 
                                   </p>
@@ -5828,7 +5865,6 @@
                           border-bottom: 0px solid transparent;
                         "
                       >
-                        <!--<![endif]-->
                         <table
                           style="font-family: 'Inter', sans-serif"
                           role="presentation"
@@ -5862,7 +5898,6 @@
                                     mso-table-lspace: 0pt;
                                     mso-table-rspace: 0pt;
                                     vertical-align: top;
-                                    border-top: 1px solid #8661d1;
                                     -ms-text-size-adjust: 100%;
                                     -webkit-text-size-adjust: 100%;
                                   "
@@ -5948,7 +5983,8 @@
                                 align="left"
                               >
                                 <div align="center">
-                                  <div style="display: table; max-width: 184px">
+                                  <div style="display: table; max-width: 250px">
+                                    
                                     <table
                                       align="left"
                                       border="0"
@@ -5967,6 +6003,8 @@
                                       "
                                     >
                                     </table>
+
+                                    
 
                                     <table
                                       align="left"
@@ -6002,7 +6040,7 @@
                                               target="_blank"
                                             >
                                               <img
-                                                src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23C4C6CD' viewBox='0 0 24 24'%3e%3cpath d='M21.75 5.96c-.718.31-1.498.532-2.302.619.834-.496 1.46-1.28 1.758-2.203-.784.466-1.642.792-2.536.965-.374-.4-.827-.718-1.329-.935-.502-.218-1.044-.33-1.592-.328-2.214 0-3.996 1.795-3.996 3.999 0 .309.038.618.099.916-3.317-.173-6.274-1.758-8.24-4.184-.36.612-.547 1.31-.545 2.018 0 1.388.706 2.611 1.782 3.33-.634-.024-1.253-.198-1.807-.508v.05c0 1.942 1.373 3.553 3.204 3.923-.344.09-.698.135-1.053.136-.26 0-.506-.026-.755-.061.507 1.584 1.98 2.735 3.736 2.773-1.373 1.075-3.093 1.708-4.961 1.708-.335 0-.645-.012-.966-.05 1.772 1.138 3.874 1.794 6.138 1.794 7.35 0 11.372-6.09 11.372-11.374 0-.174 0-.347-.012-.52.779-.57 1.46-1.276 2.004-2.068z'%3e%3c/path%3e%3c/svg%3e"
+                                                src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23ffffff' viewBox='0 0 24 24'%3e%3cpath d='M21.75 5.96c-.718.31-1.498.532-2.302.619.834-.496 1.46-1.28 1.758-2.203-.784.466-1.642.792-2.536.965-.374-.4-.827-.718-1.329-.935-.502-.218-1.044-.33-1.592-.328-2.214 0-3.996 1.795-3.996 3.999 0 .309.038.618.099.916-3.317-.173-6.274-1.758-8.24-4.184-.36.612-.547 1.31-.545 2.018 0 1.388.706 2.611 1.782 3.33-.634-.024-1.253-.198-1.807-.508v.05c0 1.942 1.373 3.553 3.204 3.923-.344.09-.698.135-1.053.136-.26 0-.506-.026-.755-.061.507 1.584 1.98 2.735 3.736 2.773-1.373 1.075-3.093 1.708-4.961 1.708-.335 0-.645-.012-.966-.05 1.772 1.138 3.874 1.794 6.138 1.794 7.35 0 11.372-6.09 11.372-11.374 0-.174 0-.347-.012-.52.779-.57 1.46-1.276 2.004-2.068z'%3e%3c/path%3e%3c/svg%3e"
                                                 alt="Twitter"
                                                 title="Twitter"
                                                 width="32"
@@ -6023,6 +6061,8 @@
                                         </tr>
                                       </tbody>
                                     </table>
+
+                                   
 
                                     <table
                                       align="left"
@@ -6058,7 +6098,7 @@
                                               target="_blank"
                                             >
                                               <img
-                                                src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23C4C6CD' viewBox='0 0 24 24'%3e%3cpath d='M19.04 19.043h-2.962v-4.64c0-1.107-.023-2.531-1.544-2.531-1.544 0-1.78 1.204-1.78 2.449v4.722H9.793V9.5h2.845v1.3h.038c.397-.75 1.364-1.54 2.808-1.54 3.001 0 3.556 1.974 3.556 4.545v5.238zM6.447 8.194c-.226 0-.45-.044-.659-.13-.209-.087-.398-.214-.558-.374-.16-.16-.286-.35-.373-.558-.086-.209-.13-.433-.13-.659 0-.34.102-.672.29-.955.19-.283.459-.503.773-.633s.66-.164.994-.098c.333.067.64.23.88.472.24.24.404.547.47.88.067.334.032.68-.098.994-.13.314-.35.583-.634.772-.283.189-.615.29-.955.29zm1.484 10.85h-2.97V9.5h2.97v9.543zM20.521 2H3.476C2.66 2 2 2.645 2 3.44v17.12c0 .796.66 1.44 1.476 1.44h17.042c.815 0 1.482-.644 1.482-1.44V3.44C22 2.646 21.333 2 20.518 2h.003z'%3e%3c/path%3e%3c/svg%3e"
+                                                src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23ffffff' viewBox='0 0 24 24'%3e%3cpath d='M19.04 19.043h-2.962v-4.64c0-1.107-.023-2.531-1.544-2.531-1.544 0-1.78 1.204-1.78 2.449v4.722H9.793V9.5h2.845v1.3h.038c.397-.75 1.364-1.54 2.808-1.54 3.001 0 3.556 1.974 3.556 4.545v5.238zM6.447 8.194c-.226 0-.45-.044-.659-.13-.209-.087-.398-.214-.558-.374-.16-.16-.286-.35-.373-.558-.086-.209-.13-.433-.13-.659 0-.34.102-.672.29-.955.19-.283.459-.503.773-.633s.66-.164.994-.098c.333.067.64.23.88.472.24.24.404.547.47.88.067.334.032.68-.098.994-.13.314-.35.583-.634.772-.283.189-.615.29-.955.29zm1.484 10.85h-2.97V9.5h2.97v9.543zM20.521 2H3.476C2.66 2 2 2.645 2 3.44v17.12c0 .796.66 1.44 1.476 1.44h17.042c.815 0 1.482-.644 1.482-1.44V3.44C22 2.646 21.333 2 20.518 2h.003z'%3e%3c/path%3e%3c/svg%3e"
                                                 alt="LinkedIn"
                                                 title="LinkedIn"
                                                 width="32"
@@ -6079,6 +6119,8 @@
                                         </tr>
                                       </tbody>
                                     </table>
+
+                                    
 
                                     <table
                                       align="left"
@@ -6114,7 +6156,7 @@
                                               target="_blank"
                                             >
                                               <img
-                                                src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23C4C6CD' viewBox='0 0 24 24'%3e%3cpath d='M11.99 1.788C6.196 1.786 1.5 6.478 1.5 12.27c0 4.58 2.937 8.472 7.027 9.902.55.138.466-.253.466-.52v-1.817c-3.18.373-3.31-1.732-3.523-2.083-.43-.736-1.45-.924-1.146-1.275.724-.373 1.463.093 2.318 1.357.619.916 1.826.761 2.438.609.133-.55.42-1.043.813-1.425-3.295-.59-4.669-2.602-4.669-4.992 0-1.16.382-2.227 1.132-3.087-.478-1.418.045-2.632.115-2.812 1.362-.122 2.777.975 2.888 1.061.773-.208 1.657-.318 2.646-.318.993 0 1.88.114 2.66.325.265-.201 1.577-1.143 2.843-1.029.068.18.579 1.367.129 2.766.76.863 1.146 1.938 1.146 3.1 0 2.396-1.383 4.41-4.688 4.99.283.28.508.611.661.977.154.366.233.76.232 1.157v2.636c.019.211 0 .42.352.42 4.15-1.4 7.139-5.32 7.139-9.94 0-5.794-4.697-10.484-10.488-10.484z'%3e%3c/path%3e%3c/svg%3e"
+                                                src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23ffffff' viewBox='0 0 24 24'%3e%3cpath d='M11.99 1.788C6.196 1.786 1.5 6.478 1.5 12.27c0 4.58 2.937 8.472 7.027 9.902.55.138.466-.253.466-.52v-1.817c-3.18.373-3.31-1.732-3.523-2.083-.43-.736-1.45-.924-1.146-1.275.724-.373 1.463.093 2.318 1.357.619.916 1.826.761 2.438.609.133-.55.42-1.043.813-1.425-3.295-.59-4.669-2.602-4.669-4.992 0-1.16.382-2.227 1.132-3.087-.478-1.418.045-2.632.115-2.812 1.362-.122 2.777.975 2.888 1.061.773-.208 1.657-.318 2.646-.318.993 0 1.88.114 2.66.325.265-.201 1.577-1.143 2.843-1.029.068.18.579 1.367.129 2.766.76.863 1.146 1.938 1.146 3.1 0 2.396-1.383 4.41-4.688 4.99.283.28.508.611.661.977.154.366.233.76.232 1.157v2.636c.019.211 0 .42.352.42 4.15-1.4 7.139-5.32 7.139-9.94 0-5.794-4.697-10.484-10.488-10.484z'%3e%3c/path%3e%3c/svg%3e"
                                                 alt="Github"
                                                 title="Github"
                                                 width="32"
@@ -6170,7 +6212,7 @@
                                               target="_blank"
                                             >
                                               <img
-                                                src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23C4C6CD' viewBox='0 0 24 24'%3e%3cpath d='M7.362 9.87c-.148-.12-.33-.188-.52-.195h-.779v4.664h.779c.19-.006.373-.074.521-.194.172-.13.259-.325.259-.583v-3.11c.001-.258-.088-.452-.26-.582zM20.039 2H3.959C2.88 2 2.003 2.874 2 3.955v16.088C2.002 21.125 2.879 22 3.96 22h16.08c1.081 0 1.958-.874 1.96-1.956V3.955c-.002-.519-.209-1.016-.576-1.383-.368-.366-.866-.572-1.385-.572zM8.883 13.57c0 .84-.518 2.113-2.158 2.11h-2.07V8.293h2.114c1.582 0 2.113 1.271 2.114 2.11v3.166zm4.494-3.957H11v1.715h1.455v1.32h-1.455v1.715h2.38v1.32h-2.775c-.24.005-.471-.084-.645-.249-.173-.165-.274-.392-.28-.631V9.218c-.006-.239.083-.47.248-.644.165-.173.392-.274.631-.28h2.821l-.002 1.319zm4.628 5.146c-.59 1.372-1.646 1.1-2.118 0l-1.72-6.464h1.454l1.326 5.077 1.32-5.077h1.455l-1.717 6.464z'%3e%3c/path%3e%3c/svg%3e"
+                                                src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23ffffff' viewBox='0 0 24 24'%3e%3cpath d='M7.362 9.87c-.148-.12-.33-.188-.52-.195h-.779v4.664h.779c.19-.006.373-.074.521-.194.172-.13.259-.325.259-.583v-3.11c.001-.258-.088-.452-.26-.582zM20.039 2H3.959C2.88 2 2.003 2.874 2 3.955v16.088C2.002 21.125 2.879 22 3.96 22h16.08c1.081 0 1.958-.874 1.96-1.956V3.955c-.002-.519-.209-1.016-.576-1.383-.368-.366-.866-.572-1.385-.572zM8.883 13.57c0 .84-.518 2.113-2.158 2.11h-2.07V8.293h2.114c1.582 0 2.113 1.271 2.114 2.11v3.166zm4.494-3.957H11v1.715h1.455v1.32h-1.455v1.715h2.38v1.32h-2.775c-.24.005-.471-.084-.645-.249-.173-.165-.274-.392-.28-.631V9.218c-.006-.239.083-.47.248-.644.165-.173.392-.274.631-.28h2.821l-.002 1.319zm4.628 5.146c-.59 1.372-1.646 1.1-2.118 0l-1.72-6.464h1.454l1.326 5.077 1.32-5.077h1.455l-1.717 6.464z'%3e%3c/path%3e%3c/svg%3e"
                                                 alt="Devto"
                                                 title="Devto"
                                                 width="32"
@@ -6191,6 +6233,62 @@
                                         </tr>
                                       </tbody>
                                     </table>
+
+                                    <table
+                                    align="left"
+                                    border="0"
+                                    cellspacing="0"
+                                    cellpadding="0"
+                                    width="32"
+                                    height="32"
+                                    style="
+                                      border-collapse: collapse;
+                                      table-layout: fixed;
+                                      border-spacing: 0;
+                                      mso-table-lspace: 0pt;
+                                      mso-table-rspace: 0pt;
+                                      vertical-align: top;
+                                      margin-right: 5px;
+                                    "
+                                  >
+                                    <tbody>
+                                      <tr style="vertical-align: top">
+                                        <td
+                                          align="left"
+                                          valign="middle"
+                                          style="
+                                            word-break: break-word;
+                                            border-collapse: collapse !important;
+                                            vertical-align: top;
+                                          "
+                                        >
+                                          <a
+                                            href="https://angel.co/company/aviyel-com"
+                                            title="Github"
+                                            target="_blank"
+                                          >
+                                            <img
+                                              src="data:image/svg+xml;charset=UTF-8,%3csvg class='cursor-pointer hover:fill-purple-royal' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='%23ffffff' viewBox='0 0 24 24'%3e%3cpath d='M17.092 10.389c.894.14 1.514.56 1.858 1.12.344.561.55 1.542.55 2.803 0 2.522-.757 4.624-2.27 6.236C15.715 22.159 13.788 23 11.45 23c-.895 0-1.79-.14-2.684-.49-.894-.35-1.583-.841-2.202-1.402-.688-.63-1.238-1.401-1.582-2.102-.276-.77-.482-1.541-.482-2.312 0-.84.206-1.541.55-2.031.344-.491.964-.771 1.72-.981-.137-.35-.275-.631-.343-.911-.07-.21-.138-.42-.138-.56 0-.421.206-.912.688-1.402.482-.49.895-.7 1.307-.7.207 0 .344 0 .55.07.207.07.414.14.689.35-.62-2.102-1.239-3.854-1.583-5.045-.344-1.191-.481-1.962-.481-2.452 0-.63.137-1.121.481-1.471C8.216 1.21 8.697 1 9.248 1c.894 0 2.064 2.102 3.509 6.376.275.7.413 1.261.55 1.681.138-.28.276-.77.482-1.33 1.445-4.205 2.684-6.307 3.647-6.307.481 0 .894.14 1.238.49.276.351.482.842.482 1.402 0 .42-.138 1.261-.482 2.452-.413 1.191-.894 2.733-1.582 4.625zM6.495 16.554c.138.14.344.42.55.77.62.912 1.24 1.402 1.79 1.402.206 0 .344-.07.482-.21.137-.14.206-.28.206-.35 0-.14-.069-.42-.275-.771-.207-.35-.482-.77-.826-1.191-.413-.49-.757-.911-.963-1.121-.276-.21-.482-.35-.62-.35-.344 0-.688.21-.963.56-.275.35-.413.84-.413 1.331 0 .42.07.84.276 1.402.206.49.481 1.05.894 1.54.62.701 1.307 1.332 2.202 1.752.894.42 1.789.631 2.89.631 1.926 0 3.509-.7 4.816-2.172 1.308-1.471 1.927-3.293 1.927-5.535 0-.7-.069-1.191-.138-1.612-.069-.42-.275-.7-.481-.84-.413-.35-1.17-.63-2.34-.911-1.17-.28-2.408-.42-3.647-.42-.344 0-.619.07-.757.21-.137.14-.206.35-.206.63 0 .701.344 1.191 1.101 1.472.757.28 1.995.49 3.647.49h.619c.138 0 .275.07.344.14.069.14.138.28.138.49-.138.14-.482.351-1.032.561-.55.21-.895.42-1.17.63-.62.421-1.101.982-1.445 1.612-.344.63-.55 1.191-.55 1.752 0 .35.068.7.206 1.19.138.491.206.772.206.842v.28c-.413 0-.757-.28-1.032-.77-.275-.491-.344-1.122-.344-1.962v-.14c-.069.07-.137.14-.206.14-.07 0-.138.07-.276.07h-.275c-.069 0-.137-.07-.275-.07 0 .14.069.21.069.35v.28c0 .35-.138.7-.413.98-.275.281-.62.421-1.032.421-.62 0-1.239-.28-1.927-.91-.619-.631-.963-1.192-.963-1.822 0-.14 0-.21.069-.28 0-.35.069-.42.137-.49zm4.473.35c.137 0 .344-.07.482-.21.137-.14.206-.35.206-.49 0-.21-.138-.63-.413-1.331-.275-.701-.62-1.402-1.032-2.032-.275-.49-.62-.911-.895-1.121-.275-.28-.55-.35-.825-.35-.207 0-.413.14-.688.42-.276.28-.344.49-.344.77 0 .21.137.631.344 1.122.275.49.55.98.963 1.54.413.562.826 1.052 1.239 1.402.412.14.688.28.963.28zm1.445-7.286L10.76 4.924c-.412-1.192-.688-2.032-.963-2.383-.206-.35-.413-.56-.688-.56-.206 0-.344.07-.482.21-.206.21-.275.42-.275.7 0 .491.207 1.262.55 2.383.345 1.12.895 2.662 1.583 4.484.069-.14.138-.21.275-.21.138-.07.276-.07.413-.07h.344c.207.07.482.07.895.14zm1.651 4.554c-.413 0-.825-.07-1.238-.14-.413-.07-.757-.14-1.101-.28.137.35.275.63.413.98.137.35.206.631.275.981.206-.28.481-.56.757-.84.344-.28.619-.49.894-.701zm1.996-4.064c.688-1.821 1.17-3.363 1.582-4.554.344-1.19.55-1.892.55-2.172 0-.28-.068-.49-.206-.7-.137-.14-.275-.21-.482-.21-.275 0-.55.21-.825.7-.275.49-.62 1.191-.963 2.242l-1.514 4.344 1.858.35z'%3e%3c/path%3e%3c/svg%3e"
+                                              alt="AngelList"
+                                              title="Angellist"
+                                              width="32"
+                                              style="
+                                                outline: none;
+                                                text-decoration: none;
+                                                -ms-interpolation-mode: bicubic;
+                                                clear: both;
+                                                display: block !important;
+                                                border: none;
+                                                height: auto;
+                                                float: none;
+                                                max-width: 32px !important;
+                                              "
+                                            />
+                                          </a>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
                                   </div>
                                 </div>
                               </td>
@@ -6227,7 +6325,7 @@
                                   "
                                 >
                                   <p style="font-size: 14px; line-height: 140%">
-                                    https://aviyel.com/discussions
+                                   <br/>
                                   </p>
                                 </div>
                               </td>
@@ -6264,7 +6362,7 @@
                                   "
                                 >
                                   <p style="font-size: 14px; line-height: 140%">
-                                    https://aviyel.com/about
+                                    <br />
                                   </p>
                                 </div>
                               </td>
