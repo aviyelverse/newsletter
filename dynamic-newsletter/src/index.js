@@ -14,9 +14,12 @@ app.get("", (req, res) => {
     issueAndDate: "Issue 3 | 06/01/2022",
     gardeningBigImage:
       "https://user-images.githubusercontent.com/37651620/147542872-e3499b05-c33a-484c-952f-c850b361f05f.png",
-    readTitle: "READ",
+    readMainTitle: "READ",
     readImageUrl:
       "https://user-images.githubusercontent.com/37651620/147545716-938a14be-47b4-4cc9-8b8c-1502e229e6f4.png",
+    readArticleTitle: "Build and Incentivise Strong Communities",
+    readArticleDescription:
+      "Tools to grow and incentivise a strong community around your open source projects. Aviyel ensures a seamless exchange of knowledge and ideas with the community.",
   });
 });
 
