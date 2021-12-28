@@ -20,6 +20,11 @@ app.get("", (req, res) => {
     readArticleTitle: "Build and Incentivise Strong Communities",
     readArticleDescription:
       "Tools to grow and incentivise a strong community around your open source projects. Aviyel ensures a seamless exchange of knowledge and ideas with the community.",
+    amaMainTitle: "AMA",
+    amaImageUrl:
+      "https://user-images.githubusercontent.com/37651620/147545522-a3398a1a-6b3c-4a50-b7f6-7fefe21e0ab4.png",
+    amaArticleTitle: "Showcase Open Source Projects",
+
     manifestoArticleUrl:
       "https://aviyel.com/post/33/manifesto-aviyel?utm_source=mailjet&utm_medium=articles_faq&utm_campaign=post_33",
   });
