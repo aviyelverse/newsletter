@@ -9,7 +9,9 @@ const staticPath = path.join(__dirname, "../views/");
 app.set("view engine", "hbs");
 
 app.get("", (req, res) => {
-  res.render("index.hbs");
+  res.render("index.hbs", {
+    aviyelNewsletterTitle: "Aviyel Newsletter",
+  });
 });
 
 app.get("/", (req, res) => {
