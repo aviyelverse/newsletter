@@ -4,5 +4,6 @@
 
 ## Aviyel Curated Newsletter
 
+- [Newsletter Template](https://aviyeldevrel.github.io/newsletter/newsletter-template)
 - [November 22nd 2021](https://aviyeldevrel.github.io/newsletter/november-22nd-2021)
 - [December 22nd 2021](https://aviyeldevrel.github.io/newsletter/december-22nd-2021)
