@@ -7,3 +7,4 @@
 - [Newsletter Template](https://aviyeldevrel.github.io/newsletter/newsletter-template)
 - [November 22nd 2021](https://aviyeldevrel.github.io/newsletter/november-22nd-2021)
 - [December 22nd 2021](https://aviyeldevrel.github.io/newsletter/december-22nd-2021)
+- [January 6th 2022](https://aviyeldevrel.github.io/newsletter/january-6th-newsletter/)
