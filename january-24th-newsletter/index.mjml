@@ -1,0 +1,264 @@
+<mjml>
+  <mj-head>
+    <mj-title>Aviyel Newsletter</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="20px 0">
+      <mj-column width="60%">
+        <mj-text font-size="10px">Your bimonthly Aviyel newsletter is here!</mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image align="right" href="" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image href="" src="https://user-images.githubusercontent.com/37651620/148015361-512f2ce9-e7fa-4897-92c8-8cde98e6be72.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">It's time for your bimonthly dose of tech news!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #4 - JANUARY 24th</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>Aviyel is a community platform that helps open source project communities to monetize and sustain themselves in the long run. Aviyel is commited to get open source projects traction from developers around the world to adopt and maintain them.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- READ -->
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#READ</mj-text>
+        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
+          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+   <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
+          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+   <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
+          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+ 
+  <!-- Watch-->
+  
+   <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#WATCH</mj-text>
+        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+<!---->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;"> James Webb Space Telescope Launch  </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/149937715-576837de-550b-4d56-92e7-23dfaf19f703.png"></mj-image>
+        <mj-text>
+          <p style="font-size: 14px;"> Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- -->
+<!---->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;"> James Webb Space Telescope Launch  </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/149937715-576837de-550b-4d56-92e7-23dfaf19f703.png"></mj-image>
+        <mj-text>
+          <p style="font-size: 14px;"> Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- -->
+<!---->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;"> James Webb Space Telescope Launch  </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/149937715-576837de-550b-4d56-92e7-23dfaf19f703.png"></mj-image>
+        <mj-text>
+          <p style="font-size: 14px;"> Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- -->
+ <!-- Learn -->
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#LEARN</mj-text>
+        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
+          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+   <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
+          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+   <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
+          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+<!-- Learn -->
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#EVENT</mj-text>
+        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> Winter of Code with Renato Benkerdorf, Maintainer @ Docz
+</a> </h3>
+          <p style="font-size: 14px">The best way to practice & expertise your existing skills is by contributing to Open Source Projects but if you are confused with a how-to start. A sweet solution for your problem as Aviyel comes with another live session where Pedro Nauk & Renato Benkerdorf, Docz creators, will help you get started.
+</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://aviyel.com/cdn-cgi/image/width=144,format=auto/assets/uploads/files/1639042389453-image-9-resized.png"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+
+<!--Test-->
+ <mj-section background-color="#ffffff" background-repeat="repeat" padding-right="0px" padding-top="40px"  text-align="center" >
+   <mj-column width="35%">
+        <mj-image align="left" width="110px" href="" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
+      </mj-column>
+      <mj-column width="65%">
+        <mj-social align="right" border-radius="50%" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" icon-padding="0px 0px 0px 0px" icon-size="24" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px" text-decoration="none" text-mode="false">
+          <mj-social-element background-color="#3B5998" href="https://www.facebook.com/AviyelHq" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" href="https://twitter.com/AviyelHq" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#0077B5" href="https://www.linkedin.com/company/aviyel" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#4078C0" href="https://github.com/Aviyel-oss" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
+          <mj-social-element background-color="#FF0000" href="https://www.youtube.com/channel/UCb6aozSU1II2ORqGgjdkfbw" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element href="https://discord.gg/cFrUDfuYYG" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
+          <mj-social-element href="https://www.reddit.com/r/AviyelHQ/" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+<!-- FOoter -->
+    
+     <mj-section>
+        <mj-column>
+          <mj-text font-size="12px" align="center">
+            <p>
+              This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
