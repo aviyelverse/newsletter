@@ -9,12 +9,12 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding="15px 0">
+    <mj-section padding="10px 0px">
       <mj-column width="60%">
-        <mj-text font-size="10px">Your bimonthly Aviyel newsletter is here!</mj-text>
+        <mj-text font-size="10px" align="center">Your bimonthly Aviyel newsletter is here!</mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="right" href="" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
+        <mj-image align="center" href="" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -54,6 +54,20 @@
         <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
       </mj-column>
     </mj-section>
+  <!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150315830-5bca0445-df88-4671-aef5-6b7a9ffa16dd.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" style="color: #3498DB; text-decoration: none">Programmer Uses NSA Tool to Liberate Legendary Super Nintendo Emulator</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">For more than a decade, the long-rumored SNESticle was hidden in a GameCube game. Now, a programmer has devised a method for SNESticle to run on its own.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- -->
    <!-- -->
    <mj-section>
      <mj-column width="25%">
@@ -61,12 +75,11 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/" style="color: #3498DB; text-decoration: none"> The Internet Changed My Life</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/" style="color: #3498DB; text-decoration: none">The Internet Changed My Life</a> </h3>
           <p style="font-size: 14px">Maxime Chevalier shares her story of how she got started in coding despite having a tough and difficult childhood.
 </p>
         </mj-text>
       </mj-column>
-      
     </mj-section>
   <!-- -->
   <!-- -->
@@ -98,9 +111,7 @@
       
     </mj-section>
   
- 
   <!-- Watch-->
-  
    <mj-section>
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#WATCH</mj-text>
@@ -116,11 +127,25 @@
 <!---->
     <mj-section>
       <mj-column>
+        <mj-text padding-bottom="0">
+          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=Keme8oxHHPQ" style="color: #3498DB; text-decoration: none;"> Why India's Tech Unicorns Are Breaking Records?
+  </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/150312142-abdf6a4f-a71e-48ac-86be-2ec870b852d8.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;"> Watch a video on how India's startups have exploded this year. Companies that went public in 2021 raised a record amount of money. However, they face unique challenges in their quest to expand even further.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- -->
+<!---->
+    <mj-section>
+      <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;"> James Webb Space Telescope Launch  </a> </h3>
+          <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;">James Webb Space Telescope Launch</a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/149937715-576837de-550b-4d56-92e7-23dfaf19f703.png"></mj-image>
-        <mj-text>
+        <mj-text padding-top="0">
           <p style="font-size: 14px;"> Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made.</p>
         </mj-text>
       </mj-column>
@@ -133,26 +158,12 @@
           <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;"> James Webb Space Telescope Launch  </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/149937715-576837de-550b-4d56-92e7-23dfaf19f703.png"></mj-image>
-        <mj-text>
+        <mj-text padding-top="0">
           <p style="font-size: 14px;"> Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made.</p>
         </mj-text>
       </mj-column>
     </mj-section>
 <!-- -->
-<!---->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;"> James Webb Space Telescope Launch  </a> </h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/149937715-576837de-550b-4d56-92e7-23dfaf19f703.png"></mj-image>
-        <mj-text>
-          <p style="font-size: 14px;"> Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-<!-- -->
-
 <!-- Event -->
     <mj-section>
       <mj-column width="45%">
