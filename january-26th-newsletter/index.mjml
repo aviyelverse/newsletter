@@ -138,32 +138,36 @@
       </mj-column>
     </mj-section>
 <!-- -->
+
 <!---->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;">James Webb Space Telescope Launch</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=4e2Ac39G0rA&ab_channel=PROROBOTS" style="color: #3498DB; text-decoration: none;">What is Elon Musk's Tesla Bot capable of?</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/149937715-576837de-550b-4d56-92e7-23dfaf19f703.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/150322571-93f99ba7-529f-425e-9a7a-074daca714f0.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;"> Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made.</p>
+          <p style="font-size: 14px;"> The "Tesla Bot," a 1.7-meter, 56-kilogram robot, was unveiled by Musk. He claims the bot will have a screen in front of its face that will display information. According to the CEO, the humanoid robot will be able to deadlift and carry heavy weights</p>
         </mj-text>
       </mj-column>
     </mj-section>
 <!-- -->
+
 <!---->
     <mj-section>
       <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="" style="color: #3498DB; text-decoration: none;"> James Webb Space Telescope Launch  </a> </h3>
+        <mj-text padding-bottom="0">
+          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=7vQznLKEfBs&ab_channel=Alux.com" style="color: #3498DB; text-decoration: none;"> 10 Mind Blowing NEW Technologies That Will CHANGE World
+  </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/149937715-576837de-550b-4d56-92e7-23dfaf19f703.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/150323384-79811c02-5ef5-468a-bde8-9f50aebaf0f4.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;"> Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made.</p>
+          <p style="font-size: 14px;">What does humanity's future look like? What does the future hold for technology? What is the most recent technological advancement? What will the most recent computer technology be?</p>
         </mj-text>
       </mj-column>
     </mj-section>
 <!-- -->
+
 <!-- Event -->
     <mj-section>
       <mj-column width="45%">
@@ -209,43 +213,36 @@
     </mj-section>
   <!-- -->
     <mj-section>
+       <mj-column width="25%" >
+        <mj-image width="150px" padding-right="0px" href="" src="https://user-images.githubusercontent.com/37651620/150319766-77d45800-eb50-436a-99d3-3ca05d99f268.png"></mj-image>
+      </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
-          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> Microsoft to buy Activision Blizzard for $68.7 billion</a> </h3>
+          <p style="font-size: 14px">Activision Blizzard, which has been under fire from investors due to harassment allegations and ongoing turmoil, has pulled the trigger on a $68.7B all-cash deal with Microsoft.
 </p>
         </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
       </mj-column>
     </mj-section>
   <!-- -->
-   <mj-section>
+
+ <!-- -->
+    <mj-section>
+       <mj-column width="25%" >
+        <mj-image width="150px" padding-right="0px" href="" src="https://user-images.githubusercontent.com/37651620/150321449-d11616a4-152e-4155-a7c2-7f7b300bf3dc.png"></mj-image>
+      </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
-          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/" style="color: #3498DB; text-decoration: none"> Open source developers, who work for free, are discovering they have power</a> </h3>
+          <p style="font-size: 14px">Many of the devices and apps you use on a daily basis are built on open source software, which is maintained by one or two developers who aren't paid for their time..
 </p>
         </mj-text>
       </mj-column>
-      <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
-      </mj-column>
     </mj-section>
+  <!-- -->
+ 
    <!-- -->
-   <mj-section>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
-          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
-</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
-      </mj-column>
-    </mj-section>
+   
 
 
 
