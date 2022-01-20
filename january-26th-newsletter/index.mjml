@@ -56,13 +56,13 @@
     </mj-section>
   <!-- -->
     <mj-section>
-       <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+       <mj-column width="25%" >
+        <mj-image width="150px" padding-right="0px" href="" src="https://user-images.githubusercontent.com/37651620/150300673-f9038801-37b8-4779-a130-2801e622885f.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
-          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"  padding-left="0px"> <a href="" style="color: #3498DB; text-decoration: none"> Prioritizing health and balance over Docz</a> </h3>
+          <p style="font-size: 14px">Learn about pedro nauck (creator of docz) and how he transitioned from anxiety-filled days to a more sustainable, creative lifestyle.
 </p>
         </mj-text>
       </mj-column>
