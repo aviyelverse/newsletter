@@ -1,15 +1,15 @@
 <mjml>
   <mj-head>
     <mj-title>Aviyel Newsletter</mj-title>
-    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600&display=swap"></mj-font>
     <mj-attributes>
-      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-all font-family="Inter, Helvetica, sans-serif"></mj-all>
       <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
       <mj-section padding="0px"></mj-section>
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section padding="20px 0">
+    <mj-section padding="15px 0">
       <mj-column width="60%">
         <mj-text font-size="10px">Your bimonthly Aviyel newsletter is here!</mj-text>
       </mj-column>
@@ -24,7 +24,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="center">It's time for your bimonthly dose of tech news!</mj-text>
+        <mj-text align="center" font-size="15px">It's time for your bimonthly dose of tech news!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -239,11 +239,11 @@
 
 <!--Test-->
  <mj-section background-color="#ffffff" background-repeat="repeat" padding-right="0px" padding-top="40px"  text-align="center" >
-   <mj-column width="35%">
-        <mj-image align="left" width="110px" href="" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
+   <mj-column width="100%">
+        <mj-image align="center" width="110px" href="" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
       </mj-column>
-      <mj-column width="65%">
-        <mj-social align="right" border-radius="50%" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" icon-padding="0px 0px 0px 0px" icon-size="24" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px" text-decoration="none" text-mode="false">
+      <mj-column width="100%">
+        <mj-social align="center" border-radius="50%" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-padding="0px 0px 0px 0px" icon-size="15px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px" text-decoration="none" >
           <mj-social-element background-color="#3B5998" href="https://www.facebook.com/AviyelHq" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
           <mj-social-element background-color="#1DA1F2" href="https://twitter.com/AviyelHq" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
           <mj-social-element background-color="#0077B5" href="https://www.linkedin.com/company/aviyel" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
