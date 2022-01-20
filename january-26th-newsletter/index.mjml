@@ -43,9 +43,9 @@
     </mj-section>
     <!-- READ -->
     <mj-section>
-      <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#READ</mj-text>
-        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#READ</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
@@ -114,9 +114,9 @@
   
   <!-- Watch-->
    <mj-section>
-      <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#WATCH</mj-text>
-        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
+       <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#WATCH</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
@@ -173,9 +173,9 @@
 
 <!-- Event -->
     <mj-section>
-      <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#EVENT</mj-text>
-        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
+       <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
@@ -203,9 +203,9 @@
 
  <!-- Learn -->
     <mj-section>
-      <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#LEARN</mj-text>
-        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
+       <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#LEARN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
@@ -262,9 +262,9 @@
 
 <!-- Learn -->
     <mj-section>
-      <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#FUN</mj-text>
-        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
+       <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#FUN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="60px"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
@@ -324,9 +324,9 @@
 
 <!-- Learn -->
     <mj-section>
-      <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#CODE</mj-text>
-        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
