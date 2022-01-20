@@ -8,4 +8,4 @@
 - [November 22nd 2021](https://aviyeldevrel.github.io/newsletter/november-22nd-2021)
 - [December 22nd 2021](https://aviyeldevrel.github.io/newsletter/december-22nd-2021)
 - [January 10th 2022](https://aviyeldevrel.github.io/newsletter/january-6th-newsletter/)
-- [January 24th 2022](https://aviyeldevrel.github.io/newsletter/january-24th-newsletter/)
+- [January 26th 2022](https://aviyeldevrel.github.io/newsletter/january-26th-newsletter/)
