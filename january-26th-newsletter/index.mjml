@@ -54,6 +54,21 @@
         <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
       </mj-column>
     </mj-section>
+   <!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" padding-right="0px" src="https://user-images.githubusercontent.com/37651620/150308601-afb063da-af41-46b7-ae9b-30a9be9f7e78.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/" style="color: #3498DB; text-decoration: none"> The Internet Changed My Life</a> </h3>
+          <p style="font-size: 14px">Maxime Chevalier shares her story of how she got started in coding despite having a tough and difficult childhood.
+</p>
+        </mj-text>
+      </mj-column>
+      
+    </mj-section>
+  <!-- -->
   <!-- -->
     <mj-section>
        <mj-column width="25%" >
@@ -71,32 +86,18 @@
   <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+        <mj-image width="150px" padding-right="0px" href="" src="https://user-images.githubusercontent.com/37651620/150306369-3386f0fe-d687-4387-81e2-47c30be8ff15.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
-          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> Fastest-growing OSS startups in Q4 2021</a> </h3>
+          <p style="font-size: 14px">Q4 2021 snapshot of ROSS Index featuring the fastest-growing open-source startups by Github stars growth of their repositories
 </p>
         </mj-text>
       </mj-column>
       
     </mj-section>
-   <!-- -->
-   <mj-section>
-     <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
-          <p style="font-size: 14px">Pirijan (pketh), a software developer and former co-creator of glitch, talks about how he built Kinopio, a spatial thinking tool for fresh ideas and difficult challenges that follows a pattern similar to human brains.
-</p>
-        </mj-text>
-      </mj-column>
-      
-    </mj-section>
-  <!-- -->
+  
  
   <!-- Watch-->
   
