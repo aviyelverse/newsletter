@@ -151,6 +151,37 @@
       </mj-column>
     </mj-section>
 <!-- -->
+
+<!-- Event -->
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#EVENT</mj-text>
+        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> Concurrent Coding with Devsession
+</a> </h3>
+          <p style="font-size: 14px">Ramón, Aram, and Joshua will discuss about the use cases of Devsession, a collaborative tool for improving the concurrent coding experience between the team members.
+
+</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/150291525-f9f3570d-bded-49f5-a728-6e7d380a2825.png"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+
  <!-- Learn -->
     <mj-section>
       <mj-column width="45%">
@@ -204,34 +235,7 @@
       </mj-column>
     </mj-section>
 
-<!-- Learn -->
-    <mj-section>
-      <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#EVENT</mj-text>
-        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
-      </mj-column>
-    </mj-section>
-    </mj-section>
-    <mj-section>
-      <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
-      </mj-column>
-    </mj-section>
-  <!-- -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> Winter of Code with Renato Benkerdorf, Maintainer @ Docz
-</a> </h3>
-          <p style="font-size: 14px">The best way to practice & expertise your existing skills is by contributing to Open Source Projects but if you are confused with a how-to start. A sweet solution for your problem as Aviyel comes with another live session where Pedro Nauk & Renato Benkerdorf, Docz creators, will help you get started.
-</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="100px" href="" src="https://aviyel.com/cdn-cgi/image/width=144,format=auto/assets/uploads/files/1639042389453-image-9-resized.png"></mj-image>
-      </mj-column>
-    </mj-section>
-  <!-- -->
+
 
 <!--Test-->
  <mj-section background-color="#ffffff" background-repeat="repeat" padding-right="0px" padding-top="40px"  text-align="center" >
