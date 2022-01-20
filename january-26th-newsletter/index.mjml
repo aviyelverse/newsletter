@@ -30,12 +30,12 @@
     <mj-section>
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #4 - JANUARY 24th</mj-text>
-        <mj-divider width="80%" border-width="2px" border-color="#616161"></mj-divider>
+        <mj-divider width="80%" border-width="2px" border-color="#8661d1"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
-      <mj-column width="100%">
-        <mj-text>
+      <mj-column width="100%" >
+        <mj-text align="justify">
           <p>Aviyel is a community platform that helps open source project communities to monetize and sustain themselves in the long run. Aviyel is commited to get open source projects traction from developers around the world to adopt and maintain them.
 </p>
         </mj-text>
@@ -45,7 +45,7 @@
     <mj-section>
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#READ</mj-text>
-        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
@@ -103,7 +103,7 @@
    <mj-section>
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#WATCH</mj-text>
-        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
@@ -156,7 +156,7 @@
     <mj-section>
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#EVENT</mj-text>
-        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
@@ -186,7 +186,7 @@
     <mj-section>
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">#LEARN</mj-text>
-        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+        <mj-divider border-width="2px" border-color="#8661d1" width="45%"></mj-divider>
       </mj-column>
     </mj-section>
     </mj-section>
