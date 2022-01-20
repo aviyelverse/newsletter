@@ -30,11 +30,10 @@
     <mj-section>
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #4 - JANUARY 24th</mj-text>
-        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
-        <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+        <mj-divider width="80%" border-width="2px" border-color="#616161"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section padding-top="30px">
+    <mj-section padding-top="1px">
       <mj-column width="100%">
         <mj-text>
           <p>Aviyel is a community platform that helps open source project communities to monetize and sustain themselves in the long run. Aviyel is commited to get open source projects traction from developers around the world to adopt and maintain them.
@@ -57,6 +56,9 @@
     </mj-section>
   <!-- -->
     <mj-section>
+       <mj-column width="25%">
+        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
@@ -64,12 +66,13 @@
 </p>
         </mj-text>
       </mj-column>
-      <mj-column width="25%">
-        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
-      </mj-column>
+     
     </mj-section>
   <!-- -->
    <mj-section>
+     <mj-column width="25%">
+        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
@@ -77,12 +80,13 @@
 </p>
         </mj-text>
       </mj-column>
-      <mj-column width="25%">
-        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
-      </mj-column>
+      
     </mj-section>
    <!-- -->
    <mj-section>
+     <mj-column width="25%">
+        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+      </mj-column>
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" style="color: #3498DB; text-decoration: none"> How I Build Kinopio interface</a> </h3>
@@ -90,9 +94,7 @@
 </p>
         </mj-text>
       </mj-column>
-      <mj-column width="25%">
-        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
-      </mj-column>
+      
     </mj-section>
   <!-- -->
  
@@ -172,7 +174,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
       </mj-column>
     </mj-section>
   <!-- -->
@@ -185,7 +187,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
       </mj-column>
     </mj-section>
    <!-- -->
@@ -198,7 +200,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
+        <mj-image width="100px" href="" src="https://user-images.githubusercontent.com/37651620/147326755-8eee40c5-7b9c-4c1d-9d87-75b3e549158e.png"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -226,7 +228,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="https://blog.recast.ai/module-faster-shadow/" src="https://aviyel.com/cdn-cgi/image/width=144,format=auto/assets/uploads/files/1639042389453-image-9-resized.png"></mj-image>
+        <mj-image width="100px" href="" src="https://aviyel.com/cdn-cgi/image/width=144,format=auto/assets/uploads/files/1639042389453-image-9-resized.png"></mj-image>
       </mj-column>
     </mj-section>
   <!-- -->
