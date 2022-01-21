@@ -14,12 +14,12 @@
         <mj-text font-size="10px" align="center">Your bimonthly Aviyel newsletter is here!</mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
+        <mj-image align="center" target="_blank" href="https://aviyel.com/?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_jan_25" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-image target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/148015361-512f2ce9-e7fa-4897-92c8-8cde98e6be72.png"></mj-image>
+        <mj-image target="_blank" href="https://aviyel.com/?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_jan_25" src="https://user-images.githubusercontent.com/37651620/148015361-512f2ce9-e7fa-4897-92c8-8cde98e6be72.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -220,7 +220,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://aviyel.com/events/260/concurrent-coding-with-devsession?utm_source=aviyelnewsletter&utm_medium=email&utm_campaign=newsletter&utm_term=events" target="_blank" style="color: #3498DB; text-decoration: none"> Concurrent coding with "Devsession"
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://aviyel.com/events/260/concurrent-coding-with-devsession?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_260" target="_blank" style="color: #3498DB; text-decoration: none"> Concurrent coding with "Devsession"
 </a> </h3>
           <p style="font-size: 14px">Ramón, Aram, and Joshua will discuss about the use cases of Devsession, a collaborative tool for improving the concurrent coding experience between the team members.
 
@@ -228,7 +228,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="https://aviyel.com/events/260/concurrent-coding-with-devsession?utm_source=aviyelnewsletter&utm_medium=email&utm_campaign=newsletter&utm_term=events" target="_blank" src="https://user-images.githubusercontent.com/37651620/150291525-f9f3570d-bded-49f5-a728-6e7d380a2825.png"></mj-image>
+        <mj-image width="100px" href="https://aviyel.com/events/260/concurrent-coding-with-devsession?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_260" target="_blank" src="https://user-images.githubusercontent.com/37651620/150291525-f9f3570d-bded-49f5-a728-6e7d380a2825.png"></mj-image>
       </mj-column>
     </mj-section>
   <!-- -->
@@ -311,11 +311,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="https://gaspumpgolf.github.io/" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150371046-fe528136-6b8c-4848-86f0-a75fdebc036a.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3IFDzdp" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150371046-fe528136-6b8c-4848-86f0-a75fdebc036a.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://gaspumpgolf.github.io/" target="_blank" style="color: #3498DB; text-decoration: none">⛽ Gas Pump Golf ⛳</a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3IFDzdp" target="_blank" style="color: #3498DB; text-decoration: none">⛽ Gas Pump Golf ⛳</a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;"> Gas Pump Golf. Specifically, the game in which you pump gas,have fun and beats the score. There used to be a lot of high scores. Then it was hacked by Hacker News.Check out this intersting game.
           </p>
@@ -327,11 +327,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="https://shademap.app/" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150368591-e27b10f4-efb7-41e9-93e3-4f7ed3b38555.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3fLY4bC" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150368591-e27b10f4-efb7-41e9-93e3-4f7ed3b38555.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://shademap.app/" target="_blank" style="color: #3498DB; text-decoration: none">Shade Map App</a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3fLY4bC" target="_blank" style="color: #3498DB; text-decoration: none">Shade Map App</a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;">Check out this fascinating web map application that depicts solar shadows on an interactive 3D web-based map. For any point in time, anywhere on the planet.
           </p>
@@ -343,11 +343,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="https://looptap.vasanthv.com/" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150486596-c9097ced-4ad4-458a-bcf0-656645f0e518.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3GQTXXE" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150486596-c9097ced-4ad4-458a-bcf0-656645f0e518.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://looptap.vasanthv.com/" target="_blank" style="color: #3498DB; text-decoration: none">Looptap - A minimal addictive game to waste your time.</a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3GQTXXE" target="_blank" style="color: #3498DB; text-decoration: none">Looptap - A minimal addictive game to waste your time.</a> 
           </h3>
           <p style="font-size: 14px;padding-top:0px;">Check out this very intriguing and simple game created by Vasanth to loose track of time. It's similar to the coogyloop app, but for the web.
           </p>
@@ -374,11 +374,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="https://www.learndmarc.com/" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150372735-e6beb4b2-ef00-479d-b063-0da5ff8e9d87.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3AgTWdj" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150372735-e6beb4b2-ef00-479d-b063-0da5ff8e9d87.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://www.learndmarc.com/" target="_blank" style="color: #3498DB; text-decoration: none">Learn and Test DMARC</a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3AgTWdj" target="_blank" style="color: #3498DB; text-decoration: none">Learn and Test DMARC</a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;"> Check out this cool tool called "learndmarc," which visualizes email server communication and will help you understand what SPF, DKIM, and DMARC do and how these mechanisms work.
           </p>
@@ -390,11 +390,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150468626-79f4862b-ef52-4814-badc-949df5d73a99.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3fMl5ey" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150468626-79f4862b-ef52-4814-badc-949df5d73a99.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/" target="_blank" style="color: #3498DB; text-decoration: none">How we handle 80TB and 5M page views a month for under $400.</a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3fMl5ey" target="_blank" style="color: #3498DB; text-decoration: none">How we handle 80TB and 5M page views a month for under $400.</a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;">Check out this fascinating article about how engineers of Poly Haven manage the massive server workloads at a fraction of the cost.
           </p>
@@ -408,11 +408,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="https://iconoir.com/" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150469515-3ce5858d-4613-43eb-b83b-1c272df45bfe.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3nJzhcG" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150469515-3ce5858d-4613-43eb-b83b-1c272df45bfe.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://iconoir.com/" target="_blank" style="color: #3498DB; text-decoration: none">The Definitive Open
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3nJzhcG" target="_blank" style="color: #3498DB; text-decoration: none">The Definitive Open
 Source Icons Library</a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;">Iconoir is one of the biggest open source libraries with currently 1007 SVG Icons. No premium icons, no email sign-up, no newsletters.
@@ -434,17 +434,17 @@ Source Icons Library</a>
 <!--Test-->
  <mj-section background-color="#ffffff" background-repeat="repeat" padding-right="0px" padding-top="40px"  text-align="center" >
    <mj-column width="100%">
-        <mj-image align="center" width="110px" href="" target="_blank" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
+        <mj-image align="center" width="110px" href="https://aviyel.com/?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_jan_25" target="_blank" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="50%" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-padding="0px 0px 0px 0px" icon-size="15px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px" text-decoration="none" >
-          <mj-social-element background-color="#3B5998" target="_blank" href="https://www.facebook.com/AviyelHq" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
-          <mj-social-element background-color="#1DA1F2" target="_blank" href="https://twitter.com/AviyelHq" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
-          <mj-social-element background-color="#0077B5" target="_blank" href="https://www.linkedin.com/company/aviyel" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
-          <mj-social-element background-color="#4078C0" target="_blank" href="https://github.com/Aviyel-oss" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
-          <mj-social-element background-color="#FF0000" target="_blank" href="https://www.youtube.com/channel/UCb6aozSU1II2ORqGgjdkfbw" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
-          <mj-social-element target="_blank" href="https://discord.gg/cFrUDfuYYG" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
-          <mj-social-element target="_blank" href="https://www.reddit.com/r/AviyelHQ/" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3pUONnJ" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#4078C0" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
+          <mj-social-element background-color="#FF0000" target="_blank" href="https://bit.ly/3HCTrNa" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/32QpESj" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/3t0l3HU" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
