@@ -257,6 +257,21 @@
       </mj-column>
     </mj-section>
   <!-- -->
+
+<!-- -->
+    <mj-section>
+       <mj-column width="25%" >
+        <mj-image width="150px" padding-right="0px" href="https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html" src="https://user-images.githubusercontent.com/37651620/150470006-b1850074-bfb4-4177-aa20-e0b74ae2b9ee.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://www.openculture.com/2022/01/animals-laugh-too-ucla-study-finds-laughter-in-65-species-from-rats-to-cows.html" style="color: #3498DB; text-decoration: none">Animals Laugh Too: UCLA Study Finds Laughter in 65 Species, from Rats to Cows</a> </h3>
+          <p style="font-size: 14px">Check out this fascinating article about how scientists and researchers discover animal laughter in 65 different species.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- -->
  
    <!-- -->
 
@@ -347,6 +362,56 @@
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://www.learndmarc.com/" style="color: #3498DB; text-decoration: none">Learn and Test DMARC</a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;"> Check out this cool tool called "learndmarc," which visualizes email server communication and will help you understand what SPF, DKIM, and DMARC do and how these mechanisms work.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150468626-79f4862b-ef52-4814-badc-949df5d73a99.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/" style="color: #3498DB; text-decoration: none">How we handle 80TB and 5M page views a month for under $400.</a> 
+</h3>
+          <p style="font-size: 14px;padding-top:0px;">Check out this fascinating article about how engineers of Poly Haven manage the massive server workloads at a fraction of the cost.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150469128-b3358d8e-4d44-45be-b7cf-a983fe4db785.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/" style="color: #3498DB; text-decoration: none">Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps
+</a> 
+</h3>
+          <p style="font-size: 14px;padding-top:0px;">Checkout this fascinating story on how the users of the popular open-source libraries 'colors' and 'faker' were taken aback when their applications, which used these libraries, printed gibberish data and crashed.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="https://iconoir.com/" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150469515-3ce5858d-4613-43eb-b83b-1c272df45bfe.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://iconoir.com/" style="color: #3498DB; text-decoration: none">The Definitive Open
+Source Icons Library</a> 
+</h3>
+          <p style="font-size: 14px;padding-top:0px;">Iconoir is one of the biggest open source libraries with currently 1007 SVG Icons. No premium icons, no email sign-up, no newsletters.
           </p>
         </mj-text>
       </mj-column>
