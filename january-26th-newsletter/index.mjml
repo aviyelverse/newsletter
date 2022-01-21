@@ -29,7 +29,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #4 - JANUARY 24th</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #4 - JANUARY 25th</mj-text>
         <mj-divider width="80%" border-width="2px" border-color="#8661d1"></mj-divider>
       </mj-column>
     </mj-section>
@@ -63,7 +63,7 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://techcrunch.com/2022/01/18/microsoft-acquire-activision-blizzard/" style="color: #3498DB; text-decoration: none"> Microsoft to buy Activision Blizzard for $68.7 billion</a> </h3>
-          <p style="font-size: 14px">Activision Blizzard has pulled the trigger on a $68.7B all-cash deal with Microsoft despite ongoing turmoils. Checkout this article for more information.
+          <p style="font-size: 14px">Activision Blizzard has pulled the trigger on a $68.7B all-cash deal with Microsoft despite ongoing turmoils.
 </p>
         </mj-text>
       </mj-column>
@@ -112,6 +112,38 @@
       
     </mj-section>
   
+   <!-- -->
+    <mj-section>
+       <mj-column width="25%" >
+        <mj-image width="150px" padding-right="0px" href="https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/" src="https://user-images.githubusercontent.com/37651620/150321449-d11616a4-152e-4155-a7c2-7f7b300bf3dc.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/" style="color: #3498DB; text-decoration: none"> Open source developers, who work for free, are discovering they have power</a> </h3>
+          <p style="font-size: 14px">Many of the devices and apps you use on a daily basis are built on open source software, which is maintained by one or two developers who aren't paid for their time..
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+  
+  <!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150469128-b3358d8e-4d44-45be-b7cf-a983fe4db785.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/" style="color: #3498DB; text-decoration: none">Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps
+</a> 
+</h3>
+          <p style="font-size: 14px;padding-top:0px;">The users of the popular open-source libraries 'colors' and 'faker' were taken aback when applications, that used these libraries, printed gibberish data and crashed. Find Out Why!
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- -->
+  
   <!-- Watch-->
    <mj-section>
        <mj-column width="100%">
@@ -150,7 +182,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://www.youtube.com/watch?v=sFpgLxqJDQg&t=1s&ab_channel=CNET" src="https://user-images.githubusercontent.com/37651620/150339335-b3a9e0c1-f358-423b-9db8-6bed20dc31f9.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Anyone can fly with EVTOL Jetson One made by startup called Jetson. Jetsons motto is to make everyone fly. Check out their official website for more information. </p>
+          <p style="font-size: 14px;">Anyone can fly with EVTOL Jetson One from the Swedish company Jetson.Jetsons motto is to make everyone fly. Check out their official website for more information. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -165,7 +197,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://www.youtube.com/watch?v=he_BL6Q5u1Y&ab_channel=EverydayAstronaut" src="https://user-images.githubusercontent.com/37651620/150365561-1c7f6281-b5e6-4e5c-a0f2-a1421f41af1e.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Check out this interesting video on how engines survive exsessive heat. Despite the fact that rocket engines must generate enourmous amount of heat in order to function. </p>
+          <p style="font-size: 14px;">Check out how engines survive excessive heat, despite rocket engines generating large amount of heat while functioning.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -188,7 +220,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://aviyel.com/events/260/concurrent-coding-with-devsession" style="color: #3498DB; text-decoration: none"> Concurrent Coding with Devsession
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://aviyel.com/events/260/concurrent-coding-with-devsession" style="color: #3498DB; text-decoration: none"> Concurrent coding with "Devsession"
 </a> </h3>
           <p style="font-size: 14px">Ramón, Aram, and Joshua will discuss about the use cases of Devsession, a collaborative tool for improving the concurrent coding experience between the team members.
 
@@ -228,25 +260,12 @@
         </mj-text>
       </mj-column>
     </mj-section>
- <!-- -->
-    <mj-section>
-       <mj-column width="25%" >
-        <mj-image width="150px" padding-right="0px" href="https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/" src="https://user-images.githubusercontent.com/37651620/150321449-d11616a4-152e-4155-a7c2-7f7b300bf3dc.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/" style="color: #3498DB; text-decoration: none"> Open source developers, who work for free, are discovering they have power</a> </h3>
-          <p style="font-size: 14px">Many of the devices and apps you use on a daily basis are built on open source software, which is maintained by one or two developers who aren't paid for their time..
-</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-  <!-- -->
+
 
  <!-- -->
     <mj-section>
        <mj-column width="25%" >
-        <mj-image width="150px" padding-right="0px" href="https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that" src="https://user-images.githubusercontent.com/37651620/150363663-8698d053-4d59-4fdb-b70d-2a1c099d6186.png"></mj-image>
+        <mj-image width="150px" padding-right="0px" href="https://www.merriam-webster.com/words-at-play/why-is-debt-spelled-like-that" target="_blank" src="https://user-images.githubusercontent.com/37651620/150363663-8698d053-4d59-4fdb-b70d-2a1c099d6186.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
@@ -312,7 +331,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://shademap.app/" style="color: #3498DB; text-decoration: none">Shade map app</a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://shademap.app/" style="color: #3498DB; text-decoration: none">Shade Map App</a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;">Check out this fascinating web map application that depicts solar shadows on an interactive 3D web-based map. For any point in time, anywhere on the planet.
           </p>
@@ -324,13 +343,13 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="https://looptap.vasanthv.com/" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150370272-6bb27430-84ee-4a0a-ab45-0972334ebd4a.png"></mj-image>
+        <mj-image width="150px" href="https://looptap.vasanthv.com/" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150486596-c9097ced-4ad4-458a-bcf0-656645f0e518.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://looptap.vasanthv.com/" style="color: #3498DB; text-decoration: none">Looptap - A minimal addictive game to waste your time.</a> 
           </h3>
-          <p style="font-size: 14px;padding-top:0px;">Check out this very intriguing and minimal game created by Vasanth to completely waste your time. It's similar to the coogyloop app, but for the web.
+          <p style="font-size: 14px;padding-top:0px;">Check out this very intriguing and simple game created by Vasanth to loose track of time. It's similar to the coogyloop app, but for the web.
           </p>
         </mj-text>
       </mj-column>
@@ -384,22 +403,7 @@
     </mj-section>
  <!-- -->
 
-<!-- -->
-   <mj-section>
-     <mj-column width="25%">
-        <mj-image width="150px" href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/150469128-b3358d8e-4d44-45be-b7cf-a983fe4db785.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/" style="color: #3498DB; text-decoration: none">Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps
-</a> 
-</h3>
-          <p style="font-size: 14px;padding-top:0px;">Checkout this fascinating story on how the users of the popular open-source libraries 'colors' and 'faker' were taken aback when their applications, which used these libraries, printed gibberish data and crashed.
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
- <!-- -->
+
 
 <!-- -->
    <mj-section>
