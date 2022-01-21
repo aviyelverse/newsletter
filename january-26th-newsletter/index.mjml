@@ -163,9 +163,9 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=HUP6Z5voiS8&t=165s&ab_channel=CNETHighlights" target="_blank" style="color: #3498DB; text-decoration: none;">What is Elon Musk's Tesla Bot capable of?</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=HUP6Z5voiS8&t=165s&ab_channel=CNETHighlights&utm_source=aviyelnewsletter&utm_medium=email&utm_campaign=newsletter&utm_term=watch" target="_blank" style="color: #3498DB; text-decoration: none;">What is Elon Musk's Tesla Bot capable of?</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://www.youtube.com/watch?v=HUP6Z5voiS8&t=165s&ab_channel=CNETHighlights" src="https://user-images.githubusercontent.com/37651620/150338453-31bf5f3e-7dc8-46fc-91e3-54fe90738c7a.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://www.youtube.com/watch?v=HUP6Z5voiS8&t=165s&ab_channel=CNETHighlights&utm_source=aviyelnewsletter&utm_medium=email&utm_campaign=newsletter&utm_term=watch" src="https://user-images.githubusercontent.com/37651620/150338453-31bf5f3e-7dc8-46fc-91e3-54fe90738c7a.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;"> The "Tesla Bot," a 1.7-meter, 56-kilogram robot, was unveiled by Musk. He claims the bot will have a screen in front of its face that will display information. According to the CEO, the humanoid robot will be able to deadlift and carry heavy weights</p>
         </mj-text>
@@ -177,10 +177,10 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0">
-          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=sFpgLxqJDQg&t=1s&ab_channel=CNET" target="_blank" style="color: #3498DB; text-decoration: none;"> Jetson One: A personal flying vehicle just for having fun
+          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=sFpgLxqJDQg&t=1s&ab_channel=CNET&utm_source=aviyelnewsletter&utm_medium=email&utm_campaign=newsletter&utm_term=watch" target="_blank" style="color: #3498DB; text-decoration: none;"> Jetson One: A personal flying vehicle just for having fun
   </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://www.youtube.com/watch?v=sFpgLxqJDQg&t=1s&ab_channel=CNET" target="_blank" src="https://user-images.githubusercontent.com/37651620/150339335-b3a9e0c1-f358-423b-9db8-6bed20dc31f9.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://www.youtube.com/watch?v=sFpgLxqJDQg&t=1s&ab_channel=CNET&utm_source=aviyelnewsletter&utm_medium=email&utm_campaign=newsletter&utm_term=watch" target="_blank" src="https://user-images.githubusercontent.com/37651620/150339335-b3a9e0c1-f358-423b-9db8-6bed20dc31f9.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">Anyone can fly with EVTOL Jetson One from the Swedish company Jetson.Jetsons motto is to make everyone fly. Check out their official website for more information. </p>
         </mj-text>
@@ -220,7 +220,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://aviyel.com/events/260/concurrent-coding-with-devsession" target="_blank" style="color: #3498DB; text-decoration: none"> Concurrent coding with "Devsession"
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://aviyel.com/events/260/concurrent-coding-with-devsession?utm_source=aviyelnewsletter&utm_medium=email&utm_campaign=newsletter&utm_term=events" target="_blank" style="color: #3498DB; text-decoration: none"> Concurrent coding with "Devsession"
 </a> </h3>
           <p style="font-size: 14px">Ramón, Aram, and Joshua will discuss about the use cases of Devsession, a collaborative tool for improving the concurrent coding experience between the team members.
 
@@ -228,7 +228,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="100px" href="https://aviyel.com/events/260/concurrent-coding-with-devsession" target="_blank" src="https://user-images.githubusercontent.com/37651620/150291525-f9f3570d-bded-49f5-a728-6e7d380a2825.png"></mj-image>
+        <mj-image width="100px" href="https://aviyel.com/events/260/concurrent-coding-with-devsession?utm_source=aviyelnewsletter&utm_medium=email&utm_campaign=newsletter&utm_term=events" target="_blank" src="https://user-images.githubusercontent.com/37651620/150291525-f9f3570d-bded-49f5-a728-6e7d380a2825.png"></mj-image>
       </mj-column>
     </mj-section>
   <!-- -->
