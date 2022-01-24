@@ -4,8 +4,8 @@
 
 ## Aviyel Curated Newsletter
 
-- [Newsletter Template](https://aviyeldevrel.github.io/newsletter/newsletter-template)
-- [November 22nd 2021](https://aviyeldevrel.github.io/newsletter/november-22nd-2021)
-- [December 22nd 2021](https://aviyeldevrel.github.io/newsletter/december-22nd-2021)
-- [January 10th 2022](https://aviyeldevrel.github.io/newsletter/january-6th-newsletter/)
-- [January 26th 2022](https://aviyeldevrel.github.io/newsletter/january-26th-newsletter/)
+- [Newsletter Template](https://aviyelverse.github.io/newsletter/newsletter-template)
+- [November 22nd 2021](https://aviyelverse.github.io/newsletter/november-22nd-2021)
+- [December 22nd 2021](https://aviyelverse.github.io/newsletter/december-22nd-2021)
+- [January 10th 2022](https://aviyelverse.github.io/newsletter/january-6th-newsletter/)
+- [January 26th 2022](https://aviyelverse.github.io/newsletter/january-26th-newsletter/)
