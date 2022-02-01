@@ -24,7 +24,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="center" font-size="15px">It's time for your bimonthly dose of tech news!</mj-text>
+        <mj-text align="center" font-size="15px"></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -176,6 +176,36 @@
     </mj-section>
 <!-- -->
 
+<!---->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">Why a meaningful mission is key for a successful startup | Austen Allred
+</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/151969638-f38e0a29-2ace-43c4-8715-63b0671915d0.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Austen Allred discusses why having a meaningful mission, rather than just money, is so important for a startup's success.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- -->
+
+<!---->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">The Dark Side of Open Source // What really happened to Faker.js?
+</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/151969879-d2920e90-3628-464e-8aeb-7badfce7aea2.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Faker.js, a well-known open-source package, was removed from GitHub without warning. "What happened to Aaron Swartz?" was simply stated in the readme file of that repo. Watch this vidoe to find out why many independent developers are finding Open Source Software to be a bad deal.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- -->
+
 
  <!-- Code -->
     <mj-section>
@@ -194,21 +224,67 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src=""></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" src="https://user-images.githubusercontent.com/37651620/151942190-295bd13e-f14b-456f-915a-c264a85792c0.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none"></a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">GitHub Actions by Example</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">"GitHub Actions by Example" is a tutorial that walks you through the GitHub Action's well-known CI/CD service using annotated examples.
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
    <!-- -->
 
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" src="https://user-images.githubusercontent.com/37651620/151942767-8a65db37-01e2-4d97-81ae-6ea7f759d7d6.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Playwright: a framework for Web Testing and Automation</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Playwright is a web testing and automation framework which is built to enable cross-browser web automation that is ever-green, capable, reliable, and fast and also allows testing Chromium, Firefox, and WebKit with a single API.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" src="https://user-images.githubusercontent.com/37651620/151943171-21f6d075-b6b1-4103-bafb-31c6198bb284.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">What's new in Ruby 3.1?
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Ruby 3.1, a major feature release for this programming language that maintains compatibility with Ruby 3.0, was released on Christmas day. Learn more about what was released in this version.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" src="https://user-images.githubusercontent.com/37651620/151947994-97a18988-8377-4e18-8785-786e2d479bd8.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Tired of the Modern Web? Discover some ‘Retro’ protocols you still can use today
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Are you sick of sluggish websites, pop-ups in your browser, waggling banners, two-factor authentication, and user tracking and analytics? There are a few protocols that haven't changed in the last 30 years that you can still use.Find out more about it.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
 
 <!-- Event -->
-    <mj-section>
+    <!--<mj-section>
        <mj-column width="100%">
         <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
@@ -219,8 +295,8 @@
       <mj-column width="100%">
         <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
       </mj-column>
-    </mj-section>
-  <!-- -->
+    </mj-section>-->
+  <!-- 
     <mj-section>
       <mj-column width="75%">
         <mj-text>
@@ -234,8 +310,7 @@
       <mj-column width="25%">
         <mj-image width="100px" href="" target="_blank" src=""></mj-image>
       </mj-column>
-    </mj-section>
-  <!-- -->
+    </mj-section> -->
 
  <!-- NEWS -->
     <mj-section>
@@ -254,17 +329,51 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src=""></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151949744-0cd6e74a-902c-4c38-89df-c102fffa5fd4.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none"></a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Nvidia Quietly Prepares to Abandon $40 Billion Arm Bid
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">After making little to no progress in gaining approval for its $40 billion chip deal with SoftBank Group Corp., Nvidia Corp. is quietly preparing to abandon it.
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
    <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151950904-664e21c7-7573-478f-bbbc-abd32af06a04.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">AG Ferguson investigation shuts down Amazon price-fixing program nationwide
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Learn why Amazon will pay $2.25 million and is ending its "Sold by Amazon" third-party seller program.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151950282-2c36e007-c0ac-4add-9ae1-4fdcca72ce27.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Once billed as a revolution in medicine, IBM’s Watson Health is sold off in parts
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Learn more about what IBM said and why it's attempting to sell its Watson Health division's core data assets to a San Francisco-based private equity firm.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+
 
  <!-- Learn -->
     <mj-section>
@@ -283,17 +392,62 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src=""></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151952741-e709c9dd-7555-41be-8dcd-37f57591b93c.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none"></a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Robotics 501: Mathematics for Robotics
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">ROB 501: Robotics Mathematics is a graduate-level course at the University of Michigan that introduces robotics engineers to applied mathematics.
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
+   <!-- -->
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151953437-1a90d992-1a13-4e7a-a833-4891d52f9fea.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">A Primer on Bézier Curves</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">An entirely free ebook that covers both the math and programming aspects of Bezier Curves, covering a wide range of topics relating to drawing and working with that curve that seems to appear everywhere, from Photoshop paths to CSS easing functions to Font outline descriptions.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
 
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151953769-e2056e31-257e-4cf8-b357-555a6f6d6ee0.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none"> Terence Tao Teaches Mathematical Thinking </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Terence Tao, regarded as one of the world's greatest living mathematicians, teaches how to use mathematics to solve a variety of problems in everyday life.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151956114-441dc070-60fb-480c-b622-bac7937f2771.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Mito: One of the Coolest Python Libraries You Have Ever Seen
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Mito is a Python library that aids in data preparation, data cleaning, transformation, exploratory data analysis, graph creation, and other tasks. With just one or two lines of code and a few clicks, through a GUI.Find out more about it.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
    <!-- -->
 
 <!-- Fun -->
@@ -313,13 +467,46 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src=""></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151957514-15f403bc-9445-47cc-a087-d662c87e60d1.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3IFDzdp" target="_blank" style="color: #3498DB; text-decoration: none"></a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">CHEEZAM - WHAT THE HECK IS IT?
+</a> 
 </h3>
-          <p style="font-size: 14px;padding-top:0px;">
+          <p style="font-size: 14px;padding-top:0px;">A French startup has created its own visual object recognition algorithm. Prevision.io decided to train its artificial intelligence on a very French specialty: cheese.Find out more about it.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151965071-f398103e-adcc-467e-aaaa-c81bce322ac0.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Jonathan the 190-Year-Old Tortoise Was Photographed in 1886 and Today
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;"> Jonathan is a giant tortoise who lives on St. Helena, a small island off the coast of South Africa. This year, he will celebrate his 190th birthday, making him the world's oldest tortoise. After 136 years apart, take a look at his recently photographed photos.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151965869-075c0635-643c-4e65-b871-60011c12d400.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">WALLSMASH | The best game you've ever seen.</a> 
+</h3>
+          <p style="font-size: 14px;padding-top:0px;"> Smash through walls, collect points, and avoid being eaten by the wall at all costs! Do you have what it takes to master your paddle and send the ball crashing through madness's walls!
           </p>
         </mj-text>
       </mj-column>
@@ -344,20 +531,48 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src=""></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151967965-3faf44e6-6c95-45fe-a571-c651620aeb95.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3AgTWdj" target="_blank" style="color: #3498DB; text-decoration: none"></a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">IamA data privacy attorney and cyber insurance claims professional. Here to talk about data privacy, cyber insurance, and ransomware. AMA!</a> 
 </h3>
-          <p style="font-size: 14px;padding-top:0px;"> 
-          </p>
         </mj-text>
       </mj-column>
     </mj-section>
  <!-- -->
 
 
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151968102-4ee6e83c-4734-4f89-93f4-e31d6e44e0b3.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">I made a free alternative to Photoshop, that is used 10 million times a month. Ask me Anything!
+</a> 
+</h3>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- -->
+
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151968406-117e330e-1c1d-4e35-a5d1-8690e91d55a7.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">We’re researchers from the Mozilla Foundation. We spent almost 1000 hours researching the privacy and security of this year’s most popular connected gifts to find out which ones are creepy and which ones aren’t. Ask us anything!</a> 
+</h3>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- -->
 
 <!-- Last line -->
     <mj-section>
@@ -367,7 +582,6 @@
     </mj-section>
   <!-- -->
    
-
 <!--Test-->
  <mj-section background-color="#ffffff" background-repeat="repeat" padding-right="0px" padding-top="40px"  text-align="center" >
    <mj-column width="100%">
