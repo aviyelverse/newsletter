@@ -317,6 +317,22 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151950904-664e21c7-7573-478f-bbbc-abd32af06a04.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">AG Ferguson investigation shuts down Amazon price-fixing program nationwide
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Learn why Amazon will pay $2.25 million and is ending its "Sold by Amazon" third-party seller program.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
         <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151950282-2c36e007-c0ac-4add-9ae1-4fdcca72ce27.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -330,21 +346,7 @@
     </mj-section>
    <!-- -->
 
-<!-- -->
-   <mj-section>
-     <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151950904-664e21c7-7573-478f-bbbc-abd32af06a04.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">AG Ferguson investigation shuts down Amazon price-fixing program nationwide
-</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Learn why Amazon will pay $2.25 million and end its "Sold by Amazon" third-party seller program.
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-   <!-- -->
+
 
 
 
