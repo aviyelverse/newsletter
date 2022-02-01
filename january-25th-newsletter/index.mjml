@@ -58,12 +58,12 @@
   <!-- -->
     <mj-section>
        <mj-column width="25%" >
-        <mj-image width="150px" padding-right="0px" target="_blank" href="" src=""></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/151918646-d57056d7-d0c8-4a86-91f9-5c0b7d052949.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none"></a> </h3>
-          <p style="font-size: 14px">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">How I Got Pwned by My Cloud Costs</a> </h3>
+          <p style="font-size: 14px">Troy Hunt, a Microsoft Regional Director and MVP, explains in detail how he was pwned by his cloud costs.
 </p>
         </mj-text>
       </mj-column>
