@@ -29,7 +29,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #5 - FEBRUARY </mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #5 - FEBRUARY 9th </mj-text>
         <mj-divider width="80%" border-width="2px" border-color="#8661d1"></mj-divider>
       </mj-column>
     </mj-section>
@@ -55,15 +55,61 @@
       </mj-column>
     </mj-section>
   <!-- -->
-  <!-- -->
+  
+   <!-- -->
     <mj-section>
        <mj-column width="25%" >
-        <mj-image width="150px" padding-right="0px" target="_blank" href="" src=""></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/151934072-71569f0c-b504-47a7-ac4b-419878dc5cef.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none"></a> </h3>
-          <p style="font-size: 14px">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">The Biggest Mistake I See Engineers Make
+</a> </h3>
+          <p style="font-size: 14px">Zach Lloyd, the founder and CEO of Warp, discusses typical scenarios and the consequences of the most common mistakes he sees engineers make.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+   <!-- -->
+    <mj-section>
+       <mj-column width="25%" >
+        <mj-image width="150px" padding-right="0px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/151934199-a4b0d4a0-0edb-46f7-9df5-9bae651eca5e.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">This 22-Year-Old Builds Chips in His Parents’ Garage
+</a> </h3>
+          <p style="font-size: 14px">Sam Zeloof combines vintage machines with his own creations. His creations demonstrate what small-scale silicon tinkerers are capable of.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+  <!-- -->
+    <mj-section>
+       <mj-column width="25%" >
+        <mj-image width="150px" padding-right="0px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/151935728-1b3e70dc-ee21-430e-83f7-52f46dfd89ac.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Searching for Susy Thunder
+</a> </h3>
+          <p style="font-size: 14px">Story of Susan Headley, a phone phreaker, social engineer, and one of the most well-known computer hackers of the time, and how she mysteriously vanished in thin air.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+  <!-- -->
+    <mj-section>
+       <mj-column width="25%" >
+        <mj-image width="150px" padding-right="0px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/151918646-d57056d7-d0c8-4a86-91f9-5c0b7d052949.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">How I Got Pwned by My Cloud Costs</a> </h3>
+          <p style="font-size: 14px">Troy Hunt, a Microsoft Regional Director and MVP, explains in detail how he was pwned by his cloud costs.
 </p>
         </mj-text>
       </mj-column>
@@ -73,32 +119,18 @@
    <!-- -->
     <mj-section>
        <mj-column width="25%" >
-        <mj-image width="150px" padding-right="0px" target="_blank" href="" src=""></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/151936982-10c19c36-a1a1-4387-ac6c-49e2de612c01.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none"></a> </h3>
-          <p style="font-size: 14px">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Hacking the Apple Webcam (again)
+</a> </h3>
+          <p style="font-size: 14px">Using Safari UXSS to gain unauthorized camera access read the full story about how a shared iCloud document can be used to hack every website you've ever visited.
 </p>
         </mj-text>
       </mj-column>
     </mj-section>
   <!-- -->
-   <!-- -->
-    <mj-section>
-       <mj-column width="25%" >
-        <mj-image width="150px" padding-right="0px" target="_blank" href="" src=""></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none"></a> </h3>
-          <p style="font-size: 14px">
-</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-  <!-- -->
-  
   
   <!-- Watch-->
    <mj-section>
@@ -119,15 +151,60 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;"></a> </h3>
+          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">Line Goes Up – The Problem With NFTs
+</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src=""></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/151937336-9c227176-01fe-4caf-bb1d-62d861b1a8c0.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;"></p>
+          <p style="font-size: 14px;">From incredibly cringe-worthy ape profile pics to incomprehensibly tasteless tributes to dead celebrities, to million dollar sales of the "original copy" of a meme, NFT's has been an unavoidable subject of 2021. It is the thing that is currently dominating and sucking up all the oxygen in the room. Dan Olson goes into great detail about all of the issues, including his thoughts on NFTs and digital ownership.</p>
         </mj-text>
       </mj-column>
     </mj-section>
 <!-- -->
+<!---->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">How the Soviets Put a Lander on Venus ?
+</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="" src="https://user-images.githubusercontent.com/37651620/151940060-6041e5e5-94a2-4d5d-80e5-346d2fa1d4e0.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Soviet Union sent five landers to Venus in the 1970s and 1980s, and each of them lasted more than 30 minutes.Watch this video to understand why no one has attempted it since.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- -->
+
+
+ <!-- Code -->
+    <mj-section>
+       <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src=""></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none"></a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
 
 
 <!-- Event -->
@@ -159,6 +236,35 @@
       </mj-column>
     </mj-section>
   <!-- -->
+
+ <!-- NEWS -->
+    <mj-section>
+       <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#NEWS</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+  <!-- -->
+<!-- -->
+   <mj-section>
+     <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src=""></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text >
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none"></a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
 
  <!-- Learn -->
     <mj-section>
@@ -220,10 +326,10 @@
     </mj-section>
  <!-- -->
 
-<!-- Code -->
+<!-- AMA -->
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#AMA</mj-text>
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
