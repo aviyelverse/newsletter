@@ -3,7 +3,7 @@
     <mj-title>Aviyel Newsletter</mj-title>
     <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600&display=swap"></mj-font>
     <mj-attributes>
-      <mj-all font-family="Inter, Helvetica, sans-serif"></mj-all>
+      <mj-all font-family="Inter, Helvetica, sans-serif" background-color="#FEFCFE"></mj-all>
       <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
       <mj-section padding="0px"></mj-section>
     </mj-attributes>
