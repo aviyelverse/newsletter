@@ -466,11 +466,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151957514-15f403bc-9445-47cc-a087-d662c87e60d1.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/34rDlYv" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151957514-15f403bc-9445-47cc-a087-d662c87e60d1.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">CHEEZAM - WHAT THE HECK IS IT?
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/34rDlYv" target="_blank" style="color: #3498DB; text-decoration: none">CHEEZAM - WHAT THE HECK IS IT?
 </a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;">A French startup has created its own visual object recognition algorithm. Prevision.io decided to train its artificial intelligence on a very French specialty: cheese.Find out more about it.
@@ -483,11 +483,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151965071-f398103e-adcc-467e-aaaa-c81bce322ac0.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3rgk453" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151965071-f398103e-adcc-467e-aaaa-c81bce322ac0.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Jonathan the 190-Year-Old Tortoise Was Photographed in 1886 and Today
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3rgk453" target="_blank" style="color: #3498DB; text-decoration: none">Jonathan the 190-Year-Old Tortoise Was Photographed in 1886 and Today
 </a></h3>
           <p style="font-size: 14px;padding-top:0px;"> Jonathan is a giant tortoise who lives on St. Helena, a small island off the coast of South Africa. This year, he will celebrate his 190th birthday, making him the world's oldest tortoise. After 136 years apart, take a look at his recently photographed photos.
           </p>
@@ -499,11 +499,11 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151965869-075c0635-643c-4e65-b871-60011c12d400.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3ogOjqw" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151965869-075c0635-643c-4e65-b871-60011c12d400.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="" target="_blank" style="color: #3498DB; text-decoration: none">WALLSMASH | The best game you've ever seen.</a> 
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" > <a href="https://bit.ly/3ogOjqw" target="_blank" style="color: #3498DB; text-decoration: none">WALLSMASH | The best game you've ever seen.</a> 
 </h3>
           <p style="font-size: 14px;padding-top:0px;"> Smash through walls, collect points, and avoid being eaten by the wall at all costs! Do you have what it takes to master your paddle and send the ball crashing through madness's walls!
           </p>
@@ -512,7 +512,7 @@
     </mj-section>
  <!-- -->
 
-<!-- AMA -->
+<!-- AMA 
     <mj-section>
       <mj-column width="100%">
         <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#AMA</mj-text>
@@ -525,9 +525,7 @@
         <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
       </mj-column>
     </mj-section>
-  <!-- -->
-
-<!-- -->
+ 
    <mj-section>
      <mj-column width="25%">
         <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151967965-3faf44e6-6c95-45fe-a571-c651620aeb95.png"></mj-image>
@@ -539,10 +537,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
- <!-- -->
-
-
-<!-- -->
+ 
    <mj-section>
      <mj-column width="25%">
         <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151968102-4ee6e83c-4734-4f89-93f4-e31d6e44e0b3.png"></mj-image>
@@ -556,10 +551,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
- <!-- -->
 
-
-<!-- -->
    <mj-section>
      <mj-column width="25%">
         <mj-image width="150px" href="" target="_blank" padding-right="0px"  src="https://user-images.githubusercontent.com/37651620/151968406-117e330e-1c1d-4e35-a5d1-8690e91d55a7.png"></mj-image>
@@ -571,7 +563,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
- <!-- -->
+ -->
 
 <!-- Last line -->
     <mj-section>
