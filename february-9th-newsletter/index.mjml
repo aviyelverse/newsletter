@@ -14,12 +14,12 @@
         <mj-text font-size="10px" align="center">Your bimonthly Aviyel newsletter is here!</mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
+        <mj-image align="center" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_9" src="https://user-images.githubusercontent.com/37651620/148038549-6664fabe-e8e3-427d-813f-a653c6ab2702.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-image target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/148015361-512f2ce9-e7fa-4897-92c8-8cde98e6be72.png"></mj-image>
+        <mj-image target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_9" src="https://user-images.githubusercontent.com/37651620/148015361-512f2ce9-e7fa-4897-92c8-8cde98e6be72.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
