@@ -269,7 +269,7 @@
 <!-- -->
    <mj-section>
      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3s6QJJK" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/151947994-97a18988-8377-4e18-8785-786e2d479bd8.png"></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/151947994-97a18988-8377-4e18-8785-786e2d479bd8.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text >
@@ -283,7 +283,7 @@
    <!-- -->
 
 <!-- Event -->
-    <!--<mj-section>
+    <mj-section>
        <mj-column width="100%">
         <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
@@ -294,22 +294,38 @@
       <mj-column width="100%">
         <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
       </mj-column>
-    </mj-section>-->
-  <!-- 
+    </mj-section>
+  
+   
+<!---->
     <mj-section>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none"> 
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3GsDTdM" target="_blank" style="color: #3498DB; text-decoration: none;">FOSS Spotlight: Varnam, an open source transliteration library
 </a> </h3>
-          <p style="font-size: 14px">
-
-</p>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://bit.ly/3GsDTdM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/152298644-dd216d8f-bf9a-4c96-8734-44bca3023a70.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Have you ever wished to play Wordle in your own language? Join this session to learn more about Varnam, an entirely offline transliteration library, and how Subin Siby was able to use Varnam and create wordle in his own native language, which now has over 1500 active users!</p>
         </mj-text>
       </mj-column>
-      <mj-column width="25%">
-        <mj-image width="100px" href="" target="_blank" src=""></mj-image>
+    </mj-section>
+<!-- -->
+
+<!---->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/282/api-testing-with-hoppscotch?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_282" target="_blank" style="color: #3498DB; text-decoration: none;">API Testing with Hoppscotch
+</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://aviyel.com/events/282/api-testing-with-hoppscotch?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_282" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/152300113-cd6c3364-1372-49f4-9832-b55f26976ece.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Catch us live as we build a backend API for the popular Todo List project, where you'll learn how APIs work and how to create your own from absoluete scratch.</p>
+        </mj-text>
       </mj-column>
-    </mj-section> -->
+    </mj-section>
+<!-- -->
 
  <!-- NEWS -->
     <mj-section>
