@@ -18,7 +18,7 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column width="100%">
+      <mj-column width="90%">
         <mj-image target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_9" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
@@ -304,7 +304,7 @@
           <h3 style="font-weight: bold"> <a href="https://bit.ly/3GsDTdM" target="_blank" style="color: #3498DB; text-decoration: none;">FOSS Spotlight: Varnam, an open source transliteration library
 </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://bit.ly/3GsDTdM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/152298644-dd216d8f-bf9a-4c96-8734-44bca3023a70.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://bit.ly/3GsDTdM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/152493520-10077b0d-64d8-4e64-b0f8-3d0fb1833ec6.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">Have you ever wished to play Wordle in your own language? Join this session to learn more about Varnam, an entirely offline transliteration library, and how Subin Siby was able to use Varnam and create wordle in his own native language, which now has over 1500 active users!</p>
         </mj-text>
@@ -319,7 +319,7 @@
           <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/282/api-testing-with-hoppscotch?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_282" target="_blank" style="color: #3498DB; text-decoration: none;">API Testing with Hoppscotch
 </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://aviyel.com/events/282/api-testing-with-hoppscotch?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_282" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/152300113-cd6c3364-1372-49f4-9832-b55f26976ece.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0"  href="https://aviyel.com/events/282/api-testing-with-hoppscotch?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_282" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/152493830-d2dad376-cf30-4630-80ff-0a4418f459a9.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">Catch us live as we build a backend API for the popular Todo List project, where you'll learn how APIs work and how to create your own from absoluete scratch.</p>
         </mj-text>
