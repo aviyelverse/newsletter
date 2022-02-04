@@ -104,12 +104,12 @@
   <!-- -->
     <mj-section>
        <mj-column width="25%" >
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3HyhRaI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/151918646-d57056d7-d0c8-4a86-91f9-5c0b7d052949.png"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://aviyel.com/post/2269/breaking-the-glass-ceiling-in-tech-aviyel-introduces-womeninopensource?utm_source=mailjet&utm_medium=articles_event&utm_campaign=post_2269" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/152527639-9a7d5ecb-0571-458c-8092-7bbfc2161b20.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3HyhRaI" style="color: #3498DB; text-decoration: none">How I Got Pwned by My Cloud Costs</a> </h3>
-          <p style="font-size: 14px">Troy Hunt, a Microsoft Regional Director and MVP, explains in detail how he was pwned by his cloud costs.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://aviyel.com/post/2269/breaking-the-glass-ceiling-in-tech-aviyel-introduces-womeninopensource?utm_source=mailjet&utm_medium=articles_event&utm_campaign=post_2269" style="color: #3498DB; text-decoration: none">Breaking the Glass Ceiling in Tech: #WomenInOpenSource</a> </h3>
+          <p style="font-size: 14px">Lack of diversity has haunted the OSS community ever since its inception, with less than 3% of all OSS contributors identified as women. With #WomanInOpenSource Aviyel is attempting to build an inclusive Open Source community for all genders. Join us in smashing the glass ceiling together!
 </p>
         </mj-text>
       </mj-column>
