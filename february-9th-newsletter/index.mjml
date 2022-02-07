@@ -36,7 +36,7 @@
     <mj-section padding-top="1px">
       <mj-column width="100%" >
         <mj-text align="left">
-          <p>Aviyel is a community platform that helps open source project communities to monetize and sustain themselves in the long run. Aviyel is commited to get open source projects traction from developers around the world to adopt and maintain them.
+          <p>Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities. 
 </p>
         </mj-text>
       </mj-column>
@@ -65,7 +65,7 @@
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">The Biggest Mistake I See Engineers Make
 </a> </h3>
-          <p style="font-size: 14px">Zach Lloyd, the founder and CEO of Warp, discusses typical scenarios and the consequences of the most common mistakes he sees engineers make.
+          <p style="font-size: 14px">Zach Lloyd, founder and CEO, Warp talks about the most common mistakes engineers make. 
 </p>
         </mj-text>
       </mj-column>
@@ -80,7 +80,7 @@
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3rgxU7A" style="color: #3498DB; text-decoration: none">This 22-Year-Old Builds Chips in His Parents’ Garage
 </a> </h3>
-          <p style="font-size: 14px">Sam Zeloof combines vintage machines with his own creations. His creations demonstrate what small-scale silicon tinkerers are capable of.
+          <p style="font-size: 14px">Sam Zeloof is revolutionizing vintage machines with his improvizations. His creations are inspiring small-scale silicon tinkerers to dream big. 
 </p>
         </mj-text>
       </mj-column>
@@ -95,7 +95,7 @@
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/32P2HyO" style="color: #3498DB; text-decoration: none">Searching for Susy Thunder
 </a> </h3>
-          <p style="font-size: 14px">Story of Susan Headley, a phone phreaker, social engineer, and one of the most well-known computer hackers of the time, and how she mysteriously vanished in thin air.
+          <p style="font-size: 14px">A take on the lost story of phone phreaker, Susan Headley who gained notoriety as a computer hacker and then mysteriously vanished in thin air.
 </p>
         </mj-text>
       </mj-column>
@@ -109,7 +109,7 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://aviyel.com/post/2269/breaking-the-glass-ceiling-in-tech-aviyel-introduces-womeninopensource?utm_source=mailjet&utm_medium=articles_event&utm_campaign=post_2269" style="color: #3498DB; text-decoration: none">Breaking the Glass Ceiling in Tech: #WomenInOpenSource</a> </h3>
-          <p style="font-size: 14px">Lack of diversity has haunted the OSS community ever since its inception, with less than 3% of all OSS contributors identified as women. With #WomanInOpenSource Aviyel is attempting to build an inclusive Open Source community for all genders. Join us in smashing the glass ceiling together!
+          <p style="font-size: 14px">Lack of diversity has haunted the OSS community ever since its inception, with less than 3% of all OSS contributors identified as women. With #WomanInOpenSource, Aviyel is attempting to build an inclusive open source community for all genders. Join us in smashing the glass ceiling together!
 </p>
         </mj-text>
       </mj-column>
