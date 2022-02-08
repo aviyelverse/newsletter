@@ -111,7 +111,7 @@
           target="_blank"
           href="https://bit.ly/3oeKn9J"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151934072-71569f0c-b504-47a7-ac4b-419878dc5cef.png"
+          src="https://user-images.githubusercontent.com/37651620/152919312-f8563eb4-25b9-4a32-98b0-3567415c3503.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -145,7 +145,7 @@
           target="_blank"
           href="https://bit.ly/3rgxU7A"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151934199-a4b0d4a0-0edb-46f7-9df5-9bae651eca5e.png"
+          src="https://user-images.githubusercontent.com/37651620/152919397-b7d30696-fe3c-40f9-ab2c-b42c4af2de4c.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -180,7 +180,7 @@
           target="_blank"
           href="https://bit.ly/32P2HyO"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151935728-1b3e70dc-ee21-430e-83f7-52f46dfd89ac.png"
+          src="https://user-images.githubusercontent.com/37651620/152919639-2c61e01f-c666-4704-9399-d8092ac86119.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -207,6 +207,42 @@
     <mj-raw>
       <!--  -->
     </mj-raw>
+
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image
+          width="150px"
+          padding-right="0px"
+          target="_blank"
+          href="https://bit.ly/3GiLxaz"
+          border-radius="7px"
+          src="https://user-images.githubusercontent.com/37651620/152920038-7cef6807-c956-45fe-94ff-353e3875ea39.png"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
+            <a
+              target="_blank"
+              href="https://bit.ly/3GiLxaz"
+              style="color: #3498db; text-decoration: none"
+              >Hacking the Apple Webcam (Again)
+            </a>
+          </h3>
+          <p style="font-size: 14px">
+            Using Safari UXSS to gain unauthorized camera access. Know how a
+            shared iCloud document can be used to hack every website you've ever
+            visited.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
     <mj-section>
       <mj-column width="25%">
         <mj-image
@@ -215,7 +251,7 @@
           target="_blank"
           href="https://aviyel.com/post/2269/breaking-the-glass-ceiling-in-tech-aviyel-introduces-womeninopensource?utm_source=mailjet&utm_medium=articles_event&utm_campaign=post_2269"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/152527639-9a7d5ecb-0571-458c-8092-7bbfc2161b20.png"
+          src="https://user-images.githubusercontent.com/37651620/152919800-3fecf62f-2068-4625-b333-bc7c8fa6aa81.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -234,41 +270,6 @@
             women. With #WomanInOpenSource, Aviyel is attempting to build an
             inclusive open source community for all genders. Join us in smashing
             the glass ceiling together!
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image
-          width="150px"
-          padding-right="0px"
-          target="_blank"
-          href="https://bit.ly/3GiLxaz"
-          border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151936982-10c19c36-a1a1-4387-ac6c-49e2de612c01.png"
-        ></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
-            <a
-              target="_blank"
-              href="https://bit.ly/3GiLxaz"
-              style="color: #3498db; text-decoration: none"
-              >Hacking the Apple Webcam (Again)
-            </a>
-          </h3>
-          <p style="font-size: 14px">
-            Using Safari UXSS to gain unauthorized camera access. Know how a
-            shared iCloud document can be used to hack every website you've ever
-            visited.
           </p>
         </mj-text>
       </mj-column>
