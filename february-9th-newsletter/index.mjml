@@ -63,7 +63,7 @@
     </mj-section>
     <mj-section padding-top="1px">
       <mj-column width="100%">
-        <mj-text align="left">
+        <mj-text align="center">
           <p>
             Aviyel is a community-based, open source monetization platform. We
             are commited to a widespread adoption of open source projects from
@@ -265,11 +265,9 @@
             >
           </h3>
           <p style="font-size: 14px">
-            Lack of diversity has haunted the OSS community ever since its
-            inception, with less than 3% of all OSS contributors identified as
-            women. With #WomanInOpenSource, Aviyel is attempting to build an
-            inclusive open source community for all genders. Join us in smashing
-            the glass ceiling together!
+            With #WomanInOpenSource, Aviyel is attempting to build an inclusive
+            open source community for all genders. Join us in smashing the glass
+            ceiling!
           </p>
         </mj-text>
       </mj-column>
@@ -438,10 +436,10 @@
         ></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px">
-            Faker.js, a well-known open source package, was removed from GitHub
-            without warning. "What happened to Aaron Swartz?" was simply stated
-            in the readme file of the repo. Watch this video to find out why
-            independent developers are skeptical of owning open source projects.
+            Faker.js, was removed from GitHub after the former maintainer of the
+            project committed malicious code to the library, causing large scale
+            destruction to many other projects.Find out why independent
+            developers are now worried about building open source projects!
           </p>
         </mj-text>
       </mj-column>
@@ -536,10 +534,8 @@
             >
           </h3>
           <p style="font-size: 14px; padding-top: 0px">
-            Playwright is a web testing and automation framework built to enable
-            cross-browser web automation. The concept is evergreen, capable,
-            reliable, and also allows testing Chromium, Firefox, and WebKit with
-            a single API.
+            Playwright is a framework for Web Testing and Automation that allows
+            testing Chromium, Firefox and WebKit, all with a single API.
           </p>
         </mj-text>
       </mj-column>
@@ -604,14 +600,13 @@
               target="_blank"
               style="color: #3498db; text-decoration: none"
               >Tired of the Modern Web? Use These ‘Retro’ Protocols For a
-              Smoother Webperience
+              Smoother Web-Experience
             </a>
           </h3>
           <p style="font-size: 14px; padding-top: 0px">
-            Are you sick of sluggish websites, broswer pop-ups, waggling
-            banners, and user tracking? There are a few protocols that haven't
-            changed in the last 30 years that you can still use. Find more about
-            it.
+            Are you sick of sluggish websites, broswer pop-ups, and user
+            tracking? Check out these protocols that haven't changed for over a
+            decade, that you can still use!
           </p>
         </mj-text>
       </mj-column>
@@ -655,7 +650,7 @@
               href="https://bit.ly/3GsDTdM"
               target="_blank"
               style="color: #3498db; text-decoration: none"
-              >FOSS Spotlight: Varnam, an Open Source Transliteration library
+              >OSS Spotlight: Varnam, an Open Source Transliteration library
             </a>
           </h3>
         </mj-text>
@@ -665,14 +660,14 @@
           padding-bottom="0px"
           href="https://bit.ly/3GsDTdM"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/152923806-1a5930b2-42fb-429e-b171-baecae42677a.png"
+          src="https://user-images.githubusercontent.com/37651620/152962976-6950368b-98b8-40bf-a7df-ac682583c547.png"
         ></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px">
-            Do you wish to play Wordle in your own language? Join this session
-            to learn more about Varnam, an entirely offline transliteration
-            library, and how Subin Siby used Varnam to create a native wordle,
-            which now has over 1500 active users!
+            Want to play Wordle in your own language? Join this session to learn
+            more about Varnam, an entirely offline transliteration library, and
+            how Subin Siby used Varnam to create a wordle in his native
+            language, which now has over 1500 active users!
           </p>
         </mj-text>
       </mj-column>
@@ -706,7 +701,7 @@
         <mj-text padding-top="0">
           <p style="font-size: 14px">
             Catch us live as we build a backend API for the popular Todo List
-            project. Know how APIs work and create your own from absoluete
+            project. Know how APIs work and create your own from absolute
             scratch.
           </p>
         </mj-text>
@@ -834,12 +829,12 @@
               href="https://bit.ly/3L4RUlm"
               target="_blank"
               style="color: #3498db; text-decoration: none"
-              >How IBM’s Watson Went From Revolutionary to Sold Off For Parts
+              >How IBM's Watson Went from Revolutionary to being Sold out
             </a>
           </h3>
           <p style="font-size: 14px; padding-top: 0px">
             Watson Health was an ambitious project to help healthcare
-            professionals analyse large amounts of data using AI.IBM has now
+            professionals analyse large amounts of data using AI. IBM has now
             sold the underachieving unit for an undisclosed price tag to a
             global investment firm.
           </p>
@@ -1003,14 +998,12 @@
               href="https://bit.ly/3HtbUw4"
               target="_blank"
               style="color: #3498db; text-decoration: none"
-              >Mito: One of the Coolest Python Libraries You Have Ever Seen
+              >Mito: The Coolest Python Library, You Have Ever Seen!
             </a>
           </h3>
           <p style="font-size: 14px; padding-top: 0px">
-            Mito is a Python library that aids in data preparation, data
-            cleaning, transformation, exploratory data analysis, graph creation,
-            and other tasks. With just one or two lines of code and a few
-            clicks, through a GUI.Find out more about it.
+            Mito aids in data preparation, data cleaning, transformation,
+            exploratory data analysis, graph creation, and other tasks.
           </p>
         </mj-text>
       </mj-column>
@@ -1072,8 +1065,7 @@
           </h3>
           <p style="font-size: 14px; padding-top: 0px">
             A French startup has created its own visual object recognition
-            algorithm. Prevision.io decided to train its artificial intelligence
-            on a very French specialty:cheese.Find out more about it.
+            algorithm. Prevision.io has trained AI to recognise types of cheese!
           </p>
         </mj-text>
       </mj-column>
