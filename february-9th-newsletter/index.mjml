@@ -111,7 +111,7 @@
           target="_blank"
           href="https://bit.ly/3oeKn9J"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151934072-71569f0c-b504-47a7-ac4b-419878dc5cef.png"
+          src="https://user-images.githubusercontent.com/37651620/152919312-f8563eb4-25b9-4a32-98b0-3567415c3503.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -145,7 +145,7 @@
           target="_blank"
           href="https://bit.ly/3rgxU7A"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151934199-a4b0d4a0-0edb-46f7-9df5-9bae651eca5e.png"
+          src="https://user-images.githubusercontent.com/37651620/152919397-b7d30696-fe3c-40f9-ab2c-b42c4af2de4c.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -180,7 +180,7 @@
           target="_blank"
           href="https://bit.ly/32P2HyO"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151935728-1b3e70dc-ee21-430e-83f7-52f46dfd89ac.png"
+          src="https://user-images.githubusercontent.com/37651620/152919639-2c61e01f-c666-4704-9399-d8092ac86119.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -207,6 +207,42 @@
     <mj-raw>
       <!--  -->
     </mj-raw>
+
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image
+          width="150px"
+          padding-right="0px"
+          target="_blank"
+          href="https://bit.ly/3GiLxaz"
+          border-radius="7px"
+          src="https://user-images.githubusercontent.com/37651620/152920038-7cef6807-c956-45fe-94ff-353e3875ea39.png"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
+            <a
+              target="_blank"
+              href="https://bit.ly/3GiLxaz"
+              style="color: #3498db; text-decoration: none"
+              >Hacking the Apple Webcam (Again)
+            </a>
+          </h3>
+          <p style="font-size: 14px">
+            Using Safari UXSS to gain unauthorized camera access. Know how a
+            shared iCloud document can be used to hack every website you've ever
+            visited.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
     <mj-section>
       <mj-column width="25%">
         <mj-image
@@ -215,7 +251,7 @@
           target="_blank"
           href="https://aviyel.com/post/2269/breaking-the-glass-ceiling-in-tech-aviyel-introduces-womeninopensource?utm_source=mailjet&utm_medium=articles_event&utm_campaign=post_2269"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/152527639-9a7d5ecb-0571-458c-8092-7bbfc2161b20.png"
+          src="https://user-images.githubusercontent.com/37651620/152919800-3fecf62f-2068-4625-b333-bc7c8fa6aa81.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -234,41 +270,6 @@
             women. With #WomanInOpenSource, Aviyel is attempting to build an
             inclusive open source community for all genders. Join us in smashing
             the glass ceiling together!
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image
-          width="150px"
-          padding-right="0px"
-          target="_blank"
-          href="https://bit.ly/3GiLxaz"
-          border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151936982-10c19c36-a1a1-4387-ac6c-49e2de612c01.png"
-        ></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
-            <a
-              target="_blank"
-              href="https://bit.ly/3GiLxaz"
-              style="color: #3498db; text-decoration: none"
-              >Hacking the Apple Webcam (Again)
-            </a>
-          </h3>
-          <p style="font-size: 14px">
-            Using Safari UXSS to gain unauthorized camera access. Know how a
-            shared iCloud document can be used to hack every website you've ever
-            visited.
           </p>
         </mj-text>
       </mj-column>
@@ -326,7 +327,7 @@
           padding-bottom="0px"
           href="https://bit.ly/3HhliCG"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151937336-9c227176-01fe-4caf-bb1d-62d861b1a8c0.png"
+          src="https://user-images.githubusercontent.com/37651620/152921130-5e571fea-d103-496d-9fcd-8f721e4da72c.png"
         ></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px">
@@ -363,7 +364,7 @@
           padding-bottom="0px"
           href="https://bit.ly/345CSLM"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151940060-6041e5e5-94a2-4d5d-80e5-346d2fa1d4e0.png"
+          src="https://user-images.githubusercontent.com/37651620/152921002-0f036790-a1c0-4abe-8e49-242257bd63a6.png"
         ></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px">
@@ -399,7 +400,7 @@
           padding-bottom="0px"
           href="https://bit.ly/3rlmdwz"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151969638-f38e0a29-2ace-43c4-8715-63b0671915d0.png"
+          src="https://user-images.githubusercontent.com/37651620/152921305-25df4662-c626-40f2-a083-45e1075362e3.png"
         ></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px">
@@ -433,7 +434,7 @@
           padding-bottom="0px"
           href="https://bit.ly/34uOh7m"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151969879-d2920e90-3628-464e-8aeb-7badfce7aea2.png"
+          src="https://user-images.githubusercontent.com/37651620/152921479-71542879-b8b4-413e-a504-f85d8f3e0598.png"
         ></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px">
@@ -487,7 +488,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151942190-295bd13e-f14b-456f-915a-c264a85792c0.png"
+          src="https://user-images.githubusercontent.com/37651620/152922073-749eabb5-a6a8-4f41-80ae-981f12749b09.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -521,7 +522,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151942767-8a65db37-01e2-4d97-81ae-6ea7f759d7d6.png"
+          src="https://user-images.githubusercontent.com/37651620/152922157-a9f489e8-b074-4e50-a618-d8617ca9de92.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -557,7 +558,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151943171-21f6d075-b6b1-4103-bafb-31c6198bb284.png"
+          src="https://user-images.githubusercontent.com/37651620/152922287-c1665d86-f4e9-42c8-aec2-abdf4aed7aae.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -592,7 +593,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151947994-97a18988-8377-4e18-8785-786e2d479bd8.png"
+          src="https://user-images.githubusercontent.com/37651620/152922418-5ae98cfb-7dcb-4238-9c21-3ff28f97453d.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -664,7 +665,7 @@
           padding-bottom="0px"
           href="https://bit.ly/3GsDTdM"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/152493520-10077b0d-64d8-4e64-b0f8-3d0fb1833ec6.png"
+          src="https://user-images.githubusercontent.com/37651620/152923806-1a5930b2-42fb-429e-b171-baecae42677a.png"
         ></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px">
@@ -700,7 +701,7 @@
           padding-bottom="0px"
           href="https://aviyel.com/events/282/api-testing-with-hoppscotch?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_282"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/152493830-d2dad376-cf30-4630-80ff-0a4418f459a9.png"
+          src="https://user-images.githubusercontent.com/37651620/152923973-7bbd2d12-634e-4b6f-b110-5c9d96313f7f.png"
         ></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px">
@@ -753,7 +754,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151949744-0cd6e74a-902c-4c38-89df-c102fffa5fd4.png"
+          src="https://user-images.githubusercontent.com/37651620/152924234-6319f838-bcfc-47eb-a4e6-5cc3a245a951.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -787,7 +788,8 @@
           href="https://bit.ly/3uixejW"
           target="_blank"
           padding-right="0px"
-          src="https://user-images.githubusercontent.com/37651620/151950904-664e21c7-7573-478f-bbbc-abd32af06a04.png"
+          border-radius="7px"
+          src="https://user-images.githubusercontent.com/37651620/152925398-9a513a18-45d5-4205-b595-e00960d03a02.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -822,7 +824,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151950282-2c36e007-c0ac-4add-9ae1-4fdcca72ce27.png"
+          src="https://user-images.githubusercontent.com/37651620/152924974-62dc623f-7c6b-4802-89e1-392c79cfcfff.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -886,7 +888,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151952741-e709c9dd-7555-41be-8dcd-37f57591b93c.png"
+          src="https://user-images.githubusercontent.com/37651620/152925857-693a032b-392a-4f7d-99a6-05d4a7009d1f.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -920,7 +922,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151953437-1a90d992-1a13-4e7a-a833-4891d52f9fea.png"
+          src="https://user-images.githubusercontent.com/37651620/152926140-f4a0aaff-b395-4af5-9084-4766f5f56b3e.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -955,7 +957,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151953769-e2056e31-257e-4cf8-b357-555a6f6d6ee0.png"
+          src="https://user-images.githubusercontent.com/37651620/152926338-b6e82dae-d593-4214-9768-ed0a808e6e9c.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -991,7 +993,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151956114-441dc070-60fb-480c-b622-bac7937f2771.png"
+          src="https://user-images.githubusercontent.com/37651620/152926603-b4454c43-ffb1-42be-ae95-95e1acdf23ce.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -1055,7 +1057,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151957514-15f403bc-9445-47cc-a087-d662c87e60d1.png"
+          src="https://user-images.githubusercontent.com/37651620/152926775-58bf9def-da27-4b36-aa0d-108cffcebb5f.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -1090,7 +1092,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151965071-f398103e-adcc-467e-aaaa-c81bce322ac0.png"
+          src="https://user-images.githubusercontent.com/37651620/152927200-6388fbe6-d351-4597-bdf7-e6111819e5db.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -1126,7 +1128,7 @@
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/151965869-075c0635-643c-4e65-b871-60011c12d400.png"
+          src="https://user-images.githubusercontent.com/37651620/152927727-bf352a19-5035-4585-abe6-67b642518d4b.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
