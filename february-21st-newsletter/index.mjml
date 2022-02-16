@@ -211,11 +211,6 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#eaebff"></mj-divider>
-      </mj-column>
-    </mj-section>
     <mj-raw>
       <!--  -->
     </mj-raw>
