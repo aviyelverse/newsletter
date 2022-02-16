@@ -11,7 +11,7 @@
   <mj-body>
     <mj-section padding="10px 0px">
       <mj-column width="60%">
-        <mj-text font-size="10px" align="center">Hii [[FirstName]]!, your bimonthly Aviyel newsletter has arrived.</mj-text>
+        <mj-text font-size="10px" font-weight="400" align="center">Hii [[data:firstname:”there”]] !, your bimonthly Aviyel newsletter has arrived.</mj-text>
       </mj-column>
       <mj-column width="30%">
         <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_21" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
@@ -352,8 +352,6 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="60px"></mj-divider>
       </mj-column>
     </mj-section>
-   
-     
       <!--  -->
     <mj-section>
       <mj-column width="75%">
@@ -428,7 +426,7 @@
         ></mj-image>
       </mj-column>
       <mj-column width="100%">
-        <mj-social align="center" border-radius="50%" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-padding="0px 0px 0px 0px" icon-size="25px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px" text-decoration="none" >
+        <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="25px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
           <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3pUONnJ" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
           <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
           <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
