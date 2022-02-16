@@ -11,7 +11,7 @@
   <mj-body>
     <mj-section padding="10px 0px">
       <mj-column width="60%">
-        <mj-text font-size="10px" align="center">Hii! {{FirstName}}! Your bimonthly Aviyel newsletter is here!</mj-text>
+        <mj-text font-size="10px" align="center">Hii [[FirstName]]!, your bimonthly Aviyel newsletter has arrived.</mj-text>
       </mj-column>
       <mj-column width="30%">
         <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_21" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
@@ -32,7 +32,7 @@
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #6 - FEBRUARY 21st</mj-text>
         <mj-divider width="90%" border-width="2px" border-color="#8661d1"></mj-divider>
        
-      <mj-image width="130px" padding-top="0" padding-bottom="0px" href="" border-radius="110px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+      <mj-image width="220px" padding-top="0" padding-bottom="0px" href="" border-radius="120px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
 
       </mj-column>
     </mj-section>
@@ -294,7 +294,7 @@
       </mj-column>
     </mj-section>
       <!-- DIVIDER LINE -->
-    <mj-section padding="2px">
+    <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
       </mj-column>
@@ -343,9 +343,9 @@
 <!--  -->
     
       <!-- DIVIDER LINE -->
-    <mj-section padding="2px">
+    <mj-section padding="0px">
       <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="410px" align="right" border="none"></mj-image>
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
       </mj-column>
     </mj-section>
        <!-- ------ -->
@@ -402,9 +402,9 @@
       </mj-column>
     </mj-section>
      <!-- DIVIDER LINE -->
-    <mj-section padding="2px">
+    <mj-section padding="0px">
       <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
       </mj-column>
     </mj-section>
        <!-- ------ -->
@@ -413,7 +413,7 @@
     </mj-raw>
     <mj-section>
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+        <mj-divider border-width="0px" border-color="#E0E0E0"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-raw>
