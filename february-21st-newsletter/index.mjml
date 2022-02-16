@@ -94,7 +94,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+        <mj-divider border-width="1px" border-color="#eaebff"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -129,6 +129,20 @@
       </mj-column>
     </mj-section>
 
+    <!-- DIVIDER LINE -->
+    <mj-section padding="2px">
+      <mj-column width="100%">
+        <mj-image
+          src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png"
+          alt=""
+          width="400px"
+          align="left"
+          border="none"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+
     <!-- Watch -->
     <mj-section>
       <mj-column width="100%">
@@ -150,7 +164,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+        <mj-divider border-width="1px" border-color="#eaebff"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -207,7 +221,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+        <mj-divider border-width="1px" border-color="#eaebff"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -242,6 +256,19 @@
         </mj-text>
       </mj-column>
     </mj-section>
+    <!-- DIVIDER LINE -->
+    <mj-section padding="2px">
+      <mj-column width="100%">
+        <mj-image
+          src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png"
+          alt=""
+          width="400px"
+          align="right"
+          border="none"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
     <!-- Event -->
     <mj-section>
       <mj-column width="100%">
@@ -262,7 +289,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+        <mj-divider border-width="1px" border-color="#eaebff"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -298,6 +325,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
     <!-- NEWS -->
     <mj-section>
       <mj-column width="100%">
@@ -318,7 +346,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+        <mj-divider border-width="1px" border-color="#eaebff"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -326,7 +354,7 @@
     </mj-raw>
     <mj-section>
       <mj-column width="75%">
-        <mj-text align="justify">
+        <mj-text align="left">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
             <a
               target="_blank"
@@ -352,6 +380,19 @@
         ></mj-image>
       </mj-column>
     </mj-section>
+    <!-- DIVIDER LINE -->
+    <mj-section padding="2px">
+      <mj-column width="100%">
+        <mj-image
+          src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png"
+          alt=""
+          width="400px"
+          align="left"
+          border="none"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
 
     <mj-raw>
       <!-- Learn -->
@@ -375,13 +416,23 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+        <mj-divider border-width="1px" border-color="#eaebff"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-raw>
       <!--  -->
     </mj-raw>
     <mj-section>
+      <mj-column width="25%">
+        <mj-image
+          width="150px"
+          padding-right="0px"
+          target="_blank"
+          href=""
+          border-radius="7px"
+          src="https://user-images.githubusercontent.com/37651620/152919312-f8563eb4-25b9-4a32-98b0-3567415c3503.png"
+        ></mj-image>
+      </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
@@ -398,17 +449,21 @@
           </p>
         </mj-text>
       </mj-column>
-      <mj-column width="25%">
+    </mj-section>
+
+    <!-- DIVIDER LINE -->
+    <mj-section padding="2px">
+      <mj-column width="100%">
         <mj-image
-          width="150px"
-          padding-left="0px"
-          target="_blank"
-          href=""
-          border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/152919312-f8563eb4-25b9-4a32-98b0-3567415c3503.png"
+          src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png"
+          alt=""
+          width="400px"
+          align="right"
+          border="none"
         ></mj-image>
       </mj-column>
     </mj-section>
+    <!-- ------ -->
 
     <!-- Fun -->
     <mj-section>
@@ -430,14 +485,14 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+        <mj-divider border-width="1px" border-color="#eaebff"></mj-divider>
       </mj-column>
     </mj-section>
 
     <!--  -->
     <mj-section>
       <mj-column width="75%">
-        <mj-text align="justify">
+        <mj-text align="left">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
             <a
               target="_blank"
@@ -463,6 +518,19 @@
         ></mj-image>
       </mj-column>
     </mj-section>
+    <!-- DIVIDER LINE -->
+    <mj-section padding="2px">
+      <mj-column width="100%">
+        <mj-image
+          src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png"
+          alt=""
+          width="400px"
+          align="left"
+          border="none"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
     <mj-raw>
       <!-- Last line -->
     </mj-raw>
