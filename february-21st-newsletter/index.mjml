@@ -63,46 +63,60 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3BBrC60" style="color: #3498DB; text-decoration: none">How Google is making digital experiences personal
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">Google's new design system update Material Design 3 provides users more power, allowing them to create their own experiences.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154895381-2384afaa-3de0-48b7-a57b-42acdcde34a8.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+       <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3v5GIPY" style="color: #3498DB; text-decoration: none">Inside Apple Park: first look at the design team shaping the future of tech
+            </a> </h3>
+          <p style="font-size: 14px">The Apple Design Team, led by Evans Hankey and Alan Dye, wields significant power over changing relationship with technology.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3v5GIPY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154903845-16fef193-644c-4d6f-a6af-51f3b2edab73.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
-    </mj-raw>
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I9T7pC" style="color: #3498DB; text-decoration: none">Why We Crave Software With Style Over “Branding” ?
+
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">The monotony of modern software has spurred a need for more fascinating, opinionated tools, transforming lifeless pixels into something with soul.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3I9T7pC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154904952-6bb068e2-0342-41fc-bb94-f2ff95cd1435.gif"></mj-image>
       </mj-column>
     </mj-section>
-   <!--  -->
-    </mj-raw>
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I5vCOp" style="color: #3498DB; text-decoration: none">Did TikTok make Jakob’s Law obsolete?
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">Plenty of well-Known "rules" and "laws" turn out to be simply ephemeral.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3I5vCOp" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154903326-3fb835ad-e3ab-4cdc-86e8-27cf84b6ae01.gif"></mj-image>
       </mj-column>
     </mj-section>
+
     
        <!-- DIVIDER LINE -->
     <mj-section padding-top="0px">
@@ -122,18 +136,43 @@
     <mj-section>
     
     </mj-section>
-    <mj-raw>
       <!--  -->
-    </mj-raw>
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">Aviyel is a community-based platform
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3s3HafC" target="_blank" style="color: #3498DB; text-decoration: none;">Kubernetes: The Documentary [Part - 1]
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154250962-6b57aab1-3c91-42f8-8a16-e1cb318c5d82.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3s3HafC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154913647-2229ea4b-20d8-4f7d-a12f-73b5b451e5ab.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.</p>
+          <p style="font-size: 14px;">The official Kubernetes Documentary Part 1:<br/>
+In 2013, a group of forward-thinking Google employees were inspired by the open source success of Docker and saw a need for innovation in the domain of large-scale cloud computing, so they began development on the container orchestrator that would become to be known as Kubernetes.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+     <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3gZG91J" target="_blank" style="color: #3498DB; text-decoration: none;">Kubernetes: The Documentary [Part - 2]
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3gZG91J" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154915858-1fc4e6eb-3267-4527-9189-12ac6d2620ff.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">The official Kubernetes Documentary Part 2:In 2013, a group of forward-thinking Google employees were inspired by the open source success of Docker and saw a need for innovation in the domain of large-scale cloud computing, so they began development on the container orchestrator that would become to be known as Kubernetes.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3oY4dqn" target="_blank" style="color: #3498DB; text-decoration: none;">Starship Update 
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3oY4dqn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154908151-c586227e-6e27-4441-898f-16fa0aa0e482.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Elon Musk, the CEO of SpaceX, gave an update on Starship's design, development, and testing on Thursday, February 10.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -356,28 +395,28 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/34QrXpE" style="color: #3498DB; text-decoration: none">WORLDLE
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">In this game, you must predict the WORLDLE in six guesses. Each estimate must be a legitimate country, territory, or... You'll obtain the distance, direction, and proximity between your guess and the target nation after each guess.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/34QrXpE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154918436-f721c495-5a45-4169-af88-83a13c9fcaa6.png"></mj-image>
       </mj-column>
     </mj-section>
  <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3s4BfH9" style="color: #3498DB; text-decoration: none">Stuck in KUOW purgatory: Seattle Mazda drivers can't change the radio dial
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">Some Mazda owners who listen to KUOW in their cars report their vehicle radio has been stuck on 94.9 FM for the past few weeks.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3s4BfH9" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154918810-685966ad-f3b6-4c4f-ac8e-a2ae44e91e90.png"></mj-image>
       </mj-column>
     </mj-section>
  <!--  -->
