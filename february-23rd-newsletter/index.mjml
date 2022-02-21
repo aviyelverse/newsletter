@@ -29,7 +29,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #6 - FEBRUARY 21st</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #6 - FEBRUARY 23rd</mj-text>
         <mj-divider width="90%" border-width="2px" border-color="#8661d1"></mj-divider>
        
       <mj-image width="220px" padding-top="0" padding-bottom="0px" href="" border-radius="120px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
@@ -256,10 +256,10 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">Contributor Roadmaps
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Contributor Roadmaps
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3GsDTdM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154935474-838c9c4e-6da9-4a8a-9433-ea21f34dbf4f.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154935474-838c9c4e-6da9-4a8a-9433-ea21f34dbf4f.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">Structured roadmaps to help you contribute more effectively to projects. The contributor roadmap for MobSF, Docz, and Typesense is now live!</p>
         </mj-text>
@@ -288,14 +288,14 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3p5FKQ1" style="color: #3498DB; text-decoration: none">Polypane 8: better Elements Inspector, new syncing features, Chromium 98 and more
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">A improved Elements inspector, performance improvements, Chromium 98, forced colors emulation, focus state sync, ARM support, a new debug tool, and more in this release.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3p5FKQ1" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154939405-6154e626-9e2e-4bba-adba-d8f0d5ce631e.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -303,28 +303,29 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3s4TxrR" style="color: #3498DB; text-decoration: none">Europe’s Move Against Google Analytics Is Just the Beginning
+
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">Austria’s data regulator has found that the use of Google Analytics is a breach of GDPR.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3s4TxrR" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154941638-d0f34f74-54f2-4dc6-8184-67d48a6301af.gif"></mj-image>
       </mj-column>
     </mj-section>
    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Hbl7I5" style="color: #3498DB; text-decoration: none">Readymag round-up:New tools and updates for more interactivity
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">Experience Readymag's newly expanded design toolbox! This is a list of the team's most anticipated design instruments and revisions for 2021.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Hbl7I5" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154943602-477e8f2b-5731-4739-bacf-c4b546e17b18.gif"></mj-image>
       </mj-column>
     </mj-section>
       <!-- DIVIDER LINE -->
@@ -351,12 +352,13 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
 
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/35cZKJa" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154946240-95f893fe-d45d-422c-8fa1-b2219190e8f4.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35JYsG3" target="_blank" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35cZKJa" target="_blank" style="color: #3498DB; text-decoration: none">The Key to learn math and science online is interactive play
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">How can we use the four freedoms of play to create online experiences that foster learning?
           </p>
         </mj-text>
       </mj-column>
@@ -364,12 +366,28 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
 <!--  -->
 <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/34OC66g" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154947636-6d66223b-4852-41a7-986c-63ea89e1aca7.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35JYsG3" target="_blank" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/34OC66g" target="_blank" style="color: #3498DB; text-decoration: none">Learning 3D Modeling in 14 Weeks
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">In approximately 14 weeks, Samantha Zhang learned 3D modeling on her own and received an honorable mention and a staff pick on Sketchfab. Learn more on how she went about doing it.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!--  -->
+  <!--  -->
+<mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3LRCjWH" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154948886-1c9a419d-defd-48e4-aba2-0b9eced1567d.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LRCjWH" target="_blank" style="color: #3498DB; text-decoration: none">Figma 101: A free 7-day email course
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Figma is the snazzy new kid on the block when it comes to design software. It blends Sketch's simplicity with real-time collaborative capabilities and strong supplementary tools.In this course, you'll learn how to use Figma and get downloadable templates to help you get started.
           </p>
         </mj-text>
       </mj-column>
@@ -423,14 +441,14 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oeKn9J" style="color: #3498DB; text-decoration: none">Aviyel is a community-based platform
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://nyti.ms/34ODeqw" style="color: #3498DB; text-decoration: none">Can You Gerrymander Your Party to Power?
             </a> </h3>
-          <p style="font-size: 14px">Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          <p style="font-size: 14px">Nytimes built Hexapolis, a fictional state in which users' sole objective is to gerrymander their political party to power.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154249434-96349721-35d1-415c-8d0b-5c84aff79b47.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://nyti.ms/34ODeqw" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154950065-af6c5a2c-4325-4497-8545-9531ecb41855.gif"></mj-image>
       </mj-column>
     </mj-section>
      <!-- DIVIDER LINE -->
