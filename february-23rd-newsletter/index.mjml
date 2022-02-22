@@ -439,14 +439,14 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Townscaper : indie city builder browser based game
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/36wiX9A" style="color: #3498DB; text-decoration: none">Townscaper : indie city builder browser based game
             </a> </h3>
           <p style="font-size: 14px">A browser-based demo of the indie city-building game. Block by block, construct charming island settlements.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155106831-6c257e11-e765-4cb8-8523-f65bedc1cf1f.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/36wiX9A" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155106831-6c257e11-e765-4cb8-8523-f65bedc1cf1f.gif"></mj-image>
       </mj-column>
     </mj-section>
   <!--  -->
