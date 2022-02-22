@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center">Hii [[data:firstname:”there”]] !, your bimonthly Aviyel newsletter has arrived.</mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_21" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_23" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_21" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+        <mj-image target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_23" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -32,7 +32,7 @@
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #6 - FEBRUARY 23rd</mj-text>
         <mj-divider width="90%" border-width="2px" border-color="#8661d1"></mj-divider>
        
-      <mj-image width="220px" padding-top="0" padding-bottom="0px" href="" border-radius="120px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+      <mj-image width="220px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_23" border-radius="120px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
 
       </mj-column>
     </mj-section>
@@ -134,7 +134,6 @@
       </mj-column>
     </mj-section>
     <mj-section>
-    
     </mj-section>
       <!--  -->
     <mj-section>
@@ -167,7 +166,7 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3oY4dqn" target="_blank" style="color: #3498DB; text-decoration: none;">Starship Update 
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3oY4dqn" target="_blank" style="color: #3498DB; text-decoration: none;">Updates on SpaceX’s Interplanetary Starship Rocket
             </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3oY4dqn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154908151-c586227e-6e27-4441-898f-16fa0aa0e482.gif"></mj-image>
@@ -256,12 +255,38 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Contributor Roadmaps
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Contributor Roadmaps for Docz, Typesense and MobSF !
             </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154935474-838c9c4e-6da9-4a8a-9433-ea21f34dbf4f.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">Structured roadmaps to help you contribute more effectively to projects. The contributor roadmap for MobSF, Docz, and Typesense is now live!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+ <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/306/managing-communities-of-open-source-projects?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_306" target="_blank" style="color: #3498DB; text-decoration: none;">Managing communities of Open Source projects
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/306/managing-communities-of-open-source-projects?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_306" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155067333-4e15e21c-2c23-4de1-b765-76c87763dc5e.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Joshua will be joined by Avi, the CEO of Scarf, to discuss how to create and manage healthy communities, as well as how to use analytics to enhance the DevRels, Maintainers, and Community Managers' experience.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+ <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" target="_blank" style="color: #3498DB; text-decoration: none;">How to attract more Contributors to your Projects by Rizel
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155067339-a881990a-9ba2-412d-be3b-dfd7442302d9.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this session, Rizel Scarlett, Github Developer Advocate who will be providing guidance on how to engage and onboard more contributors to open source projects. RSVP now!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -477,7 +502,7 @@ In 2013, a group of forward-thinking Google employees were inspired by the open 
         <mj-image
           align="center"
           width="110px"
-          href="https://aviyel.com/?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_jan_25"
+          href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_23"
           target="_blank"
           src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"
         ></mj-image>
