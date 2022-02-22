@@ -77,9 +77,9 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3v5GIPY" style="color: #3498DB; text-decoration: none">Inside Apple Park: first look at the design team shaping the future of tech
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3v5GIPY" style="color: #3498DB; text-decoration: none">Inside Apple Park: First Look at the Design Team Shaping the Future of Tech
             </a> </h3>
-          <p style="font-size: 14px">The Apple Design Team, led by Evans Hankey and Alan Dye, wields significant power over changing relationship with technology.
+          <p style="font-size: 14px">The Apple Design Team wields significant power over changing relationships with technology. Read on as they offered a deep dive into the working processes for the first time.
           </p>
         </mj-text>
       </mj-column>
@@ -108,16 +108,14 @@
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I5vCOp" style="color: #3498DB; text-decoration: none">Did TikTok make Jakob’s Law obsolete?
             </a> </h3>
-          <p style="font-size: 14px">Plenty of well-Known "rules" and "laws" turn out to be simply ephemeral.
+          <p style="font-size: 14px">Jakob's law states that People spend the majority of their time on other web applications and therefore expect your app to function similarly. This was true for a long time, but it is gradually becoming obsolete.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3I5vCOp" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155083080-ded14011-a770-42c6-a02f-ce901598a994.gif"></mj-image>
       </mj-column>
-    </mj-section>
-
-    
+    </mj-section>    
        <!-- DIVIDER LINE -->
     <mj-section padding-top="0px">
       <mj-column width="100%">
@@ -149,19 +147,6 @@
       </mj-column>
     </mj-section>
      <!--  -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3gZG91J" target="_blank" style="color: #3498DB; text-decoration: none;">Resuming Part 2: The Kubernetes Documentary
-            </a> </h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3gZG91J" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155084008-76ade445-fdfc-4a63-b849-1c0ffc122377.gif"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">Checkout last part of the Kubernotes documentary that will keep you hooked till the end.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
@@ -314,7 +299,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3p5FKQ1" style="color: #3498DB; text-decoration: none">Polypane 8: better Elements Inspector, new syncing features, Chromium 98 and more
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3p5FKQ1" style="color: #3498DB; text-decoration: none">Polypane 8: Better Elements Inspector, New syncing features, Chromium 98 and more
             </a> </h3>
           <p style="font-size: 14px">What's new in the release? An improved elements inspector, performance improvements, Chromium 98, forced colors emulation, focus state sync, ARM support, and a new debug tool.
           </p>
@@ -344,7 +329,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Hbl7I5" style="color: #3498DB; text-decoration: none">Readymag round-up:New tools and updates for more interactivity
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Hbl7I5" style="color: #3498DB; text-decoration: none">Readymag Round-up: New tools and updates for more Interactivity
             </a> </h3>
           <p style="font-size: 14px">Experience Readymag's newly expanded design toolbox! This is a list of the team's most anticipated design instruments and revisions for 2021.
           </p>
@@ -439,7 +424,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/36wiX9A" style="color: #3498DB; text-decoration: none">Townscaper : indie city builder browser based game
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/36wiX9A" style="color: #3498DB; text-decoration: none">TownScaper : Indie City Builder Browser Based Game
             </a> </h3>
           <p style="font-size: 14px">A browser-based demo of the indie city-building game. Block by block, construct charming island settlements.
           </p>
@@ -479,20 +464,7 @@
       </mj-column>
     </mj-section>
  <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3s4BfH9" style="color: #3498DB; text-decoration: none">Stuck in KUOW purgatory: Seattle Mazda drivers can't change the radio dial
-            </a> </h3>
-          <p style="font-size: 14px">Some Mazda owners who listen to KUOW in their cars report their vehicle radio has been stuck on 94.9 FM for the past few weeks.
-          </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3s4BfH9" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154918810-685966ad-f3b6-4c4f-ac8e-a2ae44e91e90.png"></mj-image>
-      </mj-column>
-    </mj-section>
- 
+   
      <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
