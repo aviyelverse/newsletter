@@ -77,7 +77,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3v5GIPY" style="color: #3498DB; text-decoration: none">Inside Apple Park: First look at the design team shaping the future of tech
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3v5GIPY" style="color: #3498DB; text-decoration: none">Inside Apple Park: first look at the design team shaping the future of tech
             </a> </h3>
           <p style="font-size: 14px">The Apple Design Team, led by Evans Hankey and Alan Dye, wields significant power over changing relationship with technology.
           </p>
@@ -91,7 +91,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I9T7pC" style="color: #3498DB; text-decoration: none">Why we crave software with style over “Branding” ?
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I9T7pC" style="color: #3498DB; text-decoration: none">Why We Crave Software With Style Over “Branding” ?
 
             </a> </h3>
           <p style="font-size: 14px">The monotony of modern software has spurred a need for more fascinating, opinionated tools, transforming lifeless pixels into something with soul.
@@ -106,7 +106,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I5vCOp" style="color: #3498DB; text-decoration: none">Did TikTok make Jakob’s law obsolete?
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I5vCOp" style="color: #3498DB; text-decoration: none">Did TikTok make Jakob’s Law obsolete?
             </a> </h3>
           <p style="font-size: 14px">Plenty of well-Known "rules" and "laws" turn out to be simply ephemeral.
           </p>
@@ -144,8 +144,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3s3HafC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155083570-421dbda3-9500-482e-89f9-aed30c25cf31.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">
-In 2013, a group of Google employees were inspired by Docker's open source success and saw a need for innovation in large-scale cloud computing, so they began development on the container orchestrator that would later become Kubernetes.</p>
+          <p style="font-size: 14px;">In 2013, a group of Google employees were inspired by Docker's open source success and saw a need for innovation in large-scale cloud computing, so they began development on the container orchestrator that would later become Kubernetes.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -153,12 +152,12 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3gZG91J" target="_blank" style="color: #3498DB; text-decoration: none;">Resuming Part 2: The Kubernetes Documentary 
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3gZG91J" target="_blank" style="color: #3498DB; text-decoration: none;">Resuming Part 2: The Kubernetes Documentary
             </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3gZG91J" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155084008-76ade445-fdfc-4a63-b849-1c0ffc122377.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Checkout last part of the Kubernotes documentary that will keep you hooked till the end. </p>
+          <p style="font-size: 14px;">Checkout last part of the Kubernotes documentary that will keep you hooked till the end.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -169,7 +168,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
           <h3 style="font-weight: bold"> <a href="https://bit.ly/3oY4dqn" target="_blank" style="color: #3498DB; text-decoration: none;">Updates on SpaceX’s Interplanetary Starship Rocket
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3oY4dqn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154908151-c586227e-6e27-4441-898f-16fa0aa0e482.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3oY4dqn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155088111-07fafd48-3435-4a41-920d-c544b56a5b04.gif"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">Elon Musk, the CEO of SpaceX, gave an update on Starship's design, development, and testing on Thursday, February 10.</p>
         </mj-text>
@@ -201,7 +200,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h3boJm" target="_blank" style="color: #3498DB; text-decoration: none"></a>The.com: Web design collaboration within a creator community </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h3boJm" target="_blank" style="color: #3498DB; text-decoration: none">The.com: Web Design Collaboration within a Creator Community </a></h3>
           <p style="font-size: 14px;padding-top:0px;">On "the.com", you can create as many low-code sites as you like. Refine details, share remixable designs with the community, and push the boundaries of the web.
           </p>
         </mj-text>
@@ -210,7 +209,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
 <!--  -->
 <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3I5Rnh3" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154926495-b09cc06d-9771-4c2c-8a26-5e9b1936d23d.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3I5Rnh3" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155089398-48f04ff9-d9a1-40c7-9215-17a743e2b0c4.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
@@ -228,7 +227,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3gZp2NN" target="_blank" style="color: #3498DB; text-decoration: none">Framework for dynamic commerce</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">A React-based framework for building storefronts in partnership with StackBlitz, an in-browser testing and development tool. 
+          <p style="font-size: 14px;padding-top:0px;">A React-based framework for building storefronts in partnership with StackBlitz, an in-browser testing and development tool.
           </p>
         </mj-text>
       </mj-column>
@@ -255,12 +254,13 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Contributor Roadmaps for Docz, Typesense and MobSF!
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Contributor Roadmaps for Docz, Typesense and MobSF !
             </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154935474-838c9c4e-6da9-4a8a-9433-ea21f34dbf4f.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Structured roadmaps to help you contribute more effectively to open source projects. The contributor roadmap for MobSF, Docz, and Typesense is now live!</p>
+          <p style="font-size: 14px;">Structured roadmaps to help you contribute more effectively to open source projects. The contributor roadmap for MobSF, Docz, and Typesense is now live!
+</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -268,7 +268,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
  <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/306/managing-communities-of-open-source-projects?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_306" target="_blank" style="color: #3498DB; text-decoration: none;">Managing Open Source communities 
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/306/managing-communities-of-open-source-projects?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_306" target="_blank" style="color: #3498DB; text-decoration: none;">Managing communities of Open Source projects
             </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/306/managing-communities-of-open-source-projects?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_306" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155067333-4e15e21c-2c23-4de1-b765-76c87763dc5e.png"></mj-image>
@@ -281,12 +281,13 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
  <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" target="_blank" style="color: #3498DB; text-decoration: none;">How to attract more Contributors to your projects by Rizel
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" target="_blank" style="color: #3498DB; text-decoration: none;">How to attract more Contributors to your Projects by Rizel
             </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155067339-a881990a-9ba2-412d-be3b-dfd7442302d9.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Rizel Scarlett, Github Developer Advocate talks about engaging and onboarding more contributors to open source projects. RSVP now!</p>
+          <p style="font-size: 14px;">Rizel Scarlett, Github Developer Advocate talks about engaging and onboarding more contributors to open source projects. RSVP now!
+</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -313,7 +314,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3p5FKQ1" style="color: #3498DB; text-decoration: none">Polypane 8: Better Elements Inspector, new syncing features, Chromium 98 and more
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3p5FKQ1" style="color: #3498DB; text-decoration: none">Polypane 8: better Elements Inspector, new syncing features, Chromium 98 and more
             </a> </h3>
           <p style="font-size: 14px">What's new in the release? An improved elements inspector, performance improvements, Chromium 98, forced colors emulation, focus state sync, ARM support, and a new debug tool.
           </p>
@@ -328,29 +329,29 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3s4TxrR" style="color: #3498DB; text-decoration: none">Europe’s move against Google Analytics is just the beginning
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3s4TxrR" style="color: #3498DB; text-decoration: none">Europe’s Move Against Google Analytics Is Just the Beginning
 
             </a> </h3>
-          <p style="font-size: 14px"> The Austrian Data Protection Authority is the first one to accuse Google Analytics for GDPR breach. What follows is a long set of investigation by other regulatory bodies. 
+          <p style="font-size: 14px">The Austrian Data Protection Authority is the first one to accuse Google Analytics for GDPR breach. What follows is a long set of investigation by other regulatory bodies.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3s4TxrR" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154941638-d0f34f74-54f2-4dc6-8184-67d48a6301af.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3s4TxrR" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155090389-c9d44ed5-937a-45c5-9670-3c532523e1a6.gif"></mj-image>
       </mj-column>
     </mj-section>
    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Hbl7I5" style="color: #3498DB; text-decoration: none">What's new with Readymag: New updates for more interactivity
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Hbl7I5" style="color: #3498DB; text-decoration: none">Readymag round-up:New tools and updates for more interactivity
             </a> </h3>
           <p style="font-size: 14px">Experience Readymag's newly expanded design toolbox! This is a list of the team's most anticipated design instruments and revisions for 2021.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Hbl7I5" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154943602-477e8f2b-5731-4739-bacf-c4b546e17b18.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Hbl7I5" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155095957-d3b50ce5-4f2b-4857-a9af-22ed19f190a6.gif"></mj-image>
       </mj-column>
     </mj-section>
       <!-- DIVIDER LINE -->
@@ -381,7 +382,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35cZKJa" target="_blank" style="color: #3498DB; text-decoration: none">The Key to learn math and science is interactive play
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35cZKJa" target="_blank" style="color: #3498DB; text-decoration: none">The Key to learn math and science online is interactive play
 </a> </h3>
           <p style="font-size: 14px;padding-top:0px;">How can we use the four freedoms of play to create online experiences that foster learning?
           </p>
@@ -395,9 +396,9 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/34OC66g" target="_blank" style="color: #3498DB; text-decoration: none">Learn 3D Modeling in 14 weeks
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/34OC66g" target="_blank" style="color: #3498DB; text-decoration: none">Learning 3D Modeling in 14 Weeks
 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">In approximately 14 weeks, Samantha Zhang learned 3D modeling on her own, received an honorable mention with a staff pick on Sketchfab. Learn more about Samantha's amazing 14 weeks and the everything that followed. 
+          <p style="font-size: 14px;padding-top:0px;">In approximately 14 weeks, Samantha Zhang learned 3D modeling on her own, received an honorable mention with a staff pick on Sketchfab. Learn more about Samantha's amazing 14 weeks and the everything that followed.
           </p>
         </mj-text>
       </mj-column>
@@ -412,7 +413,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LRCjWH" target="_blank" style="color: #3498DB; text-decoration: none">Figma 101: A free 7-day email course
 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Figma is the snazzy, new but a zealous kid on the design block. It blends Sketch's simplicity with real-time collaborative capabilities and strong supplementary tools. In this course, you'll learn how to use Figma and get downloadable templates so you can begin your design journey. 
+          <p style="font-size: 14px;padding-top:0px;">Figma is the snazzy, new but a zealous kid on the design block. It blends Sketch's simplicity with real-time collaborative capabilities and strong supplementary tools. In this course, you'll learn how to use Figma and get downloadable templates so you can begin your design journey.
           </p>
         </mj-text>
       </mj-column>
@@ -434,13 +435,42 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="60px"></mj-divider>
       </mj-column>
     </mj-section>
+   <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Townscaper : indie city builder browser based game
+            </a> </h3>
+          <p style="font-size: 14px">A browser-based demo of the indie city-building game. Block by block, construct charming island settlements.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155106831-6c257e11-e765-4cb8-8523-f65bedc1cf1f.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+  <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3sSOry6" style="color: #3498DB; text-decoration: none">Emojimix : Mix your emoji
+            </a> </h3>
+          <p style="font-size: 14px">Create your very own, personalised emoji by combining two emoticons. What better way to express yourself in front of the world?
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3sSOry6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155105884-3534b601-d133-4be8-876a-0cf8e88a720d.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+ 
       <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/34QrXpE" style="color: #3498DB; text-decoration: none">WORLDLE
             </a> </h3>
-          <p style="font-size: 14px">The WORDLE successor, but with a twist. Here each guess must be a legitimate country, territory, or all you'll get will be yellow flags. 
+          <p style="font-size: 14px">The WORDLE successor, but with a twist. Here each guess must be a legitimate country, territory, or all you'll get will be yellow flags.
           </p>
         </mj-text>
       </mj-column>
@@ -462,20 +492,7 @@ In 2013, a group of Google employees were inspired by Docker's open source succe
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3s4BfH9" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154918810-685966ad-f3b6-4c4f-ac8e-a2ae44e91e90.png"></mj-image>
       </mj-column>
     </mj-section>
- <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://nyti.ms/34ODeqw" style="color: #3498DB; text-decoration: none">Can you Gerrymander your party to power?
-            </a> </h3>
-          <p style="font-size: 14px">Nytimes built Hexapolis, a fictional state in which users' sole objective is to gerrymander their political party to power.
-          </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://nyti.ms/34ODeqw" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154950065-af6c5a2c-4325-4497-8545-9531ecb41855.gif"></mj-image>
-      </mj-column>
-    </mj-section>
+ 
      <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
