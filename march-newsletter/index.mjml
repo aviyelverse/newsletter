@@ -1,0 +1,330 @@
+<mjml>
+  <mj-head>
+    <mj-title>Aviyel Newsletter</mj-title>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Inter, Helvetica, sans-serif" background-color="#FEFCFE"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="10px 0px">
+      <mj-column width="60%">
+        <mj-text font-size="10px" font-weight="400" align="center">Hii [[data:firstname:”there”]] !, your bimonthly Aviyel newsletter has arrived.</mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image align="center" target="_blank" width="100px" href="" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-image target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #7 - March</mj-text>
+        <mj-divider width="90%" border-width="2px" border-color="#8661d1"></mj-divider>
+       
+      <mj-image width="220px" padding-top="0" padding-bottom="0px" href="" border-radius="120px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="1px">
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p>Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- READ -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#READ</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+     
+      
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3BBrC60" style="color: #3498DB; text-decoration: none">How Google is making digital experiences personal
+            </a> </h3>
+          <p style="font-size: 14px">Google's new design system update, Material Design 3 provides users more power and opportunity to create personalised experiences.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155081833-6a9434eb-130d-47da-b669-578276de34bb.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+       <!--  -->
+  
+       <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+       <!-- ------ -->
+    
+      <!-- Watch -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#WATCH</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+      <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3s3HafC" target="_blank" style="color: #3498DB; text-decoration: none;">Kubernetes: The Documentary [Part - 1]
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3s3HafC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155083570-421dbda3-9500-482e-89f9-aed30c25cf31.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In 2013, a group of Google employees were inspired by Docker's open source success and saw a need for innovation in large-scale cloud computing, so they began development on the container orchestrator that would later become Kubernetes.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+     <!--  -->
+    
+       <!-- ------ -->
+      <!-- Code -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3h3boJm" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154924665-6782d67c-91a0-4f18-bb92-fab33b3d8bbc.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h3boJm" target="_blank" style="color: #3498DB; text-decoration: none">The.com: Web Design Collaboration within a Creator Community </a></h3>
+          <p style="font-size: 14px;padding-top:0px;">On "the.com", you can create as many low-code sites as you like. Refine details, share remixable designs with the community, and push the boundaries of the web.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!--  -->
+ 
+   <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+       <!-- ------ -->
+      <!-- Event -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <!-- -->
+ <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" target="_blank" style="color: #3498DB; text-decoration: none;">How to attract more Contributors to your Projects by Rizel
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155067339-a881990a-9ba2-412d-be3b-dfd7442302d9.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Rizel Scarlett, Github Developer Advocate talks about engaging and onboarding more contributors to open source projects. RSVP now!
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+       <!-- ------ -->
+    
+      <!-- NEWS -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#NEWS</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3p5FKQ1" style="color: #3498DB; text-decoration: none">Polypane 8: Better Elements Inspector, New syncing features, Chromium 98 and more
+            </a> </h3>
+          <p style="font-size: 14px">What's new in the release? An improved elements inspector, performance improvements, Chromium 98, forced colors emulation, focus state sync, ARM support, and a new debug tool.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3p5FKQ1" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154939405-6154e626-9e2e-4bba-adba-d8f0d5ce631e.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+
+      <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+       <!-- ------ -->
+   
+    <mj-raw>
+      <!-- Learn -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#LEARN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+  <!--  -->
+    </mj-raw>
+
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/35cZKJa" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154946240-95f893fe-d45d-422c-8fa1-b2219190e8f4.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35cZKJa" target="_blank" style="color: #3498DB; text-decoration: none">The Key to learn math and science online is interactive play
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">How can we use the four freedoms of play to create online experiences that foster learning?
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!--  -->
+
+
+    
+      <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+       <!-- ------ -->
+   
+      <!-- Fun -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#FUN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="60px"></mj-divider>
+      </mj-column>
+    </mj-section>
+   <!--  -->
+   
+      <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/34QrXpE" style="color: #3498DB; text-decoration: none">WORLDLE
+            </a> </h3>
+          <p style="font-size: 14px">The WORDLE successor, but with a twist. Here each guess must be a legitimate country, territory, or all you'll get will be yellow flags.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/34QrXpE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154918436-f721c495-5a45-4169-af88-83a13c9fcaa6.png"></mj-image>
+      </mj-column>
+    </mj-section>
+ <!--  -->
+   
+     <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+       <!-- ------ -->
+    <mj-raw>
+      <!-- Last line -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="0px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Test -->
+    </mj-raw>
+   <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px"  text-align="center" >
+   <mj-column width="100%">
+        <mj-image
+          align="center"
+          width="110px"
+          href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_23"
+          target="_blank"
+          src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="25px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3pUONnJ" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#4078C0" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
+          <mj-social-element background-color="#FF0000" target="_blank" href="https://bit.ly/3HCTrNa" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/32QpESj" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/3t0l3HU" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- FOoter -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" align="center">
+          <p>
+            This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
