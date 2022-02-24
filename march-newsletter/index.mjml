@@ -53,25 +53,40 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
-     
-      
-    </mj-section>
-    <mj-raw>
+   
       <!--  -->
-    </mj-raw>
+
     <mj-section>
+       <mj-column width="25%">
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155081833-6a9434eb-130d-47da-b669-578276de34bb.gif"></mj-image>
+      </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3BBrC60" style="color: #3498DB; text-decoration: none">How Google is making digital experiences personal
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://enterprisersproject.com/article/2022/2/4-common-misunderstandings-about-enterprise-open-source-software" style="color: #3498DB; text-decoration: none">Four common misunderstandings about enterprise open source software
             </a> </h3>
-          <p style="font-size: 14px">Google's new design system update, Material Design 3 provides users more power and opportunity to create personalised experiences.
+          <p style="font-size: 14px">The strategy for using open source in the enterprise has evolved. However, as IT professionals debate and plan usage and strategy in their organizations, they may come across these issues.
           </p>
         </mj-text>
       </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155081833-6a9434eb-130d-47da-b669-578276de34bb.gif"></mj-image>
+     
+    </mj-section>
+       <!--  -->
+     <!--  -->
+
+    <mj-section>
+       <mj-column width="25%">
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155502482-3a36941c-aefa-4284-9b19-66eceb1c16e8.gif"></mj-image>
       </mj-column>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://opensource.org/redhat-moving-from-a-proprietary-to-an-open-source-culture" style="color: #3498DB; text-decoration: none">Red Hat: Moving from a proprietary to an open source culture
+
+            </a> </h3>
+          <p style="font-size: 14px">Open source software is used in a variety of creative and interesting ways all across the world, and who better to communicate the details of new use cases than the practitioners themselves? Guests who expressed their open source tales during POSI, are featured in this blog series. More practical open source stories can be found here.
+          </p>
+        </mj-text>
+      </mj-column>
+     
     </mj-section>
        <!--  -->
   
@@ -123,12 +138,12 @@
 
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3h3boJm" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154924665-6782d67c-91a0-4f18-bb92-fab33b3d8bbc.png"></mj-image>
+        <mj-image width="150px" href="https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155508062-6902f1f4-265d-4bbe-8246-209ccacf9045.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h3boJm" target="_blank" style="color: #3498DB; text-decoration: none">The.com: Web Design Collaboration within a Creator Community </a></h3>
-          <p style="font-size: 14px;padding-top:0px;">On "the.com", you can create as many low-code sites as you like. Refine details, share remixable designs with the community, and push the boundaries of the web.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h3boJm" target="_blank" style="color: #3498DB; text-decoration: none">How to Rock the Coding Interview </a></h3>
+          <p style="font-size: 14px;padding-top:0px;">Yangshun Tay went through some coding interviews in 2017 and received offers from a number of prominent tech companies. He will share what he learned throughout that time in this article.
           </p>
         </mj-text>
       </mj-column>
