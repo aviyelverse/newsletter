@@ -138,12 +138,12 @@
 
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3h3boJm" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154924665-6782d67c-91a0-4f18-bb92-fab33b3d8bbc.png"></mj-image>
+        <mj-image width="150px" href="https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155508062-6902f1f4-265d-4bbe-8246-209ccacf9045.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h3boJm" target="_blank" style="color: #3498DB; text-decoration: none">The.com: Web Design Collaboration within a Creator Community </a></h3>
-          <p style="font-size: 14px;padding-top:0px;">On "the.com", you can create as many low-code sites as you like. Refine details, share remixable designs with the community, and push the boundaries of the web.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h3boJm" target="_blank" style="color: #3498DB; text-decoration: none">How to Rock the Coding Interview </a></h3>
+          <p style="font-size: 14px;padding-top:0px;">Yangshun Tay went through some coding interviews in 2017 and received offers from a number of prominent tech companies. He will share what he learned throughout that time in this article.
           </p>
         </mj-text>
       </mj-column>
