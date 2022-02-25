@@ -277,14 +277,30 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3p5FKQ1" style="color: #3498DB; text-decoration: none">Polypane 8: Better Elements Inspector, New syncing features, Chromium 98 and more
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://techcrunch.com/2022/02/24/russia-ukraine/" style="color: #3498DB; text-decoration: none">How the tech industry is responding to Russia’s invasion of Ukraine
             </a> </h3>
-          <p style="font-size: 14px">What's new in the release? An improved elements inspector, performance improvements, Chromium 98, forced colors emulation, focus state sync, ARM support, and a new debug tool.
+          <p style="font-size: 14px">Learn more about the latest and greatest news and analysis from the tech and startup community on the ongoing russia-Ukraine war.
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3p5FKQ1" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154939405-6154e626-9e2e-4bba-adba-d8f0d5ce631e.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://techcrunch.com/2022/02/24/russia-ukraine/" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155667666-1e93d7cd-3c6b-4620-ab4e-e0d9363371fe.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+     <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://techcrunch.com/2022/02/24/russia-ukraine/" style="color: #3498DB; text-decoration: none">How the tech industry is responding to Russia’s invasion of Ukraine
+            </a> </h3>
+          <p style="font-size: 14px">Learn more about the latest and greatest news and analysis from the tech and startup community on the ongoing russia-Ukraine war.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://techcrunch.com/2022/02/24/russia-ukraine/" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155667666-1e93d7cd-3c6b-4620-ab4e-e0d9363371fe.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
