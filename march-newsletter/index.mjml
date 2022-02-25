@@ -53,18 +53,53 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
+    
+     <!--  -->
+
+    <mj-section>
+       <mj-column width="25%">
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://www.programmingbooks.dev/" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155657513-fae776e6-2809-4813-8b41-71074a2b86c9.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.programmingbooks.dev/" style="color: #3498DB; text-decoration: none">Curated Reading List for programming books for developers.
+            </a> </h3>
+          <p style="font-size: 14px">This list is more of a suggestion for what programming books to read and in what sequence to read them and how to get started with them.
+          </p>
+        </mj-text>
+      </mj-column>
+     
+    </mj-section>
+       <!--  -->
    
       <!--  -->
 
     <mj-section>
        <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155081833-6a9434eb-130d-47da-b669-578276de34bb.gif"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155658406-0834eafa-51c7-43ca-81aa-2363121ff095.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://enterprisersproject.com/article/2022/2/4-common-misunderstandings-about-enterprise-open-source-software" style="color: #3498DB; text-decoration: none">Four common misunderstandings about enterprise open source software
             </a> </h3>
           <p style="font-size: 14px">The strategy for using open source in the enterprise has evolved. However, as IT professionals debate and plan usage and strategy in their organizations, they may come across these issues.
+          </p>
+        </mj-text>
+      </mj-column>
+     
+    </mj-section>
+       <!--  -->
+      <!--  -->
+
+    <mj-section>
+       <mj-column width="25%">
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://begriffs.com/posts/2018-11-15-c-portability.html" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155659405-aea7fc88-fb89-4bce-ac11-97a90b78b061.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://begriffs.com/posts/2018-11-15-c-portability.html" style="color: #3498DB; text-decoration: none">C Portability Lessons from Weird Machines
+            </a> </h3>
+          <p style="font-size: 14px"> This article will take you on a journey from 4-bit microcontrollers to room-sized mainframes, and how porting C to each of them helped people separate the language's essence.
           </p>
         </mj-text>
       </mj-column>
@@ -330,7 +365,7 @@
       </mj-column>
     </mj-section>
     <mj-raw>
-      <!-- FOoter -->
+      <!-- Footer -->
     </mj-raw>
     <mj-section>
       <mj-column>
