@@ -125,11 +125,26 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3s3HafC" target="_blank" style="color: #3498DB; text-decoration: none;">Kubernetes: The Documentary [Part - 1] </a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=BGexHR1tuOA&ab_channel=Vercel" target="_blank" style="color: #3498DB; text-decoration: none;">Next.js 12.1: Introducing On-Demand Incremental Static Regeneration
+ </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3s3HafC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155083570-421dbda3-9500-482e-89f9-aed30c25cf31.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://www.youtube.com/watch?v=BGexHR1tuOA&ab_channel=Vercel" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155694629-eeb34e01-68ff-40ad-b9f9-e7af0fd2c6aa.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In 2013, a group of Google employees were inspired by Docker's open source success and saw a need for innovation in large-scale cloud computing, so they began development on the container orchestrator that would later become Kubernetes.</p>
+          <p style="font-size: 14px;">Next.js 12.1 adds on-demand ISR, styled-components and Relay support, zero-config Jest, and more pn their latest update.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+      <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=lheapd7bgLA&ab_channel=Kurzgesagt%E2%80%93InaNutshell" target="_blank" style="color: #3498DB; text-decoration: none;">What Happens if the Moon Crashes into Earth?
+
+ </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://www.youtube.com/watch?v=lheapd7bgLA&ab_channel=Kurzgesagt%E2%80%93InaNutshell" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155698349-c72b7259-7847-4826-908a-fe6f187f5ff1.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">What if the moon collides with the planet? It's a lot more interesting and strange than you might assume. Let's start at the beginning: Why isn't the Moon already on its way to collide with us? To understand more about it, watch this video.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -209,14 +224,16 @@
       </mj-column>
     </mj-section>
     <!-- -->
-    <mj-section>
+     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" target="_blank" style="color: #3498DB; text-decoration: none;">How to attract more Contributors to your Projects by Rizel </a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Contributor Roadmaps for Docz, Typesense and MobSF !
+            </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155067339-a881990a-9ba2-412d-be3b-dfd7442302d9.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154935474-838c9c4e-6da9-4a8a-9433-ea21f34dbf4f.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Rizel Scarlett, Github Developer Advocate talks about engaging and onboarding more contributors to open source projects. RSVP now! </p>
+          <p style="font-size: 14px;">Structured roadmaps to help you contribute more effectively to open source projects. The contributor roadmap for MobSF, Docz, and Typesense is now live!
+</p>
         </mj-text>
       </mj-column>
     </mj-section>
