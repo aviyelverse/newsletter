@@ -11,7 +11,7 @@
   <mj-body>
     <mj-section padding="10px 0px">
       <mj-column width="60%">
-        <mj-text font-size="10px" font-weight="400" align="center">Hii [[data:firstname:”there”]] !, your bimonthly Aviyel newsletter has arrived.</mj-text>
+        <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
         <mj-image align="center" target="_blank" width="100px" href="" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
@@ -19,10 +19,13 @@
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px">Hi [[data:firstname:”there”]]!, your weekly Aviyel newsletter has arrived.</mj-text>
+      </mj-column>
       <mj-column width="100%">
         <mj-text align="center" font-size="15px"></mj-text>
       </mj-column>
@@ -31,16 +34,13 @@
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #7 - March</mj-text>
         <mj-divider width="90%" border-width="2px" border-color="#8661d1"></mj-divider>
-       
-      <mj-image width="220px" padding-top="0" padding-bottom="0px" href="" border-radius="120px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
-
+        <mj-image target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
       <mj-column width="100%">
         <mj-text align="center">
-          <p>Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities.
-          </p>
+          <p>Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -53,87 +53,66 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
-    
-     <!--  -->
-
+    <!--  -->
     <mj-section>
-       <mj-column width="25%">
+      <mj-column width="25%">
         <mj-image width="150px" padding-right="0px" target="_blank" href="https://www.programmingbooks.dev/" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155657513-fae776e6-2809-4813-8b41-71074a2b86c9.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.programmingbooks.dev/" style="color: #3498DB; text-decoration: none">Curated Reading List for programming books for developers.
-            </a> </h3>
-          <p style="font-size: 14px">This list is more of a suggestion for what programming books to read and in what sequence to read them and how to get started with them.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.programmingbooks.dev/" style="color: #3498DB; text-decoration: none">Curated Reading List for programming books for developers. </a> </h3>
+          <p style="font-size: 14px">This list is more of a suggestion for what programming books to read and in what sequence to read them and how to get started with them. </p>
         </mj-text>
       </mj-column>
-     
     </mj-section>
-       <!--  -->
-   
-      <!--  -->
-
+    <!--  -->
+    <!--  -->
     <mj-section>
-       <mj-column width="25%">
+      <mj-column width="25%">
         <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155658406-0834eafa-51c7-43ca-81aa-2363121ff095.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://enterprisersproject.com/article/2022/2/4-common-misunderstandings-about-enterprise-open-source-software" style="color: #3498DB; text-decoration: none">Four common misunderstandings about enterprise open source software
-            </a> </h3>
-          <p style="font-size: 14px">The strategy for using open source in the enterprise has evolved. However, as IT professionals debate and plan usage and strategy in their organizations, they may come across these issues.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://enterprisersproject.com/article/2022/2/4-common-misunderstandings-about-enterprise-open-source-software" style="color: #3498DB; text-decoration: none">Four common misunderstandings about enterprise open source software </a> </h3>
+          <p style="font-size: 14px">The strategy for using open source in the enterprise has evolved. However, as IT professionals debate and plan usage and strategy in their organizations, they may come across these issues. </p>
         </mj-text>
       </mj-column>
-     
     </mj-section>
-       <!--  -->
-      <!--  -->
-
+    <!--  -->
+    <!--  -->
     <mj-section>
-       <mj-column width="25%">
+      <mj-column width="25%">
         <mj-image width="150px" padding-right="0px" target="_blank" href="https://begriffs.com/posts/2018-11-15-c-portability.html" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155659405-aea7fc88-fb89-4bce-ac11-97a90b78b061.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://begriffs.com/posts/2018-11-15-c-portability.html" style="color: #3498DB; text-decoration: none">C Portability Lessons from Weird Machines
-            </a> </h3>
-          <p style="font-size: 14px"> This article will take you on a journey from 4-bit microcontrollers to room-sized mainframes, and how porting C to each of them helped people separate the language's essence.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://begriffs.com/posts/2018-11-15-c-portability.html" style="color: #3498DB; text-decoration: none">C Portability Lessons from Weird Machines </a> </h3>
+          <p style="font-size: 14px"> This article will take you on a journey from 4-bit microcontrollers to room-sized mainframes, and how porting C to each of them helped people separate the language's essence. </p>
         </mj-text>
       </mj-column>
-     
     </mj-section>
-       <!--  -->
-     <!--  -->
-
+    <!--  -->
+    <!--  -->
     <mj-section>
-       <mj-column width="25%">
+      <mj-column width="25%">
         <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155502482-3a36941c-aefa-4284-9b19-66eceb1c16e8.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://opensource.org/redhat-moving-from-a-proprietary-to-an-open-source-culture" style="color: #3498DB; text-decoration: none">Red Hat: Moving from a proprietary to an open source culture
-
-            </a> </h3>
-          <p style="font-size: 14px">Open source software is used in a variety of creative and interesting ways all across the world, and who better to communicate the details of new use cases than the practitioners themselves? Guests who expressed their open source tales during POSI, are featured in this blog series. More practical open source stories can be found here.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://opensource.org/redhat-moving-from-a-proprietary-to-an-open-source-culture" style="color: #3498DB; text-decoration: none">Red Hat: Moving from a proprietary to an open source culture </a> </h3>
+          <p style="font-size: 14px">Open source software is used in a variety of creative and interesting ways all across the world, and who better to communicate the details of new use cases than the practitioners themselves? Guests who expressed their open source tales during POSI, are featured in this blog series. More practical open source stories can be found here. </p>
         </mj-text>
       </mj-column>
-     
     </mj-section>
-       <!--  -->
-  
-       <!-- DIVIDER LINE -->
+    <!--  -->
+    <!-- DIVIDER LINE -->
     <mj-section padding-top="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
       </mj-column>
     </mj-section>
-       <!-- ------ -->
-    
-      <!-- Watch -->
+    <!-- ------ -->
+    <!-- Watch -->
     <mj-section>
       <mj-column width="100%">
         <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#WATCH</mj-text>
@@ -142,12 +121,11 @@
     </mj-section>
     <mj-section>
     </mj-section>
-      <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3s3HafC" target="_blank" style="color: #3498DB; text-decoration: none;">Kubernetes: The Documentary [Part - 1]
-            </a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3s3HafC" target="_blank" style="color: #3498DB; text-decoration: none;">Kubernetes: The Documentary [Part - 1] </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3s3HafC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155083570-421dbda3-9500-482e-89f9-aed30c25cf31.gif"></mj-image>
         <mj-text padding-top="0">
@@ -155,10 +133,9 @@
         </mj-text>
       </mj-column>
     </mj-section>
-     <!--  -->
-    
-       <!-- ------ -->
-      <!-- Code -->
+    <!--  -->
+    <!-- ------ -->
+    <!-- Code -->
     <mj-section>
       <mj-column width="100%">
         <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
@@ -167,50 +144,44 @@
     </mj-section>
     <mj-section>
     </mj-section>
-      <!--  -->
-    
-      <mj-section>
+    <!--  -->
+    <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://github.com/gristlabs/grist-core" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155657991-175e3a2b-615e-43b9-8250-20353e92f926.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://github.com/gristlabs/grist-core" target="_blank" style="color: #3498DB; text-decoration: none">Grist: a modern relational spreadsheet</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">A relational spreadsheet with a modern twist which organizes the data and makes it even more productive by combining the flexibility of a spreadsheet with the robustness of the database.
-          </p>
+          <p style="font-size: 14px;padding-top:0px;">A relational spreadsheet with a modern twist which organizes the data and makes it even more productive by combining the flexibility of a spreadsheet with the robustness of the database. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-<!--  -->
     <!--  -->
-      <mj-section>
+    <!--  -->
+    <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://www.smashingmagazine.com/2022/02/develop-text-editor-web/" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155664261-da3925d0-3230-491c-abec-dc5eca690e5a.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://www.smashingmagazine.com/2022/02/develop-text-editor-web/" target="_blank" style="color: #3498DB; text-decoration: none">How To Develop A Text Editor For The Web
-</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">How do you type and edit content on the internet? Although this method appears to be simple, there is a lot of technical depth hidden behind the surface. This article examines how typing on web works.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://www.smashingmagazine.com/2022/02/develop-text-editor-web/" target="_blank" style="color: #3498DB; text-decoration: none">How To Develop A Text Editor For The Web </a></h3>
+          <p style="font-size: 14px;padding-top:0px;">How do you type and edit content on the internet? Although this method appears to be simple, there is a lot of technical depth hidden behind the surface. This article examines how typing on web works. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-<!--  -->
-      <mj-section>
+    <!--  -->
+    <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://github.com/automerge/automerge" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155661742-edc0d586-f7c3-4785-97e2-4aa9df3837c9.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://github.com/automerge/automerge" target="_blank" style="color: #3498DB; text-decoration: none">Automerge</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Automerge: A JavaScript library of data structures that can be used to create collaborative application.
-          </p>
+          <p style="font-size: 14px;padding-top:0px;">Automerge: A JavaScript library of data structures that can be used to create collaborative application. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-<!--  -->
-  
+    <!--  -->
     <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155508062-6902f1f4-265d-4bbe-8246-209ccacf9045.png"></mj-image>
@@ -218,51 +189,45 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/" target="_blank" style="color: #3498DB; text-decoration: none">How to Rock the Coding Interview </a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Yangshun Tay went through some coding interviews in 2017 and received offers from a number of prominent tech companies. He will share what he learned throughout that time in this article.
-          </p>
+          <p style="font-size: 14px;padding-top:0px;">Yangshun Tay went through some coding interviews in 2017 and received offers from a number of prominent tech companies. He will share what he learned throughout that time in this article. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-<!--  -->
- 
-   <!-- DIVIDER LINE -->
+    <!--  -->
+    <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
       </mj-column>
     </mj-section>
-       <!-- ------ -->
-      <!-- Event -->
+    <!-- ------ -->
+    <!-- Event -->
     <mj-section>
       <mj-column width="100%">
         <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
       </mj-column>
     </mj-section>
-
     <!-- -->
- <mj-section>
+    <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" target="_blank" style="color: #3498DB; text-decoration: none;">How to attract more Contributors to your Projects by Rizel
-            </a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" target="_blank" style="color: #3498DB; text-decoration: none;">How to attract more Contributors to your Projects by Rizel </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/294/how-to-attract-more-contributors-to-your-projects-by-rizel?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_294" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155067339-a881990a-9ba2-412d-be3b-dfd7442302d9.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Rizel Scarlett, Github Developer Advocate talks about engaging and onboarding more contributors to open source projects. RSVP now!
-</p>
+          <p style="font-size: 14px;">Rizel Scarlett, Github Developer Advocate talks about engaging and onboarding more contributors to open source projects. RSVP now! </p>
         </mj-text>
       </mj-column>
     </mj-section>
- <!-- DIVIDER LINE -->
+    <!-- DIVIDER LINE -->
     <mj-section padding-top="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
       </mj-column>
     </mj-section>
-       <!-- ------ -->
-    
-      <!-- NEWS -->
+    <!-- ------ -->
+    <!-- NEWS -->
     <mj-section>
       <mj-column width="100%">
         <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#NEWS</mj-text>
@@ -277,10 +242,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://techcrunch.com/2022/02/24/russia-ukraine/" style="color: #3498DB; text-decoration: none">How the tech industry is responding to Russia’s invasion of Ukraine
-            </a> </h3>
-          <p style="font-size: 14px">Learn more about the latest and greatest news and analysis from the tech and startup community on the ongoing russia-Ukraine war.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://techcrunch.com/2022/02/24/russia-ukraine/" style="color: #3498DB; text-decoration: none">How the tech industry is responding to Russia’s invasion of Ukraine </a> </h3>
+          <p style="font-size: 14px">Learn more about the latest and greatest news and analysis from the tech and startup community on the ongoing russia-Ukraine war. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -288,15 +251,13 @@
       </mj-column>
     </mj-section>
     <!--  -->
-     <!--  -->
+    <!--  -->
     </mj-raw>
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.bbc.com/news/uk-60387324" style="color: #3498DB; text-decoration: none">Jobfished: the con that tricked dozens into working for a fake design agency
-            </a> </h3>
-          <p style="font-size: 14px">Dozens of young individuals were duped into thinking they worked for a prestigious UK design firm that didn't exist.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.bbc.com/news/uk-60387324" style="color: #3498DB; text-decoration: none">Jobfished: the con that tricked dozens into working for a fake design agency </a> </h3>
+          <p style="font-size: 14px">Dozens of young individuals were duped into thinking they worked for a prestigious UK design firm that didn't exist. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -304,14 +265,12 @@
       </mj-column>
     </mj-section>
     <!--  -->
-   <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.fastcompany.com/90715936/the-fascinating-design-story-behind-the-new-maya-angelou-quarters" style="color: #3498DB; text-decoration: none">The fascinating design story behind the new Maya Angelou quarters
-            </a> </h3>
-          <p style="font-size: 14px">How to decipher the meaning of an illustration honoring Maya Angelou's impact and legacy.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.fastcompany.com/90715936/the-fascinating-design-story-behind-the-new-maya-angelou-quarters" style="color: #3498DB; text-decoration: none">The fascinating design story behind the new Maya Angelou quarters </a> </h3>
+          <p style="font-size: 14px">How to decipher the meaning of an illustration honoring Maya Angelou's impact and legacy. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -319,14 +278,12 @@
       </mj-column>
     </mj-section>
     <!--  -->
-<!--  -->
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://web.dev/ui-fund/" style="color: #3498DB; text-decoration: none">The UI fund
-            </a> </h3>
-          <p style="font-size: 14px">Chrome has announced the UI fund, which will award grants to people who work on design tools, CSS, and HTML.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://web.dev/ui-fund/" style="color: #3498DB; text-decoration: none">The UI fund </a> </h3>
+          <p style="font-size: 14px">Chrome has announced the UI fund, which will award grants to people who work on design tools, CSS, and HTML. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -334,14 +291,13 @@
       </mj-column>
     </mj-section>
     <!--  -->
-      <!-- DIVIDER LINE -->
+    <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
       </mj-column>
     </mj-section>
-       <!-- ------ -->
-   
+    <!-- ------ -->
     <mj-raw>
       <!-- Learn -->
     </mj-raw>
@@ -353,135 +309,118 @@
     </mj-section>
     <mj-section>
     </mj-section>
-  <!--  -->
+    <!--  -->
     </mj-raw>
-
     <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://refind.com/" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155678496-939eb925-b879-4eb2-a6b3-e530dacd5152.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://refind.com/" target="_blank" style="color: #3498DB; text-decoration: none">Get smarter every day
-</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Thousands of people use Refind to start their day. The top five most relevant links from around the web, personalized for you. Register for absolutely free of charge!
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://refind.com/" target="_blank" style="color: #3498DB; text-decoration: none">Get smarter every day </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Thousands of people use Refind to start their day. The top five most relevant links from around the web, personalized for you. Register for absolutely free of charge! </p>
         </mj-text>
       </mj-column>
     </mj-section>
-<!--  -->
-<mj-section>
+    <!--  -->
+    <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://designcode.io/react" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155680325-94b61ddb-402a-4def-91f5-24eb9f25eab1.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://designcode.io/react" target="_blank" style="color: #3498DB; text-decoration: none">React for Designers
-</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">A 6-hour React course for designers to learn how to construct a modern site with React and the most efficient libraries to get your site/product up. In addition, get 50 hours of video training on how to design and build modern apps.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://designcode.io/react" target="_blank" style="color: #3498DB; text-decoration: none">React for Designers </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">A 6-hour React course for designers to learn how to construct a modern site with React and the most efficient libraries to get your site/product up. In addition, get 50 hours of video training on how to design and build modern apps. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-<!--  -->
-<mj-section>
+    <!--  -->
+    <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://bit.ly/3LYj2D6" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155684640-49d5f1cc-eaf8-4776-8c14-77ba0482b870.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LYj2D6" target="_blank" style="color: #3498DB; text-decoration: none">The Ultimate Guide to Becoming Designer Without Going To Design School
-</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LYj2D6" target="_blank" style="color: #3498DB; text-decoration: none">The Ultimate Guide to Becoming Designer Without Going To Design School </a> </h3>
           <p style="font-size: 14px;padding-top:0px;">This post is divided into multiple parts and will lead you through The Comprehensive Guide towards Becoming a Designer Without Attending Design School.
         </mj-text>
       </mj-column>
     </mj-section>
-<!--  -->
-      <!-- DIVIDER LINE -->
+    <!--  -->
+    <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
       </mj-column>
     </mj-section>
-       <!-- ------ -->
-   
-      <!-- Fun -->
+    <!-- ------ -->
+    <!-- Fun -->
     <mj-section>
       <mj-column width="100%">
         <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#FUN</mj-text>
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="60px"></mj-divider>
       </mj-column>
     </mj-section>
-   <!--  -->
-   
-      <!--  -->
+    <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://store.steampowered.com/news/app/975370/view/3099043827445055732" style="color: #3498DB; text-decoration: none">Release Roadmap 🖥 Dwarf Fortress Steam Updates
-            </a> </h3>
-          <p style="font-size: 14px">A comprehensive plan for the next several months of development of dwarf fortress, from start to all the way up to the release.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://store.steampowered.com/news/app/975370/view/3099043827445055732" style="color: #3498DB; text-decoration: none">Release Roadmap 🖥 Dwarf Fortress Steam Updates </a> </h3>
+          <p style="font-size: 14px">A comprehensive plan for the next several months of development of dwarf fortress, from start to all the way up to the release. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://store.steampowered.com/news/app/975370/view/3099043827445055732" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155685891-ed564fce-a5de-4024-8750-5e1e573f82be.gif"></mj-image>
       </mj-column>
     </mj-section>
- <!--  -->
+    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://focus.hteumeuleu.com/" style="color: #3498DB; text-decoration: none">Hocus: Focus
-            </a> </h3>
-          <p style="font-size: 14px">A horror game with a keyboard navigation system. Locate the pumpkin.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://focus.hteumeuleu.com/" style="color: #3498DB; text-decoration: none">Hocus: Focus </a> </h3>
+          <p style="font-size: 14px">A horror game with a keyboard navigation system. Locate the pumpkin. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://focus.hteumeuleu.com/" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155686752-160a70bf-4265-46f6-8dce-b1a2d55fafaf.png"></mj-image>
       </mj-column>
     </mj-section>
- <!--  -->
+    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://healeycodes.com/doom-rendered-via-checkboxes" style="color: #3498DB; text-decoration: none">DOOM Rendered via Checkboxes
-            </a> </h3>
-          <p style="font-size: 14px">Learn more on how to Andrew Healey was able to make a DOOM replica entirely with the use of 16000 HTML checkboxes and web assembly.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://healeycodes.com/doom-rendered-via-checkboxes" style="color: #3498DB; text-decoration: none">DOOM Rendered via Checkboxes </a> </h3>
+          <p style="font-size: 14px">Learn more on how to Andrew Healey was able to make a DOOM replica entirely with the use of 16000 HTML checkboxes and web assembly. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://healeycodes.com/doom-rendered-via-checkboxes" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155687820-bb85c54a-db00-4eb7-bfce-677aa901e90f.png"></mj-image>
       </mj-column>
     </mj-section>
- <!--  -->
+    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.fastcompany.com/90648821/how-assassins-creed-is-bolstering-tourism-in-ireland-italy-and-beyond" style="color: #3498DB; text-decoration: none">How Assassin’s Creed is bolstering tourism in Ireland, Italy, and beyond
-            </a> </h3>
-          <p style="font-size: 14px">It's all about escaping reality with the help of video games. Learn more on How they're now being used to promote real-life getaways.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.fastcompany.com/90648821/how-assassins-creed-is-bolstering-tourism-in-ireland-italy-and-beyond" style="color: #3498DB; text-decoration: none">How Assassin’s Creed is bolstering tourism in Ireland, Italy, and beyond </a> </h3>
+          <p style="font-size: 14px">It's all about escaping reality with the help of video games. Learn more on How they're now being used to promote real-life getaways. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://www.fastcompany.com/90648821/how-assassins-creed-is-bolstering-tourism-in-ireland-italy-and-beyond" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155688881-0a13b0d0-0e32-42a7-a550-0691606b8317.gif"></mj-image>
       </mj-column>
     </mj-section>
- <!--  -->
-   
-     <!-- DIVIDER LINE -->
+    <!--  -->
+    <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
       </mj-column>
     </mj-section>
-       <!-- ------ -->
+    <!-- ------ -->
     <mj-raw>
       <!-- Last line -->
     </mj-raw>
@@ -496,15 +435,9 @@
     <mj-raw>
       <!-- Test -->
     </mj-raw>
-   <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px"  text-align="center" >
-   <mj-column width="100%">
-        <mj-image
-          align="center"
-          width="110px"
-          href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_23"
-          target="_blank"
-          src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"
-        ></mj-image>
+    <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
+      <mj-column width="100%">
+        <mj-image align="center" width="110px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_23" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="25px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
@@ -524,9 +457,7 @@
     <mj-section>
       <mj-column>
         <mj-text font-size="12px" align="center">
-          <p>
-            This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>.
-          </p>
+          <p> This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>. </p>
         </mj-text>
       </mj-column>
     </mj-section>
