@@ -105,10 +105,10 @@
       </mj-column>
     </mj-section>
     <!--  -->
-    <!-- DIVIDER LINE -->
-    <mj-section padding-top="0px">
+      <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
       <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ------ -->
