@@ -397,12 +397,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://store.steampowered.com/news/app/975370/view/3099043827445055732" style="color: #3498DB; text-decoration: none">Release Roadmap 🖥 Dwarf Fortress Steam Updates </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3C51jpe" style="color: #3498DB; text-decoration: none">Release Roadmap 🖥 Dwarf Fortress Steam Updates </a> </h3>
           <p style="font-size: 14px">A comprehensive plan for the next several months of development of dwarf fortress, from start to all the way up to the release. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://store.steampowered.com/news/app/975370/view/3099043827445055732" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155685891-ed564fce-a5de-4024-8750-5e1e573f82be.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3C51jpe" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155685891-ed564fce-a5de-4024-8750-5e1e573f82be.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -410,25 +410,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://focus.hteumeuleu.com/" style="color: #3498DB; text-decoration: none">Hocus: Focus </a> </h3>
-          <p style="font-size: 14px">A horror game with a keyboard navigation system. Locate the pumpkin. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://focus.hteumeuleu.com/" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155686752-160a70bf-4265-46f6-8dce-b1a2d55fafaf.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://healeycodes.com/doom-rendered-via-checkboxes" style="color: #3498DB; text-decoration: none">DOOM Rendered via Checkboxes </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3C2YJQq" style="color: #3498DB; text-decoration: none">DOOM Rendered via Checkboxes </a> </h3>
           <p style="font-size: 14px">Learn more on how to Andrew Healey was able to make a DOOM replica entirely with the use of 16000 HTML checkboxes and web assembly. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://healeycodes.com/doom-rendered-via-checkboxes" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155687820-bb85c54a-db00-4eb7-bfce-677aa901e90f.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3C2YJQq" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155687820-bb85c54a-db00-4eb7-bfce-677aa901e90f.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -436,12 +423,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.fastcompany.com/90648821/how-assassins-creed-is-bolstering-tourism-in-ireland-italy-and-beyond" style="color: #3498DB; text-decoration: none">How Assassin’s Creed is bolstering tourism in Ireland, Italy, and beyond </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/35kdNx5" style="color: #3498DB; text-decoration: none">How Assassin’s Creed is bolstering tourism in Ireland, Italy, and beyond </a> </h3>
           <p style="font-size: 14px">It's all about escaping reality with the help of video games. Learn more on How they're now being used to promote real-life getaways. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://www.fastcompany.com/90648821/how-assassins-creed-is-bolstering-tourism-in-ireland-italy-and-beyond" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155688881-0a13b0d0-0e32-42a7-a550-0691606b8317.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/35kdNx5" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155688881-0a13b0d0-0e32-42a7-a550-0691606b8317.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
