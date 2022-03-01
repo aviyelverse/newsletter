@@ -227,12 +227,26 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Contributor Roadmaps for Docz, Typesense and MobSF !
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Developing Technology with a Focus on Inclusion & Diversity!
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/154935474-838c9c4e-6da9-4a8a-9433-ea21f34dbf4f.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156127716-e6378085-4689-4060-888a-ac1da59605f9.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Structured roadmaps to help you contribute more effectively to open source projects. The contributor roadmap for MobSF, Docz, and Typesense is now live!
+          <p style="font-size: 14px;">In this session, Chinmayi will speak about the existing biases in technology development and what we can do as individuals involved in building technology at each stage of the product!
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+     <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Developing Technology with a Focus on Inclusion & Diversity!
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156129740-7e56890b-dcec-4283-a3e9-300297a3af03.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this session of the Contributor Roadmap Series, Farhan Chowdhury, Software Engineer at freeCodeCamp will introduce the explorers to Typesense and tell us about the amazing things that can be built using the same.
 </p>
         </mj-text>
       </mj-column>
