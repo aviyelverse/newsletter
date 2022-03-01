@@ -56,11 +56,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://www.programmingbooks.dev/" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155657513-fae776e6-2809-4813-8b41-71074a2b86c9.gif"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3K4cwsH" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155657513-fae776e6-2809-4813-8b41-71074a2b86c9.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.programmingbooks.dev/" style="color: #3498DB; text-decoration: none">Curated Reading List for programming books for developers. </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3K4cwsH" style="color: #3498DB; text-decoration: none">Curated Reading List for programming books for developers. </a> </h3>
           <p style="font-size: 14px">This list is more of a suggestion for what programming books to read and in what sequence to read them and how to get started with them. </p>
         </mj-text>
       </mj-column>
@@ -69,11 +69,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155658406-0834eafa-51c7-43ca-81aa-2363121ff095.gif"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://red.ht/3vr1MjY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155658406-0834eafa-51c7-43ca-81aa-2363121ff095.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://enterprisersproject.com/article/2022/2/4-common-misunderstandings-about-enterprise-open-source-software" style="color: #3498DB; text-decoration: none">Four common misunderstandings about enterprise open source software </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://red.ht/3vr1MjY" style="color: #3498DB; text-decoration: none">Four common misunderstandings about enterprise open source software </a> </h3>
           <p style="font-size: 14px">The strategy for using open source in the enterprise has evolved. However, as IT professionals debate and plan usage and strategy in their organizations, they may come across these issues. </p>
         </mj-text>
       </mj-column>
@@ -82,11 +82,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://begriffs.com/posts/2018-11-15-c-portability.html" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155659405-aea7fc88-fb89-4bce-ac11-97a90b78b061.gif"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3psek6T" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155659405-aea7fc88-fb89-4bce-ac11-97a90b78b061.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://begriffs.com/posts/2018-11-15-c-portability.html" style="color: #3498DB; text-decoration: none">C Portability Lessons from Weird Machines </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3psek6T" style="color: #3498DB; text-decoration: none">C Portability Lessons from Weird Machines </a> </h3>
           <p style="font-size: 14px"> This article will take you on a journey from 4-bit microcontrollers to room-sized mainframes, and how porting C to each of them helped people separate the language's essence. </p>
         </mj-text>
       </mj-column>
@@ -95,11 +95,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3BBrC60" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155502482-3a36941c-aefa-4284-9b19-66eceb1c16e8.gif"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3hskAHG" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155502482-3a36941c-aefa-4284-9b19-66eceb1c16e8.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://opensource.org/redhat-moving-from-a-proprietary-to-an-open-source-culture" style="color: #3498DB; text-decoration: none">Red Hat: Moving from a proprietary to an open source culture </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3hskAHG" style="color: #3498DB; text-decoration: none">Red Hat: Moving from a proprietary to an open source culture </a> </h3>
           <p style="font-size: 14px">Open source software is used in a variety of creative and interesting ways all across the world, and who better to communicate the details of new use cases than the practitioners themselves? Guests who expressed their open source tales during POSI, are featured in this blog series. More practical open source stories can be found here. </p>
         </mj-text>
       </mj-column>
@@ -125,10 +125,10 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=BGexHR1tuOA&ab_channel=Vercel" target="_blank" style="color: #3498DB; text-decoration: none;">Next.js 12.1: Introducing On-Demand Incremental Static Regeneration
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3IzTryb" target="_blank" style="color: #3498DB; text-decoration: none;">Next.js 12.1: Introducing On-Demand Incremental Static Regeneration
  </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://www.youtube.com/watch?v=BGexHR1tuOA&ab_channel=Vercel" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155694629-eeb34e01-68ff-40ad-b9f9-e7af0fd2c6aa.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3IzTryb" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155694629-eeb34e01-68ff-40ad-b9f9-e7af0fd2c6aa.gif"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">Next.js 12.1 adds on-demand ISR, styled-components and Relay support, zero-config Jest, and more pn their latest update.</p>
         </mj-text>
@@ -138,11 +138,11 @@
       <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://www.youtube.com/watch?v=lheapd7bgLA&ab_channel=Kurzgesagt%E2%80%93InaNutshell" target="_blank" style="color: #3498DB; text-decoration: none;">What Happens if the Moon Crashes into Earth?
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3C3KnPN" target="_blank" style="color: #3498DB; text-decoration: none;">What Happens if the Moon Crashes into Earth?
 
  </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://www.youtube.com/watch?v=lheapd7bgLA&ab_channel=Kurzgesagt%E2%80%93InaNutshell" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155698349-c72b7259-7847-4826-908a-fe6f187f5ff1.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3C3KnPN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155698349-c72b7259-7847-4826-908a-fe6f187f5ff1.gif"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">What if the moon collides with the planet? It's a lot more interesting and strange than you might assume. Let's start at the beginning: Why isn't the Moon already on its way to collide with us? To understand more about it, watch this video.</p>
         </mj-text>
@@ -227,10 +227,10 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Developing Technology with a Focus on Inclusion & Diversity!
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/316/developing-technology-with-a-focus-on-inclusion-diversity?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_316" target="_blank" style="color: #3498DB; text-decoration: none;">Developing Technology with a Focus on Inclusion & Diversity!
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156127716-e6378085-4689-4060-888a-ac1da59605f9.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/316/developing-technology-with-a-focus-on-inclusion-diversity?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_316" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156127716-e6378085-4689-4060-888a-ac1da59605f9.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">In this session, Chinmayi will speak about the existing biases in technology development and what we can do as individuals involved in building technology at each stage of the product!
 </p>
@@ -241,10 +241,10 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3I8gaBm" target="_blank" style="color: #3498DB; text-decoration: none;">Developing Technology with a Focus on Inclusion & Diversity!
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/318/getting-started-with-typesense?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_318" target="_blank" style="color: #3498DB; text-decoration: none;">Getting Started with Typesense!
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3I8gaBm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156129740-7e56890b-dcec-4283-a3e9-300297a3af03.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/318/getting-started-with-typesense?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_318" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156129740-7e56890b-dcec-4283-a3e9-300297a3af03.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">In this session of the Contributor Roadmap Series, Farhan Chowdhury, Software Engineer at freeCodeCamp will introduce the explorers to Typesense and tell us about the amazing things that can be built using the same.
 </p>
