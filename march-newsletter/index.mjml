@@ -24,7 +24,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="center" font-size="15px">Hi [[data:firstname:”there”]]!, here's a roundup of this week's tech news </mj-text>
+        <mj-text align="center" font-size="15px">Offbeat ideas just curated for you!</mj-text>
       </mj-column>
       <mj-column width="100%">
         <mj-text align="center" font-size="15px"></mj-text>
@@ -32,7 +32,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #7 - March</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #7 - March 5th</mj-text>
         <mj-divider width="90%" border-width="2px" border-color="#8661d1"></mj-divider>
         <mj-image target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
@@ -69,12 +69,12 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://red.ht/3vr1MjY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155658406-0834eafa-51c7-43ca-81aa-2363121ff095.gif"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3HElbjS" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156579041-10eb0fc5-f538-4655-ae5e-5d3978770173.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://newatlas.com/computers/quantum-computer-hybrid-atom-array/" style="color: #3498DB; text-decoration: none">Scientists Create 'Super'512 Qubits Quantum Computer Through Hybrid Atoms  </a> </h3>
-          <p style="font-size: 14px">University of Chicago have create a super quantum computer by combining atoms of two elements into an array, so that one type of atoms can be manipulated at a time without disturbing its neighbors. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3HElbjS" style="color: #3498DB; text-decoration: none">Quantum Computer Through Hybrid Atoms</a> </h3>
+          <p style="font-size: 14px" align="justify">University of Chicago have create a super quantum computer by combining atoms of two elements into an array, so that one type of atoms can be manipulated at a time without disturbing its neighbors. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -82,11 +82,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3psek6T" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155659405-aea7fc88-fb89-4bce-ac11-97a90b78b061.gif"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3IJCWje" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156581072-d2b606b7-b925-4817-bb2f-56e90eded3c0.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://arstechnica.com/gadgets/2022/02/new-roccat-mouse-lets-you-program-up-to-29-different-inputs/" style="color: #3498DB; text-decoration: none">How the New Roccat Mouse Can Program Upto 29 Different Inputs </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3IJCWje" style="color: #3498DB; text-decoration: none">How the New Roccat Mouse Can Program Upto 29 Different Inputs </a> </h3>
           <p style="font-size: 14px"> Roccat has launched its Kone XP mouse for gamers who loves 3D RGB lighting, a 4D mouse wheel and 15 different buttons to simulate around 29 inputs. </p>
         </mj-text>
       </mj-column>
@@ -95,11 +95,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3hskAHG" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155502482-3a36941c-aefa-4284-9b19-66eceb1c16e8.gif"></mj-image>
+        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3sFKcaq" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156581643-731f5cf9-6d48-434e-8197-5587f1cd37b9.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.theverge.com/2022/3/2/22958049/ucie-chiplet-standard-processors-soc-intel-tsmc-samsung-arm" style="color: #3498DB; text-decoration: none">Intel, AMD, and ARM Back a Universal Standard for Chiplets </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3sFKcaq" style="color: #3498DB; text-decoration: none">Intel, AMD, and ARM Back a Universal Standard for Chiplets </a> </h3>
           <p style="font-size: 14px">Intel, AMD, and Samsung will work together to establish an industry standard for advanced chip-packaging technologies. The move is just the beginning to create super powerful electronics devices. </p>
         </mj-text>
       </mj-column>
@@ -241,12 +241,12 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/318/getting-started-with-typesense?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_318" target="_blank" style="color: #3498DB; text-decoration: none;">Getting Started with Typesense!
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/329/ama-with-rachel-lawson-the-power-of-diversity-in-open-source-communities?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_329" target="_blank" style="color: #3498DB; text-decoration: none;">#AMA With Rachel Lawson! The Power of Diversity in Open Source Communities
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/318/getting-started-with-typesense?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_318" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156129740-7e56890b-dcec-4283-a3e9-300297a3af03.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/329/ama-with-rachel-lawson-the-power-of-diversity-in-open-source-communities?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_329" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156710206-dd7e7203-f8a1-42cb-8102-109013de4b17.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">The next episode in the Contributor Roadmap Series, Farhan Chowdhury, Software Engineer at freeCodeCamp introduces Typesense to contributor and how the search engine could easily fit in their programing schedules.
+          <p style="font-size: 14px;">Celebrating International Women's Day, we have Rachel Lawson of the Drupal Association. Tune in to hear how Drupal has built one of the most diverse Open Source Projects!
 </p>
         </mj-text>
       </mj-column>
