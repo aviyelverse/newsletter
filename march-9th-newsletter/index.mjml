@@ -160,7 +160,13 @@
       </mj-column>
     </mj-section>
     <!--  -->
-    
+       <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
     <!-- ------ -->
     <!-- Code -->
     <mj-section>
