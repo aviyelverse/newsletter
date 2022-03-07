@@ -11,4 +11,5 @@
 - [January 25th 2022](https://aviyelverse.github.io/newsletter/january-25th-newsletter/)
 - [February 9th 2022](https://aviyelverse.github.io/newsletter/february-9th-newsletter/)
 - [February 23rd 2022](https://aviyelverse.github.io/newsletter/february-23rd-newsletter/)
-- [March 5th 2022](https://aviyelverse.github.io/newsletter/march-newsletter/)
+- [March 5th 2022](https://aviyelverse.github.io/newsletter/march-5th-newsletter/)
+- [March 9th 2022](https://aviyelverse.github.io/newsletter/march-9th-newsletter/)
