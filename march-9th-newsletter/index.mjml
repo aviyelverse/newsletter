@@ -56,7 +56,7 @@
     <!--  -->
      <mj-section padding="0 20px 0px 0px">
      <mj-column width="50%">
-       <mj-image width="200px" href="https://bit.ly/3sL56oy" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156991039-08611f92-8e8e-474e-8d4c-b8fb0bc21d70.gif"></mj-image>
+       <mj-image width="180px" href="https://bit.ly/3sL56oy" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156991039-08611f92-8e8e-474e-8d4c-b8fb0bc21d70.gif"></mj-image>
         <mj-text align="justify">
            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3sL56oy" target="_blank" style="color: #3498DB; text-decoration: none">What to expect from Apple’s March event 
 </a></h3>
@@ -64,7 +64,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="50%">
-       <mj-image width="200px" href="https://bit.ly/3HNGlwd" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156990108-42f99452-45c2-4bc0-95fd-ed56603b779e.gif"></mj-image>
+       <mj-image width="180px" href="https://bit.ly/3HNGlwd" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156990108-42f99452-45c2-4bc0-95fd-ed56603b779e.gif"></mj-image>
         <mj-text align="center">
            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3HNGlwd" target="_blank" style="color: #3498DB; text-decoration: none">Classic User experience books from the 1980s
 </a></h3>
@@ -75,36 +75,33 @@
      
     </mj-section>
     <!-- -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3IQOOjA" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156987420-54ade12d-8ebe-4001-b49a-96528780de01.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
+     <!--  -->
+     <mj-section padding="0 20px 0px 0px">
+     <mj-column width="50%">
+       <mj-image width="180px" href="https://bit.ly/3IRLTXJ" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156992772-92a1abaa-f598-4857-938b-f63d6ddf7acc.gif"></mj-image>
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3IQOOjA" style="color: #3498DB; text-decoration: none">Computer Science Unleashed</a> </h3>
-          <p style="font-size: 14px">Excerpt from Wladston Ferreira Filho's new book, which explains all of the groundbreaking technologies that underpin the World Wide Web.</p>
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3IRLTXJ" target="_blank" style="color: #3498DB; text-decoration: none">Interop 2022: browsers collab for better web exp.
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;">Learn how all browser vendors and other stakeholders collaborated to solve the top browser compatibility issues.</p>
         </mj-text>
       </mj-column>
-    </mj-section>
-    <!--  -->
- <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-right="0px" target="_blank" href="https://bit.ly/3IRLTXJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156992772-92a1abaa-f598-4857-938b-f63d6ddf7acc.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text align="left">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3IRLTXJ" style="color: #3498DB; text-decoration: none" >Interop 2022: browsers working together to improve the web for developers
-</a> </h3>
-          <p style="font-size: 14px" align="justify">Learn how all browser vendors and other stakeholders collaborated to solve the top browser compatibility issues.</p>
+      <mj-column width="50%">
+       <mj-image width="180px" href="https://bit.ly/3IQOOjA" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156987420-54ade12d-8ebe-4001-b49a-96528780de01.gif"></mj-image>
+        <mj-text align="center">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3IQOOjA" target="_blank" style="color: #3498DB; text-decoration: none">Computer Science Unleashed
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Excerpt from Wladston Ferreira Filho's new book, which explains all of the groundbreaking technologies that underpin the World Wide Web.</p>
         </mj-text>
+        
       </mj-column>
+     
     </mj-section>
-    <!--  -->
+    <!-- -->
       <!--  -->
-      <!-- DIVIDER LINE -->
-    <mj-section padding="0px">
+   <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
       <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ------ -->
@@ -121,46 +118,44 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3IzTryb" target="_blank" style="color: #3498DB; text-decoration: none;">Next.js 12.1: Introducing On-Demand Incremental Static Regeneration
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3pJhGCK" target="_blank" style="color: #3498DB; text-decoration: none;">Build a WEB3 app to mint unlimited NFTs.
  </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3IzTryb" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155694629-eeb34e01-68ff-40ad-b9f9-e7af0fd2c6aa.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3pJhGCK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157000662-6abf23b3-d7a4-4f91-ac54-df25264baa17.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Next.js 12.1 adds on-demand ISR, styled-components and Relay support, zero-config Jest, and more pn their latest update.</p>
+          <p style="font-size: 14px;">Built a web3 dapp that can mint an unlimited quantity of NFTs. Learn how to build decentralized web apps with JavaScript using tools like Hardhat, Solidity, OpenZeppelin, React, Alchemy, and more.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section padding="0 20px 0px 20px">
      <mj-column width="50%">
-       <mj-image width="350px" href="https://bit.ly/3452Cb2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155698349-c72b7259-7847-4826-908a-fe6f187f5ff1.gif"></mj-image>
+       <mj-image width="350px" href="https://bit.ly/378Tjbg" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157005097-546b29b0-b3b4-4a95-a1be-1a48ee457792.gif"></mj-image>
         <mj-text align="left">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3452Cb2" target="_blank" style="color: #3498DB; text-decoration: none">What is Automerge?</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Automerge: A JavaScript library of data structures that can be used to create collaborative application. </p>
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/378Tjbg" target="_blank" style="color: #3498DB; text-decoration: none">Remix Tutorial with Kent C dods (6hrs tutorial)
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;"> Kent C Dods will be doing a live stream of the Remix tutorial, which you can follow along with.</p>
         </mj-text>
-        
       </mj-column>
-
       <mj-column width="50%">
-       <mj-image width="350px" href="https://bit.ly/3452Cb2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155698349-c72b7259-7847-4826-908a-fe6f187f5ff1.gif"></mj-image>
+       <mj-image width="350px" href="https://bit.ly/3ChJqU2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157015952-7ea26980-4b3d-4158-b2f8-629ea621664d.gif"></mj-image>
         <mj-text align="left">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3452Cb2" target="_blank" style="color: #3498DB; text-decoration: none">What is Automerge?</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Automerge: A JavaScript library of data structures that can be used to create collaborative application. </p>
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ChJqU2" target="_blank" style="color: #3498DB; text-decoration: none">DevOps with GitLab CI Course(5hrs tutorial).</a></h3>
+          <p style="font-size: 14px;padding-top:0px;">This course will teach you how to use GitLab CI to create CI/CD pipelines for building and deploying software to AWS.
+ </p>
         </mj-text>
-        
       </mj-column>
     </mj-section>
     <!--  -->
       <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3C3KnPN" target="_blank" style="color: #3498DB; text-decoration: none;">What Happens if the Moon Crashes into Earth?
-
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3IR3fnM" target="_blank" style="color: #3498DB; text-decoration: none;">Are There Lost Alien Civilizations in Our Past?
  </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3C3KnPN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155698349-c72b7259-7847-4826-908a-fe6f187f5ff1.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3IR3fnM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157011076-54642982-555b-4b6c-a890-ef62b1961ae0.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">What if the moon collides with the planet? It's a lot more interesting and strange than you might assume. Let's start at the beginning: Why isn't the moon already on its way to collide with us? To understand more about it, watch this video.</p>
+          <p style="font-size: 14px;">When we think of alien civilizations, we tend to imagine them in the vastness of space, on distant planets. But there is another incredibly vast dimension to which we may be paying insufficient attention: time. This video will teach you more about human history and alien civilizations.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -177,47 +172,19 @@
     <mj-section>
     </mj-section>
     <!--  -->
-
-    <mj-section padding="0 10px 30px 10px">
-     <mj-column width="50%">
-       <mj-image width="150px" href="https://bit.ly/3452Cb2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155661742-edc0d586-f7c3-4785-97e2-4aa9df3837c9.gif"></mj-image>
-        <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3452Cb2" target="_blank" style="color: #3498DB; text-decoration: none">What is Automerge?</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Automerge: A JavaScript library of data structures that can be used to create collaborative application. </p>
-        </mj-text>
-        
+ </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3txYlFD" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157017298-bde51df1-4433-4933-8a1c-416158c81c6f.gif"></mj-image>
       </mj-column>
-
-      <mj-column width="50%">
-       <mj-image width="150px" href="https://bit.ly/3452Cb2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155661742-edc0d586-f7c3-4785-97e2-4aa9df3837c9.gif"></mj-image>
-        <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3452Cb2" target="_blank" style="color: #3498DB; text-decoration: none">What is Automerge?</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Automerge: A JavaScript library of data structures that can be used to create collaborative application. </p>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3txYlFD" target="_blank" style="color: #3498DB; text-decoration: none">CSS As the backend 👀- introducing Cascading Server Sheets! </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Using CSS as a server-side language. That's right. Use CSS to declare routing, do maths, heck, even use CSS to do templating! </p>
         </mj-text>
-        
       </mj-column>
     </mj-section>
-    <!-- -->
- <mj-section padding="0 10px 30px 10px">
-     <mj-column width="50%">
-       <mj-image width="150px" href="https://bit.ly/3452Cb2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155661742-edc0d586-f7c3-4785-97e2-4aa9df3837c9.gif"></mj-image>
-        <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3452Cb2" target="_blank" style="color: #3498DB; text-decoration: none">What is Automerge?</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Automerge: A JavaScript library of data structures that can be used to create collaborative application. </p>
-        </mj-text>
-        
-      </mj-column>
-
-      <mj-column width="50%">
-       <mj-image width="150px" href="https://bit.ly/3452Cb2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155661742-edc0d586-f7c3-4785-97e2-4aa9df3837c9.gif"></mj-image>
-        <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3452Cb2" target="_blank" style="color: #3498DB; text-decoration: none">What is Automerge?</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Automerge: A JavaScript library of data structures that can be used to create collaborative application. </p>
-        </mj-text>
-        
-      </mj-column>
-    </mj-section>
-    <!-- -->
+    <!--  -->
     <!--  -->
     <!-- DIVIDER LINE -->
     <mj-section padding="0px">
