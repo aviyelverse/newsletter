@@ -33,8 +33,8 @@
     <mj-section>
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #7 - March 9th</mj-text>
-        <mj-divider width="90%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+        <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
+        <mj-image padding-top="10px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
@@ -185,6 +185,47 @@
       </mj-column>
     </mj-section>
     <!--  -->
+   <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3sORyZh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157019117-0555e1b6-7ba8-45f0-9970-a3025d3f610f.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3sORyZh" target="_blank" style="color: #3498DB; text-decoration: none">Replace JavaScript Dialogs With the New HTML Dialog Element
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Here's how to use the HTML dialog element to replace JavaScript dialogs that have the same functionality as the alert(), confirm(), and prompt() methods.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+   <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3HQ5OVR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157020096-15a55969-87a0-4630-a519-6e1054acdebc.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3HQ5OVR" target="_blank" style="color: #3498DB; text-decoration: none">Instanced Line Rendering Part I
+
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Learn how to draw lines in Two Dimension and Three Dimension using various joins and end caps.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+  <!--  -->
+   <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3hIk6gu" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157021635-4758c1c1-68ca-418a-8a58-4822a4b8f9c5.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3hIk6gu" target="_blank" style="color: #3498DB; text-decoration: none">Instanced Line Rendering Part II: Alpha blending
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Part one covered rendering lines with various joins and end caps in Two Dimension and Three Dimension, so this part will cover proper management of the instance geometry to support alpha blending..</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <!--  -->
     <!-- DIVIDER LINE -->
     <mj-section padding="0px">
@@ -204,8 +245,8 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/316/developing-technology-with-a-focus-on-inclusion-diversity?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_316" target="_blank" style="color: #3498DB; text-decoration: none;">Developing Technology with a Focus on Inclusion & Diversity!
-            </a> </h3>
+          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Redefined - Cal.com by Peer Richelsen
+            </a></h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/316/developing-technology-with-a-focus-on-inclusion-diversity?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_316" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156127716-e6378085-4689-4060-888a-ac1da59605f9.png"></mj-image>
         <mj-text padding-top="0">
