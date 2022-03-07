@@ -312,12 +312,13 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3tfrF3L" style="color: #3498DB; text-decoration: none">Tech Giants in the Middle of Ukraine- Russia War </a> </h3>
-          <p style="font-size: 14px">Apple has already stopped its sales in Russia. See how Google, Twitter, Meta and Telegram are caught between Ukraine, Russia, the EU and the US. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://wapo.st/3MsFmFg" style="color: #3498DB; text-decoration: none">This is how journalists figure out if all those Ukraine videos are real
+ </a> </h3>
+          <p style="font-size: 14px">Visual forensics allows reporters to pinpoint the location of images emerging from the conflict and verify their authenticity. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3tfrF3L" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155667666-1e93d7cd-3c6b-4620-ab4e-e0d9363371fe.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://wapo.st/3MsFmFg" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157029964-23385e6b-1ab3-48c0-9c85-3679ffbf35db.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -326,12 +327,25 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bbc.in/3vt1OYA" style="color: #3498DB; text-decoration: none">Jobfished: When a Dozen Workers were Conned into Working for a Fake Design Agency </a> </h3>
-          <p style="font-size: 14px">Dozens of young individuals were duped into thinking they worked for a prestigious UK design firm that didn't exist. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3sQ5DFP" style="color: #3498DB; text-decoration: none">The trolliest drop this year uses illegal logos from Coca-Cola, Walmart, Tesla, and Microsoft </a> </h3>
+          <p style="font-size: 14px">These unlicensed F1 jackets by creative studio MSCHF are bait to trademark attorneys everywhere.
+. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bbc.in/3vt1OYA" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155672373-409daeb1-b7ae-45b5-bfbb-f13d20b798c3.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3sQ5DFP" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157030651-48448b1b-c163-4801-a213-def581c92cfd.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3HOBkmU" style="color: #3498DB; text-decoration: none">Aston Martin to develop battery cell technology w/ Britishvolt</a> </h3>
+          <p style="font-size: 14px">Aston Martin, a British luxury car manufacturer, has signed a Memorandum of Understanding with Britishvolt, a company that develops lithium-ion battery cell technologies. This article will explain you everything you need to know about it. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3HOBkmU" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157032879-e15d0a31-a492-429b-a576-0c0913943fdb.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -339,25 +353,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3vuatds" style="color: #3498DB; text-decoration: none">The Fascinating Design Story behind the New Maya Angelou Quarters </a> </h3>
-          <p style="font-size: 14px">Deciphering the meaning of the recently out illustration honoring Maya Angelou's impact and legacy. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3IL2lJk" style="color: #3498DB; text-decoration: none">Ukraine Latest News on Live map </a> </h3>
+          <p style="font-size: 14px">A comprehensive overview of all incidents involving the Russia-Ukraine conflict, all inside a single map. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3vuatds" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155672699-13e68d4c-f591-484b-813b-15a0d13592d7.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3tdOyo6" style="color: #3498DB; text-decoration: none">The UI fund </a> </h3>
-          <p style="font-size: 14px">Chrome has announced the UI fund for all design fanatics, and CSS experts. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3tdOyo6/" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155674721-42c7f857-bbe9-42de-be88-365380ad85e1.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3IL2lJk" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157034162-a2e239ca-db85-4dfa-a9a1-1dadf4f84971.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -383,46 +384,52 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3stD6p5" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155678496-939eb925-b879-4eb2-a6b3-e530dacd5152.gif"></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src=""></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3stD6p5" target="_blank" style="color: #3498DB; text-decoration: none">Get Smarter Every Day </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Refind make sure you plug into the most relevant stories (optimised to your interest) before starting your day. The top five most relevant links from around the web, personalized for you. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none">pppointed ↓↳➜⇢ SVG arrow maker for all kinds of decorative arrow styles </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Refind . </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section>
+ <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3tluZKu" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155680325-94b61ddb-402a-4def-91f5-24eb9f25eab1.gif"></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src=""></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tluZKu" target="_blank" style="color: #3498DB; text-decoration: none">React for Designers </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">A 6-hour React course for designers to learn how to construct a modern site with React and the most efficient libraries to get your site/product up. In addition, get 50 hours of video training on how to design and build modern apps. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Get  </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Refind . </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section>
+ <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3LYj2D6" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/155684640-49d5f1cc-eaf8-4776-8c14-77ba0482b870.gif"></mj-image>
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src=""></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LYj2D6" target="_blank" style="color: #3498DB; text-decoration: none">The Ultimate Guide to Becoming Designer Without Going To Design School </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Want to explore designing but averse to joining a design school? Tune in to find the most comprehensive guide towards becoming a designer without any formal prerequisite.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Get  </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Refind . </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
-    <!-- DIVIDER LINE -->
-    <mj-section padding="0px">
-      <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+ <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src=""></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none">Get  </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Refind . </p>
+        </mj-text>
       </mj-column>
     </mj-section>
+    <!--  -->
     <!-- ------ -->
     <!-- Fun -->
     <mj-section>
