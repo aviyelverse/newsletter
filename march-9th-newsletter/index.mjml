@@ -270,7 +270,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3vLrcZJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157026556-5f55ad51-d2d5-41af-bc2b-5b4e037fb61e.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Catch us live on March 11th as the entire "Aviyel" Team takes the stage to discuss how we are reinventing  🔥 "OpenSource" with  "DAOs" and "Tokenization".
+          <p style="font-size: 14px;">Catch us live on March 11th as the entire Aviyel Team takes the stage to discuss how we are reinventing  🔥 OpenSource with DAOs and Tokenization.
 </p>
         </mj-text>
       </mj-column>
@@ -340,7 +340,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3HOBkmU" style="color: #3498DB; text-decoration: none">Aston Martin to develop battery cell technology w/ Britishvolt</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3HOBkmU" style="color: #3498DB; text-decoration: none">Aston Martin to develop battery cell technology with Britishvolt</a> </h3>
           <p style="font-size: 14px">Aston Martin has signed a Memorandum of Understanding with Britishvolt to develop lithium-ion battery cell technology. This article will explain you everything you need to know about it. </p>
         </mj-text>
       </mj-column>
@@ -445,16 +445,14 @@
      <mj-column width="50%">
        <mj-image width="250px" href="https://bit.ly/3vLz11N" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157188013-1b5524dd-64aa-4b2b-afdb-b1da6b667904.gif"></mj-image>
         <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3vLz11N" target="_blank" style="color: #3498DB; text-decoration: none">Netflix launches Trivia Quest, a daily trivia series </a></h3>
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3vLz11N" target="_blank" style="color: #3498DB; text-decoration: none">Netflix launches Trivia Quest, a Daily Trivia Series </a></h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">Much like Black Mirror: Bandersnatch or Cat Burglar, Trivia Quest is a narrative interactive experience, meaning each “win” will help move the story along. </p>
         </mj-text>
-        
       </mj-column>
-
       <mj-column width="50%">
        <mj-image width="250px" href="https://bit.ly/3pFVt8M" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157040875-42da517f-9808-46fb-a6ba-c76f0433ff41.png"></mj-image>
         <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pFVt8M" target="_blank" style="color: #3498DB; text-decoration: none">CSS Speedrun| Test your CSS skills</a></h3>
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pFVt8M" target="_blank" style="color: #3498DB; text-decoration: none">CSS Speedrun: Test your CSS skills</a></h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify"> Simple and entertaining app for testing your CSS knowledge. Find the correct CSS selectors for each of the ten puzzles as fast as possible. </p>
         </mj-text>
         
