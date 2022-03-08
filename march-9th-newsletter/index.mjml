@@ -58,17 +58,17 @@
      <mj-column width="50%">
        <mj-image width="180px" href="https://bit.ly/3sL56oy" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156991039-08611f92-8e8e-474e-8d4c-b8fb0bc21d70.gif"></mj-image>
         <mj-text align="justify">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3sL56oy" target="_blank" style="color: #3498DB; text-decoration: none">What to expect from Apple’s March event 
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://techcrunch.com/2022/03/07/googles-android-12l-officially-launches-will-come-to-select-devices-this-year/" target="_blank" style="color: #3498DB; text-decoration: none">Google’s officially launches Android 12L for select devices
 </a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Apple's first livestream event of 2022 will take place on Tuesday, March 8th. Learn more about the products that Apple will release.</p>
+          <p style="font-size: 14px;padding-top:0px;">Android 12L is highly compatible with tablet devices, offers visual and stability improvements. </p>
         </mj-text>
       </mj-column>
       <mj-column width="50%">
        <mj-image width="180px" href="https://bit.ly/3HNGlwd" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156990108-42f99452-45c2-4bc0-95fd-ed56603b779e.gif"></mj-image>
         <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3HNGlwd" target="_blank" style="color: #3498DB; text-decoration: none">Classic User experience books from the 1980s
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://mirror.xyz/0xB3f2b0001A4A82e6ed9Dab52224Da11788798cdd/Inu5I_nx6tE1CfIasHiQtXVanJEOuHF98Imdmt8scWI?utm_source=tldrnewsletter" target="_blank" style="color: #3498DB; text-decoration: none">Jumping from Web2 frameworks to Web3
 </a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Discover or revisit nine classic UX books from the 1980s written by Norman, Tufte, Shneiderman, and various other authors. </p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">A series of articles on how Web3 builders can use Web2 Growth frameworks to scale</p>
         </mj-text>
         
       </mj-column>
@@ -80,9 +80,9 @@
      <mj-column width="50%">
        <mj-image width="180px" href="https://bit.ly/3IRLTXJ" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156992772-92a1abaa-f598-4857-938b-f63d6ddf7acc.gif"></mj-image>
         <mj-text align="justify">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3IRLTXJ" target="_blank" style="color: #3498DB; text-decoration: none">Interop 2022: browsers collab for better web exp.
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://news.bitcoin.com/leaked-images-suggest-opensea-plans-to-add-solana-based-nft-support/?utm_source=tldrnewsletter" target="_blank" style="color: #3498DB; text-decoration: none">Opensea Might Add Solana-Based NFT Support Next 
 </a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Learn how all browser vendors and other stakeholders collaborated to solve the top browser compatibility issues.</p>
+          <p style="font-size: 14px;padding-top:0px;"> Tech blogger Jane Wong has discovered alleged images from Opensea indicating launch of Solana-based NFTs.</p>
         </mj-text>
       </mj-column>
       <mj-column width="50%">
@@ -90,7 +90,7 @@
         <mj-text align="center">
            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3IQOOjA" target="_blank" style="color: #3498DB; text-decoration: none">Computer Science Unleashed
 </a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Excerpt from Wladston Ferreira Filho's new book, which explains all of the groundbreaking technologies that underpin the World Wide Web.</p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Excerpt from Wladston Ferreira Filho's new book explaining the groundbreaking technology behind the WWW.</p>
         </mj-text>
         
       </mj-column>
@@ -118,12 +118,12 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3pJhGCK" target="_blank" style="color: #3498DB; text-decoration: none;">Build a WEB3 app to mint unlimited NFTs.
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3pJhGCK" target="_blank" style="color: #3498DB; text-decoration: none;">Build a WEB3 app to mint unlimited NFTs
  </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3pJhGCK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157000662-6abf23b3-d7a4-4f91-ac54-df25264baa17.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Built a web3 dapp that can mint an unlimited quantity of NFTs. Learn how to build decentralized web apps with JavaScript using tools like Hardhat, Solidity, OpenZeppelin, React, Alchemy, and more.</p>
+          <p style="font-size: 14px;">Built a web3 dapp to mint an unlimited quantity of NFTs. Learn how to build decentralized web apps with JavaScript using Hardhat, Solidity, OpenZeppelin, React, Alchemy, and more.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -132,16 +132,16 @@
      <mj-column width="50%">
        <mj-image width="350px" href="https://bit.ly/378Tjbg" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157005097-546b29b0-b3b4-4a95-a1be-1a48ee457792.gif"></mj-image>
         <mj-text align="left">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/378Tjbg" target="_blank" style="color: #3498DB; text-decoration: none">Remix Tutorial with Kent C dods (6hrs tutorial)
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/378Tjbg" target="_blank" style="color: #3498DB; text-decoration: none">Remix Tutorial with Kent C Dods (6hrs)
 </a></h3>
-          <p style="font-size: 14px;padding-top:0px;"> Kent C Dods will be doing a live stream of the Remix tutorial, which you can follow along with.</p>
+          <p style="font-size: 14px;padding-top:0px;"> Checkout Kent C Dods's recent tutorial for a smooth beginning with React. </p>
         </mj-text>
       </mj-column>
       <mj-column width="50%">
        <mj-image width="350px" href="https://bit.ly/3ChJqU2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157015952-7ea26980-4b3d-4158-b2f8-629ea621664d.gif"></mj-image>
         <mj-text align="left">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ChJqU2" target="_blank" style="color: #3498DB; text-decoration: none">DevOps with GitLab CI Course(5hrs tutorial).</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">This course will teach you how to use GitLab CI to create CI/CD pipelines for building and deploying software to AWS.
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ChJqU2" target="_blank" style="color: #3498DB; text-decoration: none">DevOps with GitLab CI Course (5hrs)</a></h3>
+          <p style="font-size: 14px;padding-top:0px;">Learn to use GitLab CI and create CI/CD pipelines for building and deploying software to AWS.
  </p>
         </mj-text>
       </mj-column>
@@ -150,12 +150,12 @@
       <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3IR3fnM" target="_blank" style="color: #3498DB; text-decoration: none;">Are There Lost Alien Civilizations in Our Past?
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3IR3fnM" target="_blank" style="color: #3498DB; text-decoration: none;">How many alien civilizations are out there?
  </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3IR3fnM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157011076-54642982-555b-4b6c-a890-ef62b1961ae0.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">When we think of alien civilizations, we tend to imagine them in the vastness of space, on distant planets. But there is another incredibly vast dimension to which we may be paying insufficient attention: time. This video will teach you more about human history and alien civilizations.</p>
+          <p style="font-size: 14px;">The Milky Way is probably full of other civilizations but there is another incredibly vast dimension to which we may be paying insufficient attention: time. This video will teach you more about human history and alien civilizations.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -185,8 +185,8 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3txYlFD" target="_blank" style="color: #3498DB; text-decoration: none">CSS As the backend 👀- introducing Cascading Server Sheets! </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Using CSS as a server-side language. That's right. Use CSS to declare routing, do maths, heck, even use CSS to do templating! </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3txYlFD" target="_blank" style="color: #3498DB; text-decoration: none">CSS in the backend 👀- Introducing Cascading Server Sheets! </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Using CSS as a server-side language. That's right. Use CSS to declare routing, do maths, heck, even use CSS for templating! </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -197,7 +197,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3sORyZh" target="_blank" style="color: #3498DB; text-decoration: none">Replace JavaScript Dialogs With the New HTML Dialog Element
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3sORyZh" target="_blank" style="color: #3498DB; text-decoration: none">Replace JavaScript Dialogs With HTML 
 </a> </h3>
           <p style="font-size: 14px;padding-top:0px;">Here's how to use the HTML dialog element to replace JavaScript dialogs that have the same functionality as the alert(), confirm(), and prompt() methods.</p>
         </mj-text>
@@ -211,10 +211,10 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3HQ5OVR" target="_blank" style="color: #3498DB; text-decoration: none">Instanced Line Rendering Part I
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3HQ5OVR" target="_blank" style="color: #3498DB; text-decoration: none">Instanced line rendering part I
 
 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Learn how to draw lines in Two Dimension and Three Dimension using various joins and end caps.</p>
+          <p style="font-size: 14px;padding-top:0px;">Learn how to draw 2D, and 3D lines using various joins and end caps.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -226,9 +226,9 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3hIk6gu" target="_blank" style="color: #3498DB; text-decoration: none">Instanced Line Rendering Part II: Alpha blending
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3hIk6gu" target="_blank" style="color: #3498DB; text-decoration: none">Instanced line rendering part II: Alpha blending
 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Part one covered rendering lines with various joins and end caps in Two Dimension and Three Dimension, so this part will cover proper management of the instance geometry to support alpha blending..</p>
+          <p style="font-size: 14px;padding-top:0px;">Part one covered rendering lines with various joins and end caps. Learn management of the instance geometry to support alpha blending in this part.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -251,12 +251,12 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Redefined - Cal.com by Peer Richelsen
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" target="_blank" style="color: #3498DB; text-decoration: none;">Open source redefined - Cal.com by Peer Richelsen
             </a></h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157023342-44aeca4b-e7c9-4641-aec8-c4a1044f0fd0.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this session, Peer will share his journey with COSS and building a successful product like Cal.com as this helps and motivates Maintainers, Startups, and Open source enthusiasts.
+          <p style="font-size: 14px;">In this session, Peer will share his journey with COSS and how he came up with Cal.com.
 </p>
         </mj-text>
       </mj-column>
@@ -265,12 +265,12 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3vLrcZJ" target="_blank" style="color: #3498DB; text-decoration: none;">Open Table Discussion on Web3 with Aviyel
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3vLrcZJ" target="_blank" style="color: #3498DB; text-decoration: none;">Open table discussion on Web3 with Aviyel
             </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3vLrcZJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157026556-5f55ad51-d2d5-41af-bc2b-5b4e037fb61e.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Catch us live on March 11th as the entire "Aviyel" Team takes the stage to discuss how we are reinventing  🔥 "OpenSource" with the help of "DAOs" and "Tokenization".
+          <p style="font-size: 14px;">Catch us live on March 11th as the entire "Aviyel" Team takes the stage to discuss how we are reinventing  🔥 "OpenSource" with  "DAOs" and "Tokenization".
 </p>
         </mj-text>
       </mj-column>
@@ -279,12 +279,12 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" target="_blank" style="color: #3498DB; text-decoration: none;">Frontend Development Basics
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" target="_blank" style="color: #3498DB; text-decoration: none;">Frontend development basics
             </a></h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157028796-1b1485f6-e944-448e-9883-46fd70875c78.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this session of the Contributor Roadmap Series, Victor Eke will introduce the explorers to the basics of frontend development that involves the concepts of HTML, CSS & Javascript.
+          <p style="font-size: 14px;">In this session of the Contributor Roadmap Series, Victor Eke will introduce the basics of frontend development, HTML, CSS & Javascript.
 </p>
         </mj-text>
       </mj-column>
@@ -312,9 +312,9 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://wapo.st/3MsFmFg" style="color: #3498DB; text-decoration: none">This is how journalists figure out if all those Ukraine videos are real
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.theatlantic.com/technology/archive/2022/02/russia-ukraine-conflict-cyberwar/622931/" style="color: #3498DB; text-decoration: none">‘Netwar’ could be even worse than cyberwar
  </a> </h3>
-          <p style="font-size: 14px">Visual forensics allows reporters to pinpoint the location of images emerging from the conflict and verify their authenticity. </p>
+          <p style="font-size: 14px">There was cyberwar, and also netwar. The latter is a social and commercial phenomenon where conflicts are waged via networked modes and closest to what people call “disinformation” today.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -341,7 +341,7 @@
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3HOBkmU" style="color: #3498DB; text-decoration: none">Aston Martin to develop battery cell technology w/ Britishvolt</a> </h3>
-          <p style="font-size: 14px">Aston Martin, a British luxury car manufacturer, has signed a Memorandum of Understanding with Britishvolt, a company that develops lithium-ion battery cell technologies. This article will explain you everything you need to know about it. </p>
+          <p style="font-size: 14px">Aston Martin has signed a Memorandum of Understanding with Britishvolt to develop lithium-ion battery cell technology. This article will explain you everything you need to know about it. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -353,7 +353,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3IL2lJk" style="color: #3498DB; text-decoration: none">Ukraine Latest News on Live map </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3IL2lJk" style="color: #3498DB; text-decoration: none">Ukraine latest news on live map </a> </h3>
           <p style="font-size: 14px">A comprehensive overview of all incidents involving the Russia-Ukraine conflict, all inside a single map. </p>
         </mj-text>
       </mj-column>
@@ -389,7 +389,7 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none">PPPointed ↓↳➜⇢ SVG arrow maker for all kinds of decorative arrow styles </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">An web - based SVG arrow maker for creating arrows for your designs . </p>
+          <p style="font-size: 14px;padding-top:0px;">A web- based SVG arrow maker for creating arrows for your designs. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -412,7 +412,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pLm04i" target="_blank" style="color: #3498DB; text-decoration: none">Vertex.im: Free 3D Icons with tons of Customization  </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pLm04i" target="_blank" style="color: #3498DB; text-decoration: none">Vertex.im: Free 3D icons with tons of customization  </a> </h3>
           <p style="font-size: 14px;padding-top:0px;">Handmade 3D icons. Customize it online by altering the composition, material, and angle. Completely Free for commercial and personal use. </p>
         </mj-text>
       </mj-column>
@@ -424,8 +424,8 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Csko4H" target="_blank" style="color: #3498DB; text-decoration: none">Pika: Quickly create beautiful screenshots.  </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Completely free, open-source app for quickly creating stunning screenshots. Apply backgrounds, adjust shadows, and add rounded corners, among other things. . </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Csko4H" target="_blank" style="color: #3498DB; text-decoration: none">Pika: Quickly create beautiful screenshots  </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Completely free, open source app for quickly creating stunning screenshots. Apply backgrounds, adjust shadows, and add rounded corners, among other things. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -445,8 +445,8 @@
      <mj-column width="50%">
        <mj-image width="250px" href="https://bit.ly/3452Cb2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157040102-a336e31f-28d5-48df-bf9c-f1e3640191a9.gif"></mj-image>
         <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MwHfRp" target="_blank" style="color: #3498DB; text-decoration: none">Heardle - That daily musical intros game </a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Heardle - Similar to Wordle, but for music, guess the song from the intro in as few attempts as possible. </p>
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MwHfRp" target="_blank" style="color: #3498DB; text-decoration: none">Netflix launches Trivia Quest, a daily trivia series </a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Much like Black Mirror: Bandersnatch or Cat Burglar, Trivia Quest is a narrative interactive experience, meaning each “win” will help move the story along. </p>
         </mj-text>
         
       </mj-column>
@@ -454,7 +454,7 @@
       <mj-column width="50%">
        <mj-image width="250px" href="https://bit.ly/3pFVt8M" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157040875-42da517f-9808-46fb-a6ba-c76f0433ff41.png"></mj-image>
         <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pFVt8M" target="_blank" style="color: #3498DB; text-decoration: none">CSS Speedrun | Test your CSS Skills</a></h3>
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pFVt8M" target="_blank" style="color: #3498DB; text-decoration: none">CSS Speedrun| Test your CSS skills</a></h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify"> Simple and entertaining app for testing your CSS knowledge. Find the correct CSS selectors for each of the ten puzzles as fast as possible. </p>
         </mj-text>
         
@@ -466,8 +466,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3HSneB0" style="color: #3498DB; text-decoration: none">Applying Usability Heuristics to Animal Crossing: New Horizons </a> </h3>
-          <p style="font-size: 14px">In-depth analysis of how New Horizons prevents errors using the 10 usability heuristics. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.theverge.com/22929485/bitsy-tiny-video-game-engine" style="color: #3498DB; text-decoration: none">Bitsy is the small video game engine with a big community </a> </h3>
+          <p style="font-size: 14px">Bitsy is a smaller, more intimate alternative to the bigger game engines like Unreal Engine and Unity, has made game-making genuinely approachable. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -480,7 +480,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3w1jyuL" style="color: #3498DB; text-decoration: none">Doom Slayer User Experience </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3w1jyuL" style="color: #3498DB; text-decoration: none">Doom Slayer user experience </a> </h3>
           <p style="font-size: 14px">How do you become the Doom Slayer? Onboarding to any game is an important design challenge for game developers, especially in Doom Eternal. </p>
         </mj-text>
       </mj-column>
