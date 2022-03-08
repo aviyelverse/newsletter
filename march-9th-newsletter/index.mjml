@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_9" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_9" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -34,13 +34,13 @@
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #8 - March 9th</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image padding-top="10px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_9" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
       <mj-column width="100%">
         <mj-text align="center">
-          <p>Aviyel is a community-driven, open source monetization platform. For us, reinventing open source means creating sustainable projects, encouraging knowledge-sharing around open source, and incentivizing members for their efforts. </p>
+          <p>Aviyel is a community-driven, open source monetization platform. We are committed to creating sustainable open source projects while distributing rewards equitably in the community.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -92,9 +92,7 @@
 </a></h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">Excerpt from Wladston Ferreira Filho's new book explaining the groundbreaking technology behind the WWW.</p>
         </mj-text>
-        
       </mj-column>
-     
     </mj-section>
     <!-- -->
       <!--  -->
@@ -191,18 +189,6 @@
       </mj-column>
     </mj-section>
     <!--  -->
-   <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3sORyZh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157019117-0555e1b6-7ba8-45f0-9970-a3025d3f610f.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3sORyZh" target="_blank" style="color: #3498DB; text-decoration: none">Replace JavaScript Dialogs With HTML 
-</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Here's how to use the HTML dialog element to replace JavaScript dialogs that have the same functionality as the alert(), confirm(), and prompt() methods.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
     <!--  -->
     <!--  -->
    <mj-section>
@@ -337,18 +323,6 @@
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3HOBkmU" style="color: #3498DB; text-decoration: none">Aston Martin to develop battery cell technology with Britishvolt</a> </h3>
-          <p style="font-size: 14px">Aston Martin has signed a Memorandum of Understanding with Britishvolt to develop lithium-ion battery cell technology. This article will explain you everything you need to know about it. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3HOBkmU" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157032879-e15d0a31-a492-429b-a576-0c0913943fdb.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
@@ -440,27 +414,7 @@
     </mj-section>
     <!--  -->
       
-       <!--  -->
-    <mj-section padding="0 20px 0px 20px">
-     <mj-column width="50%">
-       <mj-image width="250px" href="https://bit.ly/3vLz11N" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157188013-1b5524dd-64aa-4b2b-afdb-b1da6b667904.gif"></mj-image>
-        <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3vLz11N" target="_blank" style="color: #3498DB; text-decoration: none">Netflix launches Trivia Quest, a Daily Trivia Series </a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Much like Black Mirror: Bandersnatch or Cat Burglar, Trivia Quest is a narrative interactive experience, meaning each “win” will help move the story along. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="50%">
-       <mj-image width="250px" href="https://bit.ly/3pFVt8M" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157040875-42da517f-9808-46fb-a6ba-c76f0433ff41.png"></mj-image>
-        <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pFVt8M" target="_blank" style="color: #3498DB; text-decoration: none">CSS Speedrun: Test your CSS skills</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify"> Simple and entertaining app for testing your CSS knowledge. Find the correct CSS selectors for each of the ten puzzles as fast as possible. </p>
-        </mj-text>
-        
-      </mj-column>
-     
-    </mj-section>
-    <!--  -->
- <!--  -->
+<!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
@@ -473,7 +427,32 @@
       </mj-column>
     </mj-section>
     <!--  --> 
-  
+<!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3pFVt8M" style="color: #3498DB; text-decoration: none">CSS Speedrun: Test your CSS skills </a> </h3>
+          <p style="font-size: 14px">Simple and entertaining app for testing your CSS knowledge. Find the correct CSS selectors for each of the ten puzzles as fast as possible.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3pFVt8M" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157040875-42da517f-9808-46fb-a6ba-c76f0433ff41.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  --> 
+ <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3vLz11N" style="color: #3498DB; text-decoration: none">Netflix launches Trivia Quest, a Daily Trivia Series </a> </h3>
+          <p style="font-size: 14px">Much like Black Mirror: Bandersnatch or Cat Burglar, Trivia Quest is a narrative interactive experience, meaning each “win” will help move the story along.  </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3vLz11N" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157188013-1b5524dd-64aa-4b2b-afdb-b1da6b667904.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  --> 
 <!--  -->
     <mj-section>
       <mj-column width="75%">
@@ -487,20 +466,6 @@
       </mj-column>
     </mj-section>
     <!--  -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/34nGEQI" style="color: #3498DB; text-decoration: none">Wikitrivia: Wiki History Game </a> </h3>
-          <p style="font-size: 14px">Arrange the cards of events and people in the correct order on a specific timeline. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/34nGEQI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157041869-2cc05b78-89cf-49cc-a966-ba6b9577f59d.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-  
 
     <!-- DIVIDER LINE -->
     <mj-section padding="0px">
