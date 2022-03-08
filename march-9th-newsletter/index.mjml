@@ -40,7 +40,7 @@
     <mj-section padding-top="1px">
       <mj-column width="100%">
         <mj-text align="center">
-          <p>Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities. </p>
+          <p>Aviyel is a community-driven, open source monetization platform. For us, reinventing open source means creating sustainable projects, encouraging knowledge-sharing around open source, and incentivizing members for their efforts. </p>
         </mj-text>
       </mj-column>
     </mj-section>
