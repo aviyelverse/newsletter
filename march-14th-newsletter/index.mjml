@@ -246,13 +246,11 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">Open source redefined - Cal.com by Peer Richelsen
-            </a></h3>
+          <h3 style="font-weight: bold"><a href="https://aviyel.com/events/341/tracking-project-metrics-with-scarfjs?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_341" target="_blank" style="color: #3498DB; text-decoration: none;"> Tracking Project metrics with ScarfJS </a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157023342-44aeca4b-e7c9-4641-aec8-c4a1044f0fd0.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/341/tracking-project-metrics-with-scarfjs?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_341" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714336-01a1e7a7-f229-48c1-bca7-f1a47ed73658.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this session, Peer will share his journey with COSS and how he came up with Cal.com.
-</p>
+          <p style="font-size: 14px;">In this session, Avi Press, the CEO of Scarf, will demonstrate how to use scarfjs and track data using Scarf.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -260,12 +258,12 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3vLrcZJ" target="_blank" style="color: #3498DB; text-decoration: none;">Open table discussion on Web3 with Aviyel
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/322/oss-spotlight-tolgee-an-open-source-localization-tool?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_322" target="_blank" style="color: #3498DB; text-decoration: none;">OSS Spotlight: Tolgee, an open-source localization tool
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3vLrcZJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157026556-5f55ad51-d2d5-41af-bc2b-5b4e037fb61e.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/322/oss-spotlight-tolgee-an-open-source-localization-tool?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_322" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714344-c3376474-a5ec-4c5f-97c2-92f441b4d40e.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Catch us live on March 11th as the entire Aviyel Team takes the stage to discuss how we are reinventing  🔥 OpenSource with DAOs and Tokenization.
+          <p style="font-size: 14px;">Tune in to Jan's session, where he will explain how Tolgee is attempting to reshape the process of software localization with a novel approach that aims to save time and effort for everyone who is traditionally involved.
 </p>
         </mj-text>
       </mj-column>
@@ -274,12 +272,11 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" target="_blank" style="color: #3498DB; text-decoration: none;">Frontend development basics
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/323/getting-started-with-python?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_323" target="_blank" style="color: #3498DB; text-decoration: none;">Getting Started with Python
             </a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157028796-1b1485f6-e944-448e-9883-46fd70875c78.png"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this session of the Contributor Roadmap Series, Victor Eke will introduce the basics of frontend development, HTML, CSS & Javascript.
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/323/getting-started-with-python?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_323" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714346-05570cf7-6e3d-431d-88fb-73a840c972ab.png"></mj-image><mj-text padding-top="0">
+          <p style="font-size: 14px;">In this session of MobSF’s Contributor Roadmap Series, Sidhant Unnithan, Software Engineering Intern at Flexiple, will introduce the explorers to the programming language Python.
 </p>
         </mj-text>
       </mj-column>
