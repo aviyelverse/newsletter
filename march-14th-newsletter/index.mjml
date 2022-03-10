@@ -190,28 +190,26 @@
  </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3txYlFD" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157017298-bde51df1-4433-4933-8a1c-416158c81c6f.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/35NegIq" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157698379-8d15e0e6-cb42-4d80-b69d-cef99acc2132.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3txYlFD" target="_blank" style="color: #3498DB; text-decoration: none">CSS in the backend 👀- Introducing Cascading Server Sheets! </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Using CSS as a server-side language. That's right. Use CSS to declare routing, do maths, heck, even use CSS for templating! </p>
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35NegIq" target="_blank" style="color: #3498DB; text-decoration: none">Web Animation Performance Fundamentals </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Every movement in browser is technically an animation, including scrolling, zooming, selection, and hovering over a button. Find out more on how browsers convert code into pixels and how to work with it to make pages look smoooth! </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <!--  -->
-    <!--  -->
    <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3HQ5OVR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157020096-15a55969-87a0-4630-a519-6e1054acdebc.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3HQ5OVR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157702249-f487d40a-b32b-45bc-b794-e4c8f2d60f4d.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3HQ5OVR" target="_blank" style="color: #3498DB; text-decoration: none">Instanced line rendering part I
-
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3KwlIX4" target="_blank" style="color: #3498DB; text-decoration: none">CSS Tricks to Create that Dark Futuristic Web3 Look
 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Learn how to draw 2D, and 3D lines using various joins and end caps.</p>
+          <p style="font-size: 14px;padding-top:0px;">This article provides developers with simple styles for incorporating a dark mode web3 aesthetic into their sites. Gradient backgrounds, glowing effects, text over dark backgrounds, transparent backgrounds, and a tons of effects..</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -219,13 +217,13 @@
   <!--  -->
    <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3hIk6gu" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157021635-4758c1c1-68ca-418a-8a58-4822a4b8f9c5.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3vW8nDi" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157706456-d2042b8e-e370-44e6-baab-8997a715c410.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3hIk6gu" target="_blank" style="color: #3498DB; text-decoration: none">Instanced line rendering part II: Alpha blending
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3vW8nDi" target="_blank" style="color: #3498DB; text-decoration: none">Linux SysOps Handbook
 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Part one covered rendering lines with various joins and end caps. Learn management of the instance geometry to support alpha blending in this part.</p>
+          <p style="font-size: 14px;padding-top:0px;">This book includes notes on common knowledge and tasks for Linux system administrators, as well as other topics such as processes, user management, permissions, distros, network essentials, storage, and much more..</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -248,10 +246,10 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" target="_blank" style="color: #3498DB; text-decoration: none;">Open source redefined - Cal.com by Peer Richelsen
+          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">Open source redefined - Cal.com by Peer Richelsen
             </a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157023342-44aeca4b-e7c9-4641-aec8-c4a1044f0fd0.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157023342-44aeca4b-e7c9-4641-aec8-c4a1044f0fd0.png"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">In this session, Peer will share his journey with COSS and how he came up with Cal.com.
 </p>
