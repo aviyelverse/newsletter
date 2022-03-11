@@ -307,7 +307,7 @@
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/37ppy6h" style="color: #3498DB; text-decoration: none">TikTok launches SoundOn: an All-in-One platform for Music Marketing and Distribution.
  </a> </h3>
-          <p style="font-size: 14px">TikTok has already had a significant impact on today's music industry, propelling songs that have gained popularity on the app to the top of the Billboard charts. Learn more about Tiktoks' own music distribution platform..</p>
+          <p style="font-size: 14px">TikTok has already had a significant impact on today's music industry, propelling songs that have gained popularity on the app to the top of the Billboard charts. Learn more about Tiktoks' own music distribution platform.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -426,20 +426,6 @@
       </mj-column>
     </mj-section>
     <!--  -->
-   <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3J2jjmJ" style="color: #3498DB; text-decoration: none">LittleJS: The Tiny JavaScript Game Engine That Can! </a> </h3>
-          <p style="font-size: 14px">LittleJS is lightweight 2D JavaScript game engine with a WebGL rendering system.
-Learn more about it. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3J2jjmJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157727635-731d4676-2091-40ad-81f8-94db63f33d0a.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  --> 
 <!--  -->
     <mj-section>
       <mj-column width="75%">
@@ -469,7 +455,7 @@ Learn more about it. </p>
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MFpwan" style="color: #3498DB; text-decoration: none">A list of games for bored (and curious) designers </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MFpwan" style="color: #3498DB; text-decoration: none">Games for bored and curious Designers! </a> </h3>
           <p style="font-size: 14px">Francesca Valentini-Marletta gathered all the websites offering games and fun experiences for UX and UI Designers over the years while exploring the internet. Learn more about these fun websites. </p>
         </mj-text>
       </mj-column>
