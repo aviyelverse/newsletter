@@ -146,23 +146,26 @@
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section padding="0 20px 0px 0px">
-     <mj-column width="50%">
+    <mj-section >
+     <mj-column >
         <mj-text align="justify">
            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MCmd3H" target="_blank" style="color: #3498DB; text-decoration: none">React Query in One Hundred Second
 </a></h3>
         </mj-text>
-       <mj-image width="350px" href="https://bit.ly/3MCmd3H" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157685772-87b87f46-b2ba-44c7-b4b7-5e58fafd3f5d.gif"></mj-image>
+       <mj-image width="600px" href="https://bit.ly/3MCmd3H" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157685772-87b87f46-b2ba-44c7-b4b7-5e58fafd3f5d.gif"></mj-image>
         <mj-text align="justify" padding-top="0">
           <p style="font-size: 14px;padding-top:0px;">React Query is a tool that makes your data fetching code faster, easier, and more powerful, so in just 100 seconds, this video will teach you everything there is to know about react query. </p>
         </mj-text>
       </mj-column>
-      <mj-column width="50%">
+    </mj-section>
+ <!-- ------ -->
+    <mj-section>
+      <mj-column >
         <mj-text align="justify">
            <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/34uzI4a" target="_blank" style="color: #3498DB; text-decoration: none">Ultimate NFT Tutorial FULL COURSE
 (2hrs)</a></h3>
         </mj-text>
-       <mj-image width="350px" href="https://bit.ly/34uzI4a" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157687497-ba8cd4ab-7830-4816-b722-deaeec687eb5.png"></mj-image><mj-text align="justify" padding-top="0">
+       <mj-image width="600px" href="https://bit.ly/34uzI4a" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157687497-ba8cd4ab-7830-4816-b722-deaeec687eb5.png"></mj-image><mj-text align="justify" padding-top="0">
           <p style="font-size: 14px;padding-top:0px;">This course will teach you everything you need to know about NFTs, how to list them on the open sea, how to deploy the NFT metadata, and how to mint your very own brand new NFTs.
  </p>
         </mj-text>
