@@ -1,0 +1,514 @@
+<mjml>
+  <mj-head>
+    <mj-title>Aviyel Newsletter</mj-title>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Inter, Helvetica, sans-serif" background-color="#FEFCFE"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="10px 0px">
+      <mj-column width="60%">
+        <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_14" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_14" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px">Offbeat ideas just curated for you!</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #10 - March 25th</mj-text>
+        <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_14" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="1px">
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p>Aviyel is a community-driven, open source monetization platform. We are committed to creating sustainable open source projects while distributing rewards equitably in the community.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- READ -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#READ</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+     <mj-section padding="0 20px 0px 0px">
+     <mj-column width="50%">
+       <mj-image width="180px" href="https://bit.ly/368MAhj" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159110278-4fcbfbb5-d9f8-4449-bdf4-bd8912ab87f5.gif"></mj-image>
+        <mj-text align="justify">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/368MAhj" target="_blank" style="color: #3498DB; text-decoration: none">SpaceX is hosting a new fellowship in space-based surgery.
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;">Aerospace Surgery Fellowship is being hosted by SpaceX, University of Arizona, and Banner Health. It will be the United States' first fellowship program in the field of aerospace surgery. This article goes into great detail about the program. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+       <mj-image width="180px" href="https://tcrn.ch/36uy0R0" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111066-583efa95-1390-4ff9-a9ff-964a5725124d.gif"></mj-image>
+        <mj-text align="center">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://tcrn.ch/36uy0R0" target="_blank" style="color: #3498DB; text-decoration: none">Netflix tests a new feature that will raise prices for account sharing.</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Netflix is experimenting with a sub account feature that will allow subscribers to share their subscription with other people. Check out this article to learn more about this fantastic feature. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/36sGMyY" style="color: #3498DB; text-decoration: none">Nvidia Unveils Big Accelerator Memory: Solid-State Storage for GPUs
+</a> </h3>
+          <p style="font-size: 14px">Nvidia's Big Accelerator Memory (BaM) technology allows GPUs to work in tandem with SSDs. It will allow Nvidia GPUs to access large amounts of data from SSDs without relying on the CPU, making graphics cards more self-sufficient than they are now. Learn more about the new Nvidia BaM technology in this article. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/36sGMyY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111940-aed2ed7e-0856-4ea5-8899-ee6293e7a65b.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KYcqn2" style="color: #3498DB; text-decoration: none">Record-breaking hydrogen electrolyzer claims 95% efficiency </a> </h3>
+          <p style="font-size: 14px">Hysata, an Australian firm, has developed new electrolyzer technology that promises to produce low-cost green hydrogen in a matter of years. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KYcqn2" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111664-c41ef447-3169-4539-b077-872a59c237b8.png"></mj-image>
+      </mj-column>
+    </mj-section>
+ 
+      <!--  -->
+     <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- Watch -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#WATCH</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+ <!--  -->
+      <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/35FSo1H" target="_blank" style="color: #3498DB; text-decoration: none;">What if the Earth was 10 times bigger?</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/35FSo1H" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157695978-ed36a7be-9950-4714-b484-9a1d931ebf82.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">What would happen if the Earth was 10 times bigger? A larger planet might have certain similarities to the Earth you know, but the differences to our ecosystems, evolution, and the fundamentals of reality will blow your mind.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3hV2cHp" target="_blank" style="color: #3498DB; text-decoration: none;">Build and deploy a modern Web 3.0 blockchain app
+ </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3hV2cHp" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157682513-208b9f99-6746-4375-9db8-6f36e736c273.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">JavascriptMastery has created a three-hour full-stack Web3 tutorial on creating a full-fledged Web 3.0 application supporting blockchain transactions.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section >
+     <mj-column >
+        <mj-text align="justify">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MCmd3H" target="_blank" style="color: #3498DB; text-decoration: none">React query in one hundred second
+</a></h3>
+        </mj-text>
+       <mj-image width="600px" href="https://bit.ly/3MCmd3H" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157685772-87b87f46-b2ba-44c7-b4b7-5e58fafd3f5d.gif"></mj-image>
+        <mj-text align="justify" padding-top="0">
+          <p style="font-size: 14px;padding-top:0px;">React Query is a tool that makes your data fetching code faster, easier, and more powerful, so in just 100 seconds, this video will teach you everything there is to know about react query. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ <!-- ------ -->
+    <mj-section>
+      <mj-column >
+        <mj-text align="justify">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/34uzI4a" target="_blank" style="color: #3498DB; text-decoration: none">Ultimate NFT tutorial FULL COURSE
+(2hrs)</a></h3>
+        </mj-text>
+       <mj-image width="600px" href="https://bit.ly/34uzI4a" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157687497-ba8cd4ab-7830-4816-b722-deaeec687eb5.png"></mj-image><mj-text align="justify" padding-top="0">
+          <p style="font-size: 14px;padding-top:0px;">This course will teach you everything you need to know about NFTs, how to list them on the open sea, deploy the NFT metadata, or mint your very own brand new NFTs.
+ </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+       <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- ------ -->
+    <!-- Code -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+ </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/35NegIq" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157698379-8d15e0e6-cb42-4d80-b69d-cef99acc2132.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35NegIq" target="_blank" style="color: #3498DB; text-decoration: none">Web animation performance fundamentals </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Every movement in browser is technically an animation, including scrolling, zooming, selection, and hovering over a button. Find out more on how browsers convert code into pixels and using it for smoother web pages </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+   <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3HQ5OVR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157702249-f487d40a-b32b-45bc-b794-e4c8f2d60f4d.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3KwlIX4" target="_blank" style="color: #3498DB; text-decoration: none">CSS tricks to create that dark futuristic Web3 look
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">This article provides developers with simple styles for incorporating a dark mode web3 aesthetic into their sites. Gradient backgrounds, glowing effects, text over dark backgrounds, transparent backgrounds, and a tons of effects..</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+  <!--  -->
+   <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3vW8nDi" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157706456-d2042b8e-e370-44e6-baab-8997a715c410.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3vW8nDi" target="_blank" style="color: #3498DB; text-decoration: none">Linux SysOps handbook
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">This book includes notes on common knowledge and tasks for Linux system administrators, as well as other topics such as processes, user management, permissions, distros, network essentials, storage, and much more.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- Event -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+     <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://aviyel.com/events/341/tracking-project-metrics-with-scarfjs?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_341" target="_blank" style="color: #3498DB; text-decoration: none;"> Tracking project metrics with ScarfJS </a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/341/tracking-project-metrics-with-scarfjs?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_341" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714336-01a1e7a7-f229-48c1-bca7-f1a47ed73658.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this session, Avi Press, the CEO of Scarf, will demonstrate how to use ScarfJS to track data and create project metrics. 
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+     <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/322/oss-spotlight-tolgee-an-open-source-localization-tool?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_322" target="_blank" style="color: #3498DB; text-decoration: none;">OSS spotlight: Tolgee, an open source localization tool
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/322/oss-spotlight-tolgee-an-open-source-localization-tool?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_322" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714344-c3376474-a5ec-4c5f-97c2-92f441b4d40e.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Tune in to Jan's session, where he shares how Tolgee is attempting to reshape the process of software localization to save time and effort for everyone who is traditionally involved.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+     <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/323/getting-started-with-python?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_323" target="_blank" style="color: #3498DB; text-decoration: none;">Getting started with Python
+            </a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/323/getting-started-with-python?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_323" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714346-05570cf7-6e3d-431d-88fb-73a840c972ab.png"></mj-image><mj-text padding-top="0">
+          <p style="font-size: 14px;">In the latest part of MobSF’s Contributor Roadmap Series, Sidhant Unnithan, Software Engineering Intern at Flexiple, introduces the programming language Python.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- NEWS -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#NEWS</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+   <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/37ppy6h" style="color: #3498DB; text-decoration: none">TikTok launches SoundOn: an All-in-One platform for Music Marketing and Distribution.
+ </a> </h3>
+          <p style="font-size: 14px">TikTok has already had a significant impact on today's music industry, propelling songs that have gained popularity on the app to the top of the Billboard charts. Learn more about Tiktoks' own music distribution platform.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/37ppy6h" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157672563-c39937ed-897b-4eb5-bd2c-486aa1f2b6b6.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bbc.in/3vWWr4q" style="color: #3498DB; text-decoration: none">Why Nasa is exploring the deepest oceans on Earth </a> </h3>
+          <p style="font-size: 14px">NASA is exploring the deep ocean to search for clues of what oceans on other planets could look like, and push the limits in one of the most extreme environments on our planet.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bbc.in/3vWWr4q" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157721040-ec475b68-4475-4778-9774-79f06cfcbb76.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/35LrxkI" style="color: #3498DB; text-decoration: none">The world's most innovative companies of 2022 </a> </h3>
+          <p style="font-size: 14px">FastCompany's annual showcase of the World's Most Innovative Companies features inspiring stories across a wide range of industries, from advertising to wellness, and every corner of the globe.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/35LrxkI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157732939-9d2bf547-5500-4f35-9e97-1a372da49120.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <mj-raw>
+      <!-- Learn -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#LEARN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3tLtO7A" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157723305-44f1dc48-1b81-440e-ae50-0959658425fe.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tLtO7A" target="_blank" style="color: #3498DB; text-decoration: none">Lists of 400 free Handcrafted Doodle Icons
+ </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Four Hundred royality free Hand drawn illustrations for your next project. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+ <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3hUHIyz" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157723300-df6859db-b327-42c2-af53-4462385cd3f1.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3hUHIyz" target="_blank" style="color: #3498DB; text-decoration: none">Huemint - AI color palette generator </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Huemint utilizes machine learning to generate one-of-a-kind color schemes for your brand, website, or graphic. Learn more about it. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+ <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/34v8IS6" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157726060-60d75f94-637e-4131-820a-b69fa3e5a91a.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/34v8IS6" target="_blank" style="color: #3498DB; text-decoration: none">CSS Polka Dot Generator  </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Generate polka dot patterns using CSS custom variables for background images, without using any Javascript!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+ <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/35TvxQ2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157725062-8ed1656d-ec28-4c42-9bd9-7d3682bebb14.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35TvxQ2" target="_blank" style="color: #3498DB; text-decoration: none">Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Download a ton of free wayfinding icons, svg files, and other cool icon sets absolutely free of charge. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+  <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- Fun -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#FUN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="60px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+<!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MHuzXK" style="color: #3498DB; text-decoration: none">Interactive Learning Tools For Front-End Developers</a> </h3>
+          <p style="font-size: 14px">Learn CSS, JavaScript, SQL, React, Vim, regular expressions, and Jamstack with interactive coding tools.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3MHuzXK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157728932-0a8e5e16-3241-4058-af0f-d1ebda3aa9ca.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  --> 
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://cnn.it/34zQRts" style="color: #3498DB; text-decoration: none">Steer the ship through the Suez Canal </a> </h3>
+          <p style="font-size: 14px">Navigating the Suez Canal is a very high-stress, complicated stuff that requires master piloting skills. Take a look at it yourself and try your hand at it!.  </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://cnn.it/34zQRts" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157731211-ea968a2c-49e5-4850-8fda-8e09aa811973.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  --> 
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MFpwan" style="color: #3498DB; text-decoration: none">Games for bored and curious Designers! </a> </h3>
+          <p style="font-size: 14px">Francesca Valentini-Marletta gathered all the websites offering games and fun experiences for UX and UI Designers over the years while exploring the internet. Learn more about these fun websites. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3MFpwan" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157732628-68d980a5-907a-405a-98d8-5b02612eb378.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <mj-raw>
+      <!-- Last line -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="0px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Test -->
+    </mj-raw>
+    <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
+      <mj-column width="100%">
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_14" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3pUONnJ" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#000000" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
+          <mj-social-element background-color="#FF0000" target="_blank" href="https://bit.ly/3HCTrNa" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/32QpESj" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/3t0l3HU" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" align="center">
+          <p> This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
