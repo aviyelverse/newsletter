@@ -119,11 +119,11 @@
       <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/35FSo1H" target="_blank" style="color: #3498DB; text-decoration: none;">What if the Earth was 10 times bigger?</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3JkrxXo" target="_blank" style="color: #3498DB; text-decoration: none;">What If We're Living in a Simulation?</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/35FSo1H" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157695978-ed36a7be-9950-4714-b484-9a1d931ebf82.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3JkrxXo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159114065-162c62eb-77f1-47e3-bacd-86b04d46140f.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">What would happen if the Earth was 10 times bigger? A larger planet might have certain similarities to the Earth you know, but the differences to our ecosystems, evolution, and the fundamentals of reality will blow your mind.</p>
+          <p style="font-size: 14px;">What if we're living in a simulation?. Is there any truth to this unbelievable claim? Check out this video to see if we're all living in a simulation or not.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -131,12 +131,12 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3hV2cHp" target="_blank" style="color: #3498DB; text-decoration: none;">Build and deploy a modern Web 3.0 blockchain app
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3qjaaPi" target="_blank" style="color: #3498DB; text-decoration: none;">How to Deploy an NFT Drop Using a Smart Contract ?
  </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3hV2cHp" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157682513-208b9f99-6746-4375-9db8-6f36e736c273.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3qjaaPi" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159114611-7f7bd598-fe17-47cb-8a66-459a66d1bc6a.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">JavascriptMastery has created a three-hour full-stack Web3 tutorial on creating a full-fledged Web 3.0 application supporting blockchain transactions.</p>
+          <p style="font-size: 14px;">Learn how to create your own NFT Drop using a smart contract and without writing any code by utilizing the absolute power of thirdweb.com.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -144,12 +144,12 @@
     <mj-section >
      <mj-column >
         <mj-text align="justify">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MCmd3H" target="_blank" style="color: #3498DB; text-decoration: none">React query in one hundred second
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tpgCGc" target="_blank" style="color: #3498DB; text-decoration: none">10 Design Patterns Explained in 10 Minutes
 </a></h3>
         </mj-text>
-       <mj-image width="600px" href="https://bit.ly/3MCmd3H" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157685772-87b87f46-b2ba-44c7-b4b7-5e58fafd3f5d.gif"></mj-image>
+       <mj-image width="600px" href="https://bit.ly/3tpgCGc" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159114794-85ee72de-1c2d-48d9-a17c-03e82d541f24.gif"></mj-image>
         <mj-text align="justify" padding-top="0">
-          <p style="font-size: 14px;padding-top:0px;">React Query is a tool that makes your data fetching code faster, easier, and more powerful, so in just 100 seconds, this video will teach you everything there is to know about react query. </p>
+          <p style="font-size: 14px;padding-top:0px;">Software design patterns assist programmers in resolving common coding issues. This Fireship video will show you how to use JavaScript and TypeScript to implement 10 patterns from the famous Gang of Four book. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -157,11 +157,10 @@
     <mj-section>
       <mj-column >
         <mj-text align="justify">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/34uzI4a" target="_blank" style="color: #3498DB; text-decoration: none">Ultimate NFT tutorial FULL COURSE
-(2hrs)</a></h3>
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3N5yDkG" target="_blank" style="color: #3498DB; text-decoration: none">MORALIS FULL COURSE FOR BEGINNERS - Web3 Dapp Programming (6hrs)</a></h3>
         </mj-text>
-       <mj-image width="600px" href="https://bit.ly/34uzI4a" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157687497-ba8cd4ab-7830-4816-b722-deaeec687eb5.png"></mj-image><mj-text align="justify" padding-top="0">
-          <p style="font-size: 14px;padding-top:0px;">This course will teach you everything you need to know about NFTs, how to list them on the open sea, deploy the NFT metadata, or mint your very own brand new NFTs.
+       <mj-image width="600px" href="https://bit.ly/3N5yDkG" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159115115-525e7bae-5642-4894-a9d2-c4c1b13e119d.png"></mj-image><mj-text align="justify" padding-top="0">
+          <p style="font-size: 14px;padding-top:0px;"> Moralis Web3.0 complete course which covers the most important aspects of the Moralis Web3.0 Programming Platform. This video tutorial will show you how to use simple javascript to create cross-chain decentralized applications.
  </p>
         </mj-text>
       </mj-column>
