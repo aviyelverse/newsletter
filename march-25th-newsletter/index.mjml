@@ -295,45 +295,45 @@ Open hearts
     </mj-section>
     <mj-section>
     </mj-section>
-    <mj-raw>
       <!--  -->
-    </mj-raw>
    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/37ppy6h" style="color: #3498DB; text-decoration: none">TikTok launches SoundOn: an All-in-One platform for Music Marketing and Distribution.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3tqR0J2" style="color: #3498DB; text-decoration: none">Amateur open-source researchers went viral unpacking the war in Ukraine.
  </a> </h3>
-          <p style="font-size: 14px">TikTok has already had a significant impact on today's music industry, propelling songs that have gained popularity on the app to the top of the Billboard charts. Learn more about Tiktoks' own music distribution platform.</p>
+          <p style="font-size: 14px">Justin Peden, a sophomore at the University of Alabama, has emerged as a surprising source of information about the Ukraine-Russia conflict.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/37ppy6h" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157672563-c39937ed-897b-4eb5-bd2c-486aa1f2b6b6.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3tqR0J2" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159153963-c2d91eea-bb8f-4355-ae7a-823f899c4ebc.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+     <!--  -->
+   <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KW7BKT" style="color: #3498DB; text-decoration: none">CSS-Tricks is joining DigitalOcean!
+ </a> </h3>
+          <p style="font-size: 14px">DigitalOcean has acquired the CSS-Tricks website, a learning resource with 6,500 articles, videos, guides, and other frontend development-related content.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KW7BKT" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159154760-4f02d2ad-ebbb-4c2c-9a5d-33e88ae37bf7.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <!--  -->
-    </mj-raw>
-    <mj-section>
+   <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bbc.in/3vWWr4q" style="color: #3498DB; text-decoration: none">Why Nasa is exploring the deepest oceans on Earth </a> </h3>
-          <p style="font-size: 14px">NASA is exploring the deep ocean to search for clues of what oceans on other planets could look like, and push the limits in one of the most extreme environments on our planet.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3N1zCCC" style="color: #3498DB; text-decoration: none">The legendary design firm that made Target a star is introducing a new line of products for CVS.
+ </a> </h3>
+          <p style="font-size: 14px">Michael Graves' storied firm has reimagined a line of exquisitely designed assistive products for CVS.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bbc.in/3vWWr4q" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157721040-ec475b68-4475-4778-9774-79f06cfcbb76.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/35LrxkI" style="color: #3498DB; text-decoration: none">The world's most innovative companies of 2022 </a> </h3>
-          <p style="font-size: 14px">FastCompany's annual showcase of the World's Most Innovative Companies features inspiring stories across a wide range of industries, from advertising to wellness, and every corner of the globe.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/35LrxkI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157732939-9d2bf547-5500-4f35-9e97-1a372da49120.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3N1zCCC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159154118-77ce793f-8691-47d4-abbc-de80a1c0fffe.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
