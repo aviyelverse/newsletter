@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_14" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_25" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_14" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_25" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -34,7 +34,7 @@
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #10 - March 25th</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_14" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_25" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
@@ -53,25 +53,20 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
-    <!--  -->
-     <mj-section padding="0 20px 0px 0px">
-     <mj-column width="50%">
-       <mj-image width="180px" href="https://bit.ly/368MAhj" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159110278-4fcbfbb5-d9f8-4449-bdf4-bd8912ab87f5.gif"></mj-image>
+     <!--  -->
+     <mj-section>
+      <mj-column width="75%">
         <mj-text align="justify">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/368MAhj" target="_blank" style="color: #3498DB; text-decoration: none">SpaceX is hosting a new fellowship in space-based surgery.
-</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Aerospace Surgery Fellowship is being hosted by SpaceX, University of Arizona, and Banner Health. It will be the United States' first fellowship program in the field of aerospace surgery. This article goes into great detail about the program. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/368MAhj" style="color: #3498DB; text-decoration: none">SpaceX is hosting a new fellowship in space-based surgery.
+</a> </h3>
+          <p style="font-size: 14px">Aerospace Surgery Fellowship is being hosted by SpaceX, University of Arizona, and Banner Health. It will be the United States' first fellowship program in the field of aerospace surgery. This article goes into great detail about the program.</p>
         </mj-text>
       </mj-column>
-      <mj-column width="50%">
-       <mj-image width="180px" href="https://tcrn.ch/36uy0R0" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111066-583efa95-1390-4ff9-a9ff-964a5725124d.gif"></mj-image>
-        <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://tcrn.ch/36uy0R0" target="_blank" style="color: #3498DB; text-decoration: none">Netflix tests a new feature that will raise prices for account sharing.</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Netflix is experimenting with a sub account feature that will allow subscribers to share their subscription with other people. Check out this article to learn more about this fantastic feature. </p>
-        </mj-text>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/368MAhj" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159110278-4fcbfbb5-d9f8-4449-bdf4-bd8912ab87f5.gif"></mj-image>
       </mj-column>
     </mj-section>
-      <!--  -->
+     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
@@ -96,7 +91,20 @@
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KYcqn2" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111664-c41ef447-3169-4539-b077-872a59c237b8.png"></mj-image>
       </mj-column>
     </mj-section>
- 
+      <!--  -->
+     <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/36uy0R0" style="color: #3498DB; text-decoration: none">Netflix tests a new feature that will raise prices for account sharing.
+</a> </h3>
+          <p style="font-size: 14px">Netflix is experimenting with a sub account feature that will allow subscribers to share their subscription with other people. Check out this article to learn more about this fantastic feature. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/36uy0R0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111066-583efa95-1390-4ff9-a9ff-964a5725124d.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+     <!--  -->
       <!--  -->
      <!-- DIVIDER LINE -->
     <mj-section padding="0px">
@@ -184,29 +192,30 @@
     <mj-section>
     </mj-section>
     <!--  -->
- </mj-raw>
-    <mj-section>
+  <!--  -->
+   <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/35NegIq" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157698379-8d15e0e6-cb42-4d80-b69d-cef99acc2132.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3tmzAgU" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159149206-7480a688-28eb-42d5-ab68-8a3620d84d6b.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35NegIq" target="_blank" style="color: #3498DB; text-decoration: none">Web animation performance fundamentals </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Every movement in browser is technically an animation, including scrolling, zooming, selection, and hovering over a button. Find out more on how browsers convert code into pixels and using it for smoother web pages </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tmzAgU" target="_blank" style="color: #3498DB; text-decoration: none">Texture — Generative Snacks!
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Bring your generative work to life with three simple textures inspired by the natural world.
+.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
-    <!--  -->
-   <mj-section>
+    <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3HQ5OVR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157702249-f487d40a-b32b-45bc-b794-e4c8f2d60f4d.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3It12xE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159148781-806efbbc-0bc5-4ae1-b690-fb9e8b36c3b6.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3KwlIX4" target="_blank" style="color: #3498DB; text-decoration: none">CSS tricks to create that dark futuristic Web3 look
-</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">This article provides developers with simple styles for incorporating a dark mode web3 aesthetic into their sites. Gradient backgrounds, glowing effects, text over dark backgrounds, transparent backgrounds, and a tons of effects..</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3It12xE" target="_blank" style="color: #3498DB; text-decoration: none">Development reimagined - CodeSandbox Projects Beta . </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Experience the future of web development and build projects anywhere and anytime with your team.
+</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -214,17 +223,38 @@
   <!--  -->
    <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3vW8nDi" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157706456-d2042b8e-e370-44e6-baab-8997a715c410.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3KXXbu7" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159149682-c8ff144a-9246-4e06-957b-2d94cbd4c6f7.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3vW8nDi" target="_blank" style="color: #3498DB; text-decoration: none">Linux SysOps handbook
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3KXXbu7" target="_blank" style="color: #3498DB; text-decoration: none">Open source,
+Open hearts
 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">This book includes notes on common knowledge and tasks for Linux system administrators, as well as other topics such as processes, user management, permissions, distros, network essentials, storage, and much more.</p>
+          <p style="font-size: 14px;padding-top:0px;">Send a token of appreciation to your favorite open source developers and projects.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3JsP4W2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159155853-c987b665-659e-4ad2-bda3-1aa51f1c8f2c.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3JsP4W2" target="_blank" style="color: #3498DB; text-decoration: none">Free UI Avatars for Your Next React Project
+ </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Beautifully crafted unique avatar placeholder for your next react project
+<ul><li>🌈 40 Colors that are fully ready to go!</li>
+<li>💠 60 Beautifully crafted shapes </li>
+<li>🆎 Unique Text and Shapes 🔸</li>
+<li>🤠 Unique Generated avatars for user.</li>
+<li>🕊️ Very Lightweight - less than 20kb</li>
+<li>✍️ Highly Customizable</li></ul>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -243,11 +273,12 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://aviyel.com/events/341/tracking-project-metrics-with-scarfjs?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_341" target="_blank" style="color: #3498DB; text-decoration: none;"> Tracking project metrics with ScarfJS </a></h3>
+          <h3 style="font-weight: bold"><a href="https://aviyel.com/events/335/writing-your-first-django-app?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_335" target="_blank" style="color: #3498DB; text-decoration: none;"> Writing your first Django App
+ </a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/341/tracking-project-metrics-with-scarfjs?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_341" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714336-01a1e7a7-f229-48c1-bca7-f1a47ed73658.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/335/writing-your-first-django-app?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_335" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159153615-fab6766c-0470-4022-b600-d4dffa58b65b.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this session, Avi Press, the CEO of Scarf, will demonstrate how to use ScarfJS to track data and create project metrics. 
+          <p style="font-size: 14px;">Melvin Thomas, Backend Developer at Totto Learning, will introduce the explorers to the Django framework in this session of MobSF's Contributor Roadmap Series.
 </p>
         </mj-text>
       </mj-column>
@@ -256,29 +287,17 @@
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/322/oss-spotlight-tolgee-an-open-source-localization-tool?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_322" target="_blank" style="color: #3498DB; text-decoration: none;">OSS spotlight: Tolgee, an open source localization tool
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/342/understanding-docker-containers?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_342" target="_blank" style="color: #3498DB; text-decoration: none;">Understanding Docker & Containers
             </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/322/oss-spotlight-tolgee-an-open-source-localization-tool?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_322" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714344-c3376474-a5ec-4c5f-97c2-92f441b4d40e.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/342/understanding-docker-containers?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_342" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159153614-14caa7de-b4f3-4ac0-86db-7f0e1e5a2394.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Tune in to Jan's session, where he shares how Tolgee is attempting to reshape the process of software localization to save time and effort for everyone who is traditionally involved.
+          <p style="font-size: 14px;">Sankalp Swami, Community Manager at Aviyel, will give the explorers an introduction to Docker in this Contributor Roadmap Series session.
 </p>
         </mj-text>
       </mj-column>
     </mj-section>
    <!-- -->
-     <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/323/getting-started-with-python?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_323" target="_blank" style="color: #3498DB; text-decoration: none;">Getting started with Python
-            </a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/323/getting-started-with-python?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_323" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157714346-05570cf7-6e3d-431d-88fb-73a840c972ab.png"></mj-image><mj-text padding-top="0">
-          <p style="font-size: 14px;">In the latest part of MobSF’s Contributor Roadmap Series, Sidhant Unnithan, Software Engineering Intern at Flexiple, introduces the programming language Python.
-</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
     <!-- -->
     <!-- DIVIDER LINE -->
     <mj-section padding-top="0px">
@@ -296,46 +315,45 @@
     </mj-section>
     <mj-section>
     </mj-section>
-    <mj-raw>
       <!--  -->
-    </mj-raw>
    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/37ppy6h" style="color: #3498DB; text-decoration: none">TikTok launches SoundOn: an All-in-One platform for Music Marketing and Distribution.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3tqR0J2" style="color: #3498DB; text-decoration: none">Amateur open-source researchers went viral unpacking the war in Ukraine.
  </a> </h3>
-          <p style="font-size: 14px">TikTok has already had a significant impact on today's music industry, propelling songs that have gained popularity on the app to the top of the Billboard charts. Learn more about Tiktoks' own music distribution platform.</p>
+          <p style="font-size: 14px">Justin Peden, a sophomore at the University of Alabama, has emerged as a surprising source of information about the Ukraine-Russia conflict.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/37ppy6h" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157672563-c39937ed-897b-4eb5-bd2c-486aa1f2b6b6.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3tqR0J2" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159153963-c2d91eea-bb8f-4355-ae7a-823f899c4ebc.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+     <!--  -->
+   <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KW7BKT" style="color: #3498DB; text-decoration: none">CSS-Tricks is joining DigitalOcean!
+ </a> </h3>
+          <p style="font-size: 14px">DigitalOcean has acquired the CSS-Tricks website, a learning resource with 6,500 articles, videos, guides, and other frontend development-related content.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KW7BKT" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159154760-4f02d2ad-ebbb-4c2c-9a5d-33e88ae37bf7.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <!--  -->
-    </mj-raw>
-    <mj-section>
+   <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bbc.in/3vWWr4q" style="color: #3498DB; text-decoration: none">Why Nasa is exploring the deepest oceans on Earth </a> </h3>
-          <p style="font-size: 14px">NASA is exploring the deep ocean to search for clues of what oceans on other planets could look like, and push the limits in one of the most extreme environments on our planet.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3N1zCCC" style="color: #3498DB; text-decoration: none">The legendary design firm that made Target a star is introducing a new line of products for CVS.
+ </a> </h3>
+          <p style="font-size: 14px">Michael Graves' storied firm has reimagined a line of exquisitely designed assistive products for CVS.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bbc.in/3vWWr4q" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157721040-ec475b68-4475-4778-9774-79f06cfcbb76.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/35LrxkI" style="color: #3498DB; text-decoration: none">The world's most innovative companies of 2022 </a> </h3>
-          <p style="font-size: 14px">FastCompany's annual showcase of the World's Most Innovative Companies features inspiring stories across a wide range of industries, from advertising to wellness, and every corner of the globe.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/35LrxkI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157732939-9d2bf547-5500-4f35-9e97-1a372da49120.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3N1zCCC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159154118-77ce793f-8691-47d4-abbc-de80a1c0fffe.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -358,56 +376,46 @@
     <mj-section>
     </mj-section>
     <!--  -->
-    </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3tLtO7A" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157723305-44f1dc48-1b81-440e-ae50-0959658425fe.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3inoQbO" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159155382-09d6f648-38dc-4e1c-a0e7-59a3c50ffc1b.png
+"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tLtO7A" target="_blank" style="color: #3498DB; text-decoration: none">Lists of 400 free Handcrafted Doodle Icons
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3inoQbO" target="_blank" style="color: #3498DB; text-decoration: none">Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
  </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Four Hundred royality free Hand drawn illustrations for your next project. </p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">ColossalAI provides a sets of parallel training components and aims to help users write their own distributed deep learning models in the same way that they would write a single-GPU model.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
- <mj-section>
+    <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3hUHIyz" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157723300-df6859db-b327-42c2-af53-4462385cd3f1.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3IrTQlv" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159156641-83824048-1efe-4bfc-a106-9fdd4fce2341.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3hUHIyz" target="_blank" style="color: #3498DB; text-decoration: none">Huemint - AI color palette generator </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Huemint utilizes machine learning to generate one-of-a-kind color schemes for your brand, website, or graphic. Learn more about it. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3IrTQlv" target="_blank" style="color: #3498DB; text-decoration: none">The State Of user research 2022 </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">The fourth annual State of User Research report examines survey data from 562 UXRs to identify trends in research tools, teams, salaries, and methods.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
- <mj-section>
+    <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/34v8IS6" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157726060-60d75f94-637e-4131-820a-b69fa3e5a91a.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3CTdhCE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159156160-36b0810a-3a3c-4618-bddf-58d06ceb47e0.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/34v8IS6" target="_blank" style="color: #3498DB; text-decoration: none">CSS Polka Dot Generator  </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Generate polka dot patterns using CSS custom variables for background images, without using any Javascript!</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3CTdhCE" target="_blank" style="color: #3498DB; text-decoration: none">How to win at CORS ?
+ </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">A very detailed and comprehensive guide to CORS, from start to finish, including an interactive CORS playground!.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
- <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/35TvxQ2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157725062-8ed1656d-ec28-4c42-9bd9-7d3682bebb14.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35TvxQ2" target="_blank" style="color: #3498DB; text-decoration: none">Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Download a ton of free wayfinding icons, svg files, and other cool icon sets absolutely free of charge. </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
+    
   <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -427,41 +435,52 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MHuzXK" style="color: #3498DB; text-decoration: none">Interactive Learning Tools For Front-End Developers</a> </h3>
-          <p style="font-size: 14px">Learn CSS, JavaScript, SQL, React, Vim, regular expressions, and Jamstack with interactive coding tools.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3uaEi0k" style="color: #3498DB; text-decoration: none">Recreation of famous Logos In "The Grotesque Art Style" typical for the middle ages 🎨</a></h3>
+          <p style="font-size: 14px">Ilya Denisov, who is passionate about both history and art, decided to recreate the logos of well-known modern brands in the Middle Ages.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3MHuzXK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157728932-0a8e5e16-3241-4058-af0f-d1ebda3aa9ca.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3uaEi0k" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159158082-8d5b42a6-ec6f-49fa-9f26-1e246218af7a.png"></mj-image>
       </mj-column>
     </mj-section>
-    <!--  --> 
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://cnn.it/34zQRts" style="color: #3498DB; text-decoration: none">Steer the ship through the Suez Canal </a> </h3>
-          <p style="font-size: 14px">Navigating the Suez Canal is a very high-stress, complicated stuff that requires master piloting skills. Take a look at it yourself and try your hand at it!.  </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://cnn.it/34zQRts" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157731211-ea968a2c-49e5-4850-8fda-8e09aa811973.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  --> 
+    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MFpwan" style="color: #3498DB; text-decoration: none">Games for bored and curious Designers! </a> </h3>
-          <p style="font-size: 14px">Francesca Valentini-Marletta gathered all the websites offering games and fun experiences for UX and UI Designers over the years while exploring the internet. Learn more about these fun websites. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3inkK3u" style="color: #3498DB; text-decoration: none">Rick and Morty's Jerry Smith has just been hired as a creative director 👀</a></h3>
+          <p style="font-size: 14px">Yes, you read that correctly. Morty's father has just been hired as the creative director of ad agency DDB FTW.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3MFpwan" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157732628-68d980a5-907a-405a-98d8-5b02612eb378.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3inkK3u" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159158181-65dbf520-4ba6-4afb-a2f4-38aac884ff63.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
-
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3toPvv6" style="color: #3498DB; text-decoration: none">CYBERPUNK 2077 LOGOS & ASSETS - Update 3.0 🎁</a></h3>
+          <p style="font-size: 14px">Collection of many of the logos and pieces that appear in Cyberpunk 2077, as well as artistic renditions of these logos.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3toPvv6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159158676-536de22a-f0c7-41bf-987c-f6492c2cd0a1.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+      <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wqtHRF" style="color: #3498DB; text-decoration: none">TitleRun — the game that only exists in your title bar 🤯</a></h3>
+          <p style="font-size: 14px">Welcome to TitleRun, a game that exists solely in your title bar. It's simple... Jump over the obstacles to survive and reach the flag!</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3wqtHRF" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159158908-ca8d5ad3-aaa7-45a9-adee-e1873dc22149.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
     <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -485,7 +504,7 @@
     </mj-raw>
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_14" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_25" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
