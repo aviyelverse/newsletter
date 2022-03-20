@@ -235,6 +235,26 @@ Open hearts
       </mj-column>
     </mj-section>
     <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3JsP4W2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159155853-c987b665-659e-4ad2-bda3-1aa51f1c8f2c.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3JsP4W2" target="_blank" style="color: #3498DB; text-decoration: none">Free UI Avatars for Your Next React Project
+ </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Beautifully crafted unique avatar placeholder for your next react project
+<ul><li>🌈 40 Colors that are fully ready to go!</li>
+<li>💠 60 Beautifully crafted shapes </li>
+<li>🆎 Unique Text and Shapes 🔸</li>
+<li>🤠 Unique Generated avatars for user.</li>
+<li>🕊️ Very Lightweight - less than 20kb</li>
+<li>✍️ Highly Customizable</li></ul>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -372,6 +392,19 @@ Open hearts
     <!--  -->
     <mj-section>
       <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3IrTQlv" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159156641-83824048-1efe-4bfc-a106-9fdd4fce2341.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3IrTQlv" target="_blank" style="color: #3498DB; text-decoration: none">The State Of user research 2022 </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">The fourth annual State of User Research report examines survey data from 562 UXRs to identify trends in research tools, teams, salaries, and methods.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
         <mj-image width="150px" href="https://bit.ly/3CTdhCE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159156160-36b0810a-3a3c-4618-bddf-58d06ceb47e0.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
@@ -382,27 +415,8 @@ Open hearts
         </mj-text>
       </mj-column>
     </mj-section>
- <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3JsP4W2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159155853-c987b665-659e-4ad2-bda3-1aa51f1c8f2c.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3JsP4W2" target="_blank" style="color: #3498DB; text-decoration: none">Free UI Avatars for Your Next React Project
- </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Beautifully crafted unique avatar placeholder for your next react project
-<ul><li>🌈 40 Colors that are fully ready to go!</li>
-<li>💠 60 Beautifully crafted shapes </li>
-<li>🆎 Unique Text and Shapes 🔸</li>
-<li>🤠 Unique Generated avatars for user.</li>
-<li>🕊️ Very Lightweight - less than 20kb</li>
-<li>✍️ Highly Customizable</li></ul>
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
     <!--  -->
+    
   <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
