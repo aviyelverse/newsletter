@@ -149,31 +149,33 @@
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section >
-     <mj-column >
-        <mj-text align="justify">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tpgCGc" target="_blank" style="color: #3498DB; text-decoration: none">10 Design Patterns Explained in 10 Minutes
-</a></h3>
-        </mj-text>
-       <mj-image width="600px" href="https://bit.ly/3tpgCGc" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159114794-85ee72de-1c2d-48d9-a17c-03e82d541f24.gif"></mj-image>
-        <mj-text align="justify" padding-top="0">
-          <p style="font-size: 14px;padding-top:0px;">Software design patterns assist programmers in resolving common coding issues. This Fireship video will show you how to use JavaScript and TypeScript to implement 10 patterns from the famous Gang of Four book. </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
- <!-- ------ -->
+    <!--  -->
     <mj-section>
-      <mj-column >
-        <mj-text align="justify">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3N5yDkG" target="_blank" style="color: #3498DB; text-decoration: none">MORALIS FULL COURSE FOR BEGINNERS - Web3 Dapp Programming (6hrs)</a></h3>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3tpgCGc" target="_blank" style="color: #3498DB; text-decoration: none;">10 Design Patterns Explained in 10 Minutes
+ </a> </h3>
         </mj-text>
-       <mj-image width="600px" href="https://bit.ly/3N5yDkG" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159115115-525e7bae-5642-4894-a9d2-c4c1b13e119d.png"></mj-image><mj-text align="justify" padding-top="0">
-          <p style="font-size: 14px;padding-top:0px;"> Moralis Web3.0 complete course which covers the most important aspects of the Moralis Web3.0 Programming Platform. This video tutorial will show you how to use simple javascript to create cross-chain decentralized applications.
- </p>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3tpgCGc" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159114794-85ee72de-1c2d-48d9-a17c-03e82d541f24.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Software design patterns assist programmers in resolving common coding issues. This Fireship video will show you how to use JavaScript and TypeScript to implement 10 patterns from the famous Gang of Four book.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-   
+    <!--  -->
+     <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3N5yDkG" target="_blank" style="color: #3498DB; text-decoration: none;">MORALIS FULL COURSE FOR BEGINNERS - Web3 Dapp Programming (6hrs)
+ </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3N5yDkG" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159115115-525e7bae-5642-4894-a9d2-c4c1b13e119d.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Moralis Web3.0 complete course which covers the most important aspects of the Moralis Web3.0 Programming Platform. This video tutorial will show you how to use simple javascript to create cross-chain decentralized applications.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
        <!-- DIVIDER LINE -->
     <mj-section padding-top="0px">
       <mj-column width="100%">
