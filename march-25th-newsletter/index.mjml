@@ -53,25 +53,20 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
-    <!--  -->
-     <mj-section padding="0 20px 0px 0px">
-     <mj-column width="50%">
-       <mj-image width="180px" href="https://bit.ly/368MAhj" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159110278-4fcbfbb5-d9f8-4449-bdf4-bd8912ab87f5.gif"></mj-image>
+     <!--  -->
+     <mj-section>
+      <mj-column width="75%">
         <mj-text align="justify">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/368MAhj" target="_blank" style="color: #3498DB; text-decoration: none">SpaceX is hosting a new fellowship in space-based surgery.
-</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Aerospace Surgery Fellowship is being hosted by SpaceX, University of Arizona, and Banner Health. It will be the United States' first fellowship program in the field of aerospace surgery. This article goes into great detail about the program. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/368MAhj" style="color: #3498DB; text-decoration: none">SpaceX is hosting a new fellowship in space-based surgery.
+</a> </h3>
+          <p style="font-size: 14px">Aerospace Surgery Fellowship is being hosted by SpaceX, University of Arizona, and Banner Health. It will be the United States' first fellowship program in the field of aerospace surgery. This article goes into great detail about the program.</p>
         </mj-text>
       </mj-column>
-      <mj-column width="50%">
-       <mj-image width="180px" href="https://tcrn.ch/36uy0R0" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111066-583efa95-1390-4ff9-a9ff-964a5725124d.gif"></mj-image>
-        <mj-text align="center">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://tcrn.ch/36uy0R0" target="_blank" style="color: #3498DB; text-decoration: none">Netflix tests a new feature that will raise prices for account sharing.</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Netflix is experimenting with a sub account feature that will allow subscribers to share their subscription with other people. Check out this article to learn more about this fantastic feature. </p>
-        </mj-text>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/368MAhj" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159110278-4fcbfbb5-d9f8-4449-bdf4-bd8912ab87f5.gif"></mj-image>
       </mj-column>
     </mj-section>
-      <!--  -->
+     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
@@ -96,7 +91,20 @@
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KYcqn2" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111664-c41ef447-3169-4539-b077-872a59c237b8.png"></mj-image>
       </mj-column>
     </mj-section>
- 
+      <!--  -->
+     <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/36uy0R0" style="color: #3498DB; text-decoration: none">Netflix tests a new feature that will raise prices for account sharing.
+</a> </h3>
+          <p style="font-size: 14px">Netflix is experimenting with a sub account feature that will allow subscribers to share their subscription with other people. Check out this article to learn more about this fantastic feature. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/36uy0R0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111066-583efa95-1390-4ff9-a9ff-964a5725124d.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+     <!--  -->
       <!--  -->
      <!-- DIVIDER LINE -->
     <mj-section padding="0px">
@@ -325,7 +333,6 @@
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bbc.in/3vWWr4q" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157721040-ec475b68-4475-4778-9774-79f06cfcbb76.gif"></mj-image>
       </mj-column>
     </mj-section>
-    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
