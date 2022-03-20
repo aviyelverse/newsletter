@@ -402,7 +402,6 @@ Open hearts
       </mj-column>
     </mj-section>
     <!--  -->
-    <!--  -->
     <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://bit.ly/3CTdhCE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159156160-36b0810a-3a3c-4618-bddf-58d06ceb47e0.png"></mj-image>
@@ -436,41 +435,52 @@ Open hearts
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MHuzXK" style="color: #3498DB; text-decoration: none">Interactive Learning Tools For Front-End Developers</a> </h3>
-          <p style="font-size: 14px">Learn CSS, JavaScript, SQL, React, Vim, regular expressions, and Jamstack with interactive coding tools.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3uaEi0k" style="color: #3498DB; text-decoration: none">Recreation of famous Logos In "The Grotesque Art Style" typical for the middle ages 🎨</a></h3>
+          <p style="font-size: 14px">Ilya Denisov, who is passionate about both history and art, decided to recreate the logos of well-known modern brands in the Middle Ages.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3MHuzXK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157728932-0a8e5e16-3241-4058-af0f-d1ebda3aa9ca.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3uaEi0k" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159158082-8d5b42a6-ec6f-49fa-9f26-1e246218af7a.png"></mj-image>
       </mj-column>
     </mj-section>
-    <!--  --> 
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://cnn.it/34zQRts" style="color: #3498DB; text-decoration: none">Steer the ship through the Suez Canal </a> </h3>
-          <p style="font-size: 14px">Navigating the Suez Canal is a very high-stress, complicated stuff that requires master piloting skills. Take a look at it yourself and try your hand at it!.  </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://cnn.it/34zQRts" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157731211-ea968a2c-49e5-4850-8fda-8e09aa811973.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  --> 
+    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MFpwan" style="color: #3498DB; text-decoration: none">Games for bored and curious Designers! </a> </h3>
-          <p style="font-size: 14px">Francesca Valentini-Marletta gathered all the websites offering games and fun experiences for UX and UI Designers over the years while exploring the internet. Learn more about these fun websites. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3inkK3u" style="color: #3498DB; text-decoration: none">Rick and Morty's Jerry Smith has just been hired as a creative director 👀</a></h3>
+          <p style="font-size: 14px">Yes, you read that correctly. Morty's father has just been hired as the creative director of ad agency DDB FTW.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3MFpwan" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157732628-68d980a5-907a-405a-98d8-5b02612eb378.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3inkK3u" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159158181-65dbf520-4ba6-4afb-a2f4-38aac884ff63.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
-
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3toPvv6" style="color: #3498DB; text-decoration: none">CYBERPUNK 2077 LOGOS & ASSETS - Update 3.0 🎁</a></h3>
+          <p style="font-size: 14px">Collection of many of the logos and pieces that appear in Cyberpunk 2077, as well as artistic renditions of these logos.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3toPvv6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159158676-536de22a-f0c7-41bf-987c-f6492c2cd0a1.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+      <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wqtHRF" style="color: #3498DB; text-decoration: none">TitleRun — the game that only exists in your title bar 🤯</a></h3>
+          <p style="font-size: 14px">Welcome to TitleRun, a game that exists solely in your title bar. It's simple... Jump over the obstacles to survive and reach the flag!</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3wqtHRF" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159158908-ca8d5ad3-aaa7-45a9-adee-e1873dc22149.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
     <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
