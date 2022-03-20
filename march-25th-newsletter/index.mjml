@@ -192,29 +192,30 @@
     <mj-section>
     </mj-section>
     <!--  -->
- </mj-raw>
-    <mj-section>
+  <!--  -->
+   <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/35NegIq" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157698379-8d15e0e6-cb42-4d80-b69d-cef99acc2132.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3tmzAgU" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159149206-7480a688-28eb-42d5-ab68-8a3620d84d6b.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35NegIq" target="_blank" style="color: #3498DB; text-decoration: none">Web animation performance fundamentals </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Every movement in browser is technically an animation, including scrolling, zooming, selection, and hovering over a button. Find out more on how browsers convert code into pixels and using it for smoother web pages </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tmzAgU" target="_blank" style="color: #3498DB; text-decoration: none">Texture — Generative Snacks!
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Bring your generative work to life with three simple textures inspired by the natural world.
+.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
-    <!--  -->
-   <mj-section>
+    <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3HQ5OVR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157702249-f487d40a-b32b-45bc-b794-e4c8f2d60f4d.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3It12xE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159148781-806efbbc-0bc5-4ae1-b690-fb9e8b36c3b6.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3KwlIX4" target="_blank" style="color: #3498DB; text-decoration: none">CSS tricks to create that dark futuristic Web3 look
-</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">This article provides developers with simple styles for incorporating a dark mode web3 aesthetic into their sites. Gradient backgrounds, glowing effects, text over dark backgrounds, transparent backgrounds, and a tons of effects..</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3It12xE" target="_blank" style="color: #3498DB; text-decoration: none">Development reimagined - CodeSandbox Projects Beta . </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Experience the future of web development and build projects anywhere and anytime with your team.
+</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -222,13 +223,14 @@
   <!--  -->
    <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3vW8nDi" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157706456-d2042b8e-e370-44e6-baab-8997a715c410.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3KXXbu7" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159149682-c8ff144a-9246-4e06-957b-2d94cbd4c6f7.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3vW8nDi" target="_blank" style="color: #3498DB; text-decoration: none">Linux SysOps handbook
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3KXXbu7" target="_blank" style="color: #3498DB; text-decoration: none">Open source,
+Open hearts
 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">This book includes notes on common knowledge and tasks for Linux system administrators, as well as other topics such as processes, user management, permissions, distros, network essentials, storage, and much more.</p>
+          <p style="font-size: 14px;padding-top:0px;">Send a token of appreciation to your favorite open source developers and projects.</p>
         </mj-text>
       </mj-column>
     </mj-section>
