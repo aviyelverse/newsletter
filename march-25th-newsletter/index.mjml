@@ -57,9 +57,9 @@
      <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/368MAhj" style="color: #3498DB; text-decoration: none">SpaceX is hosting a new fellowship in space-based surgery.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://arstechnica.com/gadgets/2022/03/android-13-preview-locks-down-notifications-adds-more-to-the-tablet-taskbar/" style="color: #3498DB; text-decoration: none">Android 13 preview locks down notifications, adds more to the tablet taskbar
 </a> </h3>
-          <p style="font-size: 14px">Aerospace Surgery Fellowship is being hosted by SpaceX, University of Arizona, and Banner Health. It will be the United States' first fellowship program in the field of aerospace surgery. This article goes into great detail about the program.</p>
+          <p style="font-size: 14px">The latest Android 13 preview adds an app drawer button to the taskbar, letting you easily access all your apps from any screen. It's a great addition, and it's hopefully a sign of things to come for the brand-new taskbar added in Android 12L..</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -70,9 +70,9 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/36sGMyY" style="color: #3498DB; text-decoration: none">Nvidia Unveils Big Accelerator Memory: Solid-State Storage for GPUs
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/36sGMyY" style="color: #3498DB; text-decoration: none">Nvidia unveils big accelerator memory: Solid-state storage for GPUs
 </a> </h3>
-          <p style="font-size: 14px">Nvidia's Big Accelerator Memory (BaM) technology allows GPUs to work in tandem with SSDs. It will allow Nvidia GPUs to access large amounts of data from SSDs without relying on the CPU, making graphics cards more self-sufficient than they are now. Learn more about the new Nvidia BaM technology in this article. </p>
+          <p style="font-size: 14px">Nvidia's Big Accelerator Memory (BaM) technology allows GPUs to work in tandem with SSDs. It will allow Nvidia GPUs to access large amounts of data from SSDs without relying on the CPU, making graphics cards more self-sufficient. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -83,8 +83,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KYcqn2" style="color: #3498DB; text-decoration: none">Record-breaking hydrogen electrolyzer claims 95% efficiency </a> </h3>
-          <p style="font-size: 14px">Hysata, an Australian firm, has developed new electrolyzer technology that promises to produce low-cost green hydrogen in a matter of years. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.usatoday.com/story/tech/science/2022/03/22/nasa-scientists-thousands-planets-beyond-solar-system/7126637001/" style="color: #3498DB; text-decoration: none">More than 5,000 planets exist beyond our solar system, NASA says </a> </h3>
+          <p style="font-size: 14px">Scientists have now found more than 5,000 planets existing beyond our solar system, NASA has announced. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -127,11 +127,11 @@
       <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3JkrxXo" target="_blank" style="color: #3498DB; text-decoration: none;">What If We're Living in a Simulation?</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3JkrxXo" target="_blank" style="color: #3498DB; text-decoration: none;">What if we're living in a simulation?</a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3JkrxXo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159114065-162c62eb-77f1-47e3-bacd-86b04d46140f.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">What if we're living in a simulation?. Is there any truth to this unbelievable claim? Check out this video to see if we're all living in a simulation or not.</p>
+          <p style="font-size: 14px;">What if we're living in a simulation? Is there any truth to this unbelievable claim? Check out this video to see for yourself.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -139,7 +139,7 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3qjaaPi" target="_blank" style="color: #3498DB; text-decoration: none;">How to Deploy an NFT Drop Using a Smart Contract ?
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3qjaaPi" target="_blank" style="color: #3498DB; text-decoration: none;">How to Deploy an NFT Drop Using a Smart Contract?
  </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3qjaaPi" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159114611-7f7bd598-fe17-47cb-8a66-459a66d1bc6a.gif"></mj-image>
@@ -321,9 +321,9 @@ Open hearts
    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3tqR0J2" style="color: #3498DB; text-decoration: none">Amateur open-source researchers went viral unpacking the war in Ukraine.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://restofworld.org/2022/el-salvador-bitcoin/" style="color: #3498DB; text-decoration: none">Six months in, El Salvador’s bitcoin gamble is crumbling
  </a> </h3>
-          <p style="font-size: 14px">Justin Peden, a sophomore at the University of Alabama, has emerged as a surprising source of information about the Ukraine-Russia conflict.</p>
+          <p style="font-size: 14px">As El Salvador prepares to launch its 'Bitcoin bond', interviews with citizens, economists and technologists reveal cracks in the country's crypto revolution.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -337,7 +337,7 @@ Open hearts
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KW7BKT" style="color: #3498DB; text-decoration: none">CSS-Tricks is joining DigitalOcean!
  </a> </h3>
-          <p style="font-size: 14px">DigitalOcean has acquired the CSS-Tricks website, a learning resource with 6,500 articles, videos, guides, and other frontend development-related content.</p>
+          <p style="font-size: 14px">DigitalOcean has acquired CSS-Tricks, a learning resource with 6,500 articles, videos, guides, and other frontend development-related content.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -349,7 +349,7 @@ Open hearts
    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3N1zCCC" style="color: #3498DB; text-decoration: none">The legendary design firm that made Target a star is introducing a new line of products for CVS.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3N1zCCC" style="color: #3498DB; text-decoration: none">The legendary design firm that made Target a star is introducing a new line of products for CVS
  </a> </h3>
           <p style="font-size: 14px">Michael Graves' storied firm has reimagined a line of exquisitely designed assistive products for CVS.</p>
         </mj-text>
@@ -385,9 +385,9 @@ Open hearts
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3inoQbO" target="_blank" style="color: #3498DB; text-decoration: none">Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3inoQbO" target="_blank" style="color: #3498DB; text-decoration: none">Colossal-AI: A unified deep learning system for large-scale parallel training
  </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">ColossalAI provides a sets of parallel training components and aims to help users write their own distributed deep learning models in the same way that they would write a single-GPU model.</p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">ColossalAI provides a sets of parallel training components to help users write their own distributed deep learning models in the same way that they would write a single-GPU model.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -398,7 +398,7 @@ Open hearts
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3IrTQlv" target="_blank" style="color: #3498DB; text-decoration: none">The State Of user research 2022 </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3IrTQlv" target="_blank" style="color: #3498DB; text-decoration: none">The state of user research 2022 </a> </h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">The fourth annual State of User Research report examines survey data from 562 UXRs to identify trends in research tools, teams, salaries, and methods.</p>
         </mj-text>
       </mj-column>
@@ -437,7 +437,7 @@ Open hearts
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3uaEi0k" style="color: #3498DB; text-decoration: none">Recreation of famous Logos In "The Grotesque Art Style" typical for the middle ages 🎨</a></h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3uaEi0k" style="color: #3498DB; text-decoration: none">Recreating your favorite logos in "the Grotesque art style" of middle ages 🎨</a></h3>
           <p style="font-size: 14px">Ilya Denisov, who is passionate about both history and art, decided to recreate the logos of well-known modern brands in the Middle Ages.</p>
         </mj-text>
       </mj-column>
@@ -450,8 +450,8 @@ Open hearts
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3inkK3u" style="color: #3498DB; text-decoration: none">Rick and Morty's Jerry Smith has just been hired as a creative director 👀</a></h3>
-          <p style="font-size: 14px">Yes, you read that correctly. Morty's father has just been hired as the creative director of ad agency DDB FTW.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://www.theverge.com/2022/3/22/22991170/netflix-mobile-games-first-fps-subscription" style="color: #3498DB; text-decoration: none">Netflix is getting three more mobile games, including its first FPS 👀</a></h3>
+          <p style="font-size: 14px">This Is A True Story and Shatter Remastered will be available on Tuesday, while Netflix says Into The Dead 2: Unleashed is “coming soon.”.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -462,8 +462,8 @@ Open hearts
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3toPvv6" style="color: #3498DB; text-decoration: none">CYBERPUNK 2077 LOGOS & ASSETS - Update 3.0 🎁</a></h3>
-          <p style="font-size: 14px">Collection of many of the logos and pieces that appear in Cyberpunk 2077, as well as artistic renditions of these logos.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3toPvv6" style="color: #3498DB; text-decoration: none">Cyberpunk 2077 logos & assets- Update 3.0 🎁</a></h3>
+          <p style="font-size: 14px">Collection of logos that were part of Cyberpunk 2077, and their artistic renditions.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -474,8 +474,8 @@ Open hearts
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wqtHRF" style="color: #3498DB; text-decoration: none">TitleRun — the game that only exists in your title bar 🤯</a></h3>
-          <p style="font-size: 14px">Welcome to TitleRun, a game that exists solely in your title bar. It's simple... Jump over the obstacles to survive and reach the flag!</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wqtHRF" style="color: #3498DB; text-decoration: none">TitleRun- the game that only exists in your title bar 🤯</a></h3>
+          <p style="font-size: 14px">Welcome to TitleRun, a game that exists solely in your title bar. It's simple! Jump over the obstacles to survive and reach the flag!</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
