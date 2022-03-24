@@ -32,7 +32,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #10 - March 25th</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #10 - March 26th</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
         <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_mar_25" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
@@ -91,20 +91,6 @@
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3JycOIE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159672803-d19706d5-4271-48ef-98c9-c807feeb75ee.gif"></mj-image>
       </mj-column>
     </mj-section>
-      <!--  -->
-     <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/36uy0R0" style="color: #3498DB; text-decoration: none">Netflix tests a new feature that will raise prices for account sharing.
-</a> </h3>
-          <p style="font-size: 14px">Netflix is experimenting with a sub account feature that will allow subscribers to share their subscription with other people. Check out this article to learn more about this fantastic feature. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/36uy0R0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111066-583efa95-1390-4ff9-a9ff-964a5725124d.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-     <!--  -->
       <!--  -->
      <!-- DIVIDER LINE -->
     <mj-section padding="0px">
@@ -209,19 +195,6 @@
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3It12xE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159148781-806efbbc-0bc5-4ae1-b690-fb9e8b36c3b6.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3It12xE" target="_blank" style="color: #3498DB; text-decoration: none">Development reimagined - CodeSandbox Projects Beta . </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Experience the future of web development and build projects anywhere and anytime with your team.
-</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
   <!--  -->
    <mj-section>
       <mj-column width="25%">
@@ -250,9 +223,7 @@ Open hearts
 <ul><li>🌈 40 Colors that are fully ready to go!</li>
 <li>💠 60 Beautifully crafted shapes </li>
 <li>🆎 Unique Text and Shapes 🔸</li>
-<li>🤠 Unique Generated avatars for user.</li>
 <li>🕊️ Very Lightweight - less than 20kb</li>
-<li>✍️ Highly Customizable</li></ul>
           </p>
         </mj-text>
       </mj-column>
@@ -345,17 +316,16 @@ Open hearts
       </mj-column>
     </mj-section>
     <!--  -->
-    <!--  -->
    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3N1zCCC" style="color: #3498DB; text-decoration: none">The legendary design firm that made Target a star is introducing a new line of products for CVS
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3It12xE" style="color: #3498DB; text-decoration: none">Development reimagined - CodeSandbox Projects Beta.
  </a> </h3>
-          <p style="font-size: 14px">Michael Graves' storied firm has reimagined a line of exquisitely designed assistive products for CVS.</p>
+          <p style="font-size: 14px">Experience the future of web development and build projects anywhere and anytime with your team.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3N1zCCC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159154118-77ce793f-8691-47d4-abbc-de80a1c0fffe.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3It12xE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159148781-806efbbc-0bc5-4ae1-b690-fb9e8b36c3b6.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
