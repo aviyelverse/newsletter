@@ -59,7 +59,7 @@
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Jy7vsI" style="color: #3498DB; text-decoration: none">Android 13 preview locks down notifications, adds more to the tablet taskbar
 </a> </h3>
-          <p style="font-size: 14px">The latest Android 13 preview adds an app drawer button to the taskbar, letting you easily access all your apps from any screen. It's a great addition, and it's hopefully a sign of things to come for the brand-new taskbar added in Android 12L..</p>
+          <p style="font-size: 14px">The latest Android 13 preview adds an app drawer button to the taskbar, letting you easily access all your apps from any screen. It's a great addition, and it's hopefully a sign of things to come for the brand-new taskbar added in Android 12L.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -72,7 +72,7 @@
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/36sGMyY" style="color: #3498DB; text-decoration: none">Nvidia unveils big accelerator memory: Solid-state storage for GPUs
 </a> </h3>
-          <p style="font-size: 14px">Nvidia's Big Accelerator Memory (BaM) technology allows GPUs to work in tandem with SSDs. It will allow Nvidia GPUs to access large amounts of data from SSDs without relying on the CPU, making graphics cards more self-sufficient. </p>
+          <p style="font-size: 14px">Nvidia's Big Accelerator Memory technology allows GPUs to work in tandem with SSDs. It will allow Nvidia GPUs to access large amounts of data from SSDs without relying on the CPU, making graphics cards more self-sufficient. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -276,7 +276,7 @@ On March 30th, 2022, Join Team BoxyHQ for an exciting AMA session!
      <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3qrTa9q" target="_blank" style="color: #3498DB; text-decoration: none;">Understanding Docker & Containers
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3qrTa9q" target="_blank" style="color: #3498DB; text-decoration: none;">Contributions, Incentivisation & Making a Career in OSS!
             </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3qrTa9q" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159673606-e69ed80a-eef8-4376-be3d-79666d98f00f.png"></mj-image>
