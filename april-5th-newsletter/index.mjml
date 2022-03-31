@@ -760,29 +760,30 @@
       <mj-column width="25%">
         <mj-image
           width="150px"
-          href="https://bit.ly/3inoQbO"
+          href="https://bit.ly/3LB8xEZ"
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/159155382-09d6f648-38dc-4e1c-a0e7-59a3c50ffc1b.png
-"
+          src="https://user-images.githubusercontent.com/37651620/161128903-1fc5a495-9787-4712-8145-40fca60e0bf2.gif"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
             <a
-              href="https://bit.ly/3inoQbO"
+              href="https://bit.ly/3LB8xEZ"
               target="_blank"
               style="color: #3498db; text-decoration: none"
-              >Colossal-AI: A unified deep learning system for large-scale
-              parallel training
+              >The Ultimate Guide to Onboarding Software Engineers
             </a>
           </h3>
           <p style="font-size: 14px; padding-top: 0px" align="justify">
-            ColossalAI provides a sets of parallel training components to help
-            users write their own distributed deep learning models in the same
-            way that they would write a single-GPU model.
+            onboarding can be challenging because there is a lot to learn and
+            things are frequently overlooked. Creating an onboarding structure
+            can help new hires become productive workers in a shorter amount of
+            time, lowering turnover. Onboarding new employees, the various
+            aspects to consider, and tips for more effective onboarding are
+            discussed in this article.
           </p>
         </mj-text>
       </mj-column>
@@ -792,27 +793,27 @@
       <mj-column width="25%">
         <mj-image
           width="150px"
-          href="https://bit.ly/3IrTQlv"
+          href="https://bit.ly/3IXF6ev"
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/159156641-83824048-1efe-4bfc-a106-9fdd4fce2341.gif"
+          src="https://user-images.githubusercontent.com/37651620/161129398-01fa52fa-34ef-4a4b-9a63-db176b850d93.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
             <a
-              href="https://bit.ly/3IrTQlv"
+              href="https://bit.ly/3IXF6ev"
               target="_blank"
               style="color: #3498db; text-decoration: none"
-              >The state of user research 2022
+              >Mode Designs SixtyFive · a celebration of materials
             </a>
           </h3>
           <p style="font-size: 14px; padding-top: 0px" align="justify">
-            The fourth annual State of User Research report examines survey data
-            from 562 UXRs to identify trends in research tools, teams, salaries,
-            and methods.
+            Mode Design’s SixtyFive is one of the best mechanical keyboards I’ve
+            ever used. These are my thoughts after having it in the studio for a
+            few months.
           </p>
         </mj-text>
       </mj-column>
@@ -822,26 +823,26 @@
       <mj-column width="25%">
         <mj-image
           width="150px"
-          href="https://bit.ly/3CTdhCE"
+          href="https://bit.ly/3IQmqNC"
           target="_blank"
           padding-right="0px"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/159156160-36b0810a-3a3c-4618-bddf-58d06ceb47e0.png"
+          src="https://user-images.githubusercontent.com/37651620/161130611-d143b343-a842-49f1-b96b-1a5738155fcf.png"
         ></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
             <a
-              href="https://bit.ly/3CTdhCE"
+              href="https://bit.ly/3IQmqNC"
               target="_blank"
               style="color: #3498db; text-decoration: none"
-              >How to win at CORS ?
+              >PWA Resources
             </a>
           </h3>
           <p style="font-size: 14px; padding-top: 0px" align="justify">
-            A very detailed and comprehensive guide to CORS, from start to
-            finish, including an interactive CORS playground!.
+            An awesonme collection of resources for learning to build
+            Progressive Web Apps(PWAs).
           </p>
         </mj-text>
       </mj-column>
