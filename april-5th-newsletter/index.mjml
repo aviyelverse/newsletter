@@ -635,15 +635,15 @@
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
             <a
               target="_blank"
-              href="https://bit.ly/3JxURtF"
+              href="https://bit.ly/3uHSxdd"
               style="color: #3498db; text-decoration: none"
-              >Six months in, El Salvador’s bitcoin gamble is crumbling
+              >New EU law could require iMessage and WhatsApp to work with
+              other, smaller platforms
             </a>
           </h3>
           <p style="font-size: 14px">
-            As El Salvador prepares to launch its 'Bitcoin bond', interviews
-            with citizens, economists and technologists reveal cracks in the
-            country's crypto revolution.
+            Learn more about the EU's Digital Markets Act, which, if passed,
+            could force messaging apps to work collaboratively.
           </p>
         </mj-text>
       </mj-column>
@@ -652,40 +652,9 @@
           width="150px"
           padding-left="0px"
           target="_blank"
-          href="https://bit.ly/3JxURtF"
+          href="https://bit.ly/3uHSxdd"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/159674694-40f64ff6-380b-4d1e-80bc-edaad5900c4f.png"
-        ></mj-image>
-      </mj-column>
-    </mj-section>
-
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
-            <a
-              target="_blank"
-              href="https://bit.ly/3KW7BKT"
-              style="color: #3498db; text-decoration: none"
-              >CSS-Tricks is joining DigitalOcean!
-            </a>
-          </h3>
-          <p style="font-size: 14px">
-            DigitalOcean has acquired CSS-Tricks, a learning resource with 6,500
-            articles, videos, guides, and other frontend development-related
-            content.
-          </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image
-          width="150px"
-          padding-left="0px"
-          target="_blank"
-          href="https://bit.ly/3KW7BKT"
-          border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/159154760-4f02d2ad-ebbb-4c2c-9a5d-33e88ae37bf7.gif"
+          src="https://user-images.githubusercontent.com/37651620/161122988-d758a5d7-3f50-4c67-9b90-1caa1f66e931.gif"
         ></mj-image>
       </mj-column>
     </mj-section>
@@ -696,14 +665,17 @@
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
             <a
               target="_blank"
-              href="https://bit.ly/3It12xE"
+              href="https://bit.ly/3qQMIJy"
               style="color: #3498db; text-decoration: none"
-              >Development reimagined - CodeSandbox Projects Beta.
+              >Quantum technology could make charging electric cars as fast as
+              pumping gas
             </a>
           </h3>
           <p style="font-size: 14px">
-            Experience the future of web development and build projects anywhere
-            and anytime with your team.
+            Despite significant advancements and progressions in battery
+            technology, electric vehicles still face slow charging times. A
+            group of scientists has shown that quantum batteries with global
+            operation can achieve quadratic charging speed scaling.
           </p>
         </mj-text>
       </mj-column>
@@ -712,9 +684,39 @@
           width="150px"
           padding-left="0px"
           target="_blank"
-          href="https://bit.ly/3It12xE"
+          href="https://bit.ly/3qQMIJy"
           border-radius="7px"
-          src="https://user-images.githubusercontent.com/37651620/159148781-806efbbc-0bc5-4ae1-b690-fb9e8b36c3b6.png"
+          src="https://user-images.githubusercontent.com/37651620/161126624-aeb962cb-f3bd-4151-85d0-13af6eaf4479.gif"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0">
+            <a
+              target="_blank"
+              href="https://bit.ly/3wSFsAB"
+              style="color: #3498db; text-decoration: none"
+              >Meet Earendel, the most distant star ever detected
+            </a>
+          </h3>
+          <p style="font-size: 14px">
+            The star, imaged by the Hubble telescope, shone just 900 million
+            years after the Big Bang. Officially named WHL0137-LS but nicknamed
+            'Earendel', the star system is 8.2 billion years older than the Sun.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image
+          width="150px"
+          padding-left="0px"
+          target="_blank"
+          href="https://bit.ly/3wSFsAB"
+          border-radius="7px"
+          src="https://user-images.githubusercontent.com/37651620/161127480-7643407f-7fda-44c7-9dc0-a253278418a2.png"
         ></mj-image>
       </mj-column>
     </mj-section>
