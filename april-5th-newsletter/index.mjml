@@ -57,38 +57,40 @@
      <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Android 13 preview locks down notifications, adds more to the tablet taskbar
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3ITNVpA" style="color: #3498DB; text-decoration: none">Mitochondrial transplants between living cells could save dying organs
 </a> </h3>
-          <p style="font-size: 14px">The latest Android 13 preview adds an app drawer button to the taskbar, letting you easily access all your apps from any screen. It's a great addition, and it's hopefully a sign of things to come for the brand-new taskbar added in Android 12L.</p>
+          <p style="font-size: 14px">Mitochondrial transplantation is an experimental treatment that has shown promise in animal studies for rejuvenating tissues affected by mitochondrial dysfunction. Learn everything there is to know about mitochondrial transplantation.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Jy7vsI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159671388-25b499d7-0544-4b21-8cbc-2da0a1e011dd.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3ITNVpA" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161016126-3c41aa08-49e1-45fb-8659-26d1aeb426db.png"></mj-image>
       </mj-column>
     </mj-section>
      <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/36sGMyY" style="color: #3498DB; text-decoration: none">Nvidia unveils big accelerator memory: Solid-state storage for GPUs
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/35pkj5G" style="color: #3498DB; text-decoration: none">Samsung’s new 4K smart monitor has a magnetic wireless webcam
 </a> </h3>
-          <p style="font-size: 14px">Nvidia's Big Accelerator Memory technology allows GPUs to work in tandem with SSDs. It will allow Nvidia GPUs to access large amounts of data from SSDs without relying on the CPU, making graphics cards more self-sufficient. </p>
+          <p style="font-size: 14px">Find out more about Samsung's M8 monitor, which includes a wireless webcam that can be removed and reattached using magnets and a built-in apps that works without a PC connection. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/36sGMyY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159111940-aed2ed7e-0856-4ea5-8899-ee6293e7a65b.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/35pkj5G" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161052284-d9d8c249-d565-4085-84f4-0543847e27db.png"></mj-image>
       </mj-column>
     </mj-section>
+    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3JycOIE" style="color: #3498DB; text-decoration: none">More than 5,000 planets exist beyond our solar system, NASA says </a> </h3>
-          <p style="font-size: 14px">Scientists have now found more than 5,000 planets existing beyond our solar system, NASA has announced. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wRYhnq" style="color: #3498DB; text-decoration: none">Why Are Letters Shaped the Way They Are?
+ </a> </h3>
+          <p style="font-size: 14px">Linguistic games and research are revealing a previously unknown link between the appearance and meaning of words. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3JycOIE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/159672803-d19706d5-4271-48ef-98c9-c807feeb75ee.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3wRYhnq" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161055298-603c92ce-1e9a-4422-b665-794b31d0b3e5.gif"></mj-image>
       </mj-column>
     </mj-section>
       <!--  -->
