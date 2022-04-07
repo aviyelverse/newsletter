@@ -225,47 +225,7 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section></mj-section>
-    <mj-raw>
       <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3tUQymL" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161115786-a66fa77d-9e27-4e81-b18a-bc23d27e4d06.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tUQymL" target="_blank" style="color: #3498DB; text-decoration: none">UXPin Merge: Build fully interactive prototypes in just few seconds
-            </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Prototype with true components and save time on adding interactions. Use UXPin Merge – design with the same elements your devs build products with.
-            .</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3iTxAXq" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161117912-96cad378-6fe3-46dd-9466-c39f7c791d02.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3iTxAXq" target="_blank" style="color: #3498DB; text-decoration: none">Those HTML Attributes You Never Use
-            </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;">Very Interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
     <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://bit.ly/3iQ2X4W" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161119782-b20ee7fd-12bf-430a-a421-ecf5a4fa050c.png"></mj-image>
@@ -305,12 +265,12 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://aviyel.com/events/335/writing-your-first-django-app?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_335" target="_blank" style="color: #3498DB; text-decoration: none;"> Writing your first Django App
+          <h3 style="font-weight: bold"><a href="" target="_blank" style="color: #3498DB; text-decoration: none;"> Making a Career in Open Source!
             </a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/335/writing-your-first-django-app?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_335" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161006388-29789955-0425-4e64-8191-d0d55f9ba4da.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162279390-772fc130-b0ec-40a1-830e-e02346fbd0a4.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Melvin Thomas, Backend Developer at Totto Learning, will introduce the explorers to the Django framework in this session of MobSF's Contributor Roadmap Series.
+          <p style="font-size: 14px;">---
           </p>
         </mj-text>
       </mj-column>
@@ -318,44 +278,7 @@
     <mj-raw>
       <!--  -->
     </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3NIEAEF" target="_blank" style="color: #3498DB; text-decoration: none;">Non-Code Contributions in open source
-            </a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3NIEAEF" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161006397-193ee19c-a82f-4b4b-8772-5e71b01b9d2d.png"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">Join us for a Twitter Spaces event where we discuss with Navendu Pottekat, Developer Advocate at API7.ai, about the importance and impact of Non-code contributions in Open Source.
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://aviyel.typeform.com/to/xv56fICl" target="_blank" style="color: #3498DB; text-decoration: none;">The Relevance of Non-Code Contributions in open source!
-            </a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.typeform.com/to/xv56fICl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161006400-25547ecd-402f-48e8-b7ff-b9397a631fda.png"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">Ivana Isadora is a Technical writer, Translator, and Evangelist from the KDE Community. Ivana explains how Open Source has a place for everybody! Tune in as we discuss getting started with Non-code contributions, their relevance, and making a career in Non-code contributions!
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
+  
     <mj-raw>
       <!-- DIVIDER LINE -->
     </mj-raw>
