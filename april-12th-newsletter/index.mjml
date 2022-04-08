@@ -53,24 +53,7 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/35QkK9n" style="color: #3498DB; text-decoration: none">Intel’s long-anticipated Arc GPUs arrive in laptops
-            </a> </h3>
-          <p style="font-size: 14px">Arc’s grand reveal comes via laptops, which can drive home some of the enticingly delicious advantages Intel can provide in tuned systems revolving around its Core CPUs and Arc GPUs. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/35QkK9n" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162356896-f08328ef-725e-484f-adf7-4ad448055430.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
+   
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
@@ -123,6 +106,24 @@
     <mj-raw>
       <!--  -->
     </mj-raw>
+     <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/35QkK9n" style="color: #3498DB; text-decoration: none">Intel’s long-anticipated Arc GPUs arrive in laptops
+            </a> </h3>
+          <p style="font-size: 14px">Arc’s grand reveal comes via laptops, which can drive home some of the enticingly delicious advantages Intel can provide in tuned systems revolving around its Core CPUs and Arc GPUs. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/35QkK9n" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162356896-f08328ef-725e-484f-adf7-4ad448055430.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
     <mj-raw>
       <!-- DIVIDER LINE -->
     </mj-raw>
@@ -157,7 +158,7 @@
         <mj-image width="180px" href="https://bit.ly/38BE7Ej" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162371301-a23674f2-44e7-4f08-a97f-05618038889f.gif"></mj-image>
         <mj-text align="center">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/38BE7Ej" target="_blank" style="color: #3498DB; text-decoration: none">AMA session with Deepak, Maintainer of BoxyHQ!</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">#AMA session with Deepak(CEO  of BoxyHQ) where he talks about what BoxyHQ is attempting to achieve, as well as the difficulties that Open Source projects are currently facing.</p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Watch this #AMA session with Deepak, CEO of BoxyHQ talks about what BoxyHQ is attempting to achieve, and the difficulties that Open Source projects are currently facing.currently facing.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -238,7 +239,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3KomPIP" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162370373-0d42227f-fc4e-4e8d-a581-c6a459fa2f0a.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Our home is burning. Rapid climate change is destabilizing our world. It seems our emissions will not fall quickly enough to avoid runaway warming and we may soon hit tipping points that will lead to the collapse of ecosystems and our civilization..</p>
+          <p style="font-size: 14px;">Rapid climate change is destabilizing our world. It often seems like our emissions will not fall quickly enough and we may soon hit tipping points. This video explains the calculated risk while simultaneously giving a genuine roadmap of climate change.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -301,7 +302,7 @@
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ukNC3a" target="_blank" style="color: #3498DB; text-decoration: none">Move over JavaScript: Back-end languages are coming to the front-end
             </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">A NEW CROP OF SERVER-SIDE TOOLS IS MAKING IT POSSIBLE TO BUILD WEB UIS WITHOUT JAVASCRIPT.
+          <p style="font-size: 14px;padding-top:0px;" align="justify">A new crop of Server-Side tools is making it possible to build web UIs without Javascript.
           </p>
         </mj-text>
       </mj-column>
@@ -382,25 +383,7 @@
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3DQtQzy" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162372711-772e9e93-9a86-4fe8-a7ad-fd3c71ba6985.png"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3jgGxKs" style="color: #3498DB; text-decoration: none">Kagi- The Google 2.0
-            </a> </h3>
-          <p style="font-size: 14px">Kagi is the most customizable search engine ever. You can change everything, from surface level appearances, to the final ranking of results. Read more about the next Google here.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3jgGxKs" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162373594-58939f64-6113-43af-85f2-a36e0a8a3583.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-      
-    </mj-raw>
+   
     <mj-raw>
       <!--  -->
     </mj-raw>
@@ -510,7 +493,7 @@
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3NYbH7G" target="_blank" style="color: #3498DB; text-decoration: none">The Beginner's Guide to Sass
             </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Whether you're learning about SASS for the first time, or want to brush up on your knowledge of the subject, this is the article for you. In this article,Israel Mitolu will thoroughly guide you on the fundamentals of Sass, what it is, and how to use Sass's awesome features to speed up the process of writing styles.
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Whether you're learning about SASS for the first time, or want to brush up on your knowledge of the subject, this is the article for you. In this article, Israel Mitolu will thoroughly guide you on the fundamentals of Sass, what it is, and how to use Sass's awesome features to speed up the process of writing styles.
           </p>
         </mj-text>
       </mj-column>
@@ -534,7 +517,7 @@
     </mj-raw>
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#AviyelOSSSpotlight</mj-text>
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#OSSSpotlight</mj-text>
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="180px"></mj-divider>
       </mj-column>
     </mj-section>
@@ -579,7 +562,7 @@
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38Fj6st" style="color: #3498DB; text-decoration: none">Cal.com: An open source Calendly alternative</a></h3>
-          <p style="font-size: 14px">Cal.com's tagline is “scheduling infrastructure for everyone,” including yoga instructors and SMEs all the way through to enterprises. Similar to Calendly, Cal shares a scheduling link with invitees, who can then pick time slots.</p>
+          <p style="font-size: 14px">Cal.com like it's tagline 'scheduling infrastructure for everyone' is for everybody from yoga instructors and SMEs all the way through to enterprises. Similar to Calendly, Cal shares a scheduling link with invitees, who can then pick time slots.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
