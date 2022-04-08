@@ -145,7 +145,7 @@
     </mj-raw>
     <mj-section padding="0 20px 0px 0px">
       <mj-column width="50%">
-        <mj-image width="180px" href="https://bit.ly/37qi96G" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161497332-6a2b6464-71d8-4b0a-ab87-6a15a9358865.png"></mj-image>
+        <mj-image width="180px" href="https://bit.ly/37qi96G" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162370906-097d9844-55db-4047-a558-2859a212a8cd.gif"></mj-image>
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/37qi96G" target="_blank" style="color: #3498DB; text-decoration: none">AMA With Rachel Lawson! The Power of Diversity in OSS Communities
             </a></h3>
@@ -154,7 +154,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="50%">
-        <mj-image width="180px" href="https://bit.ly/38BE7Ej" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161500270-b9a0cd07-7a54-4672-8680-27c2446ce9a4.gif"></mj-image>
+        <mj-image width="180px" href="https://bit.ly/38BE7Ej" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162371301-a23674f2-44e7-4f08-a97f-05618038889f.gif"></mj-image>
         <mj-text align="center">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/38BE7Ej" target="_blank" style="color: #3498DB; text-decoration: none">AMA session with Deepak, Maintainer of BoxyHQ!</a></h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">#AMA session with Deepak(CEO  of BoxyHQ) where he talks about what BoxyHQ is attempting to achieve, as well as the difficulties that Open Source projects are currently facing.</p>
@@ -267,7 +267,7 @@
       <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3JhhoKd" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161119782-b20ee7fd-12bf-430a-a421-ecf5a4fa050c.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3JhhoKd" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162371598-efb4fec9-9355-4549-b942-7cb17d0da818.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
@@ -281,7 +281,7 @@
      <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3uj3GlH" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161119782-b20ee7fd-12bf-430a-a421-ecf5a4fa050c.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3uj3GlH" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162371882-dfb42c83-2efc-4fd0-b15d-59a2a520fcf1.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
@@ -295,7 +295,7 @@
      <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3ukNC3a" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/161119782-b20ee7fd-12bf-430a-a421-ecf5a4fa050c.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3ukNC3a" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162372121-7b2e952e-f5fd-4ede-b94f-9039bcd7be94.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
@@ -337,7 +337,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/162279390-772fc130-b0ec-40a1-830e-e02346fbd0a4.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">---
+          <p style="font-size: 14px;">Shivani Bhardwaj, a developer at the Open Information Security Foundation, will be giving a talk about how to create a career in open source.
           </p>
         </mj-text>
       </mj-column>
