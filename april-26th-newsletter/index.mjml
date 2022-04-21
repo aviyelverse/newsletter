@@ -126,19 +126,18 @@
     <!--  -->
     <mj-section padding="0 30px 0px 0px">
      <mj-column width="50%">
-       <mj-image width="350px" href="https://bit.ly/378Tjbg" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157005097-546b29b0-b3b4-4a95-a1be-1a48ee457792.gif"></mj-image>
-        <mj-text align="left">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/378Tjbg" target="_blank" style="color: #3498DB; text-decoration: none">Remix Tutorial with Kent C dods (6hrs tutorial)
+       <mj-image width="350px" href="https://bit.ly/3L7CLiR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/164521676-fa763acd-6953-4a31-bc58-c246ddbd80a8.png"></mj-image>
+        <mj-text align="justify">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3L7CLiR" target="_blank" style="color: #3498DB; text-decoration: none">OpenAI DALL·E 2: Top 10 Insane Results! 🤖
 </a></h3>
-          <p style="font-size: 14px;padding-top:0px;"> Kent C Dods will be doing a live stream of the Remix tutorial, which you can follow along with.</p>
+          <p style="font-size: 14px;padding-top:0px;">Check out the top 10 Dalle 2 results. DALLE 2 is a new AI system that can create realistic visuals and art from a description in natural language.</p>
         </mj-text>
       </mj-column>
       <mj-column width="50%">
-       <mj-image width="350px" href="https://bit.ly/3ChJqU2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157015952-7ea26980-4b3d-4158-b2f8-629ea621664d.gif"></mj-image>
-        <mj-text align="left">
-           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ChJqU2" target="_blank" style="color: #3498DB; text-decoration: none">DevOps with GitLab CI Course(5hrs tutorial).</a></h3>
-          <p style="font-size: 14px;padding-top:0px;">This course will teach you how to use GitLab CI to create CI/CD pipelines for building and deploying software to AWS.
- </p>
+       <mj-image width="350px" href="https://bit.ly/3xHg15x" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/164533503-80de48db-5b76-4b1e-80c7-c3776c8f9d02.png"></mj-image>
+        <mj-text align="justify">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3xHg15x" target="_blank" style="color: #3498DB; text-decoration: none">Everything Elon Musk Said About Optimus Robot in Tesla's Q1 Earnings Call.</a></h3>
+          <p style="font-size: 14px;padding-top:0px;"  align="justify">During Tesla's Q1 earnings call, listen to Elon Musk update the company's shareholders on the Optimus factory. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -234,65 +233,7 @@
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
       </mj-column>
-    </mj-section>
-    <!-- ------ -->
-    <!-- Event -->
-    <mj-section>
-      <mj-column width="100%">
-        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
-        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <!-- -->
-     <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Redefined - Cal.com by Peer Richelsen
-            </a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157023342-44aeca4b-e7c9-4641-aec8-c4a1044f0fd0.png"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this session, Peer will share his journey with COSS and building a successful product like Cal.com as this helps and motivates Maintainers, Startups, and Open source enthusiasts.
-</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- -->
-     <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3vLrcZJ" target="_blank" style="color: #3498DB; text-decoration: none;">Open Table Discussion on Web3 with Aviyel
-            </a> </h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3vLrcZJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157026556-5f55ad51-d2d5-41af-bc2b-5b4e037fb61e.png"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">Catch us live on March 11th as the entire "Aviyel" Team takes the stage to discuss how we are reinventing  🔥 "OpenSource" with the help of "DAOs" and "Tokenization".
-</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-   <!-- -->
-     <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" target="_blank" style="color: #3498DB; text-decoration: none;">Frontend Development Basics
-            </a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157028796-1b1485f6-e944-448e-9883-46fd70875c78.png"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this session of the Contributor Roadmap Series, Victor Eke will introduce the explorers to the basics of frontend development that involves the concepts of HTML, CSS & Javascript.
-</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- -->
-    <!-- DIVIDER LINE -->
-    <mj-section padding-top="0px">
-      <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!-- ------ -->
+ </mj-section>
     <!-- NEWS -->
     <mj-section>
       <mj-column width="100%">
