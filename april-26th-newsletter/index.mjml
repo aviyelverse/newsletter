@@ -1,0 +1,551 @@
+<mjml>
+  <mj-head>
+    <mj-title>Aviyel Newsletter</mj-title>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Inter, Helvetica, sans-serif" background-color="#FEFCFE"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="10px 0px">
+      <mj-column width="60%">
+        <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image align="center" target="_blank" width="100px" href="" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px">Offbeat ideas just curated for you!</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #14 - April 26th</mj-text>
+        <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
+        <mj-image padding-top="10px" target="_blank" href="" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="1px">
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p>Aviyel is a community-based, open source monetization platform. We are commited to a widespread adoption of open source projects from developer, creator and maintainer communities. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- READ -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#READ</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+     <mj-section padding="0 20px 0px 0px">
+     <mj-column width="50%">
+       <mj-image width="180px" href="https://nyti.ms/3xR5lRE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/164505277-44a65059-3277-4e5d-b164-5dbd5549fceb.png"></mj-image>
+        <mj-text align="justify">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://nyti.ms/3xR5lRE" target="_blank" style="color: #3498DB; text-decoration: none">Can A.I. All but End Car Crashes? The Potential Is There.
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;">Well before self-driving cars become a reality, there are simpler approaches that can make roads much safer.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+       <mj-image width="180px" href="https://bit.ly/37DJToB" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/164513419-cc8d32fb-913d-41a0-99ad-f7d2b550a8cd.png"></mj-image>
+        <mj-text align="center">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/37DJToB" target="_blank" style="color: #3498DB; text-decoration: none">Open-source regulation—good idea?
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Earlier this year, the open-source community came under the scrutiny of a US Senate committee investigating a serious vulnerability in Log4j, a widely used, Java-based logging utility. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+     <!--  -->
+     <mj-section padding="0 20px 0px 0px">
+     <mj-column width="50%">
+       <mj-image width="180px" href="" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/156992772-92a1abaa-f598-4857-938b-f63d6ddf7acc.gif"></mj-image>
+        <mj-text align="justify">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3IRLTXJ" target="_blank" style="color: #3498DB; text-decoration: none">Interop 2022: browsers collab for better web exp.
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;">Learn how all browser vendors and other stakeholders collaborated to solve the top browser compatibility issues.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+       <mj-image width="180px" href="https://bit.ly/38eCOLn" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/164506090-61d17918-4dbb-448b-bf9d-1cc47aeb5448.png"></mj-image>
+        <mj-text align="center">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/38eCOLn" target="_blank" style="color: #3498DB; text-decoration: none">You Should Always Question the Default Settings
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">From apps to websites, companies steer users into the preferences and account settings that serve them. You can do better.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+      <!--  -->
+   <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- Watch -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#WATCH</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3OEUFfh" target="_blank" style="color: #3498DB; text-decoration: none;">Redux in 100 Seconds.
+ </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3OEUFfh" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/164512196-97112a5d-389f-4913-aecd-637bad1793c3.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Redux is a popular state management pattern for large-scale web applications. Learn the basics of the Redux with React in just 100 second</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section padding="0 30px 0px 0px">
+     <mj-column width="50%">
+       <mj-image width="350px" href="https://bit.ly/378Tjbg" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157005097-546b29b0-b3b4-4a95-a1be-1a48ee457792.gif"></mj-image>
+        <mj-text align="left">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/378Tjbg" target="_blank" style="color: #3498DB; text-decoration: none">Remix Tutorial with Kent C dods (6hrs tutorial)
+</a></h3>
+          <p style="font-size: 14px;padding-top:0px;"> Kent C Dods will be doing a live stream of the Remix tutorial, which you can follow along with.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+       <mj-image width="350px" href="https://bit.ly/3ChJqU2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157015952-7ea26980-4b3d-4158-b2f8-629ea621664d.gif"></mj-image>
+        <mj-text align="left">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ChJqU2" target="_blank" style="color: #3498DB; text-decoration: none">DevOps with GitLab CI Course(5hrs tutorial).</a></h3>
+          <p style="font-size: 14px;padding-top:0px;">This course will teach you how to use GitLab CI to create CI/CD pipelines for building and deploying software to AWS.
+ </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+      <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3IR3fnM" target="_blank" style="color: #3498DB; text-decoration: none;">Are There Lost Alien Civilizations in Our Past?
+ </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3IR3fnM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157011076-54642982-555b-4b6c-a890-ef62b1961ae0.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">When we think of alien civilizations, we tend to imagine them in the vastness of space, on distant planets. But there is another incredibly vast dimension to which we may be paying insufficient attention: time. This video will teach you more about human history and alien civilizations.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+       <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- ------ -->
+    <!-- Code -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+ </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3txYlFD" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157017298-bde51df1-4433-4933-8a1c-416158c81c6f.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3txYlFD" target="_blank" style="color: #3498DB; text-decoration: none">CSS As the backend 👀- introducing Cascading Server Sheets! </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Using CSS as a server-side language. That's right. Use CSS to declare routing, do maths, heck, even use CSS to do templating! </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+   <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3sORyZh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157019117-0555e1b6-7ba8-45f0-9970-a3025d3f610f.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3sORyZh" target="_blank" style="color: #3498DB; text-decoration: none">Replace JavaScript Dialogs With the New HTML Dialog Element
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Here's how to use the HTML dialog element to replace JavaScript dialogs that have the same functionality as the alert(), confirm(), and prompt() methods.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+   <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3HQ5OVR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157020096-15a55969-87a0-4630-a519-6e1054acdebc.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3HQ5OVR" target="_blank" style="color: #3498DB; text-decoration: none">Instanced Line Rendering Part I
+
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Learn how to draw lines in Two Dimension and Three Dimension using various joins and end caps.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+  <!--  -->
+   <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3hIk6gu" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157021635-4758c1c1-68ca-418a-8a58-4822a4b8f9c5.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3hIk6gu" target="_blank" style="color: #3498DB; text-decoration: none">Instanced Line Rendering Part II: Alpha blending
+</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Part one covered rendering lines with various joins and end caps in Two Dimension and Three Dimension, so this part will cover proper management of the instance geometry to support alpha blending..</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- Event -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+     <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Redefined - Cal.com by Peer Richelsen
+            </a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/300/open-source-redefined-cal-com-by-peer-richelsen?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_300" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157023342-44aeca4b-e7c9-4641-aec8-c4a1044f0fd0.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this session, Peer will share his journey with COSS and building a successful product like Cal.com as this helps and motivates Maintainers, Startups, and Open source enthusiasts.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+     <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3vLrcZJ" target="_blank" style="color: #3498DB; text-decoration: none;">Open Table Discussion on Web3 with Aviyel
+            </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3vLrcZJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157026556-5f55ad51-d2d5-41af-bc2b-5b4e037fb61e.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Catch us live on March 11th as the entire "Aviyel" Team takes the stage to discuss how we are reinventing  🔥 "OpenSource" with the help of "DAOs" and "Tokenization".
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   <!-- -->
+     <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" target="_blank" style="color: #3498DB; text-decoration: none;">Frontend Development Basics
+            </a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/328/frontend-development-basics?utm_source=mailjet&utm_medium=event_live_session&utm_campaign=events_328" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157028796-1b1485f6-e944-448e-9883-46fd70875c78.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this session of the Contributor Roadmap Series, Victor Eke will introduce the explorers to the basics of frontend development that involves the concepts of HTML, CSS & Javascript.
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- NEWS -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#NEWS</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://wapo.st/3MsFmFg" style="color: #3498DB; text-decoration: none">This is how journalists figure out if all those Ukraine videos are real
+ </a> </h3>
+          <p style="font-size: 14px">Visual forensics allows reporters to pinpoint the location of images emerging from the conflict and verify their authenticity. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://wapo.st/3MsFmFg" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157029964-23385e6b-1ab3-48c0-9c85-3679ffbf35db.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3sQ5DFP" style="color: #3498DB; text-decoration: none">The trolliest drop this year uses illegal logos from Coca-Cola, Walmart, Tesla, and Microsoft </a> </h3>
+          <p style="font-size: 14px">These unlicensed F1 jackets by creative studio MSCHF are bait to trademark attorneys everywhere.
+. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3sQ5DFP" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157030651-48448b1b-c163-4801-a213-def581c92cfd.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3HOBkmU" style="color: #3498DB; text-decoration: none">Aston Martin to develop battery cell technology w/ Britishvolt</a> </h3>
+          <p style="font-size: 14px">Aston Martin, a British luxury car manufacturer, has signed a Memorandum of Understanding with Britishvolt, a company that develops lithium-ion battery cell technologies. This article will explain you everything you need to know about it. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3HOBkmU" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157032879-e15d0a31-a492-429b-a576-0c0913943fdb.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3IL2lJk" style="color: #3498DB; text-decoration: none">Ukraine Latest News on Live map </a> </h3>
+          <p style="font-size: 14px">A comprehensive overview of all incidents involving the Russia-Ukraine conflict, all inside a single map. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3IL2lJk" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157034162-a2e239ca-db85-4dfa-a9a1-1dadf4f84971.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <mj-raw>
+      <!-- Learn -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#LEARN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157036225-72123775-b21c-4370-a978-bb9004395f28.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none">PPPointed ↓↳➜⇢ SVG arrow maker for all kinds of decorative arrow styles </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">An web - based SVG arrow maker for creating arrows for your designs . </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+ <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/35VAx6m" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157037523-5c5b9cf5-062e-4f97-bf90-106161b7c8cc.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/35VAx6m" target="_blank" style="color: #3498DB; text-decoration: none">Automator made for Figma  </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Automate your Figma tasks with a single click. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+ <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3pLm04i" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157038110-528e226e-6cda-40b3-a05f-1fe89c98129c.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pLm04i" target="_blank" style="color: #3498DB; text-decoration: none">Vertex.im: Free 3D Icons with tons of Customization  </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Handmade 3D icons. Customize it online by altering the composition, material, and angle. Completely Free for commercial and personal use. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+ <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3Csko4H" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157038799-1d27c259-6785-4e3d-a661-a568a36c510c.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Csko4H" target="_blank" style="color: #3498DB; text-decoration: none">Pika: Quickly create beautiful screenshots.  </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;">Completely free, open-source app for quickly creating stunning screenshots. Apply backgrounds, adjust shadows, and add rounded corners, among other things. . </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- ------ -->
+    <!-- Fun -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#FUN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="60px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+      
+       <!--  -->
+    <mj-section padding="0 20px 0px 20px">
+     <mj-column width="50%">
+       <mj-image width="250px" href="https://bit.ly/3452Cb2" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157040102-a336e31f-28d5-48df-bf9c-f1e3640191a9.gif"></mj-image>
+        <mj-text align="center">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MwHfRp" target="_blank" style="color: #3498DB; text-decoration: none">Heardle - That daily musical intros game </a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Heardle - Similar to Wordle, but for music, guess the song from the intro in as few attempts as possible. </p>
+        </mj-text>
+        
+      </mj-column>
+
+      <mj-column width="50%">
+       <mj-image width="250px" href="https://bit.ly/3pFVt8M" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157040875-42da517f-9808-46fb-a6ba-c76f0433ff41.png"></mj-image>
+        <mj-text align="center">
+           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pFVt8M" target="_blank" style="color: #3498DB; text-decoration: none">CSS Speedrun | Test your CSS Skills</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify"> Simple and entertaining app for testing your CSS knowledge. Find the correct CSS selectors for each of the ten puzzles as fast as possible. </p>
+        </mj-text>
+        
+      </mj-column>
+     
+    </mj-section>
+    <!--  -->
+ <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3HSneB0" style="color: #3498DB; text-decoration: none">Applying Usability Heuristics to Animal Crossing: New Horizons </a> </h3>
+          <p style="font-size: 14px">In-depth analysis of how New Horizons prevents errors using the 10 usability heuristics. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3HSneB0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157043335-96235211-241e-4b37-b646-3219844e23fa.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  --> 
+  
+<!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3w1jyuL" style="color: #3498DB; text-decoration: none">Doom Slayer User Experience </a> </h3>
+          <p style="font-size: 14px">How do you become the Doom Slayer? Onboarding to any game is an important design challenge for game developers, especially in Doom Eternal. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3w1jyuL" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157044648-127ba5f4-d7a6-433c-a60e-aeb2cd696c61.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/34nGEQI" style="color: #3498DB; text-decoration: none">Wikitrivia: Wiki History Game </a> </h3>
+          <p style="font-size: 14px">Arrange the cards of events and people in the correct order on a specific timeline. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/34nGEQI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/157041869-2cc05b78-89cf-49cc-a966-ba6b9577f59d.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+  
+
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <mj-raw>
+      <!-- Last line -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="0px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Test -->
+    </mj-raw>
+    <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
+      <mj-column width="100%">
+        <mj-image align="center" width="110px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_feb_23" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="25px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3pUONnJ" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#4078C0" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
+          <mj-social-element background-color="#FF0000" target="_blank" href="https://bit.ly/3HCTrNa" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/32QpESj" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/3t0l3HU" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" align="center">
+          <p> This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
