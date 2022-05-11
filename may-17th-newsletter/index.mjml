@@ -465,12 +465,12 @@
         <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Kqn59j" style="color: #3498DB; text-decoration: none">ToolJet: an open source low code platform to build and deploy internal tools quickly without much effort</a></h3>
-          <p style="font-size: 14px">ToolJet is an open-source low-code platform that allows engineering teams to quickly design and deploy internal tools. One can utilize their pre-built UI widgets to construct internal tools by connecting the data sources, such as databases, API endpoints, and external services.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3yuq521" style="color: #3498DB; text-decoration: none">CrowdSec:Outnumbering cybercriminals all together</a></h3>
+          <p style="font-size: 14px">CrowdSec is a free, open-source and collaborative IPS. As a community firewall, it analyze behaviors, respond to attacks & share signals across the community. CrowdSec also generates the largest real-time hacking map on the Internet- anew generation of distributed Cyber Threat Intelligence.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Kqn59j" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165720914-96dd8c69-249c-4458-9810-1bcd4267430b.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3yuq521" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167783041-9d11a480-cf98-4fd1-aef8-32b34eeffb35.gif"></mj-image>
       </mj-column>
     </mj-section>
       <!--  -->
@@ -478,37 +478,21 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3EZckKa" style="color: #3498DB; text-decoration: none">Fleet- A blazing fast build tool for Rust
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wmeIXg" style="color: #3498DB; text-decoration: none">CloudQuery: The open-source cloud asset inventory powered by SQL
 
 </a></h3>
-          <p style="font-size: 14px">Fleet is a Rust build tool. It has the ability to compile five times faster than cargo. Fleet works by optimizing builds utilizing the Rust ecosystem's existing tooling.</p>
+          <p style="font-size: 14px">CloudQuery enables you to assess, audit, and evaluate the configurations of your cloud assets. Users can integrate CloudQuery with current visualization, and also gives you full historical snapshots of your cloud asset inventory.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3EZckKa" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165718169-417179ab-f5f4-4d33-9f3c-578797631993.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3wmeIXg" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167783772-0f3fc701-ee0d-4199-a7dd-3e2fc8818bb6.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
       <!--  -->
     </mj-raw>
     <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3rWHaOc" style="color: #3498DB; text-decoration: none">Magic-trace: magically trace your program</a></h3>
-          <p style="font-size: 14px"> Magic-trace gathers and shows high-resolution traces of a process's activities. It may be used to troubleshoot apps and gain insight into how any process works.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3rWHaOc" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165719220-62798fda-6e3b-44a8-8484-fb0fe98ddb73.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
+    
       <!-- DIVIDER LINE -->
     </mj-raw>
     <mj-section padding="0px">
