@@ -119,18 +119,18 @@
     </mj-raw>
     <mj-section padding="0 20px 0px 0px">
       <mj-column width="50%">
-        <mj-image width="180px" href="https://bit.ly/3y0HCyG" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165695052-8b1fb0b8-fdf4-4bb5-81f2-380e451eed1d.gif"></mj-image>
+        <mj-image width="180px" href="https://bit.ly/3sqCZu6" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167785036-d16647c3-a09a-4a6f-bb25-7ea002472256.png"></mj-image>
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3y0HCyG" target="_blank" style="color: #3498DB; text-decoration: none">Making a Career in Open Source!
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3sqCZu6" target="_blank" style="color: #3498DB; text-decoration: none">Making a Career in Open Source!
             </a></h3>
           <p style="font-size: 14px;padding-top:0px;">In this session, Shivani Bhardwaj from OISF talks about her journey into Open source, and the career opportunities within Open Source. How she did it, and how you can too!
           </p>
         </mj-text>
       </mj-column>
       <mj-column width="50%">
-        <mj-image width="180px" href="https://bit.ly/3KnTxck" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165711360-b596502d-9ac2-4a45-b7ca-185fc9777814.png"></mj-image>
+        <mj-image width="180px" href="https://bit.ly/3ssCG20" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167786488-26669627-31f8-4d04-a56c-7d4e5b00cae6.gif"></mj-image>
         <mj-text align="center">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3KnTxck" target="_blank" style="color: #3498DB; text-decoration: none">Developing Technology with a Focus on Inclusion & Diversity</a></h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ssCG20" target="_blank" style="color: #3498DB; text-decoration: none">Developing Technology with a Focus on Inclusion & Diversity</a></h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">Chinmayi SK from The Bachchao Project walks you through everything you need to create technology that is conscious of diversity and inclusion!</p>
         </mj-text>
       </mj-column>
