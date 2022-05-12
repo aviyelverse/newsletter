@@ -53,26 +53,13 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
-   
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3snJX32" style="color: #3498DB; text-decoration: none">Spotify dances to the open source beat
-            </a> </h3>
-          <p style="font-size: 14px">Just about every technology company under the sun wants to align themselves with open source. Spotify is no different and is now is doubling down on its open source efforts.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3snJX32" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167778205-5d4af8e3-ffe6-4938-b294-bbea2bd6d6dc.png"></mj-image>
-      </mj-column>
-    </mj-section>
       <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3weul30" style="color: #3498DB; text-decoration: none">Elon Musk thinks he can double Twitter’s revenue through subscriptions alone
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0; word-break: break-all"> <a target="_blank" href="https://bit.ly/3weul30" style="color: #3498DB; text-decoration: none">Elon Musk thinks he can double Twitter’s revenue through subscriptions alone
             </a> </h3>
-          <p style="font-size: 14px">In a pitch deck viewed by the Times, Musk  reportedly plans to drive up Twitter Blue subscribers to 69 million by 2025 and more than doubling that number to 159 million by 2028.</p>
+          <p style="font-size: 14px" align="justify">In a pitch deck viewed by the Times, Musk  reportedly plans to drive up Twitter Blue subscribers to 69 million by 2025 and more than doubling that number to 159 million by 2028.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -85,9 +72,9 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3M36YQP" style="color: #3498DB; text-decoration: none">Where anonymity on Twitter is a matter of life or death
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;word-break: break-all"> <a target="_blank" href="https://bit.ly/3M36YQP" style="color: #3498DB; text-decoration: none">Where anonymity on Twitter is a matter of life or death
             </a> </h3>
-          <p style="font-size: 14px">Elon Musk's desire to 'authenticate all humans' has users in countries like Myanmar and Saudi Arabia worried about their lives. </p>
+          <p style="font-size: 14px;">Elon Musk's desire to 'authenticate all humans' has users in countries like Myanmar and Saudi Arabia worried about their lives. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -97,6 +84,18 @@
     <mj-raw>
       <!--  -->
     </mj-raw>
+      <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;word-break: break-all"> <a target="_blank" href="https://bit.ly/3snJX32" style="color: #3498DB; text-decoration: none">Spotify dances to the open source beat
+            </a> </h3>
+          <p style="font-size: 14px;">Just about every technology company under the sun wants to align themselves with open source. Spotify is no different and is now is doubling down on its open source efforts.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3snJX32" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167778205-5d4af8e3-ffe6-4938-b294-bbea2bd6d6dc.png"></mj-image>
+      </mj-column>
+    </mj-section>
     <mj-raw>
       <!-- DIVIDER LINE -->
     </mj-raw>
@@ -121,12 +120,12 @@
         <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3sqCZu6" target="_blank" style="color: #3498DB; text-decoration: none;">Making a Career in Open Source!
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3sqCZu6" target="_blank" style="color: #3498DB; text-decoration: none;word-break: break-all">Making a Career in Open Source!
 </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3sqCZu6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167838316-94dd3112-77f0-4d3b-86aa-957102aa34f2.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this session, Shivani Bhardwaj from OISF talks about her journey into Open source, and the career opportunities within Open Source. How she did it, and how you can too!.</p>
+          <p style="font-size: 14px;hyphens: auto;">In this session, Shivani Bhardwaj from OISF talks about her journey into Open source, and the career opportunities within Open Source. How she did it, and how you can too!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -194,7 +193,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3ssQEks" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167818195-a664b42e-8a55-49da-908b-6d229c4e354e.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">It can be easy to get bogged down in how grid works, with a lot of new properties, values, and even units! So let's try and simplify things as much as possible, because to get started, you don't need to know *everything* about how Grid works.</p>
+          <p style="font-size: 14px;">It can be easy to get bogged down in how grid works, with a lot of new properties, values, and even units! So let's try and simplify things as much as possible, because to get started, you don't need to know everything about how Grid works.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -204,11 +203,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3M728Sz" target="_blank" style="color: #3498DB; text-decoration: none;">What If Aliens Really Exist?</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/39kaZSs" target="_blank" style="color: #3498DB; text-decoration: none;">What is Open Source explained in LEGO?</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3M728Sz" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/167823386-51933cf5-f556-41ad-8232-d3405c1abd77.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/39kaZSs" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/168048705-64d9dbd2-cca2-41f4-999d-e8c176a15a6b.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">The question of The Fermi Paradox: Do aliens exist? Are we alone in the universe? For centuries, humans have speculated about the existence of extraterrestrial life.</p>
+          <p style="font-size: 14px;">Have you ever wondered what open source is? To explain it to evryone, Socialsquare created this stop motion video. This is just to aid in the scaling of the open source paradigm's beneficial characteristics. The video is free to use, edit, and share. So go ahead and do that!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -464,7 +463,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wmeIXg" style="color: #3498DB; text-decoration: none">CloudQuery: The open-source cloud asset inventory powered by SQL
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wmeIXg" style="color: #3498DB; text-decoration: none;word-break:break-all">CloudQuery: Open source cloud asset inventory powered by SQL
 
 </a></h3>
           <p style="font-size: 14px">CloudQuery enables you to assess, audit, and evaluate the configurations of your cloud assets. Users can integrate CloudQuery with current visualization, and also gives you full historical snapshots of your cloud asset inventory.</p>
@@ -478,7 +477,6 @@
       <!--  -->
     </mj-raw>
     <mj-raw>
-    
       <!-- DIVIDER LINE -->
     </mj-raw>
     <mj-section padding="0px">
@@ -509,7 +507,7 @@
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
-          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3pUONnJ" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3w4iA0i" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
           <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
           <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
           <mj-social-element background-color="#000000" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
