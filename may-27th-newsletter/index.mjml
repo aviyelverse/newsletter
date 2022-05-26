@@ -203,10 +203,10 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3wIHGAI" target="_blank" style="color: #3498DB; text-decoration: none;">The Man Who Revolutionized Computer Science With Math!
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3wLLjay" target="_blank" style="color: #3498DB; text-decoration: none;">The Man Who Revolutionized Computer Science With Math!
 </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3wIHGAI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170472801-95c6d5cb-e859-4331-a90d-cce61a4760cf.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3wLLjay" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170472801-95c6d5cb-e859-4331-a90d-cce61a4760cf.gif"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;">Learn about Leslie Lamport, a one-man army who completely revolutionized how computers communicate with one another.</p>
         </mj-text>
@@ -231,13 +231,13 @@
       <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3JhhoKd" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165704129-201aa8da-8dc7-4411-a080-1f65ad5af118.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3wPgWyK" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170474710-6852cb95-3c36-4a21-bfe8-5b2fa98fe615.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3JhhoKd" target="_blank" style="color: #3498DB; text-decoration: none">Hush - a new shell scripting language
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://bit.ly/3wPgWyK" target="_blank" style="color: #3498DB; text-decoration: none">Web3-react: simple yet powerful framework for building modern Ethereum dApps using React
             </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify"> Hush is a scripting language for the shell. Its goal is to make it easier to create reliable and maintainable shell scripts.
+          <p style="font-size: 14px;padding-top:0px;word-spacing:-3px;" align="justify"> A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
           </p>
         </mj-text>
       </mj-column>
@@ -245,27 +245,25 @@
      <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3ETvktg" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165705218-915c89b1-8a16-491a-a277-f3a3efcdd3f5.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/38Kjoi5" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170475915-9afbebed-bfdb-4c70-ab59-81c66c7f5a45.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ETvktg" target="_blank" style="color: #3498DB; text-decoration: none">Zed - Tooling for super-structured data: A new way to manipulate data
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/38Kjoi5" target="_blank" style="color: #3498DB; text-decoration: none">TypeChain - 🔌 TypeScript bindings for Ethereum smart contracts
             </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Zed offers a new approach to data that makes it easier to manipulate and manage your data.
-          </p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">TypeChain is a typescript binding and code generator used to create ethereum smart contracts that features static typing and IDE support.</p>
         </mj-text>
       </mj-column>
     </mj-section>
      <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3LqB6VQ" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165706323-1254d9ba-e349-47cf-8cf4-7892fa622805.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3PHXX1C" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170476423-5078c22e-0876-41fc-a60f-85c1e0871b9f.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LqB6VQ" target="_blank" style="color: #3498DB; text-decoration: none">FortuneSheet -  javascript spreadsheet library that provides rich features like Excel and Google Sheets
-            </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">FortuneSheet is a Luckysheet-based JavaScript spreadsheet library. It contains features that make it comparable to Excel and Google Sheets and uses a data format that is compatible with Luckysheet.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3PHXX1C" target="_blank" style="color: #3498DB; text-decoration: none">Maskbook - The portal to the new, open Internet.</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Mask Network is a portal to the new, open internet, that bridge from Web2.0 to Web3.0 . With Mask Network, you can send encrypted posts to your friends, trade your best token on Twitter, enjoy NFT pfps, participate in crypto lucky-draws, and share encrypted files on the multiple platforms.
           </p>
         </mj-text>
       </mj-column>
@@ -280,13 +278,6 @@
     </mj-section>
     <mj-raw>
       <!-- ------ -->
-    </mj-raw>
-    <mj-raw>
-      <!-- Event -->
-    </mj-raw>
-   
-    <mj-raw>
-      <!-- NEWS -->
     </mj-raw>
     <mj-section>
       <mj-column width="100%">
