@@ -50,7 +50,7 @@
     </mj-raw>
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="center" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#Announcement📢</mj-text>
+        <mj-text align="center" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">📢📢 Announcement</mj-text>
         <mj-divider align="center" border-width="2px" border-color="#8661d1" width="100px"></mj-divider>
       </mj-column>
     </mj-section>
@@ -64,7 +64,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170467822-fd44437b-2b2c-43d2-8c55-8ec620a14634.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;text-align:justify;word-spacing:-3px;">One of our most eagerly anticipated features: Rewards Platform, is scheduled for a launch on product hunt on June 1st! It would mean the world if you could support us and give us some feedback. We will be there responding to your queries, and feedback.</p>
+          <p style="font-size: 14px;text-align:justify;word-spacing:-2px;">One of our most eagerly anticipated features: Rewards Platform, is scheduled to launch on product hunt on June 1st! It would mean the world if you could support us and give us some feedback. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -92,8 +92,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38l82Rf" style="color: #3498DB; text-decoration: none;word-spacing:-3px;">Vitalik Proposes Soulbound Tokens as Web3 Credentials of the Future</a> </h3>
-          <p style="word-spacing:-3px;font-size: 14px">Vitalik Buterin, the founder of Ethereum, recently proposed a new type of token standard that will allow users to learn about other people's real-world activities, accomplishments, and likes — something resembling like a glimpse into their soult.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38l82Rf" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Vitalik Proposes Soulbound Tokens as Web3 Credentials of the Future</a> </h3>
+          <p style="word-spacing:-1px;font-size: 14px">Vitalik Buterin, the founder of Ethereum, recently proposed a new type of token standard that will allow users to learn about other people's real-world activities, accomplishments, and likes — something resembling like a glimpse into their soul.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -107,9 +107,9 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38nITFG" style="color: #3498DB; text-decoration: none;word-spacing:-3px;">Why This Stanford Alum is Building "Microsoft for Web3"?
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38nITFG" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Why This Stanford Alum is Building Microsoft for Web3?
             </a> </h3>
-          <p style="word-spacing:-3px;font-size: 14px">Nikil Viswanathan, co-founder of Alchemy, has focused his efforts on blockchain development after co-founding the world's most popular social platform.</p>
+          <p style="word-spacing:-1px;font-size: 14px">Nikil Viswanathan, co-founder of Alchemy, has focused his efforts on blockchain development after co-founding the world's most popular social platform.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -121,7 +121,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LOISYQ" style="color: #3498DB; text-decoration: none;word-spacing:-3px;">How to make your steps count?</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LOISYQ" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">How to make your steps count?</a> </h3>
           <p style="font-size: 14px;word-spacing:-2px;">Web3 has grown into a whole new phenomenon, where anyone may now earn tokens simply by exercising and moving outdoors, at any time and from anywhere.</p>
         </mj-text>
       </mj-column>
@@ -157,7 +157,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3lKl91v" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170461171-79feccde-27a4-4e8b-93b6-506eb21ac4fa.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;word-spacing:-1px;">Web3 and blockchain have the potential to change the internet as we know it forever.Are you wondering how to become a web 3 blockchain developer? Look no further, and get all the info in just one video.</p>
+          <p style="font-size: 14px;word-spacing:-1px;">Web3 and blockchains have the potential to change the internet as we know it forever. Are you wondering how to become a Web3 blockchain developer? Look no further, and get all the info in just one video.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -224,9 +224,9 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://bit.ly/3wPgWyK" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Web3-react: simple yet powerful framework for building modern Ethereum dApps using React
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://bit.ly/3wPgWyK" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Web3-react: simple yet powerful framework for building modern Ethereum dApps using React
             </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;word-spacing:-3px;" align="justify;word-spacing:-2px;"> A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
+          <p style="font-size: 14px;padding-top:0px;word-spacing:-1px;" align="justify;word-spacing:-2px;"> A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
           </p>
         </mj-text>
       </mj-column>
@@ -280,7 +280,7 @@
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3NFiYIj" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Solana Integration: Brave Browser to Expand Web3 Access
             </a> </h3>
-          <p style="word-spacing:-3px;font-size: 14px;word-spacing:-2px;">Co-founder of Solana Anatoly Yakovenko also believes that the Solana integration will help the firm onboard the next billion users to Web3.</p>
+          <p style="word-spacing:-1px;font-size: 14px;word-spacing:-2px;">Solana Co-founder, Anatoly Yakovenko believes that the Solana integration will help the firm onboard the next billion users to Web3.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -293,7 +293,7 @@
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3sU6rsI" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Google seeks fresh talent to lead global Web3 team
             </a> </h3>
-          <p style="word-spacing:-3px;font-size: 14px;word-spacing:-2px;">Following the establishment of a Web3 team within Google Cloud on May 6, tech giant Alphabet's Google is now looking for a full-time candidate to oversee its Global Web3 marketing initiatives.</p>
+          <p style="word-spacing:-1px;font-size: 14px;word-spacing:-2px;">Following the establishment of a Web3 team within Google Cloud, the tech giant is now looking for a full-time candidate to oversee its Global Web3 marketing initiatives.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -306,7 +306,7 @@
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wNtmHn" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Web3 games Million on Mars and Sunflower Land will do cross-chain event
             </a> </h3>
-          <p style="word-spacing:-3px;font-size: 14px;word-spacing:-2px;">Getting blockchain games to cooperate and share gameplay across two different networks is one of the ambitions for the larger metaverse.Learn how two companies managed to accomplish this across two blockchain networks.</p>
+          <p style="word-spacing:-1px;font-size: 14px;word-spacing:-2px;">Getting blockchain games to cooperate and share gameplay across two different networks is one of the ambitions for the larger metaverse. Learn how two companies managed to accomplish this across two blockchain networks.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -317,9 +317,9 @@
    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38jKImW" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Singapore venture firm launches $100M Web3 and metaverse fund – CoinSpectator
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38jKImW" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Singapore venture firm launches $100M Web3 and Metaverse fund
             </a> </h3>
-          <p style="word-spacing:-3px;font-size: 14px;word-spacing:-2px;">The startup fund, which is backed by Babel Finance and Huobi Ventures, will back emerging projects that are building for the Web3 and metaverse economies.</p>
+          <p style="word-spacing:-1px;font-size: 14px;word-spacing:-2px;">The startup fund, backed by Babel Finance and Huobi Ventures, will back emerging projects that are building for the Web3 and Metaverse economies.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -376,7 +376,7 @@
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3sUDSez" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">How the Anchor protocol helped sink Terra
  </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;word-spacing:-2px;" align="justify">Anchor protocol promised annual yields of about 20%. It accomplished this by lending out deposits. When Terra failed, investors were unable to withdraw their funds. Many companies had put money into the protocol with the help of their customers.As the focus is on "Do Kwon", several parties engaged in the issue will likely walk away without taking any responsibility.
+          <p style="font-size: 14px;padding-top:0px;word-spacing:-2px;" align="justify">Anchor protocol promised annual yields of about 20%. It accomplished this by lending out deposits. When Terra failed, investors were unable to withdraw their funds. 
           </p>
         </mj-text>
       </mj-column>
@@ -390,7 +390,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3NzUtfN" target="_blank" style="color: #3498DB; text-decoration: none">Learn web3 DAPP
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3NzUtfN" target="_blank" style="color: #3498DB; text-decoration: none">Learn Web3 DAPP
             </a> </h3>
           <p style="font-size: 14px;padding-top:0px;word-spacing:-2px;" align="justify">This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!
           </p>
@@ -421,7 +421,7 @@
         <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LTXKoN" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Nft.storage: an open source free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.</a></h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LTXKoN" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Nft.storage: An open source decentralized storage and bandwidth for NFTs on IPFS and Filecoin.</a></h3>
           <p style="font-size: 14px;word-spacing:-2px;">nft.storage uses the IPFS as a key part of its storage and retrieval infrastructure. The IPFS network is a peer-to-peer network of computers that share resources to efficiently provide content to anyone that requests it.</p>
         </mj-text>
       </mj-column>
