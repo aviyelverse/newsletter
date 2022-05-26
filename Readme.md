@@ -21,3 +21,4 @@
 - [April 26th 2022](https://aviyelverse.github.io/newsletter/april-26th-newsletter/)
 - [May 2nd 2022](https://aviyelverse.github.io/newsletter/may-2nd-newsletter/)
 - [May 17th 2022](https://aviyelverse.github.io/newsletter/may-17th-newsletter/)
+- [May 27th 2022](https://aviyelverse.github.io/newsletter/may-27th-newsletter/)
