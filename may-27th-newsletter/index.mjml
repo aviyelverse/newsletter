@@ -354,33 +354,29 @@
     <mj-raw>
       <!--  -->
     </mj-raw>
-    <mj-section>
+  
+  <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165712496-df7e616b-1613-48af-a2ae-94a01bda2b7e.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/39TonNu" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170483577-45ee9fc2-487a-428a-a101-a0eeac307887.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3OKOUg0" target="_blank" style="color: #3498DB; text-decoration: none">Say Hello to Eddy: A whole new project-based experience for learning 🌀
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/39TonNu" target="_blank" style="color: #3498DB; text-decoration: none">100days of Web3 </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Follow this collection of FREE resources to become a full-stack web3 developer. Although this course is geared toward Ethereum developers, many of the principles are applicable to other blockchains or involve many blockchains.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3sUDSez" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170484858-fd50d546-59b5-4f9d-9d1c-643c820e5087.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3sUDSez" target="_blank" style="color: #3498DB; text-decoration: none">How the Anchor protocol helped sink Terra
  </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Guided at-home projects, created by expert teachers. Project-based learning for you and your preschooler, made easy.
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3km2E2Q" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165713586-d2ccb401-67a6-42b8-a74d-28bfb1e72e33.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3km2E2Q" target="_blank" style="color: #3498DB; text-decoration: none">Noise in Creative Coding </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">An introduction to the noise function and its many applications in creative coding, with a variety of examples that you can interact with.
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Anchor protocol promised annual yields of about 20%. It accomplished this by lending out deposits. When Terra failed, investors were unable to withdraw their funds. Many companies had put money into the protocol with the help of their customers.As the focus is on "Do Kwon", several parties engaged in the issue will likely walk away without taking any responsibility.
           </p>
         </mj-text>
       </mj-column>
@@ -390,22 +386,19 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3MvUIry" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165716169-19ad9f03-66f6-478b-8184-429e9067a8c1.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3NzUtfN" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170485684-8901d1a4-dac5-4da7-9725-5aee0fac7d8c.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MvUIry" target="_blank" style="color: #3498DB; text-decoration: none">Vanta.js: 3D & WebGL Background Animations For Your Website
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3NzUtfN" target="_blank" style="color: #3498DB; text-decoration: none">Learn web3 DAPP
             </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">A Gallery of customizable plug & play animated backgrounds using three.js. Create Animate website backgrounds in a few lines of code.
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This Next.js app is designed to be used with the Figment Learn Pathways, to help developers learn about various blockchain protocols such as Solana, NEAR, Secret, Polygon and Polkadot!
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-raw>
       <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!-- DIVIDER LINE -->
     </mj-raw>
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -425,7 +418,6 @@
       </mj-column>
     </mj-section>
       <!--  -->
- 
         <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
