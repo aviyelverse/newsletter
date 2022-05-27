@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_may_27" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_may_27" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -44,13 +44,12 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    
       <mj-raw>
       <!-- Watch -->
     </mj-raw>
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="center" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">📢📢 Announcement</mj-text>
+        <mj-text align="center" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">✨Announcement📢</mj-text>
         <mj-divider align="center" border-width="2px" border-color="#8661d1" width="100px"></mj-divider>
       </mj-column>
     </mj-section>
@@ -60,16 +59,15 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px" align="center">
-          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">We are Launching our Rewards Platform on Product Hunt on June 1st! </a> </h3>
+          <h3 style="font-weight: bold"><a href="https://twitter.com/aviyelHQ/status/1529809591105724417" target="_blank" style="color: #8661d1; text-decoration: none;">We are Launching our Rewards Platform at Product Hunt on <span style="color: #8661D2">June 1st!</span> </a></h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170467822-fd44437b-2b2c-43d2-8c55-8ec620a14634.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;text-align:justify;word-spacing:-2px;">One of our most eagerly anticipated features: Rewards Platform, is scheduled to launch on product hunt on June 1st! It would mean the world if you could support us and give us some feedback. </p>
+          <p style="font-size: 14px;text-align:justify;word-spacing:-2px;">One of our most eagerly anticipated features- Rewards Platform, is scheduled for launch on <span style="color: #8661d1">June 1</span> at Product Hunt! Your support and feedback would mean the world to us. Check us out at Product Hunt today.</p>
         </mj-text>
       </mj-column>
     </mj-section>
       <!--  -->
-    
     <!-- DIVIDER LINE -->
     <mj-section padding-top="0px">
       <mj-column width="100%">
@@ -88,20 +86,17 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
-   
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38l82Rf" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Vitalik Proposes Soulbound Tokens as Web3 Credentials of the Future</a> </h3>
-          <p style="word-spacing:-1px;font-size: 14px">Vitalik Buterin, the founder of Ethereum, recently proposed a new type of token standard that will allow users to learn about other people's real-world activities, accomplishments, and likes — something resembling like a glimpse into their soul.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38l82Rf" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Vitalik Proposes Soulbound Tokens as Web3 Credential of the Future</a> </h3>
+          <p style="word-spacing:-2px;font-size: 14px">Vitalik Buterin, the founder of Ethereum, recently proposed a new type of token standard that will allow users to learn about other people's real world activities, accomplishments, and likes — something resembling like a glimpse into their soul.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/38l82Rf" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170452929-5bf4ad95-04cd-42cc-91ed-a3b90ba1a696.png"></mj-image>
       </mj-column>
     </mj-section>
-      <!--  -->
-  
      <!--  -->
         <!--  -->
     <mj-section>
@@ -121,7 +116,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LOISYQ" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">How to make your steps count?</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LOISYQ" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">How to Make Your Steps Count?</a> </h3>
           <p style="font-size: 14px;word-spacing:-2px;">Web3 has grown into a whole new phenomenon, where anyone may now earn tokens simply by exercising and moving outdoors, at any time and from anywhere.</p>
         </mj-text>
       </mj-column>
@@ -133,10 +128,10 @@
       <!-- DIVIDER LINE -->
     <mj-section padding="0px">
       <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="380px" align="left" border="none"></mj-image>
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
       </mj-column>
     </mj-section>
-      <!-- ------ -->
+      <!-- -->
     </mj-raw>
     <mj-raw>
       <!-- Watch -->
@@ -153,11 +148,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3lKl91v" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Become a Web 3 & Blockchain Developer in 2022 </a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3lKl91v" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Become a Web3 & Blockchain Developer in 2022 </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3lKl91v" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170461171-79feccde-27a4-4e8b-93b6-506eb21ac4fa.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;word-spacing:-1px;">Web3 and blockchains have the potential to change the internet as we know it forever. Are you wondering how to become a Web3 blockchain developer? Look no further, and get all the info in just one video.</p>
+          <p style="font-size: 14px;word-spacing:-1px;">Web3 and blockchain have the potential to change the internet as we know it, forever. Are you wondering how to become a Web3 blockchain developer? Look no further, and get all the info in just one video.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -166,11 +161,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/38Llaj1" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">How I would learn blockchain if I had to start over?</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/38Llaj1" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">How Would I learn Blockchain If I Had to Start Over?</a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/38Llaj1" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170470371-12f1f5ae-77fc-4331-8372-e9ce1931c8cd.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;word-spacing:-1px;">In 2022, blockchain is by far the greatest industry for developers to enter. Take a look at this video from Dapp University to learn how to become a highly desirable blockchain MASTER in no time.</p>
+          <p style="font-size: 14px;word-spacing:-1px;">In 2022, blockchain is by far the greatest industry for developers to enter. Take a look at this video from Dapp University to learn how to become a blockchain MASTER in no time.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -224,7 +219,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://bit.ly/3wPgWyK" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Web3-react: simple yet powerful framework for building modern Ethereum dApps using React
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://bit.ly/3wPgWyK" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Web3-React: Simple yet Powerful Framework for Building Modern Ethereum dApps using React
             </a> </h3>
           <p style="font-size: 14px;padding-top:0px;word-spacing:-1px;" align="justify;word-spacing:-2px;"> A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
           </p>
@@ -251,7 +246,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3PHXX1C" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Maskbook - The portal to the new, open Internet.</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3PHXX1C" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Maskbook - The Portal to a New, Open Internet.</a> </h3>
           <p style="font-size: 14px;padding-top:0px;word-spacing:-2px" align="justify">Mask Network is a portal to the new, open internet, that bridge from Web2.0 to Web3.0 . With Mask Network, you can send encrypted posts to your friends, trade your best token on Twitter, enjoy NFT pfps, participate in crypto lucky-draws, and share encrypted files on the multiple platforms.
           </p>
         </mj-text>
@@ -317,7 +312,7 @@
    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38jKImW" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Singapore venture firm launches $100M Web3 and Metaverse fund
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38jKImW" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Singapore Venture Firm Launches $100M Web3 and Metaverse Fund
             </a> </h3>
           <p style="word-spacing:-1px;font-size: 14px;word-spacing:-2px;">The startup fund, backed by Babel Finance and Huobi Ventures, will back emerging projects that are building for the Web3 and Metaverse economies.</p>
         </mj-text>
@@ -421,7 +416,7 @@
         <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LTXKoN" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Nft.storage: An open source decentralized storage and bandwidth for NFTs on IPFS and Filecoin.</a></h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LTXKoN" style="color: #3498DB; text-decoration: none;word-spacing:-2px;">Nft.storage: Open Source Decentralized Storage and Bandwidth platform for NFTs on IPFS and Filecoin.</a></h3>
           <p style="font-size: 14px;word-spacing:-2px;">nft.storage uses the IPFS as a key part of its storage and retrieval infrastructure. The IPFS network is a peer-to-peer network of computers that share resources to efficiently provide content to anyone that requests it.</p>
         </mj-text>
       </mj-column>
@@ -433,8 +428,7 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3PLlUoI" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Solana: Web-Scale Blockchain for fast, secure, scalable, dapps and marketplaces.
-
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3PLlUoI" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Solana: Fully open source Web-Scale Blockchain for Fast, Secure, Scalable, dapps and Marketplaces.
 </a></h3>
           <p style="font-size: 14px;word-spacing:-2px;">Solana is a highly functional open source project that implements a new, permissionless, and high-speed layer-1 blockchain.</p>
         </mj-text>
@@ -487,11 +481,11 @@
     </mj-raw>
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_may_2" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_may_27" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
-          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3pUONnJ" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3w4iA0i" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
           <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
           <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
           <mj-social-element background-color="#000000" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
@@ -504,7 +498,6 @@
     <mj-raw>
           <!--  -->
     </mj-raw>
-  
       <!-- Footer -->
     </mj-raw>
     <mj-section>
