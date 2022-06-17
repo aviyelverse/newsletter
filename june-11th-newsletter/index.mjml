@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_may_2" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_11" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_may_2" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_11" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -34,7 +34,7 @@
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #16 - June 11th</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_may_2" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_11" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
@@ -53,41 +53,37 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
-   
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KiJyVD" style="color: #3498DB; text-decoration: none">Apple will delist App Store apps that haven’t been updated recently
-            </a> </h3>
-          <p style="font-size: 14px">Apple plans to remove apps on its App Store that haven't been recently updated. Developers have 30 days to submit an update for approval. The policy is intended to make it easier for customers to find apps that fit their needs.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KiJyVD" style="color: #3498DB; text-decoration: none">Apple to delist apps that haven’t been updated recently from App Store </a> </h3>
+          <p style="font-size: 14px">Apple plans to remove apps that haven't been recently updated from its App Store. Developers have 30 days to submit an update for approval. The policy is intended to make it easier for customers to find apps that fit their needs.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KiJyVD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165684194-314f195b-aad6-4eaf-bd39-be9324b4b8bd.gif"></mj-image>
       </mj-column>
     </mj-section>
-      <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38ymx44" style="color: #3498DB; text-decoration: none">This printer is made of 600 strands of DNA that put themselves together
-            </a> </h3>
-          <p style="font-size: 14px">Researchers have developed a printer based on self-assembling DNA strands. DNA components are attracted to one another and can be found if they are joined properly. The approach may eventually lead to new methods of producing complex molecules in the future.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38ymx44" style="color: #3498DB; text-decoration: none">This printer is made of 600 strands of DNA! </a> </h3>
+          <p style="font-size: 14px">Researchers have developed a printer based on self-assembling DNA strands. DNA components are attracted to one another and if joined properly, produce complex results. The approach may eventually lead to new methods of producing complex molecules in the future.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/38ymx44" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165685614-00993b42-fd48-4572-bafa-0f3fea82e4b8.gif"></mj-image>
       </mj-column>
     </mj-section>
-     <mj-raw>
+    <mj-raw>
       <!--  -->
     </mj-raw>
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KpIrDR" style="color: #3498DB; text-decoration: none">Meta is opening its first retail store next month.
-            </a> </h3>
-          <p style="font-size: 14px">On May 9th, Meta will launch its first hardware retail store on its Burlingame, California, campus. Visitors will be able to test out Portal gadgets, Quest virtual reality headsets, and Ray-Ban Stories smart spectacles in the store. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KpIrDR" style="color: #3498DB; text-decoration: none">Meta to open its first retail store next month </a> </h3>
+          <p style="font-size: 14px">On May 9th, Meta will launch its first hardware retail store at its Burlingame, California campus. Visitors will be able to test out Portal gadgets, Quest virtual reality headsets, and Ray-Ban Stories smart spectacles in the store. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -121,17 +117,15 @@
       <mj-column width="50%">
         <mj-image width="180px" href="https://bit.ly/3y0HCyG" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165695052-8b1fb0b8-fdf4-4bb5-81f2-380e451eed1d.gif"></mj-image>
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3y0HCyG" target="_blank" style="color: #3498DB; text-decoration: none">Docz Community Call with Maintainers
-            </a></h3>
-          <p style="font-size: 14px;padding-top:0px;">Pedro & Renato, the maintainers of Docz, talks about their roadmap for the first release of Docz v3 and also answer all the queries from the community.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;" align="center"> <a href="https://bit.ly/3y0HCyG" target="_blank" style="color: #3498DB; text-decoration: none">Docz Community Call with Maintainers </a></h3>
+          <p style="font-size: 14px;padding-top:0px;">Pedro & Renato, the maintainers of Docz, talks about the roadmap for the Docz v3 and answer questions from the community. </p>
         </mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image width="180px" href="https://bit.ly/3KnTxck" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165711360-b596502d-9ac2-4a45-b7ca-185fc9777814.png"></mj-image>
         <mj-text align="center">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3KnTxck" target="_blank" style="color: #3498DB; text-decoration: none">Developing Technology with a Focus on Inclusion & Diversity</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Chinmayi SK from The Bachchao Project walks you through everything you need to create technology that is conscious of diversity and inclusion!.</p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Chinmayi SK from The Bachchao Project walks you through everything you need to create technology that is conscious of diversity and inclusion!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -165,12 +159,11 @@
     <mj-raw>
       <!--  -->
     </mj-raw>
- <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3vO42R4" target="_blank" style="color: #3498DB; text-decoration: none;">React for the Haters in 100 Seconds
-</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3vO42R4" target="_blank" style="color: #3498DB; text-decoration: none;">React for the haters in 100 Seconds </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3vO42R4" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165699749-216b52d4-dd55-4122-842a-3a677bb10b5e.gif"></mj-image>
         <mj-text padding-top="0">
@@ -178,20 +171,19 @@
         </mj-text>
       </mj-column>
     </mj-section>
-      <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3DU4IYx" target="_blank" style="color: #3498DB; text-decoration: none;">Web Development Full Course | Learn Full Stack Web Development From Scratch - (22 hours!)
-. </a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3DU4IYx" target="_blank" style="color: #3498DB; text-decoration: none;">Web Development Full Course | Learn Full Stack Web Development From Scratch in 22 hours! . </a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3kCJoyh" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165696579-cbf30315-fec4-45a4-9128-2781f756278c.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">This is a full-stack web development course for complete beginners for absoluetely free. A 22-hour video that covers all important web development subjects. Learn all you need to know to become a full-stack web developer in 2022 with this comprehensive course.</p>
+          <p style="font-size: 14px;">This is a full-stack web development course for complete beginners for absoluetely free. A 22-hour video that covers important web development subjects. Learn all you need to know to become a full-stack web developer in 2022 with this comprehensive course.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-      <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
@@ -203,8 +195,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
-      <!--  -->
-  
+    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column>
@@ -213,12 +204,12 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3xTtasi" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165703025-5c609c8f-4e90-433a-bfea-8645558d3816.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Watch this video to find out how "One" scientist was responsible for two environmental disasters that resulted in the lives of millions of people.</p>
+          <p style="font-size: 14px;">Watch this video to find out how one scientist became responsible for two environmental disasters that resulted in the lives of millions of people.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-      <!--  -->
-      <!-- DIVIDER LINE -->
+    <!--  -->
+    <!-- DIVIDER LINE -->
     <mj-section padding-top="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
@@ -233,45 +224,39 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
       </mj-column>
     </mj-section>
-      <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3LxpaS4" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165704129-201aa8da-8dc7-4411-a080-1f65ad5af118.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3JhhoKd" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165704129-201aa8da-8dc7-4411-a080-1f65ad5af118.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LxpaS4" target="_blank" style="color: #3498DB; text-decoration: none">Hush - a new shell scripting language
-            </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">An introduction to Hush can be found on this guide. Hush is a scripting language for the shell. Its goal is to make it easier to create reliable and maintainable shell scripts.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3JhhoKd" target="_blank" style="color: #3498DB; text-decoration: none">Hush - a new shell scripting language </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify"> Hush is a scripting language for the shell. Its goal is to make it easier to create reliable and maintainable shell scripts. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-     <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://bit.ly/3ETvktg" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165705218-915c89b1-8a16-491a-a277-f3a3efcdd3f5.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ETvktg" target="_blank" style="color: #3498DB; text-decoration: none">Zed - Tooling for super-structured data: a new and easier way to manipulate data
-            </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Zed offers a new approach to data that makes it easier to manipulate and manage your data.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ETvktg" target="_blank" style="color: #3498DB; text-decoration: none">Zed - Tooling for super-structured data: A new way to manipulate data </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Zed offers a new approach to data that makes it easier to manipulate and manage your data. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-     <!--  -->
+    <!--  -->
     <mj-section>
       <mj-column width="25%">
         <mj-image width="150px" href="https://bit.ly/3LqB6VQ" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165706323-1254d9ba-e349-47cf-8cf4-7892fa622805.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LqB6VQ" target="_blank" style="color: #3498DB; text-decoration: none">FortuneSheet -  javascript spreadsheet library that provides rich features like Excel and Google Sheets
-            </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">FortuneSheet is a Luckysheet-based JavaScript spreadsheet library. It contains features that make it comparable to Excel and Google Sheets and uses a data format that is compatible with Luckysheet.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3LqB6VQ" target="_blank" style="color: #3498DB; text-decoration: none">FortuneSheet - javascript spreadsheet library that provides rich features like Excel and Google Sheets </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">FortuneSheet is a Luckysheet-based JavaScript spreadsheet library. It contains features that make it comparable to Excel and Google Sheets and uses a data format that is compatible with Luckysheet. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -289,7 +274,6 @@
     <mj-raw>
       <!-- Event -->
     </mj-raw>
-   
     <mj-raw>
       <!-- NEWS -->
     </mj-raw>
@@ -299,13 +283,12 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
       </mj-column>
     </mj-section>
- <!---->
-     <mj-section>
+    <!---->
+    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bbc.in/39p4Xjl" style="color: #3498DB; text-decoration: none">Elon Musk strikes deal to buy Twitter for $44bn
-            </a> </h3>
-          <p style="font-size: 14px">The board of Twitter has agreed to a 44 billion dollar takeover offer from the billionaire Elon Musk. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bbc.in/39p4Xjl" style="color: #3498DB; text-decoration: none">Musk strikes deal to buy Twitter for $44bn </a> </h3>
+          <p style="font-size: 14px">The board of Twitter has agreed to a 44 billion dollar offer from the billionaire Elon Musk. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -316,27 +299,24 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xZm2uw" style="color: #3498DB; text-decoration: none">Japanese Railroad Builds Giant Gundam-Style Robot to Fix Power Lines
-            </a> </h3>
-          <p style="font-size: 14px">To repair remote railway power lines, West Japan Rail Company is utilizing a massive Gundam-style robot. A virtual reality headset is used by the human to pilot the robot.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xZm2uw" style="color: #3498DB; text-decoration: none">Japanese Railroad Builds Giant Gundam-Style Robot to Fix Power Lines </a> </h3>
+          <p style="font-size: 14px">To repair remote railway power lines, West Japan Rail Company is utilizing a massive Gundam-style robot. A virtual reality headset is used by a human to pilot the robot.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3xZm2uw" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165707851-3da59d4c-c4be-4a52-9c4d-d321e7b999fd.png"></mj-image>
       </mj-column>
     </mj-section>
-   
     <mj-raw>
       <!--  -->
     </mj-raw>
-      <mj-raw>
+    <mj-raw>
       <!--  -->
     </mj-raw>
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xXpOnY" style="color: #3498DB; text-decoration: none">Transparent solar panels could replace windows in the future.
-            </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xXpOnY" style="color: #3498DB; text-decoration: none">Transparent solar panels could replace windows in the future. </a> </h3>
           <p style="font-size: 14px">Transparent solar panels have the ability to transform cities from big energy consumers to big energy producers in an instant. Almost any glass sheet or window can be converted into a transparent solar panel.Scientists still need to improve the effectiveness of the technology before it can be scaled.</p>
         </mj-text>
       </mj-column>
@@ -344,14 +324,13 @@
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3xXpOnY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165709606-21c14b55-c15c-41a3-8b63-1624c26f7b31.gif"></mj-image>
       </mj-column>
     </mj-section>
-      <mj-raw>
+    <mj-raw>
       <!--  -->
     </mj-raw>
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/38qpWlj" style="color: #3498DB; text-decoration: none">Reddit officially launches its Community Funds program with a $1 million investment
-            </a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/38qpWlj" style="color: #3498DB; text-decoration: none">Reddit officially launches its Community Funds program with a $1 million investment </a> </h3>
           <p style="font-size: 14px">Reddit will put $1 million into its Community Funds initiative. The program offers financial assistance to Reddit users who want to put their event and project ideas into action.</p>
         </mj-text>
       </mj-column>
@@ -361,7 +340,6 @@
     </mj-section>
     <mj-raw>
       <!--  -->
-      
     </mj-raw>
     <mj-raw>
       <!--  -->
@@ -396,10 +374,8 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3OKOUg0" target="_blank" style="color: #3498DB; text-decoration: none">Say Hello to Eddy: A whole new project-based experience for learning.🌀
- </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Guided at-home projects, created by expert teachers. Project-based learning for you and your preschooler, made easy.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3OKOUg0" target="_blank" style="color: #3498DB; text-decoration: none">Say Hello to Eddy: A whole new project-based experience for learning 🌀 </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Guided at-home projects, created by expert teachers. Project-based learning for you and your preschooler, made easy. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -416,8 +392,7 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3km2E2Q" target="_blank" style="color: #3498DB; text-decoration: none">Noise in Creative Coding </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">An introduction to the noise function and its many applications in creative coding.With a variety of examples that you can interact with.
-          </p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">An introduction to the noise function and its many applications in creative coding, with a variety of examples that you can interact with. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -430,10 +405,8 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MvUIry" target="_blank" style="color: #3498DB; text-decoration: none">Vanta.js: 3D & WebGL Background Animations For Your Website
-            </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Gallery of customizable plug & play animated backgrounds using three.js. Animate website backgrounds in a few lines of code.
-          </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MvUIry" target="_blank" style="color: #3498DB; text-decoration: none">Vanta.js: 3D & WebGL Background Animations For Your Website </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">A Gallery of customizable plug & play animated backgrounds using three.js. Create Animate website backgrounds in a few lines of code. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -460,9 +433,8 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="130px"></mj-divider>
       </mj-column>
     </mj-section>
-      <!--  -->
- 
-        <mj-section>
+    <!--  -->
+    <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Kqn59j" style="color: #3498DB; text-decoration: none">ToolJet: an open source low code platform to build and deploy internal tools quickly without much effort</a></h3>
@@ -473,14 +445,11 @@
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Kqn59j" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/165720914-96dd8c69-249c-4458-9810-1bcd4267430b.png"></mj-image>
       </mj-column>
     </mj-section>
-      <!--  -->
-      
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3EZckKa" style="color: #3498DB; text-decoration: none">Fleet is the blazing fast build tool for Rust.
-
-</a></h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3EZckKa" style="color: #3498DB; text-decoration: none">Fleet- A blazing fast build tool for Rust </a></h3>
           <p style="font-size: 14px">Fleet is a Rust build tool. It has the ability to compile five times faster than cargo. Fleet works by optimizing builds utilizing the Rust ecosystem's existing tooling.</p>
         </mj-text>
       </mj-column>
@@ -497,8 +466,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3rWHaOc" style="color: #3498DB; text-decoration: none">magic-trace: magically trace your program</a></h3>
-          <p style="font-size: 14px">magic-trace gathers and shows high-resolution traces of a process's activities. It may be used to troubleshoot apps and gain insight into how any process works.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3rWHaOc" style="color: #3498DB; text-decoration: none">Magic-trace: magically trace your program</a></h3>
+          <p style="font-size: 14px"> Magic-trace gathers and shows high-resolution traces of a process's activities. It may be used to troubleshoot apps and gain insight into how any process works.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -535,7 +504,7 @@
     </mj-raw>
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_may_2" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_11" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
@@ -550,10 +519,9 @@
       </mj-column>
     </mj-section>
     <mj-raw>
-          <!--  -->
+      <!--  -->
     </mj-raw>
-  
-      <!-- Footer -->
+    <!-- Footer -->
     </mj-raw>
     <mj-section>
       <mj-column>
