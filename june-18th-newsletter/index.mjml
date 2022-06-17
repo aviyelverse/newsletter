@@ -1,0 +1,540 @@
+<mjml>
+  <mj-head>
+    <mj-title>Aviyel Newsletter</mj-title>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Inter, Helvetica, sans-serif" background-color="#FEFCFE"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="10px 0px">
+      <mj-column width="60%">
+        <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_18" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_18" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px">Offbeat ideas just curated for you!</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #17 - June 18th</mj-text>
+        <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_18" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="1px">
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p>Aviyel is a community-driven, open source monetization platform. We are committed to creating sustainable open source projects while distributing rewards equitably in the community.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- READ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Watch -->
+    </mj-raw>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px" align="center">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3NGUSgY" target="_blank" style="color: #3498DB; text-decoration: none;">We just launched our Rewards Platform!</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/171797133-e5fbf8aa-2cce-4b81-86c9-a7ecd0eccb7c.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;text-align:justify;word-spacing:-1px;">Our Rewards Platform was launched on Product Hunt last week! We finished with over 1000 upvotes. It would mean the world if you could keep supporting us. And don't forget to mint your NFTs! </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+    </mj-raw>
+    <!-- ------ -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#READ</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3xBEhEf" style="color: #3498DB; text-decoration: none">Bill Gates on economic turbulence, crypto and whether we can still avoid climate disaster</a> </h3>
+          <p style="font-size: 14px">Bill Gates discusses on stage at TechCrunch Sessions: Climate 2022, a wide-ranging conversation that featured an updated assessment of progress on reducing + mitigating climate change.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3xBEhEf" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174216114-f5f4aa77-500e-4173-a456-6ca4025cb243.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3OfnEVC" style="color: #3498DB; text-decoration: none">Inside Europe’s fight for ethical AI </a> </h3>
+          <p style="font-size: 14px">France wants to expand the scope of the EU's groundbreaking new Artificial Intelligence Act. Find out more about whether the plans and proposals went far enough.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3OfnEVC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174217632-5f33ee7f-fc04-4832-80cf-03fe203131dc.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3ba0zWo" style="color: #3498DB; text-decoration: none">Why sounds and smells are as vital to cities as the sights</a> </h3>
+          <p style="font-size: 14px">Researchers like David Howes are investigating into how nonvisual information shapes the character of a city and influences its livability all over the world.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3ba0zWo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174218470-fb25ce53-aac0-4d9b-9787-551ddf39c1f3.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+      <!--  -->
+     <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3O4Fc7w" style="color: #3498DB; text-decoration: none">The Smallest CSS</a> </h3>
+          <p style="font-size: 14px">What’s the smallest amount of CSS that you can write to make HTML look halfway decent? Robin Rendle, a frontend developer, attempted it after removing all styles from his website and reverting back to Eleventy. Here's what he's come up with thus far.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3O4Fc7w" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174219619-9e1fb152-b1c2-4fb1-92fa-0ef789f80e1c.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+      <!--  -->
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- -- -->
+    <mj-raw>
+      <!-- Watch -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#WATCH</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section></mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/39yQ66o" target="_blank" style="color: #3498DB; text-decoration: none;">100+ Web Development Things you Should Know</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/39yQ66o" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174222442-b3a3e317-8007-48f1-bc6b-2e66ec107af9.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">WebDev 101: a comprehensive introduction to the world of web development in which Fireship will walk you through the 101 concepts you need to know in order to begin your web development adventure.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3Hw7QvC" target="_blank" style="color: #3498DB; text-decoration: none;">Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial. </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3Hw7QvC" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174221573-e96b1f96-83e6-4308-b633-79a66080f743.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">This course will give you an introduction to machine learning concepts and neural network implementation using Python and TensorFlow. Kylie Ying explains basic concepts, such as classification, regression, training/validation/test datasets, loss functions, neural networks, and model training.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3zFBn4h" target="_blank" style="color: #3498DB; text-decoration: none;">The Biggest Project in Modern Mathematics</a></h3></mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3zFBn4h" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174224854-23c32e83-5c26-41dd-88fa-a903d66c6338.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this video, Rutgers University mathematician Alex Kontorovich takes us on a journey through the continents of mathematics to discover about the awe-inspiring symmetries at the heart of the Langlands program, including how Andrew Wiles solved Fermat's Last Theorem.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3mWsUSt" target="_blank" style="color: #3498DB; text-decoration: none;">Google’s Imagen AI: Outrageously Good! 🤖</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3mWsUSt" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174228442-cd7f7941-8ce7-457a-80d7-5b0fcda75459.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this video, Dr. Károly Zsolnai-Fehér will lead you through the paper "Imagen: Photorealistic Text-to-image Diffusion Models with Deep Language Understanding," in which he will discuss the AI image generator, which was created by Google.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+     <!--  -->
+    <!--  -->
+      <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+  <!-- ------ -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3xXuObL" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174229875-e2b1f37d-7d74-42f7-86f9-2ded489d9065.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3xXuObL" target="_blank" style="color: #3498DB; text-decoration: none">A Very, Very Tiny Grammar of Graphics</a> </h3><p style="font-size: 14px;padding-top:0px;" align="justify">If you’ve ever wondered how frameworks like Observable Plot, ggplot2, or Vega-Lite work, you’ve come to the right place!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/39AikxB" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174231005-bac62dd5-b28e-406e-b680-0eb8d824027e.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/39AikxB" target="_blank" style="color: #3498DB; text-decoration: none">Fun CSS-only scrolling effects for Matterday </a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn more in-depth on how some amusing parallax scrolling effects were created with CSS-only for a recent Netlify project.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3MU364d" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174231552-491e177f-2367-47d0-960b-b322f6acf203.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3MU364d" target="_blank" style="color: #3498DB; text-decoration: none">Component Encyclopedia</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Explore the world’s UI components to learn techniques that actually work.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+    <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Event -->
+    </mj-raw>
+    <mj-raw>
+      <!-- NEWS -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#NEWS</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!---->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3bac9kk" style="color: #3498DB; text-decoration: none">Internet Explorer, star of Windows, dies at 26</a> </h3>
+          <p style="font-size: 14px">Internet Explorer is dead. Microsoft is retiring IE after nearly 27 years. The aging web browser is being sunset in favor of Microsoft Edge, with support being officially withdrawn for IE 11.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3bac9kk" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174232822-54c639ab-e57a-4ba9-94cb-d783536731a4.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3xxQZEi" style="color: #3498DB; text-decoration: none">Apple signs 10-year streaming deal with Major League Soccer. </a> </h3>
+          <p style="font-size: 14px">Starting in early 2023 through 2032, fans can watch every live MLS match by subscribing to a new MLS streaming service that will be available exclusively through the Apple TV app.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3xxQZEi" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174233126-44202ae0-2b0f-49d9-acf2-4c414018ee99.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3mVj0AF" style="color: #3498DB; text-decoration: none">Wave of Discord Hacks Is Making the Crypto Crash More Painful for Investors </a> </h3>
+          <p style="font-size: 14px">Dozens of hacks have targeted NFT project Discords in recent weeks amid a crypto crash that's only getting worse.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3mVj0AF" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174233520-cb3a0cf9-65a2-46dc-81ac-6d60e5c53392.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+      <!--  -->
+     <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/39zIErE" style="color: #3498DB; text-decoration: none">Adobe releases open source toolkit to counter visual misinformation</a></h3>
+          <p style="font-size: 14px">Adobe is announcing the release of a three-part open source toolkit to quickly get the technology into developers’ hands and out in the wild.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/39zIErE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174234351-fa59696e-445f-4112-8c1a-6d78c24b97b3.png"></mj-image>
+      </mj-column>
+    </mj-section>
+      <!--  -->
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Learn -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#LEARN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section></mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3Hu65iy" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174235156-b9e3bcf3-883b-4f5d-bf13-91d9b7bff759.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Hu65iy" target="_blank" style="color: #3498DB; text-decoration: none">Add motion to your apps with a single line of code. </a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">AutoAnimate is a zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, Svelte, or any other JavaScript application.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3zJJpZZ" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174235628-27985ab5-da92-4375-a42b-36b2f00c6547.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3zJJpZZ" target="_blank" style="color: #3498DB; text-decoration: none">Building an Inter Dimensional Video Player for Lord Huron </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">An interactive music video which allows you to slide seamlessly between the dimensions of two kindred tracks. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/39ulnY0" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174236500-29f62d53-6df2-4f95-83bc-b3713fc83d2c.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/39ulnY0" target="_blank" style="color: #3498DB; text-decoration: none">The balance has shifted away from SPAs </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">There’s a feeling in the air. A zeitgeist. SPAs are no longer the cool kids they once were 10 years ago. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Fun -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#OSSSpotlight</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="130px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3O4ZgGI" style="color: #3498DB; text-decoration: none">Keploy - No code API testing platform</a></h3>
+          <p style="font-size: 14px">Keploy is a fully open source no-code API testing platform that generates tests-cases and data-mocks from API calls.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3O4ZgGI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174237088-4dd43d64-e204-42c2-a0b2-df899aaad468.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3zNaf3d" style="color: #3498DB; text-decoration: none">OLSF - A reference implementation of a neutral replicated state machine.</a></h3>
+          <p style="font-size: 14px">0L is open, permissionless, and community governed project. Inspired by Satoshi, and informed by experience, 0L combines state of the art blockchain technology with truly decentralized governance.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3zNaf3d" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174237674-6879a0b2-12fc-44da-ae15-cfbdffe6a754.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3zKMVTM" style="color: #3498DB; text-decoration: none">Reactplay: A opensource platform that helps you learn ReactJS faster with hands-on practice model.</a></h3>
+          <p style="font-size: 14px">Reactplay is an open-source web app that helps you learn ReactJS faster with a hands-on practice model. It is a collection of ReactJS projects that you can use to learn ReactJS.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3zKMVTM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174238162-142156b1-2c36-40da-81a9-924a33fb0d1f.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Last line -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="0px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Test -->
+    </mj-raw>
+    <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
+      <mj-column width="100%">
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_18" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3pUONnJ" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#000000" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
+          <mj-social-element background-color="#FF0000" target="_blank" href="https://bit.ly/3HCTrNa" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/32QpESj" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/3t0l3HU" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <!-- Footer -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" align="center">
+          <p> This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
