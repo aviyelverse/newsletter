@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_25" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_24" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_25" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_24" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -32,9 +32,9 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #18 - June 25th</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #18 - June 24th</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_25" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_24" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
@@ -177,7 +177,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3HCotWL" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174481278-ec803060-08d4-46d1-9c3c-b87179730ad7.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">If you are like most people, there is a gap between the person you are and the person you wish to be. There are small tasks that you believe you should complete and larger goals that you believe you should accomplish. In this video, Kurzgesagt explains how to Take One Small Step at a Time to Change Your entire Life.</p>
+          <p style="font-size: 14px;">If you are like most people, there is a gap between the person you are and the person you wish to be. There are small tasks that you believe you should complete and larger goals that you believe you should accomplish. This video explains how to taking one small step at a time can change your entire life.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -189,7 +189,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3tNiR6h" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174482038-e169d777-2106-4e96-a802-6c97f1c4347a.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">This is the story of Web Components and why, at least for now, they haven't managed to gain meaningful adoption.</p>
+          <p style="font-size: 14px;">This is the story of Web Components and why they haven't managed to gain meaningful adoption.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -201,7 +201,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3xGNzzb" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174471720-41518f87-592e-4452-b309-0169b884b40a.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">DeepMind has released "A Generalist Agent", a paper that introduces their new multi-modal model Gato. But is Gato truly a generalist agent?.This video is a paper review and in-depth explanation in which Edan Meyer expresses his thoughts on the Gato.</p>
+          <p style="font-size: 14px;">DeepMind has released 'A Generalist Agent', a paper that introduces their new multi-modal model Gato. But is Gato truly a generalist agent? This video is a paper review and in-depth explanation where Edan Meyer expresses his thoughts on the Gato.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -213,7 +213,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/39HA7mp" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174479617-35032cd2-e1ae-4f3f-b000-297bf8f395e4.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Join Sonny as he builds a Reddit 2.0 CLONE with REACT & NEXT.js, where you'll learn how to build a GraphQL backend, a Login authentication flow using the Reddit API using NextAuth, a SQL relational database, Typescript, Nextjs, Tailwind, and much more!.</p>
+          <p style="font-size: 14px;">Join Sonny as he builds a Reddit 2.0 CLONE with REACT & NEXT.js, where you'll learn how to build a GraphQL backend, a Login authentication flow using the Reddit API using NextAuth, a SQL relational database, Typescript, Nextjs, Tailwind, and much more!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -247,7 +247,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/402/getting-hands-on-with-docz" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174483168-4fede755-cee3-4f5a-aa28-3720f46a98d0.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Join us for a live event in which Suraj Vishwakarma will guide you through the complete Docz setup process, including deploying your Docz documentation site to Netlify platform.</p>
+          <p style="font-size: 14px;">Join us for a live event in which Suraj Vishwakarma will guide you through the complete Docz setup process, including deploying your Docz documentation site to Netlify.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -287,7 +287,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3zN3Ipe" target="_blank" style="color: #3498DB; text-decoration: none">Picture perfect images with the modern "img" element</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3zN3Ipe" target="_blank" style="color: #3498DB; text-decoration: none">Picture perfect images with the modern 'img' element</a> </h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">You may not think about images as part of your web dev work, but they can affect your web app’s performance more than any other part of your code.</p>
         </mj-text>
       </mj-column>
@@ -300,7 +300,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tQfT0H" target="_blank" style="color: #3498DB; text-decoration: none">Meet "quakeanalysis” — A Python Library for Finding the Nearest Earthquake Data</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tQfT0H" target="_blank" style="color: #3498DB; text-decoration: none">Meet quakeanalysis — A Python Library for Finding the Nearest Earthquake Data</a> </h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">Are you interested in analysing earthquake data and need it quickly accessible in Pandas dataframe format? You may find the library quakeanalysis library helpful.</p>
         </mj-text>
       </mj-column>
@@ -326,7 +326,7 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3N5acTm" target="_blank" style="color: #3498DB; text-decoration: none">From Design System to "NFT Design System": Creating TinyFaces</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Find out how Max used his lockdown mastering 3D design, which led to his venture into NFTs. He discusses the stigmas and challenges of entering the NFT space, and how his roots in open source influence the TinyFacesNFT roadmap.</p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Find out how Max used his lockdown mastering 3D design, which led to his venture into NFTs. He discusses the stigmas and challenges of entering the NFT space, and how his roots in open source influences TinyFacesNFT's roadmap.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -446,7 +446,7 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3zP5wOE" target="_blank" style="color: #3498DB; text-decoration: none">How to Solve the Parking Lot Challenge in JavaScript </a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Have you heard about the Parking Lot challenge?. The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot. In this tutorial you will be learning to do that in JavaScript.</p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Have you heard about the Parking Lot challenge? The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot. In this tutorial you will be learning to do that in JavaScript.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -597,7 +597,7 @@
     </mj-raw>
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_25" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_24" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
