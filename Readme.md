@@ -25,3 +25,4 @@
 - [June 11th 2022](https://aviyelverse.github.io/newsletter/june-11th-newsletter/)
 - [June 18th 2022](https://aviyelverse.github.io/newsletter/june-18th-newsletter/)
 - [June 25th 2022](https://aviyelverse.github.io/newsletter/june-25th-newsletter/)
+- [July 4th 2022](https://aviyelverse.github.io/newsletter/july-4th-newsletter/)
