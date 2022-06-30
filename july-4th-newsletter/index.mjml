@@ -58,12 +58,37 @@
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
       </mj-column>
     </mj-section>
+    <!-- - -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3bHd8J3" style="color: #3498DB; text-decoration: none">Get hype for the first images from NASA’s James Webb Space Telescope</a> </h3>
+          <p style="font-size: 14px">Very soon, humanity will get to view the deepest images of the universe that have ever been captured. In two weeks, the $10 billion James Webb Space Telescope (JWST will release its first full-color images.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3bHd8J3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176608831-596d24af-fc30-4fe4-871e-86695d5c21a1.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3OA4xq7" style="color: #3498DB; text-decoration: none">A company aims to power the world for millions of years by digging the deepest holes ever</a> </h3>
+          <p style="font-size: 14px">Quaise Energy is planning to use X-rays to melt rock in order to drill the deepest holes possible and harness geothermal energy. Find out more from this article on how this company intends to generate unlimited power by drilling the hole on Earth.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3OA4xq7" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176614085-e378c95d-4b72-4668-ac6b-acf9acf559cd.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3OLXava" style="color: #3498DB; text-decoration: none">Apple Is Not Defending Browser Engine Choice</a> </h3>
-          <p style="font-size: 14px">Some folks claim that Apple’s mandated inadequacy for browsers and their engines is somehow beneficial.
-</p>
+          <p style="font-size: 14px">Some folks claim that Apple’s mandated inadequacy for browsers and their engines is somehow beneficial. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -74,44 +99,20 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Facebook is changing its algorithm to take on TikTok, leaked memo reveals</a> </h3>
-          <p style="font-size: 14px">Facebook employees were recently given a new directive to make the app's feed more like TikTok's. It intends to begin strongly recommending posts regardless of origin, rather than emphasizing posts from accounts people follow. Find out why Facebook is terrified of Tiktok.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3bAPFcj" style="color: #3498DB; text-decoration: none">Stack Overflow Developer Survey 2022</a> </h3>
+          <p style="font-size: 14px">In May 2022 over 70,000 developers told stack overflow how they learn and level up, which tools they’re using, and what they want.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174468760-776d79cf-5ce5-45f1-8e63-c9cdb1e31f19.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3bAPFcj" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176606601-3b0a8b5f-2077-4dc8-982e-eb83f53c0bfa.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
       <!-- -->
     </mj-raw>
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">The Great Decentralization? Geographic shifts and where tech talent is moving next</a> </h3>
-          <p style="font-size: 14px">This article examines geographic shifts based on Stack Overflow traffic during the covid-19 pandemic to determine which locations people are moving to and which are losing popularity.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174469074-54dd2160-c89d-4aed-841b-f76920b78b69.png"></mj-image>
-      </mj-column>
-    </mj-section>
     <mj-raw>
       <!--  -->
     </mj-raw>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Don’t Sink Your Website With Third Parties</a> </h3>
-          <p style="font-size: 14px">Third-party resource requests might be a major roadblock. Here's an excellent overview on how to lessen their impact on your user experience.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174469415-3c936845-c5b6-4592-8ea7-f09ecfdfdadb.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
     <mj-raw>
       <!-- DIVIDER LINE -->
     </mj-raw>
