@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_25" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_july_4" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_25" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_july_4" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/154223848-89d874eb-4995-45bf-b3a0-15f495bf272f.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -32,9 +32,9 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #18 - June 25th</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #19 - July 4th</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_25" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_july_4" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
@@ -51,26 +51,6 @@
       <!-- Watch -->
     </mj-raw>
     <!--  -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px" align="center">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3NGUSgY" target="_blank" style="color: #3498DB; text-decoration: none;">We just launched our Rewards Platform!</a> </h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174481649-99d84747-a1db-43fc-a3e1-94b1d4ffa780.gif"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;text-align:justify;word-spacing:-1px;">Our Rewards Platform was launched on Product Hunt this month! We finished with over 1000 upvotes. It would mean the world if you could keep supporting us. And don't forget to mint your NFTs! </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!-- DIVIDER LINE -->
-    <mj-section padding-top="0px">
-      <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-    </mj-raw>
     <!-- ------ -->
     <mj-section>
       <mj-column width="100%">
@@ -81,24 +61,25 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3MYdvM8" style="color: #3498DB; text-decoration: none">Sponsoring dependencies: The next step in open source sustainability</a> </h3>
-          <p style="font-size: 14px">We are at a point in open source development where it's become clear that not all projects have the same opportunity to receive funding and maintainers are the key to fixing this.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3OLXava" style="color: #3498DB; text-decoration: none">Apple Is Not Defending Browser Engine Choice</a> </h3>
+          <p style="font-size: 14px">Some folks claim that Apple’s mandated inadequacy for browsers and their engines is somehow beneficial.
+</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3MYdvM8" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174468482-f8ba981b-328e-4ce3-a7eb-224993fb69e8.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3OLXava" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176597402-7b7293aa-e2fa-4a16-9af2-f685ca109fb3.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3tH45xK" style="color: #3498DB; text-decoration: none">Facebook is changing its algorithm to take on TikTok, leaked memo reveals</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Facebook is changing its algorithm to take on TikTok, leaked memo reveals</a> </h3>
           <p style="font-size: 14px">Facebook employees were recently given a new directive to make the app's feed more like TikTok's. It intends to begin strongly recommending posts regardless of origin, rather than emphasizing posts from accounts people follow. Find out why Facebook is terrified of Tiktok.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3tH45xK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174468760-776d79cf-5ce5-45f1-8e63-c9cdb1e31f19.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174468760-776d79cf-5ce5-45f1-8e63-c9cdb1e31f19.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -107,12 +88,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3tIbI7i" style="color: #3498DB; text-decoration: none">The Great Decentralization? Geographic shifts and where tech talent is moving next</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">The Great Decentralization? Geographic shifts and where tech talent is moving next</a> </h3>
           <p style="font-size: 14px">This article examines geographic shifts based on Stack Overflow traffic during the covid-19 pandemic to determine which locations people are moving to and which are losing popularity.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3tIbI7i" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174469074-54dd2160-c89d-4aed-841b-f76920b78b69.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174469074-54dd2160-c89d-4aed-841b-f76920b78b69.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -122,12 +103,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3HEAPNR" style="color: #3498DB; text-decoration: none">Don’t Sink Your Website With Third Parties</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="" style="color: #3498DB; text-decoration: none">Don’t Sink Your Website With Third Parties</a> </h3>
           <p style="font-size: 14px">Third-party resource requests might be a major roadblock. Here's an excellent overview on how to lessen their impact on your user experience.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3HEAPNR" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174469415-3c936845-c5b6-4592-8ea7-f09ecfdfdadb.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174469415-3c936845-c5b6-4592-8ea7-f09ecfdfdadb.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -597,7 +578,7 @@
     </mj-raw>
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_june_25" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_july_4" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
