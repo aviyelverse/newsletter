@@ -143,11 +143,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3aZEaL9" target="_blank" style="color: #3498DB; text-decoration: none;">The Terrifying Future of Artificial Intelligence</a> </h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/39Zrp3m" target="_blank" style="color: #3498DB; text-decoration: none;">The Last Human – A Glimpse Into The Far Future</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3aZEaL9" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174481696-ef0404a1-65a0-4c15-bb1e-759882abb731.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/39Zrp3m" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176626281-30e324a5-02c6-49c6-9b2f-6f2b3f66d8f1.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">The advancement of AI has piqued the curiosity of academics and researchers alike. Watch this video to find out more about how the rise of AI will affect humanity's future if humans succeed in creating complex, super-intelligent machines.</p>
+          <p style="font-size: 14px;">The future of humanity seems insecure. Rapid climate change, political division, our greed and failings make it hard to look at our species with a lot of optimism and so many people think our end is in sight. But humans always thought they lived in the end times. Every generation assumes they’re important enough to witness the apocalypse and then life just goes on.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -155,11 +155,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3HCotWL" target="_blank" style="color: #3498DB; text-decoration: none;">Change Your Life – One Tiny Step at a Time</a> </h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3NtuO81" target="_blank" style="color: #3498DB; text-decoration: none;">Create 3D Site with Spline and React - Full Course</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3HCotWL" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174481278-ec803060-08d4-46d1-9c3c-b87179730ad7.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3NtuO81" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176620036-9e1a3808-755c-4c91-952b-3da4a01a2548.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">If you are like most people, there is a gap between the person you are and the person you wish to be. There are small tasks that you believe you should complete and larger goals that you believe you should accomplish. In this video, Kurzgesagt explains how to Take One Small Step at a Time to Change Your entire Life.</p>
+          <p style="font-size: 14px;">In this video, you will learn how to turn your Figma UI to 3D and build a React site with Spline.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -167,11 +167,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3tNiR6h" target="_blank" style="color: #3498DB; text-decoration: none;">The Story of Web Components</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3ntaaKU" target="_blank" style="color: #3498DB; text-decoration: none;">How To Create A Password Protected File Sharing Site With Node.js, MongoDB, and Express</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3tNiR6h" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174482038-e169d777-2106-4e96-a802-6c97f1c4347a.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3ntaaKU" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176615750-a7f91fb5-9a77-4829-b794-e4a874d35e14.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">This is the story of Web Components and why, at least for now, they haven't managed to gain meaningful adoption.</p>
+          <p style="font-size: 14px;">In this video Kyle will show you how to create a simple file sharing site that also includes password protected files and a download count tracker.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -179,26 +179,15 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3xGNzzb" target="_blank" style="color: #3498DB; text-decoration: none;">Is Gato Really the Future of AI? </a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3yvM08Q" target="_blank" style="color: #3498DB; text-decoration: none;">A fresh new web framework is out </a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3xGNzzb" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174471720-41518f87-592e-4452-b309-0169b884b40a.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3yvM08Q" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176617694-14937fa1-d065-4745-8eb8-d3a30b7d5995.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">DeepMind has released "A Generalist Agent", a paper that introduces their new multi-modal model Gato. But is Gato truly a generalist agent?.This video is a paper review and in-depth explanation in which Edan Meyer expresses his thoughts on the Gato.</p>
+          <p style="font-size: 14px;">Fresh is a fullstack web framework for Deno that allows developers to build fast server-rendered webapps. It uses the "Islands Architecture" to limit JavaScript to specific components and can be deployed to the edge.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/39HA7mp" target="_blank" style="color: #3498DB; text-decoration: none;">Reddit clone with NEXT.JS!</a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/39HA7mp" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174479617-35032cd2-e1ae-4f3f-b000-297bf8f395e4.png"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">Join Sonny as he builds a Reddit 2.0 CLONE with REACT & NEXT.js, where you'll learn how to build a GraphQL backend, a Login authentication flow using the Reddit API using NextAuth, a SQL relational database, Typescript, Nextjs, Tailwind, and much more!.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
     <!-- ---------- -->
     <mj-section padding-top="0px">
       <mj-column width="100%">
@@ -209,36 +198,6 @@
       <!-- ------ -->
     </mj-raw>
     <!--  -->
-    <mj-section>
-      <mj-column width="100%">
-        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#Events</mj-text>
-        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <!--  -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://aviyel.com/events/402/getting-hands-on-with-docz" target="_blank" style="color: #3498DB; text-decoration: none;">Getting Hands-on with Docz</a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/402/getting-hands-on-with-docz" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174483168-4fede755-cee3-4f5a-aa28-3720f46a98d0.gif"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">Join us for a live event in which Suraj Vishwakarma will guide you through the complete Docz setup process, including deploying your Docz documentation site to Netlify platform.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- DIVIDER LINE -->
-    <mj-section padding-top="0px">
-      <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
-      </mj-column>
-    </mj-section>
     <!-- DIVIDER LINE -->
     <mj-raw>
       <!-- ------ -->
@@ -252,12 +211,12 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/39EEtLe" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174515054-1576e1c9-250d-4218-9e2a-6b340fcbbb4a.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3bI4OZD" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176628960-c824edd3-940a-49f3-a75a-701959d9f337.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/39EEtLe" target="_blank" style="color: #3498DB; text-decoration: none">Performance Game Changer: Browser Back/Forward Cache</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3bI4OZD" target="_blank" style="color: #3498DB; text-decoration: none">How I Chose an Animation Library for My Solitaire Game </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This article is designed to help front-end developer to decide which animation library to use on a project to create a full fledge Solitaire online game.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -265,12 +224,12 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3zN3Ipe" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174515390-30b04318-d63d-49f7-bffe-050f45a6ed80.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3QYKKSU" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176629957-7c3364bf-0df9-4f28-a33c-669a49439326.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3zN3Ipe" target="_blank" style="color: #3498DB; text-decoration: none">Picture perfect images with the modern "img" element</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">You may not think about images as part of your web dev work, but they can affect your web app’s performance more than any other part of your code.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3QYKKSU" target="_blank" style="color: #3498DB; text-decoration: none">Introduction to Defensive CSS</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Practical CSS and design tips that helps in building future-proof user interfaces and user experience.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -278,40 +237,29 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3tQfT0H" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174527265-45bd801a-97da-474c-9797-f4059e182395.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3OTBkpG" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176630837-d80dc694-a4a7-4666-9857-03f60fa5bfd6.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tQfT0H" target="_blank" style="color: #3498DB; text-decoration: none">Meet "quakeanalysis” — A Python Library for Finding the Nearest Earthquake Data</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Are you interested in analysing earthquake data and need it quickly accessible in Pandas dataframe format? You may find the library quakeanalysis library helpful.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3OTBkpG" target="_blank" style="color: #3498DB; text-decoration: none">Airbnb’s Trip to Linaria</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn how Linaria, Airbnb’s newest choice for web styling, improved both developer experience and web performance.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3tIlQg8" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174483917-23401b38-8556-4c6f-84c7-2abb3d2691dd.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3tIlQg8" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176631925-4915796d-5e12-4135-ad20-7cbd3d0db996.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tIlQg8" target="_blank" style="color: #3498DB; text-decoration: none">Why most design systems implode?</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Atomic Design by Brad Frost inspired frontend developers to create design systems. It changed the emphasis from designing reusable, atomic components to implementing UIs one page at a time. Find out what Brad Frost said when he was asked if design systems would still be useful in 2022.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3tIlQg8" target="_blank" style="color: #3498DB; text-decoration: none">Notes on maintaining an internal React component library</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Gabe Scholz's thoughts on maintaining a component library as part of an established design system that is utilized by a large number of frontend applications.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3N5acTm" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174484736-4dbe57eb-8f8c-4aec-a7be-a507c8cb646e.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3N5acTm" target="_blank" style="color: #3498DB; text-decoration: none">From Design System to "NFT Design System": Creating TinyFaces</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Find out how Max used his lockdown mastering 3D design, which led to his venture into NFTs. He discusses the stigmas and challenges of entering the NFT space, and how his roots in open source influence the TinyFacesNFT roadmap.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
     <mj-raw>
       <!-- DIVIDER LINE -->
     </mj-raw>
@@ -339,12 +287,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3xwxSKI" style="color: #3498DB; text-decoration: none">The next big social platform is the smartphone’s homescreen</a> </h3>
-          <p style="font-size: 14px">Homescreen-based social networking is getting popular. This article covers the emergence of homescreen-based social networking and examines several apps to see why they are so popular.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3I6Z4V9" style="color: #3498DB; text-decoration: none">NFT giant OpenSea reports major email data breach</a> </h3>
+          <p style="font-size: 14px">OpenSea, the popular NFT marketplace that hit a colossal $13 billion valuation in January, is warning users of email phishing after a data breach.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3xwxSKI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174520549-84fe1b91-9c7a-440d-a9f7-aa6571c22f86.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3I6Z4V9" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176632712-8a827940-49a6-4eb7-bd24-4935b540a528.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -356,12 +304,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3bfQXJK" style="color: #3498DB; text-decoration: none">Elon Musk and Tesla sued for $258 billion over Dogecoin ‘pyramid scheme’ </a> </h3>
-          <p style="font-size: 14px">Elon Musk was sued for $258bn on Thursday by a Dogecoin investor who accused him of running a pyramid scheme to support the cryptocurrency.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3I41FPB" style="color: #3498DB; text-decoration: none">Cybersecurity startups, once the VC darling, hammered by layoffs</a> </h3>
+          <p style="font-size: 14px">On Friday, IronNet, a Virginia-based network security company, announced plans to let go of 55 workers, or 17% of its workforce, less than a year after filing to go public.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3bfQXJK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174520113-d8bc0538-5ec6-4219-8ac9-57473ed1f3e3.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3I41FPB" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176633891-1067082c-5626-4590-8569-86db3ebd9331.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -370,12 +318,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/39ELPOQ" style="color: #3498DB; text-decoration: none">Nansen Launches Messaging App (Discord Alternative) for Web3 Communities</a> </h3>
-          <p style="font-size: 14px">Learn more in-depth about how Nansen, an analytics platform, hopes to chip into Discord's supremacy by launching a new chat service for NFT projects and more.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3AhpRfE" style="color: #3498DB; text-decoration: none">Pinterest has a new CEO, who has one job: to build the internet’s shopping mall</a> </h3>
+          <p style="font-size: 14px">Bill Ready, the new CEO of Pinterest, will aid in the platform's transformation into a location where users may buy for goods from across the internet. In addition, he has a history of setting trends in e-commerce.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/39ELPOQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174526202-eb6e5674-79c6-460c-9377-5e8da7356352.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3AhpRfE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176635019-eb5cb31c-79e3-4205-a769-b557eb4c7851.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -385,12 +333,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3bcmlbM" style="color: #3498DB; text-decoration: none">Telegram tops 700 million users, launches premium tier</a></h3>
-          <p style="font-size: 14px">Telegram has amassed over 700 million monthly active users and is rolling out a premium tier with additional features as the instant messaging platform pushes to monetize a portion of its large user base.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3a6B9Zt" style="color: #3498DB; text-decoration: none">Mojo Vision Puts Its AR Contact Lens Into Its CEO’s Eyes (Literally)</a></h3>
+          <p style="font-size: 14px">This article includes an in-depth interview with Steve Sinclair, senior vice-president of product and marketing at Mojo, in which he discusses the company's advancement and lingering difficulties.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3bcmlbM" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174526426-59dab4f7-05b2-47eb-8026-53ab5603dfbe.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3a6B9Zt" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176638115-31255ac1-75cc-4a0e-8124-002c604c2adf.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -423,12 +371,12 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3zP5wOE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174530608-9f2e322b-7f5d-4d91-8f2c-95215c18b86d.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3nqzaSX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176642700-38de529b-0b8b-4233-9624-eb7e4081c1dd.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3zP5wOE" target="_blank" style="color: #3498DB; text-decoration: none">How to Solve the Parking Lot Challenge in JavaScript </a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Have you heard about the Parking Lot challenge?. The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot. In this tutorial you will be learning to do that in JavaScript.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3nqzaSX" target="_blank" style="color: #3498DB; text-decoration: none">Make beautiful presentations in Figma </a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn how to make neat-looking slides and present them effectively using Figma.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -440,12 +388,12 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3xHH7aP" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174531864-e96e1a23-80bc-40fc-9164-5098d1f1947a.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3uc3Hra" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176640579-9b5f26d9-f79c-4556-ad2f-eaa764a997b3.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3xHH7aP" target="_blank" style="color: #3498DB; text-decoration: none">How to Use Webpack Module Federation in React </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Module Federation is a great tool for constructing a micro-frontend architecture in React applications. In this article, Oskari will show you how to create a React micro-frontend using the Host-Remote approach.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3uc3Hra" target="_blank" style="color: #3498DB; text-decoration: none">How Netflix creates Immersive UX Design and What We Can Learn From Them</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">It typically takes a Netflix user 19 minutes to decide whether to watch a certain show or movie or give up after scrolling for that long. Read this article to understand more about how Netflix generates immersive user experience design.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -454,12 +402,12 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3HFhDzO" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174532260-5e21c171-9fdc-42aa-9b81-168b164597dc.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3OzRFQO" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176639319-62eac792-f24c-46c9-8db5-68adf8ebf08a.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3HFhDzO" target="_blank" style="color: #3498DB; text-decoration: none">The subprocess Module: Wrapping Programs With Python</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">In this tutorial, you'll learn how to leverage other apps and programs that aren't Python, wrapping them or launching them from your Python scripts using the subprocess module.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3OzRFQO" target="_blank" style="color: #3498DB; text-decoration: none">UX Writing: Study Guide</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Unsure where to start? Use the collection of links to the articles and videos available inside this article to learn how to write and present information that aligns with users’ needs and online reading behaviors.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -469,12 +417,12 @@
     <!-- - -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3OpJMgm" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174534034-ac22557f-e6c0-4bce-a251-cac7511ca38d.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3bDQIIm" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176643529-70cd047b-fd0c-4bd0-879d-0fe9a6849558.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3OpJMgm" target="_blank" style="color: #3498DB; text-decoration: none">Learn TypeScript – The Ultimate Beginners Guide</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify"> In this article tutorial, you'll learn what TypeScript is and how to set up a project with it, as well as all of the key TypeScript concepts/principles and then you will learn how to utilize TypeScript with React applications.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3bDQIIm" target="_blank" style="color: #3498DB; text-decoration: none">A complete guide to using CSS filters with SVGs</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This article examines the application of SVG filters. It contains a list of 17 filter primitives and an introduction to SVGs.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -502,51 +450,36 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3y5O4nR" style="color: #3498DB; text-decoration: none">Charttbrew - Interactive dashboards and client reports</a></h3>
-          <p style="font-size: 14px">Chartbrew is an open-source web application that can connect directly to databases and APIs and use the data to create beautiful charts.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I0IWER" style="color: #3498DB; text-decoration: none">SkyOffice - An immersive virtual office</a></h3>
+          <p style="font-size: 14px">Immersive virtual office built with Phaser, ReactJS, Redux, PeerJS, and Colyseus tech stacks which works flwlessly on all PC browsers.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3y5O4nR" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174535361-26ba1297-3d2e-4873-b71d-ff27e00d97c5.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3I0IWER" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176644625-1f922011-535d-4a33-902d-b2c8c2b203aa.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Qx3M2e" style="color: #3498DB; text-decoration: none">Job Unicorn - A decentralized platform for finding and hiring the best talent.</a></h3>
-          <p style="font-size: 14px">Job Unicorn is a decentralized platform for finding and hiring the greatest people. Users no longer need to scour the entire internet because this single site provides all they need for their job hunting journey.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xXxc1a" style="color: #3498DB; text-decoration: none">Laravel Pint - opinionated PHP code style fixer for minimalists.</a></h3>
+          <p style="font-size: 14px">Laravel Pint is an opinionated PHP code style fixer for minimalists. Pint is built on top of PHP-CS-Fixer and makes it simple to ensure that your code style stays clean and consistent.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Qx3M2e" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174538759-b979d4e3-99fe-4936-b1ae-f2a7bfe8a445.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3HCuK4C" style="color: #3498DB; text-decoration: none">DEVs Dungeon - Open Learning Community</a></h3>
-          <p style="font-size: 14px">Open Learning Community connecting Students, Mentors, Job Seekers and Recruiters from across the world!</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3HCuK4C" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174539648-8ad94e37-e1a8-4f71-a277-08c83398fc10.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3xXxc1a" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176646373-5b80934b-cbae-49a0-bda1-227ac00d8776.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3OlBaHo" style="color: #3498DB; text-decoration: none">Sturdy - Simple & efficient code collab tool.</a></h3>
-          <p style="font-size: 14px">Sturdy is an open-source version control platform that allows you to interact with your code at a higher abstraction level.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3nv5aW6" style="color: #3498DB; text-decoration: none">YaLM-100B - Pretrained language model with 100B parameters.</a></h3>
+          <p style="font-size: 14px">YaLM 100B is a GPT-like neural network for generating and processing text. It can be used freely by developers and researchers from all over the world.The model leverages 100 billion parameters.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3OlBaHo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/174536500-744dfa3d-fb7e-4c25-aea9-fa74e341f5f6.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3nv5aW6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176647386-e2eb8d7c-96c4-4193-a873-cf2bedda6e6c.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
