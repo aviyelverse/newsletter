@@ -365,12 +365,12 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3nqzaSX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176642700-38de529b-0b8b-4233-9624-eb7e4081c1dd.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3ysENVA" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/177975824-38ed9de6-5903-4743-aa65-572553131dcd.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3nqzaSX" target="_blank" style="color: #3498DB; text-decoration: none">Make beautiful presentations in Figma </a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn how to make neat-looking slides and present them effectively using Figma.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ysENVA" target="_blank" style="color: #3498DB; text-decoration: none">MLGO: A Machine Learning Framework for Compiler Optimization </a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">MLGO is the first industrial-grade general framework for integrating ML techniques systematically in Low level virtual machine.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -382,12 +382,12 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3uc3Hra" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176640579-9b5f26d9-f79c-4556-ad2f-eaa764a997b3.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3ysxcXh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/177976532-c3cad720-2d4f-4dbe-8b7b-0c2f5f18c7d2.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3uc3Hra" target="_blank" style="color: #3498DB; text-decoration: none">How Netflix creates Immersive UX Design and What We Can Learn From Them</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">It typically takes a Netflix user 19 minutes to decide whether to watch a certain show or movie or give up after scrolling for that long. Read this article to understand more about how Netflix generates immersive user experience design.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3ysxcXh" target="_blank" style="color: #3498DB; text-decoration: none">Why DRY is the most over-rated programming principle?</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, Gordon Cassie outlines why DRY (Don't Repeat Yourself) is the most exaggerated and overrated programming paradigm of all time.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -396,27 +396,27 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3OzRFQO" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176639319-62eac792-f24c-46c9-8db5-68adf8ebf08a.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3nQqyVT" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/177977638-4123f645-161e-4c44-91f2-151c25e4c474.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3OzRFQO" target="_blank" style="color: #3498DB; text-decoration: none">UX Writing: Study Guide</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Unsure where to start? Use the collection of links to the articles and videos available inside this article to learn how to write and present information that aligns with users’ needs and online reading behaviors.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3nQqyVT" target="_blank" style="color: #3498DB; text-decoration: none">Scaling our Spreadsheet Engine from Thousands to Billions of Cells</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Causal is a spreadsheet with a sophisticated calculating engine that runs formulae on a multidimensional database that is kept in memory. This article describes Causal's scaling strategy as it moves from millions to billions of cells.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-raw>
-      <!--  -->
+      <!-- -->
     </mj-raw>
     <!-- - -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3bDQIIm" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176643529-70cd047b-fd0c-4bd0-879d-0fe9a6849558.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3NTKDVE" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/177978715-5348758f-8f93-4e41-8bdd-6bab82f30dc9.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3bDQIIm" target="_blank" style="color: #3498DB; text-decoration: none">A complete guide to using CSS filters with SVGs</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">This article examines the application of SVG filters. It contains a list of 17 filter primitives and an introduction to SVGs.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3NTKDVE" target="_blank" style="color: #3498DB; text-decoration: none">Nx - The fastest growing monorepo solution in the JS ecosystem</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Nx is a quick, extensible build system with built-in monorepo support. It supports Angular, React, Next, Next.js, Node, and other technologies, and it is lightweight. Nx aids in task execution and task setup, but it also guides developers through the development lifecycle.</p>
         </mj-text>
       </mj-column>
     </mj-section>
