@@ -446,41 +446,27 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3I0IWER" style="color: #3498DB; text-decoration: none">SkyOffice - An immersive virtual office</a></h3>
-          <p style="font-size: 14px">Immersive virtual office built with Phaser, ReactJS, Redux, PeerJS, and Colyseus tech stacks which works flwlessly on all PC browsers.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3ABMQ5g" style="color: #3498DB; text-decoration: none">Obsidian: Build Your Second Brain</a></h3>
+          <p style="font-size: 14px">Obsidian doesn't work like Notepad, which allows you to create and save notes anywhere. Instead, it's closer to a Wiki, offering a better way to store, organize, and retrieve information. Obsidian keeps all its notes within a particular folder to which it refers as a "vault". However, you can create multiple vaults and store them wherever you wish.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3I0IWER" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176644625-1f922011-535d-4a33-902d-b2c8c2b203aa.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3ABMQ5g" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/177948309-84248ea8-8285-4700-9557-679ef1cf5461.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xXxc1a" style="color: #3498DB; text-decoration: none">Laravel Pint - opinionated PHP code style fixer for minimalists.</a></h3>
-          <p style="font-size: 14px">Laravel Pint is an opinionated PHP code style fixer for minimalists. Pint is built on top of PHP-CS-Fixer and makes it simple to ensure that your code style stays clean and consistent.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3bPbViW" style="color: #3498DB; text-decoration: none">GNU Octave: An alternative to MATLAB.</a></h3>
+          <p style="font-size: 14px">Octave runs on Linux, Windows, and Mac—and is packaged for most major distributions. If you're looking for a project that is as close to the actual MATLAB language as possible, Octave may be a good fit for you; it strives for exact compatibility, so many of your projects developed for MATLAB may run in Octave with no modification necessary.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3xXxc1a" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176646373-5b80934b-cbae-49a0-bda1-227ac00d8776.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3bPbViW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/177945593-e0899652-a164-4c82-b576-e9bb4672b75e.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3nv5aW6" style="color: #3498DB; text-decoration: none">YaLM-100B - Pretrained language model with 100B parameters.</a></h3>
-          <p style="font-size: 14px">YaLM 100B is a GPT-like neural network for generating and processing text. It can be used freely by developers and researchers from all over the world.The model leverages 100 billion parameters.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3nv5aW6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/176647386-e2eb8d7c-96c4-4193-a873-cf2bedda6e6c.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
     <mj-raw>
       <!-- DIVIDER LINE -->
     </mj-raw>
