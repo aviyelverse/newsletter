@@ -242,48 +242,48 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3cugejT" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/180484152-0b464de5-7c32-4180-bb4e-a6ee3410c80b.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3oIV2cC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182141469-cf330d16-64f8-4080-92cb-2bc54d532e08.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3cugejT" target="_blank" style="color: #3498DB; text-decoration: none">The case for using Sass in 2022</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Is Sass still relevant? It seems like we need to have this conversation every few months. Most recently, it was Jeremy Keith who suggested in his <a href="https://www.youtube.com/watch?v=CdZZcbZG83o&t=2109s&ab_channel=WebConferencesAmsterdam" style="color: #8661d1; text-decoration: none">CSS Day talk</a> that Sass has become obsolete.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3oIV2cC" target="_blank" style="color: #3498DB; text-decoration: none">RUST IS META’S FAVORITE PROGRAMMING LANGUAGE! PYTHON IS ALSO ON LINE</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">For CLI tools, Rust is the most recommended programming language. Meta (the parent company of Facebook) now encourages its engineers to code in C++ and Rust for high-performance backend services.
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3IYZ8a0" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/180487827-868e723e-7f23-4616-950b-837644d2e911.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3BAWDJh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182142677-c044688c-0a89-4cfb-a4bd-4f9e667a1193.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3IYZ8a0" target="_blank" style="color: #3498DB; text-decoration: none">Where’s the fun in accessibility?</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">UX is about functionality, as well as delight, whimsy, wit, and beauty. But when it comes to accessibility, we tend to take the term literally. Why?</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BAWDJh" target="_blank" style="color: #3498DB; text-decoration: none">Announcing Docusaurus 2.0</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Facebook(Meta) announced the release of Docusaurus 2.0, a new version of Facebook's React-based static site generator for creating customized documentation websites.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3b1T2ZY" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/180489699-1b3a4529-fd09-47c4-ac39-6447af9fea80.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3cTtXAX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182143792-044e858a-65bc-4dec-ac2a-455d9cf4380a.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3b1T2ZY" target="_blank" style="color: #3498DB; text-decoration: none">A Look At Remix And The Differences With Next.js</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Let’s talk about Remix, the framework to create JavaScript projects using server-side rendering. This article will go through its core features and principles, as well as the similarities and differences with Next.js.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3cTtXAX" target="_blank" style="color: #3498DB; text-decoration: none">Recreating MDN’s Truncated Text Effect</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">It’s no secret that MDN rolled out a new design back in March. It looks amazing, and there are some sweet CSS tricks hidden inside of it! Learn more about the other brand-new features they've added recently.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3BbpnIz" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/180490094-3a2f550a-263c-42f3-9f5a-b52d2457277a.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3bm2kjC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182156487-b9ef368b-cc47-45b0-8e88-074a38b62879.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BbpnIz" target="_blank" style="color: #3498DB; text-decoration: none">Bun is a fast all-in-one JavaScript runtime </a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Bundle, transpile, install and run JavaScript & TypeScript projects — all in Bun. Bun is a new JavaScript runtime with a native bundler, transpiler, task runner and npm client built-in.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3bm2kjC" target="_blank" style="color: #3498DB; text-decoration: none">Font Subsetting Strategies: Content-Based vs Alphabetical</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Font subsetting splits a font's characters (letters, numbers, symbols) into separate files so your visitors only download what they need. There are two main font subsetting strategies—one suited to web applications, the other for content-heavy sites like magazines.</p>
         </mj-text>
       </mj-column>
     </mj-section>
