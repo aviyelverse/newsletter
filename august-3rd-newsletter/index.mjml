@@ -175,11 +175,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3Baor73" target="_blank" style="color: #3498DB; text-decoration: none;">Is "edge" computing really faster? </a> </h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3OPn3Kc" target="_blank" style="color: #3498DB; text-decoration: none;">The Last 60 Minutes Before Asteroid Impacts with Earth </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3Baor73" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/180433714-dc82257b-eed6-442f-a07b-cc13eec8c66a.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3OPn3Kc" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182132779-e057d88c-4acd-46da-9ee0-abeda65761a7.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Edge computing is becoming a popular way to deliver modern web applications. Check this video to find out if the Edge is really faster by comparing Firebase to Vercel Edge Functions with Next.js.</p>
+          <p style="font-size: 14px;">It's a countdown to disaster. The Infographics Show has created an apocalyptic infograph that ticks off the final minutes before an asteroid strikes Earth! Watch it and find out what will happen to our planet.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -187,11 +187,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3Orn1YQ" target="_blank" style="color: #3498DB; text-decoration: none;">Golang Tutorial for Beginners | Full Go Course</a></h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3biUpn8" target="_blank" style="color: #3498DB; text-decoration: none;">Reverse Engineering - Computerphile</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3Orn1YQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/180391149-2c3e1c66-5406-47b8-ad20-49856386a05f.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3biUpn8" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182137919-879386ab-2ca6-4ce5-8c7f-3ec047b4978c.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this full Golang course you will learn about one of the youngest programming languages that is becoming more and more popular in the cloud engineering world, which is Go or also commonly known as Golang. You will learn everything you need to get started with Go and start using it in your projects.</p>
+          <p style="font-size: 14px;">You just have the binary - can you work out what it does & how? Dr Steve Bagley talks about how you might reverse engineer a piece of software.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -199,11 +199,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3PMRzoZ" target="_blank" style="color: #3498DB; text-decoration: none;">Figma Portfolio Builder!🤯- Build a Design Portfolio in Seconds</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3JiUNi2" target="_blank" style="color: #3498DB; text-decoration: none;">Linux & Docker Fundamentals - complete hands-on workshop</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3PMRzoZ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/180467724-3a20e9ff-2729-467c-9630-c927094aecad.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3JiUNi2" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182128795-0a94bf50-0141-45ad-a834-f64ebeae1f60.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this video, you will learn how to use portfolio builder in Figma, where you can easily drag & drop, copy & paste, to make an amazing looking UX/UI portfolio or case studies.</p>
+          <p style="font-size: 14px;">This is a workshop on the fundamentals of Linux and Docker, part of the <a href="https://kubesimplify.github.io/live-workshops/" style="color:#8661d1; text-decoration:none">Kubesimplify workshops</a>. In this workshop, you'll learn about basics like managing processes and files as well as deploying applications inside containers.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -211,11 +211,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3v5btn9" target="_blank" style="color: #3498DB; text-decoration: none;">Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3zpmu46" target="_blank" style="color: #3498DB; text-decoration: none;">Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginners</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3v5btn9" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/180469515-3f1e43d9-da7e-4388-9611-681215722b24.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3zpmu46" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182137948-94bc5ff7-1831-4bca-9053-73920b2a6c88.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Learn how to use Kubernetes in this complete course. Kubernetes makes it possible to containerize applications and simplifies app deployment to production.</p>
+          <p style="font-size: 14px;">In this video, you'll learn how to use Visual Studio Code (on Windows, Mac or Linux!) as a platform for deploying Azure resources and an Azure Virtual Machine that you can SSH into. This will be perfect for your own future projects!</p>
         </mj-text>
       </mj-column>
     </mj-section>
