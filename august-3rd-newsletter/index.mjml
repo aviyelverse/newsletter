@@ -118,6 +118,41 @@
       </mj-column>
     </mj-section>
     <!-- -- -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://aviyel.com/events/423/simplifying-test-automation-for-everyone?utm_source=mailjet&utm_medium=event_webinar&utm_campaign=newsletter_august_3" target="_blank" style="color: #3498DB; text-decoration: none;">Simplifying test automation for everyone</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/423/simplifying-test-automation-for-everyone?utm_source=mailjet&utm_medium=event_webinar&utm_campaign=newsletter_august_3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182124566-9d7991fd-e8c7-42a7-b0b1-444dc1c591da.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Join us on Friday, Aug 5th at 2:00 pm GMT | 7:00am PT for a live AMA session where the Testigma team answers questions about how they are making test automation easier than ever before.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Event -->
+    </mj-raw>
     <mj-raw>
       <!-- Watch -->
     </mj-raw>
