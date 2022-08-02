@@ -88,7 +88,7 @@
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3zoWYvQ" style="color: #3498DB; text-decoration: none">Fixing the Broken Open Source Funding Model with Sustainable License</a> </h3>
-          <p style="font-size: 14px"> In this article, Manish Jian talks about how to fix the broken open source funding model by using <a href="https://manishrjain.com/sustainable-license" style="color: #8661d1; text-decoration: none">sustainable license</a>—license that allows one to provide services while still retaining ownership of the entire codebase.</p>
+          <p style="font-size: 14px"> In this article, Manish R. Jain talks about how to fix the broken open source funding model by using <a href="https://manishrjain.com/sustainable-license" style="color: #8661d1; text-decoration: none">sustainable license</a>—license that allows one to provide services while still retaining ownership of the entire codebase.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -246,7 +246,7 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3oIV2cC" target="_blank" style="color: #3498DB; text-decoration: none">RUST IS META’S FAVORITE PROGRAMMING LANGUAGE! PYTHON IS ALSO ON LINE</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3oIV2cC" target="_blank" style="color: #3498DB; text-decoration: none">Rust is meta's favourite programming language!</a> </h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">For CLI tools, Rust is the most recommended programming language. Meta (the parent company of Facebook) now encourages its engineers to code in C++ and Rust for high-performance backend services.
         </mj-text>
       </mj-column>
@@ -436,7 +436,7 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3zNHdjH" target="_blank" style="color: #3498DB; text-decoration: none">Angular Getting Started</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">This course will start by teaching you some of the basics, such as how to set up and use Typescript. From there it teaches all major features required for building Angular applications in detail with practical real-world examples.</p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This course, created by Santosh Yadav, will teach you how to set up and use Typescript. From there it teaches all major features required for building Angular applications with practical real-world examples.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -491,12 +491,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3SjFWI6" style="color: #3498DB; text-decoration: none">Chaos Genius: The open source Business Observability Platform</a></h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3vx6gVo" style="color: #3498DB; text-decoration: none">Chaos Genius: The open source Business Observability Platform</a></h3>
           <p style="font-size: 14px">Chaos Genius is an open source business observability platform that helps businesses monitor and analyze thousands of metrics, perform root-cause analysis on deviations, and share insights with the entire organization.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3SjFWI6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182204561-2654ea9f-13fd-4b49-a3bf-8a4aa412ccbf.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3vx6gVo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182204561-2654ea9f-13fd-4b49-a3bf-8a4aa412ccbf.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
