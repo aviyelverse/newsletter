@@ -1,0 +1,557 @@
+<mjml>
+  <mj-head>
+    <mj-title>Aviyel Newsletter</mj-title>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Inter, Helvetica, sans-serif" background-color="#FEFCFE"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="10px 0px">
+      <mj-column width="60%">
+        <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_august_18" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_august_3" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/184857914-cb580f5d-c50f-42ee-b612-efc697242c19.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px">Offbeat ideas just curated for you!</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #23 - August 18th</mj-text>
+        <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_august_3" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="1px">
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p>Aviyel is on a mission to enlighten people about the importance of using open source software and to develop relationships between diverse groups in the open source community.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- READ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Watch -->
+    </mj-raw>
+    <!--  -->
+    <!-- ------ -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#READ</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- - -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3PUFqPl" style="color: #3498DB; text-decoration: none">DeepMind found the structure of nearly every protein known to science</a> </h3>
+          <p style="font-size: 14px">DeepMind, a subsidiary of Google parent company Alphabet, announced that it is releasing a free database containing structural predictions for nearly every protein known to science.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3PUFqPl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182099882-93395020-53d0-4111-a98d-05dff2614a0b.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3zLxA4N" style="color: #3498DB; text-decoration: none">SpaceX Starlink service could come to iPhone and Android through satellite hotspot</a></h3>
+          <p style="font-size: 14px">In a filing with the FCC, space exploration company SpaceX was revealed to be looking to add 2GHz spectrum to its license for “mobile users”. It's unclear what this means—whether it will offer service directly (like Google Fi), or work with cell phone providers on technology that they can use in their networks.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3zLxA4N" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182101923-570b9079-82d2-4710-a30c-e8963deac8ea.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3zoWYvQ" style="color: #3498DB; text-decoration: none">Fixing the Broken Open Source Funding Model with Sustainable License</a> </h3>
+          <p style="font-size: 14px"> In this article, Manish R. Jain talks about how to fix the broken open source funding model by using <a href="https://manishrjain.com/sustainable-license" style="color: #8661d1; text-decoration: none">sustainable license</a>—license that allows one to provide services while still retaining ownership of the entire codebase.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3zoWYvQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182109127-8bdc8d09-f9a5-41e8-a757-3ec3cced774c.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+    </mj-raw>
+    <!-- -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bbc.in/3PRzRBb" style="color: #3498DB; text-decoration: none">The space tech helping to tackle deforestation</a> </h3>
+          <p style="font-size: 14px">Scientists, engineers & experts are experimenting with using laser beams to target the roots of trees from the International Space Station, which they hope will lead to a reversal of deforestation—a process that has been taking place at an alarming rate in recent years.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bbc.in/3PRzRBb" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182111212-c1e197be-9044-4da8-86cd-e881fa049745.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- -- -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#EVENT</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://aviyel.com/events/423/simplifying-test-automation-for-everyone?utm_source=mailjet&utm_medium=event_webinar&utm_campaign=newsletter_august_3" target="_blank" style="color: #3498DB; text-decoration: none;">Simplifying test automation for everyone</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/events/423/simplifying-test-automation-for-everyone?utm_source=mailjet&utm_medium=event_webinar&utm_campaign=newsletter_august_3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182124566-9d7991fd-e8c7-42a7-b0b1-444dc1c591da.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Join us on Friday, Aug 5th at 2:00 pm GMT | 7:00am PT for a live AMA session where the Testigma team answers questions about how they are making test automation easier than ever before.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Event -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Watch -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#WATCH</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3OPn3Kc" target="_blank" style="color: #3498DB; text-decoration: none;">The Last 60 Minutes Before Asteroid Impacts with Earth </a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3OPn3Kc" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182132779-e057d88c-4acd-46da-9ee0-abeda65761a7.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">It's a countdown to disaster. The Infographics Show has created an apocalyptic infograph that ticks off the final minutes before an asteroid strikes Earth! Watch it and find out what will happen to our planet.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3biUpn8" target="_blank" style="color: #3498DB; text-decoration: none;">Reverse Engineering - Computerphile</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3biUpn8" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182137919-879386ab-2ca6-4ce5-8c7f-3ec047b4978c.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">You just have the binary - can you work out what it does & how? Dr Steve Bagley talks about how you might reverse engineer a piece of software.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3JiUNi2" target="_blank" style="color: #3498DB; text-decoration: none;">Linux & Docker Fundamentals - complete hands-on workshop</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3JiUNi2" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182128795-0a94bf50-0141-45ad-a834-f64ebeae1f60.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">This is a workshop on the fundamentals of Linux and Docker, part of the <a href="https://kubesimplify.github.io/live-workshops/" style="color:#8661d1; text-decoration:none">Kubesimplify workshops</a>. In this workshop, you'll learn about basics like managing processes and files as well as deploying applications inside containers.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3zpmu46" target="_blank" style="color: #3498DB; text-decoration: none;">Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginners</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3zpmu46" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182137948-94bc5ff7-1831-4bca-9053-73920b2a6c88.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this video, you'll learn how to use Visual Studio Code (on Windows, Mac or Linux!) as a platform for deploying Azure resources and an Azure Virtual Machine that you can SSH into. This will be perfect for your own future projects!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ---------- -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3oIV2cC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182141469-cf330d16-64f8-4080-92cb-2bc54d532e08.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3oIV2cC" target="_blank" style="color: #3498DB; text-decoration: none">Rust is meta's favourite programming language!</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">For CLI tools, Rust is the most recommended programming language. Meta (the parent company of Facebook) now encourages its engineers to code in C++ and Rust for high-performance backend services.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3BAWDJh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182142677-c044688c-0a89-4cfb-a4bd-4f9e667a1193.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BAWDJh" target="_blank" style="color: #3498DB; text-decoration: none">Announcing Docusaurus 2.0</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Facebook(Meta) announced the release of Docusaurus 2.0, a new version of Facebook's React-based static site generator for creating customized documentation websites.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3cTtXAX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182143792-044e858a-65bc-4dec-ac2a-455d9cf4380a.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3cTtXAX" target="_blank" style="color: #3498DB; text-decoration: none">Recreating MDN’s Truncated Text Effect</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">It’s no secret that MDN rolled out a new design back in March. It looks amazing, and there are some sweet CSS tricks hidden inside of it! Learn more about the other brand-new features they've added recently.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3bm2kjC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182156487-b9ef368b-cc47-45b0-8e88-074a38b62879.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3bm2kjC" target="_blank" style="color: #3498DB; text-decoration: none">Font Subsetting Strategies: Content-Based vs Alphabetical</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Font subsetting splits a font's characters (letters, numbers, symbols) into separate files so your visitors only download what they need. There are two main font subsetting strategies—one suited to web applications, the other for content-heavy sites like magazines.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Event -->
+    </mj-raw>
+    <mj-raw>
+      <!-- NEWS -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#NEWS</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!---->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3Q7TRiK" style="color: #3498DB; text-decoration: none">Arca’s David Nage on how regulatory scrutiny is impacting venture investment in web3</a> </h3>
+          <p style="font-size: 14px">The legal environment surrounding cryptocurrencies is changing in the U.S., as SEC regulations take aim at major web3 companies and promise to shake up established business models by acting aggressively (or more so than usual).</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3Q7TRiK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182182372-2a5ca288-4574-4e35-bf56-4168cf8236eb.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3BFTIPo" style="color: #3498DB; text-decoration: none">After putting a dent in Facebook and Instagram, TikTok has Spotify in its sights next</a> </h3>
+          <p style="font-size: 14px">TikTok—the massively popular lip-syncing app that has taken down Facebook and Instagram in terms of popularity among teens—may be going after Spotify next. TikTok’s parent company, ByteDance, has filed a trademark application for “Tik Tok Music,” which could be used as the name for a new streaming service according to U.S. Patent and Trademark Office documents.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3BFTIPo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182192965-2770d2a0-5cc3-4035-9182-a8fa49b943d7.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3oINd6S" style="color: #3498DB; text-decoration: none">Zomato’s Deepinder Goyal plans multiple CEO structures for ‘Eternal’ organisation</a> </h3>
+          <p style="font-size: 14px">Zomato, a food-delivery startup, is internally rebranding itself into “Eternal” — a larger organisation to house multiple businesses, each with its own chief executive officers. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3oINd6S" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182194169-e348132d-ffff-4a1c-ad09-9bff24ab6ad0.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- -->
+    </mj-raw>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3bjT7IK" style="color: #3498DB; text-decoration: none">Saudi Arabia Plans IPO of $500 Billion For Its Megacity 'Neom'</a></h3>
+          <p style="font-size: 14px">The Saudi crown prince outlined funding details for Neom. The first phase, which runs until 2030 and costs 1.2 trillion riyals ($320 billion), will be fully funded by the Public Investment Fund—with half of that sum coming from investments abroad.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3bjT7IK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182197651-32454354-5e25-45cf-9360-73345f0f410f.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Learn -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#LEARN</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section></mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3BujxlC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182199547-5c69c91e-4ee9-4855-8911-80b094e0e0dd.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BujxlC" target="_blank" style="color: #3498DB; text-decoration: none">How io_uring and eBPF Will Revolutionize Programming in Linux</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">ScyllaDB's Glauber Costa explains how two new APIs—io_uring and eBPF—are changing the way Linux programmers approach programming.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://blck.by/3QbDLVj" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182202508-065135ba-b878-439a-aa96-4ebf1d2e063e.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://blck.by/3QbDLVj" target="_blank" style="color: #3498DB; text-decoration: none">Symbiote: A New, Nearly-Impossible-to-Detect Linux Threat</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Intezer and BlackBerry have discovered a new threat that could be hiding in your Linux-based operating system. Learn more about "Symbiote," which was uncovered during research conducted by the two companies.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3zNHdjH" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182203211-f34ac835-5a50-4664-94a2-f17fda19f8ca.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3zNHdjH" target="_blank" style="color: #3498DB; text-decoration: none">Angular Getting Started</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This course, created by Santosh Yadav, will teach you how to set up and use Typescript. From there it teaches all major features required for building Angular applications with practical real-world examples.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- -->
+    </mj-raw>
+    <!-- - -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3btf73E" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182203711-a78c66bf-7158-4c7d-8a17-787bd0bf04a2.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3btf73E" target="_blank" style="color: #3498DB; text-decoration: none">Google's Carbon Language: An Alternative to C++ ?</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Carbon is a new programming language created by Google. The goal of the Carbon project is to develop a successor to C++ that will be suitable for writing low-level code in systems such as operating systems, file and network servers, or video games.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Fun -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#OSSSpotlight</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="130px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3SjFWI6" style="color: #3498DB; text-decoration: none">Penpot: Design Freedom for Teams </a></h3>
+          <p style="font-size: 14px">Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Penpot works with open web standards (SVG), which means you can share your work anywhere—from any operating system, from a smartphone to an tablets.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3SjFWI6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182204367-d87666d6-8008-4ed8-8cbd-12b98d841f0c.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3vx6gVo" style="color: #3498DB; text-decoration: none">Chaos Genius: The open source Business Observability Platform</a></h3>
+          <p style="font-size: 14px">Chaos Genius is an open source business observability platform that helps businesses monitor and analyze thousands of metrics, perform root-cause analysis on deviations, and share insights with the entire organization.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3vx6gVo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182204561-2654ea9f-13fd-4b49-a3bf-8a4aa412ccbf.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-raw>
+      <!-- DIVIDER LINE -->
+    </mj-raw>
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Last line -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="0px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Test -->
+    </mj-raw>
+    <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
+      <mj-column width="100%">
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_august_3" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3w4iA0i" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#000000" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
+          <mj-social-element background-color="#FF0000" target="_blank" href="https://bit.ly/3HCTrNa" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/32QpESj" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/3t0l3HU" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <!-- Footer -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" align="center">
+          <p> This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
