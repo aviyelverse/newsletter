@@ -478,24 +478,24 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3SjFWI6" style="color: #3498DB; text-decoration: none">Penpot: Design Freedom for Teams </a></h3>
-          <p style="font-size: 14px">Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Penpot works with open web standards (SVG), which means you can share your work anywhere—from any operating system, from a smartphone to an tablets.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3K67HjR" style="color: #3498DB; text-decoration: none">Tremor: An open source high-performance event processing engine </a></h3>
+          <p style="font-size: 14px">Tremor is a real-time event processing engine built for users that have a high message volume to deal with and want to build pipelines to process, route, or limit this event stream. Tremor supports vast number of connectors to interact with: TCP, UDP, HTTP, Websockets, Kafka, Elasticsearch, S3 and many more.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3SjFWI6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182204367-d87666d6-8008-4ed8-8cbd-12b98d841f0c.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3K67HjR" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184983500-7920785b-4299-464f-9151-6efe20aee5f2.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3vx6gVo" style="color: #3498DB; text-decoration: none">Chaos Genius: The open source Business Observability Platform</a></h3>
-          <p style="font-size: 14px">Chaos Genius is an open source business observability platform that helps businesses monitor and analyze thousands of metrics, perform root-cause analysis on deviations, and share insights with the entire organization.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3c0FZsi" style="color: #3498DB; text-decoration: none">Flowbite: The open source library of interactive UI components built with Tailwind CSS</a></h3>
+          <p style="font-size: 14px">Flowbite is an open source collection of UI components built with the utility classes from Tailwind CSS that you can use as a starting point when coding user interfaces and websites.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3vx6gVo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182204561-2654ea9f-13fd-4b49-a3bf-8a4aa412ccbf.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3c0FZsi" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184981100-9e77a35d-6177-41f0-a433-61f1cfb4b95b.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
