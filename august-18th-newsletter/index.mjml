@@ -241,52 +241,51 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3oIV2cC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182141469-cf330d16-64f8-4080-92cb-2bc54d532e08.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3cTtXAX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184964638-eb914287-e6a4-4f5c-9974-1198763f18cd.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3oIV2cC" target="_blank" style="color: #3498DB; text-decoration: none">Rust is meta's favourite programming language!</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">For CLI tools, Rust is the most recommended programming language. Meta (the parent company of Facebook) now encourages its engineers to code in C++ and Rust for high-performance backend services.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3cTtXAX" target="_blank" style="color: #3498DB; text-decoration: none">Create an internal tool in 5 minutes with the Appsmith platform</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, you will learn how to set up an application using Appsmith’s platform and use actions like importing data into your application so that you can start working without having to write a single line of code!</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3BAWDJh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182142677-c044688c-0a89-4cfb-a4bd-4f9e667a1193.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3SSYnUs" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184960220-a26831ac-af86-4fd7-bd57-2b48e6ad8497.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BAWDJh" target="_blank" style="color: #3498DB; text-decoration: none">Announcing Docusaurus 2.0</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Facebook(Meta) announced the release of Docusaurus 2.0, a new version of Facebook's React-based static site generator for creating customized documentation websites.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3SSYnUs" target="_blank" style="color: #3498DB; text-decoration: none">Create cool generative art!</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Generative art—also called algorithmic art—is an art technique that allows anyone to make new artwork by using computer programs. You can choose an algorithm and interactively make your own unique digital artwork.
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3cTtXAX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182143792-044e858a-65bc-4dec-ac2a-455d9cf4380a.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3BAWDJh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184962556-4fb2b9ec-282c-4208-ac8c-d4bf5b995f4b.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3cTtXAX" target="_blank" style="color: #3498DB; text-decoration: none">Recreating MDN’s Truncated Text Effect</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">It’s no secret that MDN rolled out a new design back in March. It looks amazing, and there are some sweet CSS tricks hidden inside of it! Learn more about the other brand-new features they've added recently.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BAWDJh" target="_blank" style="color: #3498DB; text-decoration: none">Build a Basic Real-Time Competition App With Golang</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, you will learn how to implement a real-time competition app with Golang from absolute scratch.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3bm2kjC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182156487-b9ef368b-cc47-45b0-8e88-074a38b62879.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3bm2kjC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184965720-a46470c6-7c8e-45cf-9583-1cf236360d44.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3bm2kjC" target="_blank" style="color: #3498DB; text-decoration: none">Font Subsetting Strategies: Content-Based vs Alphabetical</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Font subsetting splits a font's characters (letters, numbers, symbols) into separate files so your visitors only download what they need. There are two main font subsetting strategies—one suited to web applications, the other for content-heavy sites like magazines.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3bm2kjC" target="_blank" style="color: #3498DB; text-decoration: none">GitHub Moves to Guard Open Source Against Supply Chain Attacks</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">The popular Microsoft-owned code repository plans to roll out code signing, which will help beef up the security of open source projects.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <!--  -->
     <!--  -->
     <mj-raw>
       <!-- DIVIDER LINE -->
@@ -389,8 +388,8 @@
     </mj-raw>
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#LEARN</mj-text>
-        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#OPPORTUNITIES</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="160px"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section></mj-section>
@@ -443,19 +442,7 @@
       <!-- -->
     </mj-raw>
     <!-- - -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3btf73E" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/182203711-a78c66bf-7158-4c7d-8a17-787bd0bf04a2.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3btf73E" target="_blank" style="color: #3498DB; text-decoration: none">Google's Carbon Language: An Alternative to C++ ?</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Carbon is a new programming language created by Google. The goal of the Carbon project is to develop a successor to C++ that will be suitable for writing low-level code in systems such as operating systems, file and network servers, or video games.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!-- DIVIDER LINE -->
+    <!-- DIVIDER LINE -->
     </mj-raw>
     <mj-section padding="0px">
       <mj-column width="100%">
