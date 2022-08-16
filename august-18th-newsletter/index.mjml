@@ -241,11 +241,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3cTtXAX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184964638-eb914287-e6a4-4f5c-9974-1198763f18cd.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3QzaeWb" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184964638-eb914287-e6a4-4f5c-9974-1198763f18cd.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3cTtXAX" target="_blank" style="color: #3498DB; text-decoration: none">Create an internal tool in 5 minutes with the Appsmith platform</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3QzaeWb" target="_blank" style="color: #3498DB; text-decoration: none">Create an internal tool in 5 minutes with the Appsmith platform</a> </h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, you will learn how to set up an application using Appsmith’s platform and use actions like importing data into your application so that you can start working without having to write a single line of code!</p>
         </mj-text>
       </mj-column>
@@ -265,11 +265,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3BAWDJh" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184962556-4fb2b9ec-282c-4208-ac8c-d4bf5b995f4b.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3QzaHHV" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184962556-4fb2b9ec-282c-4208-ac8c-d4bf5b995f4b.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BAWDJh" target="_blank" style="color: #3498DB; text-decoration: none">Build a Basic Real-Time Competition App With Golang</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3QzaHHV" target="_blank" style="color: #3498DB; text-decoration: none">Build a Basic Real-Time Competition App With Golang</a> </h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, you will learn how to implement a real-time competition app with Golang from absolute scratch.</p>
         </mj-text>
       </mj-column>
@@ -277,12 +277,25 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3bm2kjC" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184965720-a46470c6-7c8e-45cf-9583-1cf236360d44.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3AoC69M" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184965720-a46470c6-7c8e-45cf-9583-1cf236360d44.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3bm2kjC" target="_blank" style="color: #3498DB; text-decoration: none">GitHub Moves to Guard Open Source Against Supply Chain Attacks</a></h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AoC69M" target="_blank" style="color: #3498DB; text-decoration: none">GitHub Moves to Guard Open Source Against Supply Chain Attacks</a></h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">The popular Microsoft-owned code repository plans to roll out code signing, which will help beef up the security of open source projects.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3AoixP4" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184969583-79c4b2cb-5d31-4cf7-af01-3c406eeb43fe.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AoixP4" target="_blank" style="color: #3498DB; text-decoration: none">Android 13 changelog: A deep dive by Mishaal Rahman</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Early this year, Google released its Android 13 update for Pixel phones. The update will be available for devices from other manufacturers later this year. The update includes features such as the ability to customize app icons and support for spatial audio. More details about the new features are available in the article.</p>
         </mj-text>
       </mj-column>
     </mj-section>
