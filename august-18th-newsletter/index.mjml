@@ -76,30 +76,6 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3QlzWxj" style="color: #3498DB; text-decoration: none">Responsible use of machine learning to verify identities at scale</a> </h3>
-          <p style="font-size: 14px">The power of machine learning is most effective when it is used in conjunction with human expertise and with data transparency so businesses can make decisions that help them build customer loyalty and grow.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QlzWxj" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184861654-b4e5db65-3171-423d-a2e2-e99d03042d83.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3psSPCt" style="color: #3498DB; text-decoration: none">Ecommerce fraud prevention: a $20 billion problem</a></h3>
-          <p style="font-size: 14px">Learn more about machine learning and its applications in this article, which will give you an brief overview of how it is being used to fight hackers and customers who abuse chargeback requests.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3psSPCt" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184866901-609c0b77-ee38-41cd-bb45-fb54c57740be.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dsYoOJ" style="color: #3498DB; text-decoration: none">Localization basics S01E01: What are t9n, l10n, i18n, g11n? New secret language?</a> </h3>
           <p style="font-size: 14px"> In this article, you will learn about the major types of software localization: t9n, l10n, i18n, g11n. You will also learn how to translate a software application into different languages and how to localize it for users in different countries around the world.</p>
         </mj-text>
@@ -117,18 +93,42 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dsYoOJ" style="color: #3498DB; text-decoration: none">The Zoom installer let a researcher hack his way to root access on macOS?</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3QlzWxj" style="color: #3498DB; text-decoration: none">Responsible use of machine learning to verify identities at scale</a> </h3>
+          <p style="font-size: 14px">The power of machine learning is most effective when it is used in conjunction with human expertise and with data transparency so businesses can make decisions that help them build customer loyalty and grow.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QlzWxj" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184861654-b4e5db65-3171-423d-a2e2-e99d03042d83.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3QSfEvo" style="color: #3498DB; text-decoration: none">The Zoom installer let a researcher hack his way to root access on macOS?</a> </h3>
           <p style="font-size: 14px"> An exploit in the macOS version of Zoom allows attackers to gain access to the entire OS. Reported in December 2021, the company issued a patch to fix the problem, but it contained a bug that meant the vulnerability was still exploitable. The security and privacy PR lead commented that the company is working diligently to address this issue.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dsYoOJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184876391-32449152-b848-4bd1-8f0b-dbf29fc17b41.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QSfEvo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184876391-32449152-b848-4bd1-8f0b-dbf29fc17b41.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
     </mj-raw>
     <!-- DIVIDER LINE -->
     </mj-raw>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3psSPCt" style="color: #3498DB; text-decoration: none">Ecommerce fraud prevention: a $20 billion problem</a></h3>
+          <p style="font-size: 14px">Learn more about machine learning and its applications in this article, which will give you an brief overview of how it is being used to fight hackers and customers who abuse chargeback requests.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3psSPCt" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184866901-609c0b77-ee38-41cd-bb45-fb54c57740be.png"></mj-image>
+      </mj-column>
+    </mj-section>
     <!-- ---- -->
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -189,7 +189,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3dz7pFQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184897365-ea460a2f-24ac-43b7-a360-9f0003927b59.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this video, AngeTheGreat will be covering about the theory of physics engine design and rigid body constraint solvers.</p>
+          <p style="font-size: 14px;">In this video, AngeTheGreat will be covering the theory of physics engine design and rigid body constraint solvers.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -446,7 +446,7 @@
       <mj-column width="75%">
         <mj-text>
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pHaNSd" target="_blank" style="color: #3498DB; text-decoration: none">Outreachy | Internships Supporting Diversity in Tech</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Outreachy is a paid, remote internship program. Outreachy's goal is to support newcomers to Free and Open Source Softwa're while allowing them to make their first contributions.</p>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Outreachy is a paid, remote internship program. Outreachy's goal is to support newcomers to Free and Open Source Softwa're while allowing them to make their first contributions.<a href="https://www.outreachy.org/apply/" style="color: #8661d1; text-decoration: none"> Intern applications</a> are open until August 29, 2022 at 4pm UTC.</p>
         </mj-text>
       </mj-column>
     </mj-section>
