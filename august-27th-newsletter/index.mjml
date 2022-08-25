@@ -190,15 +190,27 @@
       <!--  -->
     </mj-raw>
     <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3RbWwsn" target="_blank" style="color: #3498DB; text-decoration: none;">How Humanity Will Actually Colonize Mars (Year by Year)</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3RbWwsn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186621483-01291278-240c-479e-9afc-c4b36caf82d0.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;"> Though colonizing Mars may be a difficult task, humans will likely try anyway. This video shows what a successful colonization of the red planet might look like.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
     <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3QvxXq6" target="_blank" style="color: #3498DB; text-decoration: none;">Is Civilization on the Brink of Collapse?</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3AlmcMm" target="_blank" style="color: #3498DB; text-decoration: none;">Elon Musk To Launch INSANE Telescope 100x Better Than JWST!!</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3QvxXq6" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184950265-a258b253-a30d-4418-aaa9-8d47ad717d13.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3AlmcMm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186619519-39121f5e-e442-4711-b30c-cd5a10ce6bdd.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">The Roman Empire was the first civilization to reach one million inhabitants and a center of technological, legal and economic progress. The most powerful civilization on earth, it collapsed and left behind a wake of unending influence. Will this happen to us?</p>
+          <p style="font-size: 14px;"> Step aside, James Webb, because Elon Musk just put pen to paper on a lucrative deal with NASA that could see SpaceX pocket up to $255 million for the launch, and delivery, of the highly-anticipated Grace Roman Telescope.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -206,11 +218,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3C9YHYY" target="_blank" style="color: #3498DB; text-decoration: none;">Autodesk Tools Goes open source!</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3Krnjic" target="_blank" style="color: #3498DB; text-decoration: none;">Researchers Use Group Theory to Speed Up Algorithms—Introduction to Groups</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3C9YHYY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184947852-1f4f5f5a-0a8a-479a-9f4b-17ca2cfdb391.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3Krnjic" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186612335-c09a105e-5ba4-4829-9056-d2ef890838ea.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Autodesk has made its RV media review and playback software freely available as open source technology. In addition, DNeg's xStudio and Sony Pictures Imageworks’ itview will shape the Open Review Initiative, the Academy Software Foundation's newest sandbox project to build a unified, open source toolset for playback, review and approval.</p>
+          <p style="font-size: 14px;">This video is the most information-dense introduction to group theory you'll see on youtube. If you're a computer scientist nd have always wondered what group theory is useful for and why it exists, as well as why it even exists, you will want to watch this video.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -218,11 +230,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3dz7pFQ" target="_blank" style="color: #3498DB; text-decoration: none;">Building a Physics Engine with C++ and Simulating Machines</a> </h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3QNutQ0" target="_blank" style="color: #3498DB; text-decoration: none;">Azure Developer Associate (AZ-204)—Full Course Pass the Exam! (13hr course)</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3dz7pFQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184897365-ea460a2f-24ac-43b7-a360-9f0003927b59.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3QNutQ0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186614997-d683732f-bddc-463d-ac74-b36c4d29ba69.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this video, AngeTheGreat will be covering the theory of physics engine design and rigid body constraint solvers.</p>
+          <p style="font-size: 14px;">The Azure Developer Associate certification is an entry-level certification. To achieve this certification, you will need to pass one exam: AZ-204. This course will help you prepare for the exam with a series of lectures and hands-on experience to teach you all of the necessary concepts.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -230,11 +242,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3bW7SS8" target="_blank" style="color: #3498DB; text-decoration: none;">Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind</a></h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3dZXKbW" target="_blank" style="color: #3498DB; text-decoration: none;">Stable Diffusion API Tutorial - NoCode AI Art Generations without GPU</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3bW7SS8" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184938638-1354f9e9-61a8-415c-b8d8-45617b99649b.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3dZXKbW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186606638-592454d8-4b81-45a1-a26b-854189128386.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Master modern web development by building a responsive React JS application consisting of a stunning hero section, high-quality assets, business stats, reusable feature sections, testimonials and more!</p>
+          <p style="font-size: 14px;">If you were missing out on Stability Diffusion (Stable Diffusion) without GPU or any intense coding, here's a simple tutorial to use the Stability AI (Stable Diffusion) API to generate AI art images.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -242,11 +254,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3JZyxtN" target="_blank" style="color: #3498DB; text-decoration: none;">$5 MILLION AI for FREE!</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3KjnbRw" target="_blank" style="color: #3498DB; text-decoration: none;">Microservices explained - the What, Why and How?</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3JZyxtN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184951044-b93b15ac-9cb6-463f-bdd2-e1b7fa24838b.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3KjnbRw" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186622808-1931c5ea-90be-4dfb-a289-b7e7f9df8aac.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;"> Imagine an AI where, all in the same model you could Translate languages, Write code, solve crossword puzzles, Be a chatbot and do a whole bunch of other crazy things. In this video, you will learn about the BLOOM large language model. A free and totally open source 176B parameter large language model.</p>
+          <p style="font-size: 14px;"> Microservices are an application architecture pattern that decomposes an application into smaller services. Learn about the differences between a monolithic to microservices architecture, monorepo vs polyrepo, and how microservices connect with each other in this video.</p>
         </mj-text>
       </mj-column>
     </mj-section>
