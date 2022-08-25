@@ -443,12 +443,12 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3c1udOi" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184974107-39c46e6d-af17-472a-be22-3b5a3ccc28b7.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3AJDHr4" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186645540-19613829-60b8-4270-bb84-aed23bd42461.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3c1udOi" target="_blank" style="color: #3498DB; text-decoration: none">Twitter Student Ambassadors Program</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Twitter's Student Ambassadors Program is a program set up to support the heart and soul of our global community. If you're interested in starting a student group for your school, head over to this program and fill out the short form to receive an application.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AJDHr4" target="_blank" style="color: #3498DB; text-decoration: none">GitHub Campus Experts</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">GitHub Campus Expert is a free global program that will provide you with exclusive opportunities to learn and grow. Don't miss out on the opportunity to become part of the next generation of student community leaders. Applications closes on September 4, 2022.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -460,32 +460,15 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3pHaNSd" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184975076-210e8fe0-e103-4d40-ae1d-45454d463eb6.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3QNZrYs" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186646448-5fbc0bf8-25bf-4b69-b68d-5951a71b80aa.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3pHaNSd" target="_blank" style="color: #3498DB; text-decoration: none">Outreachy | Internships Supporting Diversity in Tech</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Outreachy is a paid, remote internship program. Outreachy's goal is to support newcomers to Free and Open Source Softwa're while allowing them to make their first contributions.<a href="https://www.outreachy.org/apply/" style="color: #8661d1; text-decoration: none"> Intern applications</a> are open until August 29, 2022 at 4pm UTC.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3QNZrYs" target="_blank" style="color: #3498DB; text-decoration: none">LFX Mentorship | The Linux Foundation</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">The LFX Mentorship program makes it easy to sponsor and help train the next generation of open source developers by serving key needs of the community. Invest in building a strong foundation for new developers by supporting their ongoing training and education.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3QRhSL9" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184976805-e0ca0a09-89d5-414a-a9b5-f8baba5ffaea.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3QRhSL9" target="_blank" style="color: #3498DB; text-decoration: none">Product Design Intern (2023)</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">You will embark on real projects as a Product Design intern at Figma, managing them from inception to completion. You'll collaborate and work fluidly with the other members of the design team as well as other departments. You'll have the chance to make significant contributions to the business and the product.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!-- -->
-    </mj-raw>
     <!-- - -->
     <!-- DIVIDER LINE -->
     </mj-raw>
@@ -510,24 +493,37 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3K67HjR" style="color: #3498DB; text-decoration: none">Tremor: An open source high-performance event processing engine </a></h3>
-          <p style="font-size: 14px">Tremor is a real-time event processing engine built for users that have a high message volume to deal with and want to build pipelines to process, route, or limit this event stream. Tremor supports vast number of connectors to interact with: TCP, UDP, HTTP, Websockets, Kafka, Elasticsearch, S3 and many more.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3PJ8HvD" style="color: #3498DB; text-decoration: none">SnoopForms: The Open Source Typeform Alternative</a></h3>
+          <p style="font-size: 14px">SnoopForms lets you build forms without writing code in minutes. All form submissions are processed by the snoopForms platform and you can view the submission in your platform or send it to other systems, services or databases.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3K67HjR" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184983500-7920785b-4299-464f-9151-6efe20aee5f2.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3PJ8HvD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186650134-5b8d4839-eec7-4f33-a40f-2632ab6a368f.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3c0FZsi" style="color: #3498DB; text-decoration: none">Flowbite: The open source library of interactive UI components built with Tailwind CSS</a></h3>
-          <p style="font-size: 14px">Flowbite is an open source collection of UI components built with the utility classes from Tailwind CSS that you can use as a starting point when coding user interfaces and websites.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KjidUW" style="color: #3498DB; text-decoration: none">Zingg: Scalable entity resolution, data mastering and deduplication using ML</a></h3>
+          <p style="font-size: 14px">Zingg is an open source data reconciliation and deduplication tool that uses machine learning to identify duplicates. It offers a library of different matching models and can be extended with custom matching functions.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3c0FZsi" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184981100-9e77a35d-6177-41f0-a433-61f1cfb4b95b.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KjidUW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186649748-f24545b2-36ae-4509-8deb-0bfee4959ab0.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dYL6tm" style="color: #3498DB; text-decoration: none">Sidekick: An open source live application debugger.</a></h3>
+          <p style="font-size: 14px">Sidekick is a live debugger that lets you troubleshoot your applications while they keep on running. Add dynamic logs and put non-breaking breakpoints in your live application without the need of stopping & redeploying.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dYL6tm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186651006-3fda6436-0702-4d18-bd56-72053d063afc.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
