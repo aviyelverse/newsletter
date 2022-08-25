@@ -360,12 +360,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3QK9jlo" style="color: #3498DB; text-decoration: none">Group of security companies launches open source project to ease data sharing</a> </h3>
-          <p style="font-size: 14px">Security is not a problem that companies can solve on their own. It takes a community working together to battle this kind of issues. At the Black Hat USA conference, AWS, Splunk and Symantec announced an open source cybersecurity project called Open Cybersecurity Schema Framework(OCSF). Learn more in-depth about this in this article.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://red.ht/3QNPZEd" style="color: #3498DB; text-decoration: none">How OSS shapes AI policy, open source comes to medical datasets, and more!</a> </h3>
+          <p style="font-size: 14px">Open source software made headlines last month with a number of significant advances. Read on to learn about some of the major advances.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3QK9jlo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/185033950-7bc01845-0f3d-4294-a8b8-c1cc8718a064.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://red.ht/3QNPZEd" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186632610-0cea4e36-8b21-415d-972f-86c5a8ac4956.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -377,12 +377,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3PpvVGJ" style="color: #3498DB; text-decoration: none">Hedge Fund Elliott Sold Twitter Stock Before Elon Musk’s Takeover Negotiations</a> </h3>
-          <p style="font-size: 14px">Elliott Management, the hedge fund that pushed for big changes at Twitter two years ago, sold its shares in the company during the second quarter, soon after Elon Musk announced plans to buy the social media company, regulatory filings show. Learn more in-depth about their involvement in the matter. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3pJIzWI" style="color: #3498DB; text-decoration: none">TikTok’s In App Browser Includes Code That Can Monitor Your Keystrokes, Researcher Says</a> </h3>
+          <p style="font-size: 14px">TikTok's in-app browser inserts code that allows the company to monitor user activity. This includes keystrokes and whatever users tap on the page. The monitoring makes it possible for TikTok to capture information such as passwords or credit card numbers. TikTok claims that it is not using them. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3PpvVGJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/185034959-d5bfbd9d-f0de-42e5-8926-e45508b26de9.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3pJIzWI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186636602-a579f8b6-15d0-4184-8c9e-64061a99bc1c.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -392,12 +392,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3pvkl2d" style="color: #3498DB; text-decoration: none">Scientists build a magnet in China that is a million times stronger than Earth's magnetic core</a></h3>
-          <p style="font-size: 14px">The 45.22-tesla magnet sits just shy of the record for the world's most powerful magnet. It could help unlock new innovations including nuclear fusion.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dKmG6U" style="color: #3498DB; text-decoration: none">IBM makes open source tookit available to fight software supply chain attacks</a></h3>
+          <p style="font-size: 14px">IBM announced that it had made an open source tool to increase visibility into software supply chains and detect potential threats before they can do any harm as part of its efforts to help secure the digital economy.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3pvkl2d" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/185035278-89f89352-a396-487d-8838-fa3d33d6737a.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dKmG6U" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186639124-618a748f-638d-4e67-966f-155ea55c2fc1.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -405,12 +405,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3ArHtoL" style="color: #3498DB; text-decoration: none">Researchers launch open source photo realistic simulator for autonomous driving</a></h3>
-          <p style="font-size: 14px">MIT researchers have built a data-driven simulation engine called “VISTA 2.0” that enables automobiles to learn to drive in the real world and recover from near-crash situations. The software is being open sourced to the public.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3ApfEvV" style="color: #3498DB; text-decoration: none">Shuffles, Pinterest’s invite-only collage-making app, is blowing up on TikTok — here’s how to get in</a></h3>
+          <p style="font-size: 14px">Pinterest app Shuffles is climbing the App Store's Top Charts. The app allows users to build collages using Pinterest's photo library or by taking pictures. It has a feature similar to iOS 16's forthcoming image cutout feature that lets users cut out objects from photos.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3ArHtoL" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/185036123-710d8e0c-5782-4acf-93e0-2ea47820584e.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3ApfEvV" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186642249-127aec24-87c5-4fa3-96b6-2d0d73241f63.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
