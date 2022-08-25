@@ -68,7 +68,7 @@
         <mj-text padding-bottom="0px" align="center">
           <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">We are excited to announce the launch of our GitHub Profile Readme Generator on Product Hunt on August 27th! </a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186340585-e0336dd2-05cb-40d0-9fc4-c182e03654d9.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186598396-a7629b92-aeca-4023-b6ed-868a5fe0615d.gif"></mj-image>
         <mj-text padding-top="0">
           <p style="font-size: 14px;text-align:justify;word-spacing:0px;">One of the most awaited feature—GitHub Readme Profile Generator—is scheduled for launch on <a href="" style="color:#8661d1;text-decoration:none;">August 27</a> at Product Hunt! Your support and feedback would mean a lot to us. Please check us out on Product Hunt today. Here is an <a href="" style="color:#8661d1;text-decoration:none;">exclusive invite</a> for you to try out this new awesome feature!</p>
         </mj-text>
@@ -126,6 +126,21 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://go.nasa.gov/3dVFqAD" style="color: #3498DB; text-decoration: none">Webb’s Jupiter Images Showcase Auroras, Hazes</a> </h3>
+          <p style="font-size: 14px">James Webb Space Telescope, a successor to the Hubble Telescope, has captured new images of Jupiter that show the planet's turbulent atmosphere. The telescope's observations will provide scientists with even more clues about the planet's inner life.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://go.nasa.gov/3dVFqAD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186579276-4922a1f9-c2cb-4a86-9da0-9aafbcca2ee2.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+    </mj-raw>
+    <!-- DIVIDER LINE -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3QKSjvK" style="color: #3498DB; text-decoration: none">Electrical currents to the brain improve memory for older adults, study finds</a> </h3>
           <p style="font-size: 14px">Scientists used a swim cap-like device studded with electrodes to deliver electric currents to specific parts of the brain. The electrical stimulation helped improve the brain's growth and changed areas important for memory. The scientists plan to test the device on people with Alzheimer's disease.</p>
         </mj-text>
@@ -134,32 +149,17 @@
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QKSjvK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186396816-3d1dd062-beca-402d-8e6e-4810353fd4ae.png"></mj-image>
       </mj-column>
     </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3QSfEvo" style="color: #3498DB; text-decoration: none">The Zoom installer let a researcher hack his way to root access on macOS?</a> </h3>
-          <p style="font-size: 14px"> An exploit in the macOS version of Zoom allows attackers to gain access to the entire OS. Reported in December 2021, the company issued a patch to fix the problem, but it contained a bug that meant the vulnerability was still exploitable. The security and privacy PR lead commented that the company is working diligently to address this issue.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QSfEvo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184876391-32449152-b848-4bd1-8f0b-dbf29fc17b41.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-    </mj-raw>
-    <!-- DIVIDER LINE -->
     </mj-raw>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3psSPCt" style="color: #3498DB; text-decoration: none">Ecommerce fraud prevention: a $20 billion problem</a></h3>
-          <p style="font-size: 14px">Learn more about machine learning and its applications in this article, which will give you an brief overview of how it is being used to fight hackers and customers who abuse chargeback requests.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://red.ht/3clHMZ6" style="color: #3498DB; text-decoration: none">A look inside the EPUB file format: a great way to publish content using an open format.</a></h3>
+          <p style="font-size: 14px">EBooks provide a great way to read books, magazines and other content on the go.The most popular eBook file format is the EPUB file, short for "electronic publication." EPUB files are supported across a variety of eReaders.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3psSPCt" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184866901-609c0b77-ee38-41cd-bb45-fb54c57740be.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QKSjvK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186581571-eedd63b4-4467-4ae8-9688-19cb0b9ba9a2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ---- -->
@@ -218,7 +218,7 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3dz7pFQ" target="_blank" style="color: #3498DB; text-decoration: none;">Building a Physics Engine with C++ and Simulating Machines </a> </h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3dz7pFQ" target="_blank" style="color: #3498DB; text-decoration: none;">Building a Physics Engine with C++ and Simulating Machines</a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3dz7pFQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/184897365-ea460a2f-24ac-43b7-a360-9f0003927b59.gif"></mj-image>
         <mj-text padding-top="0">
