@@ -51,39 +51,6 @@
       <!-- Watch -->
     </mj-raw>
     <!--  -->
-    <mj-raw>
-      <!-- Watch -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="100%">
-        <mj-text align="center" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">✨Feature Announcement📢</mj-text>
-        <mj-divider align="center" border-width="2px" border-color="#8661d1" width="150px"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px" align="center">
-          <h3 style="font-weight: bold"> <a href="https://www.producthunt.com/posts/aviyel-readme-generator?utm_source=mailjet&utm_medium=event_others&utm_campaign=aviyel_announcements" target="_blank" style="color: #3498DB; text-decoration: none;">We are excited to announce the launch of our GitHub Profile Readme Generator on Product Hunt on August 27th! </a> </h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://www.producthunt.com/posts/aviyel-readme-generator?utm_source=mailjet&utm_medium=event_others&utm_campaign=aviyel_announcements" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186598396-a7629b92-aeca-4023-b6ed-868a5fe0615d.gif"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;text-align:justify;word-spacing:0px;">One of the most awaited feature—GitHub Readme Profile Generator—is scheduled for launch on <a href="https://www.producthunt.com/posts/aviyel-readme-generator?utm_source=mailjet&utm_medium=event_others&utm_campaign=aviyel_announcements" style="color:#8661d1;text-decoration:none;">August 27</a> at Product Hunt! Your support and feedback would mean a lot to us. Here is an <a href="https://aviyel.com/github-readme?utm_source=mailjet&utm_medium=page_workspace&utm_campaign=aviyel_announcements" style="color:#8661d1;text-decoration-style:wavy;">exclusive invite</a> for you to try out this awesome feature!</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!-- DIVIDER LINE -->
-    <mj-section padding-top="0px">
-      <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!-- ------ -->
-    </mj-raw>
     <!-- ------ -->
     <mj-section>
       <mj-column width="100%">
@@ -268,8 +235,8 @@
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cwanpo" target="_blank" style="color: #3498DB; text-decoration: none">Nutshell: make expandable explanations</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Nutshell is a tool to make "expandable explanations". They can even be recursive. This lets your readers learn only the details they need, just-in-time, always-in-context.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cwanpo" target="_blank" style="color: #3498DB; text-decoration: none">Difftastic, the Fantastic Diff</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This article explains how Difftastic—a tool for comparing files based on their syntax—was developed and the difficulties encountered in its development. It also looks at what's next for this tool.</p>
         </mj-text>
       </mj-column>
     </mj-section>
