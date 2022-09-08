@@ -1,9 +1,11 @@
 
-## Aviyel Curated Newsletter
+<h2 align=center>Aviyel Curated Newsletter</h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"/>
+<a href="http://aviyel.com/"><img src="https://user-images.githubusercontent.com/37651620/184857914-cb580f5d-c50f-42ee-b612-efc697242c19.png"></a>
 </div>
+
+<br>
 
 <div align="center">
 
@@ -20,8 +22,7 @@
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/37651620/189123098-5fc5f944-a520-4711-896d-349337bd9ceb.png" width=200>
-</div>
 
----
+<div align="center">
+<a href="http://aviyel.com/#login"><img src="https://user-images.githubusercontent.com/37651620/189123098-5fc5f944-a520-4711-896d-349337bd9ceb.png" width=220></a>
+</div>
