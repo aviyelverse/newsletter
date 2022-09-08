@@ -231,11 +231,11 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3Cwanpo" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186625958-19c20c75-3988-475a-a1ed-92dab70cc698.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3BoFbXV" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189108781-aa8bec54-971f-45f0-90b0-434d93679a01.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cwanpo" target="_blank" style="color: #3498DB; text-decoration: none">Difftastic, the Fantastic Diff</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BoFbXV" target="_blank" style="color: #3498DB; text-decoration: none">Difftastic, the Fantastic Diff</a> </h3>
           <p style="font-size: 14px;padding-top:0px;" align="justify">This article explains how Difftastic—a tool for comparing files based on their syntax—was developed and the difficulties encountered in its development. It also looks at what's next for this tool.</p>
         </mj-text>
       </mj-column>
@@ -243,12 +243,12 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3Cw09oX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186627736-8b98c6df-fbe9-4d6d-95bd-0160e3e5f2d3.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3x6lqly" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189112253-414bf688-9e5d-4252-a799-70a7cba2a609.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cw09oX" target="_blank" style="color: #3498DB; text-decoration: none">Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">CSS Grid has been around for years, but there are still a lot of little-known and not widely discussed tricks. The implicit grid and auto-placement features are two of them! Check this article to learn more about the implicit grid with indepth explanations and examples.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3x6lqly" target="_blank" style="color: #3498DB; text-decoration: none">Research: quantifying GitHub Copilot’s impact on developer productivity and happiness</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">One year ago, GitHub launched a new tool called Copilot. The company has spent the past year learning how to make it better. They conducted research using surveys and experiments with developers. Their findings led to both expected—and unexpected—answers. Read this article to find out what conclusion they came up with.
         </mj-text>
       </mj-column>
     </mj-section>
