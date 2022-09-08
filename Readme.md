@@ -1,7 +1,9 @@
 
-<img src="https://user-images.githubusercontent.com/37651620/189120932-1a8d6c3c-bc60-45e3-b9ef-4d7ed797f1c2.png" width=400>
-
 ## Aviyel Curated Newsletter
+
+
+<img src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"/>
+
 
 <div align="center">
 
@@ -17,3 +19,9 @@
 |  [August 3rd 2022](https://aviyelverse.github.io/newsletter/august-3rd-newsletter/)        | [August 18th 2022](https://aviyelverse.github.io/newsletter/august-18th-newsletter/)    |  [August 27th 2022](https://aviyelverse.github.io/newsletter/august-27th-newsletter/) |
 
 </div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/37651620/189123098-5fc5f944-a520-4711-896d-349337bd9ceb.png" width=200>
+</div>
+
+---
