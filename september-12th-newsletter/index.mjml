@@ -51,39 +51,6 @@
       <!-- Watch -->
     </mj-raw>
     <!--  -->
-    <mj-raw>
-      <!-- Watch -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="100%">
-        <mj-text align="center" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">✨Feature Announcement📢</mj-text>
-        <mj-divider align="center" border-width="2px" border-color="#8661d1" width="150px"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px" align="center">
-          <h3 style="font-weight: bold"> <a href="https://www.producthunt.com/posts/aviyel-readme-generator?utm_source=mailjet&utm_medium=event_others&utm_campaign=aviyel_announcements" target="_blank" style="color: #3498DB; text-decoration: none;">We are excited to announce the launch of our GitHub Profile Readme Generator on Product Hunt on August 27th! </a> </h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://www.producthunt.com/posts/aviyel-readme-generator?utm_source=mailjet&utm_medium=event_others&utm_campaign=aviyel_announcements" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186598396-a7629b92-aeca-4023-b6ed-868a5fe0615d.gif"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;text-align:justify;word-spacing:0px;">One of the most awaited feature—GitHub Readme Profile Generator—is scheduled for launch on <a href="https://www.producthunt.com/posts/aviyel-readme-generator?utm_source=mailjet&utm_medium=event_others&utm_campaign=aviyel_announcements" style="color:#8661d1;text-decoration:none;">August 27</a> at Product Hunt! Your support and feedback would mean a lot to us. Here is an <a href="https://aviyel.com/github-readme?utm_source=mailjet&utm_medium=page_workspace&utm_campaign=aviyel_announcements" style="color:#8661d1;text-decoration-style:wavy;">exclusive invite</a> for you to try out this awesome feature!</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!-- DIVIDER LINE -->
-    <mj-section padding-top="0px">
-      <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!-- ------ -->
-    </mj-raw>
     <!-- ------ -->
     <mj-section>
       <mj-column width="100%">
@@ -141,12 +108,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3QKSjvK" style="color: #3498DB; text-decoration: none">Electrical currents to the brain improve memory for older adults, study finds</a> </h3>
-          <p style="font-size: 14px">Scientists used a swim cap-like device studded with electrodes to deliver electric currents to specific parts of the brain. The electrical stimulation helped improve the brain's growth and changed areas important for memory. The scientists plan to test the device on people with Alzheimer's disease.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3TSrHLl" style="color: #3498DB; text-decoration: none">Stable Diffusion Is the Most Important AI Art Model Ever</a> </h3>
+          <p style="font-size: 14px">Stability.ai released Stable Diffusion, the first AI art model to be made available through a safety-centric open source license—and no one has ever done anything like this before.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QKSjvK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186396816-3d1dd062-beca-402d-8e6e-4810353fd4ae.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TSrHLl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189116195-d04a6ac0-cccb-4f2e-8b0c-7cee5e2168e5.png"></mj-image>
       </mj-column>
     </mj-section>
     </mj-raw>
@@ -264,36 +231,36 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3Cwanpo" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186625958-19c20c75-3988-475a-a1ed-92dab70cc698.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3BoFbXV" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189108781-aa8bec54-971f-45f0-90b0-434d93679a01.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cwanpo" target="_blank" style="color: #3498DB; text-decoration: none">Nutshell: make expandable explanations</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Nutshell is a tool to make "expandable explanations". They can even be recursive. This lets your readers learn only the details they need, just-in-time, always-in-context.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BoFbXV" target="_blank" style="color: #3498DB; text-decoration: none">Difftastic, the Fantastic Diff</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This article explains how Difftastic—a tool for comparing files based on their syntax—was developed and the difficulties encountered in its development. It also looks at what's next for this tool.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3Cw09oX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186627736-8b98c6df-fbe9-4d6d-95bd-0160e3e5f2d3.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3x6lqly" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189112253-414bf688-9e5d-4252-a799-70a7cba2a609.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cw09oX" target="_blank" style="color: #3498DB; text-decoration: none">Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">CSS Grid has been around for years, but there are still a lot of little-known and not widely discussed tricks. The implicit grid and auto-placement features are two of them! Check this article to learn more about the implicit grid with indepth explanations and examples.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3x6lqly" target="_blank" style="color: #3498DB; text-decoration: none">Research: quantifying GitHub Copilot’s impact on developer productivity and happiness</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">One year ago, GitHub launched a new tool called Copilot. The company has spent the past year learning how to make it better. They conducted research using surveys and experiments with developers. Their findings led to both expected—and unexpected—answers. Read this article to find out what conclusion they came up with.
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3AQWDnR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186653014-1f711293-967c-4647-813f-6bda320f54a0.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3TVvoje" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189114027-cb22f742-8b94-4df8-b6ad-f69758d1d8ad.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AQWDnR" target="_blank" style="color: #3498DB; text-decoration: none">New in UX? Learn these repetitive user research methods [1/3]</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn about user research, the role it plays in helping us make better design decisions, the various methods for conducting research, and more in-depth about user experience(UX).</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3TVvoje" target="_blank" style="color: #3498DB; text-decoration: none">The Realities And Myths Of Contrast And Color</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, Andrew Somers—a 35-year veteran of the Hollywood film and television industry—reveals his experience designing for illuminated presentations.</p>
         </mj-text>
       </mj-column>
     </mj-section>
