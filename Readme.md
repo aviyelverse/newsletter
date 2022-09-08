@@ -1,9 +1,9 @@
 
 ## Aviyel Curated Newsletter
 
-
+<div align="center">
 <img src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"/>
-
+</div>
 
 <div align="center">
 
