@@ -304,12 +304,37 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3AMxZ7S" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186629946-4cc01fcb-50eb-4e4f-912a-908be3cc6f28.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3DcKTxB" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189311409-aa4325ac-cf7f-4957-b9a1-a596a472e03c.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AMxZ7S" target="_blank" style="color: #3498DB; text-decoration: none">Astro 1.0 Web Framework is out!</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Astro is a website framework for building fast, content-focused websites. Performance is powered by Astro's next-gen island architecture. Learn more about Astro 1.0 release and their fresh new website, plus what people are saying about Astro.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3DcKTxB" target="_blank" style="color: #3498DB; text-decoration: none">Visual Studio Code is designed to fracture</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, you'll learn about the ecosystem of open source forks, revisit how Microsoft has been transforming from products to services, go deep into why Visual Studio Code—the company's flagship editor—is designed to fracture and examine its legal implications.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3RynZ8a" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189313740-429fbe28-9526-41c5-b7bf-ab7f16e2feb6.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3RynZ8a" target="_blank" style="color: #3498DB; text-decoration: none">Webhooks.fyi</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn about the various approaches for building, securing, and operating webhooks–and what kinds of providers and consumers exist.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3xataTI" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189312877-73b2f838-92d1-45c2-b598-bce1c68d938c.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3xataTI" target="_blank" style="color: #3498DB; text-decoration: none">Markwhen: text-to-timeline tool</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline.</p>
         </mj-text>
       </mj-column>
     </mj-section>
