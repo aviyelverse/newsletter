@@ -74,6 +74,47 @@
     <mj-raw>
     </mj-raw>
     <!-- DIVIDER LINE -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3TSrHLl" style="color: #3498DB; text-decoration: none">Here’s everything Apple announced at its ‘Far Out’ iPhone event</a> </h3>
+          <p style="font-size: 14px">Did you get a chance to tune in to Apple’s big event, which featured new hardware galore? New iPhones! New AirPods! And plenty more—but if you didn't have time to watch live, don't sweat it—here's an article that sums up the most important points.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TSrHLl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189287125-13729bfd-6f16-4c75-a41c-c89c42e20a90.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    </mj-raw>
+    <!-- -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Ry3JDv" style="color: #3498DB; text-decoration: none">Scientists Found Genetic Mutations in Every Astronaut's Blood Sample</a> </h3>
+          <p style="font-size: 14px">A study of blood samples taken from 14 astronauts showed evidence of DNA mutations. The mutations were not serious enough to affect the astronauts' long-term health, but they highlight the importance of regular health screenings for space travelers. The mutations are likely caused by exposure to cosmic radiation.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Ry3JDv" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189281055-c3f0be10-aede-41d0-893b-ec75df0db4db.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+    </mj-raw>
+    <!-- DIVIDER LINE -->
+    </mj-raw>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3TSrHLl" style="color: #3498DB; text-decoration: none">Memory prosthesis could restore memory in people with damaged brains</a> </h3>
+          <p style="font-size: 14px">Brain electrodes that mimic the hippocampus appear to improve memory in people with poor recall. Researchers found that patients who received this type of treatment had twice as much improvement in their ability to remember words and pictures than did subjects whose electrodes were placed outside the hippocampus.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TSrHLl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189285230-0614988c-db06-4658-9d86-1b680f7961e0.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    </mj-raw>
     <!-- -->
     <mj-section>
       <mj-column width="75%">
@@ -100,36 +141,6 @@
     </mj-section>
     </mj-raw>
     <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Ry3JDv" style="color: #3498DB; text-decoration: none">Scientists Found Genetic Mutations in Every Astronaut's Blood Sample</a> </h3>
-          <p style="font-size: 14px">A study of blood samples taken from 14 astronauts showed evidence of DNA mutations. The mutations were not serious enough to affect the astronauts' long-term health, but they highlight the importance of regular health screenings for space travelers. The mutations are likely caused by exposure to cosmic radiation.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Ry3JDv" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189281055-c3f0be10-aede-41d0-893b-ec75df0db4db.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-    </mj-raw>
-    <!-- DIVIDER LINE -->
-    </mj-raw>
-    <!-- ---- -->
-    <!--  -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3TSrHLl" style="color: #3498DB; text-decoration: none">Memory prosthesis could restore memory in people with damaged brains</a> </h3>
-          <p style="font-size: 14px">Brain electrodes that mimic the hippocampus appear to improve memory in people with poor recall. Researchers found that patients who received this type of treatment had twice as much improvement in their ability to remember words and pictures than did subjects whose electrodes were placed outside the hippocampus.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TSrHLl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189285230-0614988c-db06-4658-9d86-1b680f7961e0.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    </mj-raw>
     <!--  -->
     <!-- ---- -->
     <mj-section padding="0px">
