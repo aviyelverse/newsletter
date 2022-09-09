@@ -499,24 +499,24 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3AKFU5l" style="color: #3498DB; text-decoration: none">SnoopForms: The Open Source Typeform Alternative</a></h3>
-          <p style="font-size: 14px">SnoopForms lets you build forms without writing code in minutes. All form submissions are processed by the snoopForms platform and you can view the submission in your platform or send it to other systems, services or databases.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3RynECf" style="color: #3498DB; text-decoration: none">Grey Software: learn practical tech skills at your own pace!</a></h3>
+          <p style="font-size: 14px">Grey Software is a non-profit and fully open source organization which is on a mission to democratize software education and provide learners with practical tech skills at their own pace.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3PJ8HvD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186650134-5b8d4839-eec7-4f33-a40f-2632ab6a368f.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3RynECf" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189320609-31559c3c-f7de-4fdd-a6ab-152e2f9e1465.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KjidUW" style="color: #3498DB; text-decoration: none">Zingg: Scalable entity resolution, data mastering and deduplication using ML</a></h3>
-          <p style="font-size: 14px">Zingg is an open source data reconciliation and deduplication tool that uses machine learning to identify duplicates. It offers a library of different matching models and can be extended with custom matching functions.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3D8OLQ4" style="color: #3498DB; text-decoration: none">Evil Martians: an extraterrestrial product development consultancy and COSS team.</a></h3>
+          <p style="font-size: 14px">Evil Martian has created dozens of free and open source libraries and utilities for developers in diverse communities, as well as tools and plugins for UI designers.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KjidUW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186649748-f24545b2-36ae-4509-8deb-0bfee4959ab0.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3D8OLQ4" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189322685-39c983b7-b27f-447d-ad0a-61dec667f3b1.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -524,12 +524,24 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dYL6tm" style="color: #3498DB; text-decoration: none">Sidekick: An open source live application debugger.</a></h3>
-          <p style="font-size: 14px">Sidekick is a live debugger that lets you troubleshoot your applications while they keep on running. Add dynamic logs and put non-breaking breakpoints in your live application without the need of stopping & redeploying.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xyncw7" style="color: #3498DB; text-decoration: none">Leapp: An open source DevTool to access your cloud.</a></h3>
+          <p style="font-size: 14px">Leapp is a cross-platform cloud access app built on Electron that is designed to manage and secure cloud access in multi-account environments. It is available for MacOS, Windows, and Linux.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dYL6tm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186651006-3fda6436-0702-4d18-bd56-72053d063afc.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3xyncw7" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189325548-28e0d02a-0b47-43e2-9867-e4ec40ff9561.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3B7kS01" style="color: #3498DB; text-decoration: none">MetaCall: Ultimate polyglot programming experience.</a></h3>
+          <p style="font-size: 14px">Deploy Polyglot Applications in Seconds. From DevOps to NoOps, Push your code and Deploy Functions services or Static Files—Supporting Node.js, Python Ruby C# etc.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3B7kS01" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189329792-51af3e00-962d-444e-bab5-4c0e78761e2e.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
