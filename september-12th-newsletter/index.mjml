@@ -450,34 +450,33 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3AJDHr4" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186645540-19613829-60b8-4270-bb84-aed23bd42461.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3B2h4Nw" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189316277-900f13c4-c1bd-4ab9-a40e-73908bf1ed1a.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AJDHr4" target="_blank" style="color: #3498DB; text-decoration: none">GitHub Campus Experts</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">GitHub Campus Expert is a free global program that will provide you with exclusive opportunities to learn and grow. Don't miss out on the opportunity to become part of the next generation of student community leaders. Applications closes on September 4, 2022.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3B2h4Nw" target="_blank" style="color: #3498DB; text-decoration: none">Globalink Research Internship</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">The Mitacs Globalink Research Internship is a competitive initiative for international undergraduates from many countries and regions. The call for student applications has opened—for 2023! You have until Thursday, September 22nd at 1 p.m. (PT) to apply—so get going!</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-raw>
       <!--  -->
     </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
+    <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3QNZrYs" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186646448-5fbc0bf8-25bf-4b69-b68d-5951a71b80aa.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3L8nQ8X" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189318081-1fc21ff0-c573-4862-8c72-fe075b3fa5ee.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3QNZrYs" target="_blank" style="color: #3498DB; text-decoration: none">LFX Mentorship | The Linux Foundation</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">The LFX Mentorship program makes it easy to sponsor and help train the next generation of open source developers by serving key needs of the community. Invest in building a strong foundation for new developers by supporting their ongoing training and education.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3L8nQ8X" target="_blank" style="color: #3498DB; text-decoration: none">OIST Research Internship Program</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">The OIST Graduate School's Research Intern program provides opportunities for advanced education and research in science, technology, engineering, or math. The internship typically lasts 2 to 6 months; interns work under the direction of an academic researcher and contribute to OIST's research activities.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <!-- - -->
-    <!-- DIVIDER LINE -->
+    <mj-raw>
+      <!--  -->
+      <!-- DIVIDER LINE -->
     </mj-raw>
     <mj-section padding="0px">
       <mj-column width="100%">
