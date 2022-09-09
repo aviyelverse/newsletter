@@ -63,12 +63,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://go.nasa.gov/3dVFqAD" style="color: #3498DB; text-decoration: none">Webb’s Jupiter Images Showcase Auroras, Hazes</a> </h3>
-          <p style="font-size: 14px">James Webb Space Telescope, a successor to the Hubble Telescope, has captured new images of Jupiter that show the planet's turbulent atmosphere. The telescope's observations will provide scientists with even more clues about the planet's inner life.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3TVqLFU" style="color: #3498DB; text-decoration: none">Open source password manager Bitwarden raises $100M</a> </h3>
+          <p style="font-size: 14px">Bitwarden, an open source password manager for enterprises and consumers, has raised $100 million in a round of funding led by PSG. Battery Ventures also participated in the financing.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://go.nasa.gov/3dVFqAD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186579276-4922a1f9-c2cb-4a86-9da0-9aafbcca2ee2.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3TVqLFU" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189281736-e9361f9c-1ca7-4022-b324-e635497016df.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -78,33 +78,15 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3R7Io34" style="color: #3498DB; text-decoration: none">Google research AI image noise reduction is out of this world</a> </h3>
-          <p style="font-size: 14px">MultiNeRF is a project from Google Research that includes algorithms designed to improve image quality, especially in low-light scenes. The algorithms can remove noise from images to improve their quality, find out more about this in this article.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3qqTtB8" style="color: #3498DB; text-decoration: none">AI generated artwork’s state fair victory fuels arguments over ‘what art is’</a> </h3>
+          <p style="font-size: 14px">A game designer has caused controversy by submitting an image created by an Artificial Intelligence(AI) and taking home first prize in a state-sponsored art competition.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3R7Io34" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186390063-848dba23-9376-4a7d-978c-ab99fca1436f.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3qqTtB8" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189283006-cb45078e-1ae3-46ac-8a4b-6a472ed416a8.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ------ -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://cnet.co/3Ta0Dqy" style="color: #3498DB; text-decoration: none">Scientists Found Genetic Mutations in Every Astronaut Blood Sample They Studied</a> </h3>
-          <p style="font-size: 14px">A study of blood samples taken from 14 astronauts who flew in space between 1998 and 2001 found that all of them showed evidence of DNA mutations. The mutations were not serious enough to affect the astronauts' long-term health, but they highlight the importance of regular health screenings for space travelers. The mutations are likely caused by exposure to cosmic radiation.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://cnet.co/3Ta0Dqy" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186394365-f3cafb0b-bc30-4d33-afd1-ec862adf2d36.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-    </mj-raw>
-    <!-- DIVIDER LINE -->
-    </mj-raw>
-    <!-- ---- -->
-    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
@@ -114,6 +96,37 @@
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TSrHLl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189116195-d04a6ac0-cccb-4f2e-8b0c-7cee5e2168e5.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    </mj-raw>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Ry3JDv" style="color: #3498DB; text-decoration: none">Scientists Found Genetic Mutations in Every Astronaut's Blood Sample</a> </h3>
+          <p style="font-size: 14px">A study of blood samples taken from 14 astronauts showed evidence of DNA mutations. The mutations were not serious enough to affect the astronauts' long-term health, but they highlight the importance of regular health screenings for space travelers. The mutations are likely caused by exposure to cosmic radiation.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Ry3JDv" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189281055-c3f0be10-aede-41d0-893b-ec75df0db4db.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+    </mj-raw>
+    <!-- DIVIDER LINE -->
+    </mj-raw>
+    <!-- ---- -->
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3TSrHLl" style="color: #3498DB; text-decoration: none">Memory prosthesis could restore memory in people with damaged brains</a> </h3>
+          <p style="font-size: 14px">Brain electrodes that mimic the hippocampus appear to improve memory in people with poor recall. Researchers found that patients who received this type of treatment had twice as much improvement in their ability to remember words and pictures than did subjects whose electrodes were placed outside the hippocampus.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TSrHLl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189285230-0614988c-db06-4658-9d86-1b680f7961e0.png"></mj-image>
       </mj-column>
     </mj-section>
     </mj-raw>
