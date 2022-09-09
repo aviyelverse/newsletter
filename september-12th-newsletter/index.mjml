@@ -173,11 +173,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3RbWwsn" target="_blank" style="color: #3498DB; text-decoration: none;">Why You Are Lonely and How to Make Friends</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3RzO9Y4" target="_blank" style="color: #3498DB; text-decoration: none;">Why You Are Lonely and How to Make Friends?</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3RbWwsn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186621483-01291278-240c-479e-9afc-c4b36caf82d0.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3RzO9Y4" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189300101-3d9fbcb9-cd76-4b0b-bd0a-3cf6b308216d.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;"> Though colonizing Mars may be a difficult task, humans will likely try anyway. This video shows what a successful colonization of the red planet might look like.</p>
+          <p style="font-size: 14px;"> People with friends are happier, healthier, and successful than those without. But many of us don't have enough close friends—or know how to get them in the first place—and feel lonely as a result. This video shows you how to get them!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -186,11 +186,24 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3AlmcMm" target="_blank" style="color: #3498DB; text-decoration: none;">Elon Musk To Launch INSANE Telescope 100x Better Than JWST!!</a></h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3d4Ufk3" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Influencers | Theo Browne | The Secret Sauce</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3AlmcMm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186619519-39121f5e-e442-4711-b30c-cd5a10ce6bdd.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3d4Ufk3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189302118-206f9093-7770-4bfa-abe1-ae83b6bcf1bb.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;"> Step aside, James Webb, because Elon Musk just put pen to paper on a lucrative deal with NASA that could see SpaceX pocket up to $255 million for the launch, and delivery, of the highly-anticipated Grace Roman Telescope.</p>
+          <p style="font-size: 14px;">Theo Browne is mostly known for his content on Typescript, React, and React Native. Theo is now the CEO of Ping Labs and has made a name for himself by influencing the creation of a popular open source project: create-t3 app. Watch this video to hear more on how Theo became Theo.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3BpDARN" target="_blank" style="color: #3498DB; text-decoration: none;">How to NOT Screw Up Firebase Environment Variables</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3BpDARN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189305201-07d08993-fc91-486e-a4f3-9d57a88508ad.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Firebase recently added support for dotenv environment variables and secret manager in the Cloud Functions Node.js runtime.Learn more about it in this video!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -199,23 +212,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3QNutQ0" target="_blank" style="color: #3498DB; text-decoration: none;">Azure Developer Associate (AZ-204)—Full Course Pass the Exam! (13hr course)</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3eEc36b" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Project Management With Zero Experience</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3QNutQ0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186614997-d683732f-bddc-463d-ac74-b36c4d29ba69.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3eEc36b" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189301597-438d3858-bfd2-48ae-a217-1cc5223e3f91.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">The Microsoft Azure Developer Associate certification is an entry-level certification. This course will prepare you for the exam: AZ-204 with a series of lectures and hands-on experience to teach you all of the necessary concepts.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3dZXKbW" target="_blank" style="color: #3498DB; text-decoration: none;">Stable Diffusion API Tutorial - NoCode AI Art Generations without GPU</a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3dZXKbW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186606638-592454d8-4b81-45a1-a26b-854189128386.gif"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">If you were missing out on Stability Diffusion (Stable Diffusion) without GPU or any intense coding, here's a simple tutorial to use the Stability AI (Stable Diffusion) API to generate AI art images.</p>
+          <p style="font-size: 14px;">Want to learn how you can manage an Open Source Project—even if you have no experience in the field? This video is for you!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -223,11 +224,23 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3KjnbRw" target="_blank" style="color: #3498DB; text-decoration: none;">Microservices explained - the What, Why and How?</a></h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3RS06s0" target="_blank" style="color: #3498DB; text-decoration: none;">Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3KjnbRw" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186622808-1931c5ea-90be-4dfb-a289-b7e7f9df8aac.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3RS06s0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189302929-72b9450e-a3c2-4952-91e6-cb0741a2793b.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;"> Microservices are an application architecture pattern that decomposes an application into smaller services. Learn about the differences between a monolithic to microservices architecture, monorepo vs polyrepo, and how microservices connect with each other in this video.</p>
+          <p style="font-size: 14px;">Learn JavaScript, HTML, and CSS in this Frontend Web Development course. In this massive course, you will go from no coding experience to having the essential skills of a frontend web developer. You will learn various web development technologies and create a few projects along the way.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3KZ5Pdh" target="_blank" style="color: #3498DB; text-decoration: none;">Game Development with LÖVE 2D and Lua – Full Course</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3KZ5Pdh" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189303823-057dc94a-e563-434f-902c-58ea7b8f82fc.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Learn how to create games by using the LÖVE framework. It's a free and open source tool for making 2D games in Lua, and works on Windows/Mac OSX /Linux, as well as Android and iOS devices. In this course, you will first learn how to program in Lua. Then you will learn how to use Love2D with Lua to develop amazing games.</p>
         </mj-text>
       </mj-column>
     </mj-section>
