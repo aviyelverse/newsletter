@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_12" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_21" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_12" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/184857914-cb580f5d-c50f-42ee-b612-efc697242c19.png"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_21" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/184857914-cb580f5d-c50f-42ee-b612-efc697242c19.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -32,9 +32,9 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #25 - September 12th</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #26 - September 21st</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_12" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_21" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
@@ -59,7 +59,6 @@
       </mj-column>
     </mj-section>
     <!-- - -->
-    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
@@ -91,7 +90,7 @@
       <mj-column width="75%">
         <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Ry3JDv" style="color: #3498DB; text-decoration: none">Scientists Found Genetic Mutations in Every Astronaut's Blood Sample</a> </h3>
-          <p style="font-size: 14px">A study of blood samples taken from 14 astronauts showed evidence of DNA mutations. The mutations were not serious enough to affect the astronauts' long-term health, but they highlight the importance of regular health screenings for space travelers. The mutations are likely caused by exposure to cosmic radiation.</p>
+          <p style="font-size: 14px">A study of blood samples taken from 14 astronauts showed evidence of DNA mutations. The mutations were not serious enough to affect the astronauts' long-term health, but they highlight the importance of regular health screenings for space travelers.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -102,7 +101,6 @@
     </mj-raw>
     <!-- DIVIDER LINE -->
     </mj-raw>
-    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
@@ -140,8 +138,6 @@
       </mj-column>
     </mj-section>
     </mj-raw>
-    <!--  -->
-    <!--  -->
     <!-- ---- -->
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -163,12 +159,6 @@
     </mj-section>
     <mj-section>
     </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
     <!--  -->
     <mj-section>
       <mj-column>
@@ -190,7 +180,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3d4Ufk3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189302118-206f9093-7770-4bfa-abe1-ae83b6bcf1bb.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Theo Browne is mostly known for his content on Typescript, React, and React Native. Theo is now the CEO of Ping Labs and has made a name for himself by influencing the creation of a popular open source project: create-t3 app. Watch this video to hear more on how Theo became Theo.</p>
+          <p style="font-size: 14px;">Theo Browne is mostly known for his content on Typescript, React, and React Native. Watch this video to hear more on how Theo became Theo.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -208,19 +198,6 @@
       </mj-column>
     </mj-section>
     <!-- DIVIDER LINE -->
-    <!--  -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3eEc36b" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Project Management With Zero Experience</a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3eEc36b" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189301597-438d3858-bfd2-48ae-a217-1cc5223e3f91.gif"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">Want to learn how you can manage an Open Source Project—even if you have no experience in the field? This video is for you!</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- DIVIDER LINE -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
@@ -228,7 +205,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3RS06s0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189302929-72b9450e-a3c2-4952-91e6-cb0741a2793b.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Learn JavaScript, HTML, and CSS in this Frontend Web Development course. In this massive course, you will go from no coding experience to having the essential skills of a frontend web developer. You will learn various web development technologies and create a few projects along the way.</p>
+          <p style="font-size: 14px;">In this massive course, you will go from no coding experience to having the essential skills of a frontend web developer. You will learn various web development technologies and create a few projects along the way.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -240,7 +217,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3KZ5Pdh" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189303823-057dc94a-e563-434f-902c-58ea7b8f82fc.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Learn how to create games by using the LÖVE framework. It's a free and open source tool for making 2D games in Lua, and works on Windows/Mac OSX /Linux, as well as Android and iOS devices. In this course, you will first learn how to program in Lua. Then you will learn how to use Love2D with Lua to develop amazing games.</p>
+          <p style="font-size: 14px;">In this course, you will first learn how to program in Lua. Then you will learn how to use LÖVE framework with Lua to develop amazing games.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -251,11 +228,7 @@
         <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-raw>
-      <!-- ------ -->
-    </mj-raw>
     <!--  -->
-    <!-- DIVIDER LINE -->
     <mj-raw>
       <!-- ------ -->
     </mj-raw>
@@ -278,29 +251,6 @@
       </mj-column>
     </mj-section>
     <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3x6lqly" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189112253-414bf688-9e5d-4252-a799-70a7cba2a609.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3x6lqly" target="_blank" style="color: #3498DB; text-decoration: none">Research: quantifying GitHub Copilot’s impact on developer productivity and happiness</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">One year ago, GitHub launched a new tool called Copilot. The company has spent the past year learning how to make it better. They conducted research using surveys and experiments with developers. Their findings led to both expected—and unexpected—answers. Read this article to find out what conclusion they came up with.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3TVvoje" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189114027-cb22f742-8b94-4df8-b6ad-f69758d1d8ad.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3TVvoje" target="_blank" style="color: #3498DB; text-decoration: none">The Realities And Myths Of Contrast And Color</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, Andrew Somers—a 35-year veteran of the Hollywood film and television industry—reveals his experience designing for illuminated presentations.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
@@ -395,18 +345,6 @@
     <mj-raw>
       <!-- -->
     </mj-raw>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3eFPezb" style="color: #3498DB; text-decoration: none">Everything Apple didn’t announce at its iPhone 14 event </a></h3>
-          <p style="font-size: 14px">This article explores the rumors that have been swirling around Apple's forthcoming announcement, and considers whether recent reports accurately reflect what is in store for future announcements.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3eFPezb" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189332870-b937b203-4c63-425b-9716-ae1782a17824.png"></mj-image>
-      </mj-column>
-    </mj-section>
     <!--  -->
     <!--  -->
     <mj-section>
@@ -523,19 +461,6 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3D8OLQ4" style="color: #3498DB; text-decoration: none">Evil Martians: an extraterrestrial product development consultancy and COSS team.</a></h3>
-          <p style="font-size: 14px">Evil Martian has created dozens of free and open source libraries and utilities for developers in diverse communities, as well as tools and plugins for UI designers.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3D8OLQ4" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189322685-39c983b7-b27f-447d-ad0a-61dec667f3b1.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xyncw7" style="color: #3498DB; text-decoration: none">Leapp: An open source DevTool to access your cloud.</a></h3>
           <p style="font-size: 14px">Leapp is a cross-platform cloud access app built on Electron that is designed to manage and secure cloud access in multi-account environments. It is available for MacOS, Windows, and Linux.</p>
         </mj-text>
@@ -584,7 +509,7 @@
     </mj-raw>
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_12" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_21" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
@@ -599,7 +524,6 @@
       </mj-column>
     </mj-section>
     <mj-raw>
-      <!--  -->
     </mj-raw>
     <!-- Footer -->
     </mj-raw>
