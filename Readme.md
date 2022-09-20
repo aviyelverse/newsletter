@@ -21,7 +21,6 @@
 |  [August 3rd 2022](https://aviyelverse.github.io/newsletter/august-3rd-newsletter/)        | [August 18th 2022](https://aviyelverse.github.io/newsletter/august-18th-newsletter/)    |  [August 27th 2022](https://aviyelverse.github.io/newsletter/august-27th-newsletter/) |
 | [September 12th 2022](https://aviyelverse.github.io/newsletter/september-12th-newsletter/) | [September 22nd 2022](#) |
 
-
 </div>
 
 
