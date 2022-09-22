@@ -414,24 +414,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3AKFU5l" style="color: #3498DB; text-decoration: none">SnoopForms: The Open Source Typeform Alternative</a></h3>
-          <p style="font-size: 14px">SnoopForms lets you build forms without writing code in minutes. All form submissions are processed by the snoopForms platform and you can view the submission in your platform or send it to other systems, services or databases.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xJlRCJ" style="color: #3498DB; text-decoration: none">DBLens: Database explorer for Mac, Windows and Linux. </a></h3>
+          <p style="font-size: 14px">DB Lens is an open source database client that helps you to explore database, understand data relations more quickly with automatic ER diagrams, visualise and analyse internal DB metrics such as index utilisation sequential scans, slow running queries, storage and many more.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3PJ8HvD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186650134-5b8d4839-eec7-4f33-a40f-2632ab6a368f.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KjidUW" style="color: #3498DB; text-decoration: none">Zingg: Scalable entity resolution, data mastering and deduplication using ML</a></h3>
-          <p style="font-size: 14px">Zingg is an open source data reconciliation and deduplication tool that uses machine learning to identify duplicates. It offers a library of different matching models and can be extended with custom matching functions.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KjidUW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186649748-f24545b2-36ae-4509-8deb-0bfee4959ab0.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3xJlRCJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191760250-de31dc8f-27a8-4419-8856-a35035dae1f5.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -439,12 +427,24 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dYL6tm" style="color: #3498DB; text-decoration: none">Sidekick: An open source live application debugger.</a></h3>
-          <p style="font-size: 14px">Sidekick is a live debugger that lets you troubleshoot your applications while they keep on running. Add dynamic logs and put non-breaking breakpoints in your live application without the need of stopping & redeploying.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dvZLwD" style="color: #3498DB; text-decoration: none">Walker.js: an open source library to speed up product analytics implementation.</a></h3>
+          <p style="font-size: 14px">Walker.js is an open source event tracking library. Easy, standardized, and flexible; it allows you to capture user events in the browser—just by setting HTML attributes!</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dYL6tm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186651006-3fda6436-0702-4d18-bd56-72053d063afc.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dvZLwD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191759948-893b219d-2bed-451c-b9a4-ad213eb42fd6.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3duBF5n" style="color: #3498DB; text-decoration: none">Obsei: An open-source low-code AI powered automation tool</a></h3>
+          <p style="font-size: 14px">Obsei is a fully open source low-code AI automation tool that can be used in various business flows, such as social listening, artificial intelligence (AI)-based alerting and comparative analysis.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3duBF5n" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191760133-55e5f37a-0316-48ab-ac3a-79e6a3fe987c.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
