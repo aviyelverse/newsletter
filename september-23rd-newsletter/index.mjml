@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_21" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_23" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_21" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/184857914-cb580f5d-c50f-42ee-b612-efc697242c19.png"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_23" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/184857914-cb580f5d-c50f-42ee-b612-efc697242c19.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -32,9 +32,9 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #26 - September 21st</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #26 - September 23rd</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_21" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_23" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
@@ -51,6 +51,39 @@
       <!-- Watch -->
     </mj-raw>
     <!--  -->
+    <mj-raw>
+      <!-- Watch -->
+    </mj-raw>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">🐱‍💻Hacktoberfest With Aviyel👨‍💻</mj-text>
+        <mj-divider align="center" border-width="2px" border-color="#8661d1" width="150px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px" align="center">
+          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">We are super excited to announce Hactoberfest with Aviyel</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191676631-3c0f519d-fdef-4401-b3ef-dcddfe101579.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;text-align:justify;word-spacing:0px;"> October is here and that means it's time for <a href="" style="color:#8661d1;text-decoration:none;">Hacktoberfest</a>! At Aviyel, we encourage you to contribute in any way—not just by writing code! We wanted to provide an avenue for people to connect, compete and collaborate with fellow open source enthusiasts.And on top of that, we’re providing mentors—giving creators a voice while also giving them assistance along the way. Want to learn more? Here's an <a href="https://aviyel.typeform.com/register" style="color:#8661d1;text-decoration-style:wavy;">exclusive invitation </a> for you to join us.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
     <!-- ------ -->
     <mj-section>
       <mj-column width="100%">
@@ -59,85 +92,65 @@
       </mj-column>
     </mj-section>
     <!-- - -->
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3TVqLFU" style="color: #3498DB; text-decoration: none">Open source password manager Bitwarden raises $100M</a> </h3>
-          <p style="font-size: 14px">Bitwarden, an open source password manager for enterprises and consumers, has raised $100 million in a round of funding led by PSG. Battery Ventures also participated in the financing.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://go.nasa.gov/3dVFqAD" style="color: #3498DB; text-decoration: none">Webb’s Jupiter Images Showcase Auroras, Hazes</a> </h3>
+          <p style="font-size: 14px">James Webb Space Telescope, a successor to the Hubble Telescope, has captured new images of Jupiter that show the planet's turbulent atmosphere. The telescope's observations will provide scientists with even more clues about the planet's inner life.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3TVqLFU" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189281736-e9361f9c-1ca7-4022-b324-e635497016df.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://go.nasa.gov/3dVFqAD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186579276-4922a1f9-c2cb-4a86-9da0-9aafbcca2ee2.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
     </mj-raw>
     <!-- DIVIDER LINE -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3RQKq8d" style="color: #3498DB; text-decoration: none">Here’s everything Apple announced at its ‘Far Out’ iPhone event</a> </h3>
-          <p style="font-size: 14px">Did you get a chance to tune in to Apple’s big event, which featured new hardware galore? New iPhones! New AirPods! And plenty more—but if you didn't have time to watch live, don't sweat it—here's an article that sums up the most important points.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3RQKq8d" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189287125-13729bfd-6f16-4c75-a41c-c89c42e20a90.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    </mj-raw>
     <!-- -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Ry3JDv" style="color: #3498DB; text-decoration: none">Scientists Found Genetic Mutations in Every Astronaut's Blood Sample</a> </h3>
-          <p style="font-size: 14px">A study of blood samples taken from 14 astronauts showed evidence of DNA mutations. The mutations were not serious enough to affect the astronauts' long-term health, but they highlight the importance of regular health screenings for space travelers.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3R7Io34" style="color: #3498DB; text-decoration: none">Google research AI image noise reduction is out of this world</a> </h3>
+          <p style="font-size: 14px">MultiNeRF is a project from Google Research that includes algorithms designed to improve image quality, especially in low-light scenes. The algorithms can remove noise from images to improve their quality, find out more about this in this article.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Ry3JDv" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189281055-c3f0be10-aede-41d0-893b-ec75df0db4db.gif"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-    </mj-raw>
-    <!-- DIVIDER LINE -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3TSrHLl" style="color: #3498DB; text-decoration: none">Memory prosthesis could restore memory in people with damaged brains</a> </h3>
-          <p style="font-size: 14px">Brain electrodes that mimic the hippocampus appear to improve memory in people with poor recall. Researchers found that patients who received this type of treatment had twice as much improvement in their ability to remember words and pictures than did subjects whose electrodes were placed outside the hippocampus.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TSrHLl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189285230-0614988c-db06-4658-9d86-1b680f7961e0.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    </mj-raw>
-    <!-- -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3qqTtB8" style="color: #3498DB; text-decoration: none">AI generated artwork’s state fair victory fuels arguments over ‘what art is’</a> </h3>
-          <p style="font-size: 14px">A game designer has caused controversy by submitting an image created by an Artificial Intelligence(AI) and taking home first prize in a state-sponsored art competition.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3qqTtB8" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189283006-cb45078e-1ae3-46ac-8a4b-6a472ed416a8.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3R7Io34" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186390063-848dba23-9376-4a7d-978c-ab99fca1436f.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ------ -->
+    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3TSrHLl" style="color: #3498DB; text-decoration: none">Stable Diffusion Is the Most Important AI Art Model Ever</a> </h3>
-          <p style="font-size: 14px">Stability.ai released Stable Diffusion, the first AI art model to be made available through a safety-centric open source license—and no one has ever done anything like this before.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://cnet.co/3Ta0Dqy" style="color: #3498DB; text-decoration: none">Why Stacking Chips Like Pancakes Could Mean a Huge Leap for Laptops?</a> </h3>
+          <p style="font-size: 14px">Intel's new Meteor Lake and Ponte Vecchio processors will use packaging to reach faster speeds. Packaging involves linking several chiplets into one larger processor like Apple does with the M1 Max and M1 Ultra, but with a much lower price tag.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TSrHLl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189116195-d04a6ac0-cccb-4f2e-8b0c-7cee5e2168e5.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://cnet.co/3Ta0Dqy" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186394365-f3cafb0b-bc30-4d33-afd1-ec862adf2d36.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+    </mj-raw>
+    <!-- DIVIDER LINE -->
+    </mj-raw>
+    <!-- ---- -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3QKSjvK" style="color: #3498DB; text-decoration: none">Electrical currents to the brain improve memory for older adults, study finds</a> </h3>
+          <p style="font-size: 14px">Scientists used a swim cap-like device studded with electrodes to deliver electric currents to specific parts of the brain. The electrical stimulation helped improve the brain's growth and changed areas important for memory. The scientists plan to test the device on people with Alzheimer's disease.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QKSjvK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186396816-3d1dd062-beca-402d-8e6e-4810353fd4ae.png"></mj-image>
       </mj-column>
     </mj-section>
     </mj-raw>
+    <!--  -->
     <!-- ---- -->
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -159,15 +172,21 @@
     </mj-section>
     <mj-section>
     </mj-section>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
     <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3RzO9Y4" target="_blank" style="color: #3498DB; text-decoration: none;">Why You Are Lonely and How to Make Friends?</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3RbWwsn" target="_blank" style="color: #3498DB; text-decoration: none;">How Humanity Will Actually Colonize Mars (Year by Year)</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3RzO9Y4" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189300101-3d9fbcb9-cd76-4b0b-bd0a-3cf6b308216d.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3RbWwsn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186621483-01291278-240c-479e-9afc-c4b36caf82d0.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;"> People with friends are happier, healthier, and successful than those without. But many of us don't have enough close friends—or know how to get them in the first place—and feel lonely as a result. This video shows you how to get them!</p>
+          <p style="font-size: 14px;"> Though colonizing Mars may be a difficult task, humans will likely try anyway. This video shows what a successful colonization of the red planet might look like.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -176,24 +195,36 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3d4Ufk3" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Influencers | Theo Browne | The Secret Sauce</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3AlmcMm" target="_blank" style="color: #3498DB; text-decoration: none;">Elon Musk To Launch INSANE Telescope 100x Better Than JWST!!</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3d4Ufk3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189302118-206f9093-7770-4bfa-abe1-ae83b6bcf1bb.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3AlmcMm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186619519-39121f5e-e442-4711-b30c-cd5a10ce6bdd.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Theo Browne is mostly known for his content on Typescript, React, and React Native. Watch this video to hear more on how Theo became Theo.</p>
+          <p style="font-size: 14px;"> Step aside, James Webb, because Elon Musk just put pen to paper on a lucrative deal with NASA that could see SpaceX pocket up to $255 million for the launch, and delivery, of the highly-anticipated Grace Roman Telescope.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <!--  -->
+    <!-- DIVIDER LINE -->
     <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3BpDARN" target="_blank" style="color: #3498DB; text-decoration: none;">How to NOT Screw Up Firebase Environment Variables</a></h3>
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3QNutQ0" target="_blank" style="color: #3498DB; text-decoration: none;">Azure Developer Associate (AZ-204)—Full Course Pass the Exam! (13hr course)</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3BpDARN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189305201-07d08993-fc91-486e-a4f3-9d57a88508ad.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3QNutQ0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186614997-d683732f-bddc-463d-ac74-b36c4d29ba69.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Firebase recently added support for dotenv environment variables and secret manager in the Cloud Functions Node.js runtime.Learn more about it in this video!</p>
+          <p style="font-size: 14px;">The Microsoft Azure Developer Associate certification is an entry-level certification. This course will prepare you for the exam: AZ-204 with a series of lectures and hands-on experience to teach you all of the necessary concepts.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3dZXKbW" target="_blank" style="color: #3498DB; text-decoration: none;">Stable Diffusion API Tutorial - NoCode AI Art Generations without GPU</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3dZXKbW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186606638-592454d8-4b81-45a1-a26b-854189128386.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">If you were missing out on Stability Diffusion (Stable Diffusion) without GPU or any intense coding, here's a simple tutorial to use the Stability AI (Stable Diffusion) API to generate AI art images.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -201,23 +232,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3RS06s0" target="_blank" style="color: #3498DB; text-decoration: none;">Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)</a></h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3KjnbRw" target="_blank" style="color: #3498DB; text-decoration: none;">Microservices explained - the What, Why and How?</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3RS06s0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189302929-72b9450e-a3c2-4952-91e6-cb0741a2793b.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3KjnbRw" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186622808-1931c5ea-90be-4dfb-a289-b7e7f9df8aac.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this massive course, you will go from no coding experience to having the essential skills of a frontend web developer. You will learn various web development technologies and create a few projects along the way.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- DIVIDER LINE -->
-    <mj-section>
-      <mj-column>
-        <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3KZ5Pdh" target="_blank" style="color: #3498DB; text-decoration: none;">Game Development with LÖVE 2D and Lua – Full Course</a></h3>
-        </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3KZ5Pdh" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189303823-057dc94a-e563-434f-902c-58ea7b8f82fc.png"></mj-image>
-        <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this course, you will first learn how to program in Lua. Then you will learn how to use LÖVE framework with Lua to develop amazing games.</p>
+          <p style="font-size: 14px;"> Microservices are an application architecture pattern that decomposes an application into smaller services. Learn about the differences between a monolithic to microservices architecture, monorepo vs polyrepo, and how microservices connect with each other in this video.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -228,7 +247,11 @@
         <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
       </mj-column>
     </mj-section>
+    <mj-raw>
+      <!-- ------ -->
+    </mj-raw>
     <!--  -->
+    <!-- DIVIDER LINE -->
     <mj-raw>
       <!-- ------ -->
     </mj-raw>
@@ -241,50 +264,48 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3BoFbXV" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189108781-aa8bec54-971f-45f0-90b0-434d93679a01.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3Cwanpo" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186625958-19c20c75-3988-475a-a1ed-92dab70cc698.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3BoFbXV" target="_blank" style="color: #3498DB; text-decoration: none">Difftastic, the Fantastic Diff</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">This article explains how Difftastic—a tool for comparing files based on their syntax—was developed and the difficulties encountered in its development. It also looks at what's next for this tool.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3DcKTxB" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189311409-aa4325ac-cf7f-4957-b9a1-a596a472e03c.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3DcKTxB" target="_blank" style="color: #3498DB; text-decoration: none">Visual Studio Code is designed to fracture</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, you'll learn about the ecosystem of open source forks, revisit how Microsoft has been transforming from products to services, go deep into why Visual Studio Code—the company's flagship editor—is designed to fracture and examine its legal implications.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3RynZ8a" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189313740-429fbe28-9526-41c5-b7bf-ab7f16e2feb6.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3RynZ8a" target="_blank" style="color: #3498DB; text-decoration: none">Webhooks.fyi</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn about the various approaches for building, securing, and operating webhooks–and what kinds of providers and consumers exist.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cwanpo" target="_blank" style="color: #3498DB; text-decoration: none">Nutshell: make expandable explanations</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Nutshell is a tool to make "expandable explanations". They can even be recursive. This lets your readers learn only the details they need, just-in-time, always-in-context.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3xataTI" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189312877-73b2f838-92d1-45c2-b598-bce1c68d938c.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3Cw09oX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186627736-8b98c6df-fbe9-4d6d-95bd-0160e3e5f2d3.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3xataTI" target="_blank" style="color: #3498DB; text-decoration: none">Markwhen: text-to-timeline tool</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cw09oX" target="_blank" style="color: #3498DB; text-decoration: none">Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">CSS Grid has been around for years, but there are still a lot of little-known and not widely discussed tricks. The implicit grid and auto-placement features are two of them! Check this article to learn more about the implicit grid with indepth explanations and examples.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3AQWDnR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186653014-1f711293-967c-4647-813f-6bda320f54a0.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AQWDnR" target="_blank" style="color: #3498DB; text-decoration: none">New in UX? Learn these repetitive user research methods [1/3]</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn about user research, the role it plays in helping us make better design decisions, the various methods for conducting research, and more in-depth about user experience(UX).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3AMxZ7S" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186629946-4cc01fcb-50eb-4e4f-912a-908be3cc6f28.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AMxZ7S" target="_blank" style="color: #3498DB; text-decoration: none">Astro 1.0 Web Framework is out!</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Astro is a website framework for building fast, content-focused websites. Performance is powered by Astro's next-gen island architecture. Learn more about Astro 1.0 release and their fresh new website, plus what people are saying about Astro.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -317,12 +338,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3cWEPP3" style="color: #3498DB; text-decoration: none">Twitter is finally rolling out an edit button later this month, first to Twitter Blue subscribers</a> </h3>
-          <p style="font-size: 14px">Twitter is adding an edit button to its platform, a much-requested feature that will provide users with greater control over what they share.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://red.ht/3QNPZEd" style="color: #3498DB; text-decoration: none">How OSS shapes AI policy, open source comes to medical datasets, and more!</a> </h3>
+          <p style="font-size: 14px">Open source software made headlines last month with a number of significant advances. Read on to learn about some of the major advances.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3cWEPP3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189333362-632ce3df-a8ac-4af3-9e1f-8f0abda06582.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://red.ht/3QNPZEd" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186632610-0cea4e36-8b21-415d-972f-86c5a8ac4956.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -334,28 +355,27 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3RPwxHl" style="color: #3498DB; text-decoration: none">How the metaverse could bring us closer to a sustainable reality</a> </h3>
-          <p style="font-size: 14px">The metaverse is poised to transform the way we interact and conduct business. In order for virtual worlds to be sustainable, we must establish sustainability practices as they continue to take shape in this new frontier—learn more about it in this article!</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3pJIzWI" style="color: #3498DB; text-decoration: none">TikTok’s In App Browser Includes Code That Can Monitor Your Keystrokes, Researcher Says</a> </h3>
+          <p style="font-size: 14px">TikTok's in-app browser inserts code that allows the company to monitor user activity. This includes keystrokes and whatever users tap on the page. The monitoring makes it possible for TikTok to capture information such as passwords or credit card numbers. TikTok claims that it is not using them. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3RPwxHl" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189332874-9f5c70d5-cc37-4dc4-894e-fd8ee821a02b.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3pJIzWI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186636602-a579f8b6-15d0-4184-8c9e-64061a99bc1c.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
       <!-- -->
     </mj-raw>
     <!--  -->
-    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3TUrXJL" style="color: #3498DB; text-decoration: none">Professional AI whisperers have launched a marketplace for DALL-E prompts</a></h3>
-          <p style="font-size: 14px">PromptBase is a market where prompt sellers sell text prompts for AI image generators. Customers can buy paid text prompts from $2 - $5 and then use them to create images. This article features an interview with one of the prompt engineers of the market and examples of paid-for image prompts.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dKmG6U" style="color: #3498DB; text-decoration: none">IBM makes open source tookit available to fight software supply chain attacks</a></h3>
+          <p style="font-size: 14px">IBM announced that it had made an open source tool to increase visibility into software supply chains and detect potential threats before they can do any harm as part of its efforts to help secure the digital economy.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3TUrXJL" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189334160-c0dd3d90-756c-4bce-a950-e0d4b6eae33e.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dKmG6U" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186639124-618a748f-638d-4e67-966f-155ea55c2fc1.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -363,14 +383,15 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Qqg6jP" style="color: #3498DB; text-decoration: none">Scientists Wire Chip to Cockroaches' Nervous System, Allow Them to Be Remote Controlled</a></h3>
-          <p style="font-size: 14px">Scientists have created cyborg cockroaches, outfitting the insects with electrodes in their antennae and cerci—the appendages on a roach's abdomen. With these enhancements, researchers can now control the bugs remotely by sending electrical signals to their brains.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3ApfEvV" style="color: #3498DB; text-decoration: none">Shuffles, Pinterest’s invite-only collage-making app, is blowing up on TikTok — here’s how to get in</a></h3>
+          <p style="font-size: 14px">Pinterest app Shuffles is climbing the App Store's Top Charts. The app allows users to build collages using Pinterest's photo library or by taking pictures. It has a feature similar to iOS 16's forthcoming image cutout feature that lets users cut out objects from photos.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Qqg6jP" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189335139-bfc98efb-3ca8-45ba-be00-4b9d6ba551c7.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3ApfEvV" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186642249-127aec24-87c5-4fa3-96b6-2d0d73241f63.gif"></mj-image>
       </mj-column>
     </mj-section>
+    <!--  -->
     <mj-raw>
       <!--  -->
     </mj-raw>
@@ -400,33 +421,34 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3B2h4Nw" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189316277-900f13c4-c1bd-4ab9-a40e-73908bf1ed1a.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3AJDHr4" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186645540-19613829-60b8-4270-bb84-aed23bd42461.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3B2h4Nw" target="_blank" style="color: #3498DB; text-decoration: none">Globalink Research Internship</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">The Mitacs Globalink Research Internship is a competitive initiative for international undergraduates from many countries and regions. The call for student applications has opened—for 2023! You have until Thursday, September 22nd at 1 p.m. (PT) to apply—so get going!</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AJDHr4" target="_blank" style="color: #3498DB; text-decoration: none">GitHub Campus Experts</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">GitHub Campus Expert is a free global program that will provide you with exclusive opportunities to learn and grow. Don't miss out on the opportunity to become part of the next generation of student community leaders. Applications closes on September 4, 2022.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-raw>
       <!--  -->
     </mj-raw>
-    <!--  -->
+    <mj-raw>
+      <!--  -->
+    </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3L8nQ8X" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189318081-1fc21ff0-c573-4862-8c72-fe075b3fa5ee.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3QNZrYs" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186646448-5fbc0bf8-25bf-4b69-b68d-5951a71b80aa.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3L8nQ8X" target="_blank" style="color: #3498DB; text-decoration: none">OIST Research Internship Program</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">The OIST Graduate School's Research Intern program provides opportunities for advanced education and research in science, technology, engineering, or math. The internship typically lasts 2 to 6 months; interns work under the direction of an academic researcher and contribute to OIST's research activities.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3QNZrYs" target="_blank" style="color: #3498DB; text-decoration: none">LFX Mentorship | The Linux Foundation</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">The LFX Mentorship program makes it easy to sponsor and help train the next generation of open source developers by serving key needs of the community. Invest in building a strong foundation for new developers by supporting their ongoing training and education.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-raw>
-      <!--  -->
-      <!-- DIVIDER LINE -->
+    <!-- - -->
+    <!-- DIVIDER LINE -->
     </mj-raw>
     <mj-section padding="0px">
       <mj-column width="100%">
@@ -449,36 +471,37 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3RynECf" style="color: #3498DB; text-decoration: none">Grey Software: learn practical tech skills at your own pace!</a></h3>
-          <p style="font-size: 14px">Grey Software is a non-profit and fully open source organization which is on a mission to democratize software education and provide learners with practical tech skills at their own pace.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3AKFU5l" style="color: #3498DB; text-decoration: none">SnoopForms: The Open Source Typeform Alternative</a></h3>
+          <p style="font-size: 14px">SnoopForms lets you build forms without writing code in minutes. All form submissions are processed by the snoopForms platform and you can view the submission in your platform or send it to other systems, services or databases.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3RynECf" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189320609-31559c3c-f7de-4fdd-a6ab-152e2f9e1465.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3PJ8HvD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186650134-5b8d4839-eec7-4f33-a40f-2632ab6a368f.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3xyncw7" style="color: #3498DB; text-decoration: none">Leapp: An open source DevTool to access your cloud.</a></h3>
-          <p style="font-size: 14px">Leapp is a cross-platform cloud access app built on Electron that is designed to manage and secure cloud access in multi-account environments. It is available for MacOS, Windows, and Linux.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3KjidUW" style="color: #3498DB; text-decoration: none">Zingg: Scalable entity resolution, data mastering and deduplication using ML</a></h3>
+          <p style="font-size: 14px">Zingg is an open source data reconciliation and deduplication tool that uses machine learning to identify duplicates. It offers a library of different matching models and can be extended with custom matching functions.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3xyncw7" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189325548-28e0d02a-0b47-43e2-9867-e4ec40ff9561.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3KjidUW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186649748-f24545b2-36ae-4509-8deb-0bfee4959ab0.gif"></mj-image>
       </mj-column>
     </mj-section>
+    <!--  -->
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3B7kS01" style="color: #3498DB; text-decoration: none">MetaCall: Ultimate polyglot programming experience.</a></h3>
-          <p style="font-size: 14px">Deploy Polyglot Applications in Seconds. From DevOps to NoOps, Push your code and Deploy Functions services or Static Files—Supporting Node.js, Python Ruby C# etc.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dYL6tm" style="color: #3498DB; text-decoration: none">Sidekick: An open source live application debugger.</a></h3>
+          <p style="font-size: 14px">Sidekick is a live debugger that lets you troubleshoot your applications while they keep on running. Add dynamic logs and put non-breaking breakpoints in your live application without the need of stopping & redeploying.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3B7kS01" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189329792-51af3e00-962d-444e-bab5-4c0e78761e2e.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dYL6tm" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186651006-3fda6436-0702-4d18-bd56-72053d063afc.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -509,7 +532,7 @@
     </mj-raw>
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_21" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_23" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
@@ -524,6 +547,7 @@
       </mj-column>
     </mj-section>
     <mj-raw>
+      <!--  -->
     </mj-raw>
     <!-- Footer -->
     </mj-raw>
