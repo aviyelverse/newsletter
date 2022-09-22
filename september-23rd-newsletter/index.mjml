@@ -64,7 +64,7 @@
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3qVg8G3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191676631-3c0f519d-fdef-4401-b3ef-dcddfe101579.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;text-align:justify;word-spacing:0px;"> October is here and that means it's time for <a href="https://bit.ly/3qVg8G3" style="color:#8661d1;text-decoration:none;">Hacktoberfest</a>! At Aviyel, we encourage you to contribute in any way—not just by writing code! We wanted to provide an avenue for people to connect, compete and collaborate with fellow open source enthusiasts.And on top of that, we’re providing mentors—giving creators a voice while also giving them assistance along the way. Want to learn more? Here's an <a href="https://aviyel.typeform.com/register" style="color:#8661d1;text-decoration-style:wavy;">exclusive invitation </a> for you to join us.</p>
+          <p style="font-size: 14px;text-align:justify;word-spacing:0px;"> October is here and that means it's time for <a href="https://bit.ly/3qVg8G3" style="color:#8661d1;text-decoration:none;">Hacktoberfest</a>! At Aviyel, we encourage you to contribute in any way—not just by writing code! We wanted to provide an avenue for people to connect, compete and collaborate with fellow open source enthusiasts.And on top of that, we’re providing mentors—giving creators a voice while also giving them assistance along the way. Want to learn more? Here's an <a href="https://aviyel.typeform.com/register" style="color:#8661d1;text-decoration-style:wavy;">exclusive invitation </a> for you to join.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -321,12 +321,6 @@
       </mj-column>
     </mj-section>
     <mj-raw>
-      <!-- ------ -->
-    </mj-raw>
-    <mj-raw>
-      <!-- Event -->
-    </mj-raw>
-    <mj-raw>
       <!-- NEWS -->
     </mj-raw>
     <mj-section>
@@ -339,12 +333,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://red.ht/3QNPZEd" style="color: #3498DB; text-decoration: none">How OSS shapes AI policy, open source comes to medical datasets, and more!</a> </h3>
-          <p style="font-size: 14px">Open source software made headlines last month with a number of significant advances. Read on to learn about some of the major advances.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UxPkJi" style="color: #3498DB; text-decoration: none">Designers worry Adobe won’t let Figma flourish</a> </h3>
+          <p style="font-size: 14px">Last week, Adobe announced its acquisition of Figma — a popular software company that makes tools for designing user interfaces and experiences — for $20 billion. Designers were immediately (and mostly) unhappy with the news.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://red.ht/3QNPZEd" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186632610-0cea4e36-8b21-415d-972f-86c5a8ac4956.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3UxPkJi" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191755537-0f6ffcf7-e1ca-4266-818a-caf9bd365752.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -356,12 +350,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3pJIzWI" style="color: #3498DB; text-decoration: none">TikTok’s In App Browser Includes Code That Can Monitor Your Keystrokes, Researcher Says</a> </h3>
-          <p style="font-size: 14px">TikTok's in-app browser inserts code that allows the company to monitor user activity. This includes keystrokes and whatever users tap on the page. The monitoring makes it possible for TikTok to capture information such as passwords or credit card numbers. TikTok claims that it is not using them. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://go.nasa.gov/3SGwq1t" style="color: #3498DB; text-decoration: none">New Webb Image Captures Clearest View of Neptune’s Rings in Decades</a> </h3>
+          <p style="font-size: 14px">The James Webb Space Telescope has shown off its capabilities closer to home by capturing the clearest view of Neptune’s rings in more than 30 years—and revealing this distant planet in a whole new light. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3pJIzWI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186636602-a579f8b6-15d0-4184-8c9e-64061a99bc1c.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://go.nasa.gov/3SGwq1t" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191754114-a6b0f153-4395-427f-bf0c-22c8a466719b.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -371,12 +365,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3dKmG6U" style="color: #3498DB; text-decoration: none">IBM makes open source tookit available to fight software supply chain attacks</a></h3>
-          <p style="font-size: 14px">IBM announced that it had made an open source tool to increase visibility into software supply chains and detect potential threats before they can do any harm as part of its efforts to help secure the digital economy.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UsIGEn" style="color: #3498DB; text-decoration: none">Uber’s hack shows the stubborn power of social engineering</a></h3>
+          <p style="font-size: 14px">Uber's chief executive officer announced that the company experienced a cyberattack in October 2016 due to an employee who was tricked into revealing password details via fake text message.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3dKmG6U" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186639124-618a748f-638d-4e67-966f-155ea55c2fc1.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3UsIGEn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191755847-f94987b2-b72e-4a09-8cd2-0305efdd5088.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -384,12 +378,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3ApfEvV" style="color: #3498DB; text-decoration: none">Shuffles, Pinterest’s invite-only collage-making app, is blowing up on TikTok — here’s how to get in</a></h3>
-          <p style="font-size: 14px">Pinterest app Shuffles is climbing the App Store's Top Charts. The app allows users to build collages using Pinterest's photo library or by taking pictures. It has a feature similar to iOS 16's forthcoming image cutout feature that lets users cut out objects from photos.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LOiH6x" style="color: #3498DB; text-decoration: none">Grand Theft Auto 6 Leaks: Everything That's Happened So Far</a></h3>
+          <p style="font-size: 14px">On Sunday, September 18th, a massive and unprecedented leak hit one of the most anticipated games in history. Dozens of video files related to Grand Theft Auto 6 began appearing on fan forum GTAForums—giving the world an unexpected (and extremely unintended) look at Rockstar's next AAA game.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3ApfEvV" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186642249-127aec24-87c5-4fa3-96b6-2d0d73241f63.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3LOiH6x" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191756890-0736aff2-12f4-4a27-adf6-b31481c47a6d.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
