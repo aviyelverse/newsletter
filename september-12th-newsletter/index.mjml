@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_august_27" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_12" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_august_27" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/184857914-cb580f5d-c50f-42ee-b612-efc697242c19.png"></mj-image>
+        <mj-image width="320px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_12" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/184857914-cb580f5d-c50f-42ee-b612-efc697242c19.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -34,7 +34,7 @@
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #25 - September 12th</mj-text>
         <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
-        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_august_27" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_12" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="1px">
@@ -584,7 +584,7 @@
     </mj-raw>
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_august_27" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_september_12" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
