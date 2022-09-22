@@ -265,48 +265,48 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3Cwanpo" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186625958-19c20c75-3988-475a-a1ed-92dab70cc698.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3xKvCAi" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191735857-fd807d98-3b85-4852-a5a2-b290f3a4bc10.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cwanpo" target="_blank" style="color: #3498DB; text-decoration: none">Nutshell: make expandable explanations</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Nutshell is a tool to make "expandable explanations". They can even be recursive. This lets your readers learn only the details they need, just-in-time, always-in-context.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3xKvCAi" target="_blank" style="color: #3498DB; text-decoration: none">Ever wondered how a QR code works?</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Even if you've never heard of a QR code, chances are that you're already subconsciously familiar with them. They're used throughout a range of different kinds of materials these days—so how do they work? Find out by reading this article!</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3Cw09oX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186627736-8b98c6df-fbe9-4d6d-95bd-0160e3e5f2d3.gif"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3SmVkmy" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191739479-81c11238-6319-48a2-9740-d6da069ce260.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Cw09oX" target="_blank" style="color: #3498DB; text-decoration: none">Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">CSS Grid has been around for years, but there are still a lot of little-known and not widely discussed tricks. The implicit grid and auto-placement features are two of them! Check this article to learn more about the implicit grid with indepth explanations and examples.
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3SmVkmy" target="_blank" style="color: #3498DB; text-decoration: none">Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, you will learn how AWS Controllers for Kubernetes(ACK)works in conjunction with Amazon’s Elastic Kubernetes Service(EKS) service to help collocate Redis servers onto an Elastic Compute Cloud (EC2) instance.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3AQWDnR" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186653014-1f711293-967c-4647-813f-6bda320f54a0.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3dGkzBk" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191743071-3fae3f44-9cb3-4c0e-bb4e-b7805230b99e.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AQWDnR" target="_blank" style="color: #3498DB; text-decoration: none">New in UX? Learn these repetitive user research methods [1/3]</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Learn about user research, the role it plays in helping us make better design decisions, the various methods for conducting research, and more in-depth about user experience(UX).</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3dGkzBk" target="_blank" style="color: #3498DB; text-decoration: none">Palette.fm: a new AI colorizer</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Colorize anything from old black & white photos, artwork and more in minutes. It's as easy as Instagram—no signup required and it's absolutely free!</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3AMxZ7S" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186629946-4cc01fcb-50eb-4e4f-912a-908be3cc6f28.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3UtLEs8" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191745146-e1a41b4d-0464-48df-812d-c2504f692a7d.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AMxZ7S" target="_blank" style="color: #3498DB; text-decoration: none">Astro 1.0 Web Framework is out!</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Astro is a website framework for building fast, content-focused websites. Performance is powered by Astro's next-gen island architecture. Learn more about Astro 1.0 release and their fresh new website, plus what people are saying about Astro.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3UtLEs8" target="_blank" style="color: #3498DB; text-decoration: none">Jett: a lightweight micro-framework for building Go HTTP services.</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Jett is a micro-framework that builds on top of HttpRouter to enable subrouting and flexible addition of middleware.It strives to be simple and easy to use, with minimal abstractions. The core framework is less than 300 loc but designed for extension by adding middleware components—perfect for your next project!</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -409,58 +409,6 @@
     </mj-raw>
     <mj-raw>
       <!-- Learn -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="100%">
-        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#OPPORTUNITIES</mj-text>
-        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="160px"></mj-divider>
-      </mj-column>
-    </mj-section>
-    <mj-section></mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3AJDHr4" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186645540-19613829-60b8-4270-bb84-aed23bd42461.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3AJDHr4" target="_blank" style="color: #3498DB; text-decoration: none">GitHub Campus Experts</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">GitHub Campus Expert is a free global program that will provide you with exclusive opportunities to learn and grow. Don't miss out on the opportunity to become part of the next generation of student community leaders. Applications closes on September 4, 2022.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3QNZrYs" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186646448-5fbc0bf8-25bf-4b69-b68d-5951a71b80aa.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3QNZrYs" target="_blank" style="color: #3498DB; text-decoration: none">LFX Mentorship | The Linux Foundation</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">The LFX Mentorship program makes it easy to sponsor and help train the next generation of open source developers by serving key needs of the community. Invest in building a strong foundation for new developers by supporting their ongoing training and education.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- - -->
-    <!-- DIVIDER LINE -->
-    </mj-raw>
-    <mj-section padding="0px">
-      <mj-column width="100%">
-        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!-- ------ -->
-    </mj-raw>
-    <mj-raw>
-      <!-- Fun -->
     </mj-raw>
     <mj-section>
       <mj-column width="100%">
