@@ -47,13 +47,7 @@
     <mj-raw>
       <!-- READ -->
     </mj-raw>
-    <mj-raw>
-      <!-- Watch -->
-    </mj-raw>
     <!--  -->
-    <mj-raw>
-      <!-- Watch -->
-    </mj-raw>
     <mj-section>
       <mj-column width="100%">
         <mj-text align="center" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">🐱‍💻Hacktoberfest With Aviyel👨‍💻</mj-text>
@@ -66,11 +60,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px" align="center">
-          <h3 style="font-weight: bold"> <a href="" target="_blank" style="color: #3498DB; text-decoration: none;">We are super excited to announce Hactoberfest with Aviyel</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3qVg8G3" target="_blank" style="color: #3498DB; text-decoration: none;">We are super excited to announce Hactoberfest with Aviyel</a> </h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191676631-3c0f519d-fdef-4401-b3ef-dcddfe101579.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3qVg8G3" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191676631-3c0f519d-fdef-4401-b3ef-dcddfe101579.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;text-align:justify;word-spacing:0px;"> October is here and that means it's time for <a href="" style="color:#8661d1;text-decoration:none;">Hacktoberfest</a>! At Aviyel, we encourage you to contribute in any way—not just by writing code! We wanted to provide an avenue for people to connect, compete and collaborate with fellow open source enthusiasts.And on top of that, we’re providing mentors—giving creators a voice while also giving them assistance along the way. Want to learn more? Here's an <a href="https://aviyel.typeform.com/register" style="color:#8661d1;text-decoration-style:wavy;">exclusive invitation </a> for you to join us.</p>
+          <p style="font-size: 14px;text-align:justify;word-spacing:0px;"> October is here and that means it's time for <a href="https://bit.ly/3qVg8G3" style="color:#8661d1;text-decoration:none;">Hacktoberfest</a>! At Aviyel, we encourage you to contribute in any way—not just by writing code! We wanted to provide an avenue for people to connect, compete and collaborate with fellow open source enthusiasts.And on top of that, we’re providing mentors—giving creators a voice while also giving them assistance along the way. Want to learn more? Here's an <a href="https://aviyel.typeform.com/register" style="color:#8661d1;text-decoration-style:wavy;">exclusive invitation </a> for you to join us.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -96,12 +90,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://go.nasa.gov/3dVFqAD" style="color: #3498DB; text-decoration: none">Webb’s Jupiter Images Showcase Auroras, Hazes</a> </h3>
-          <p style="font-size: 14px">James Webb Space Telescope, a successor to the Hubble Telescope, has captured new images of Jupiter that show the planet's turbulent atmosphere. The telescope's observations will provide scientists with even more clues about the planet's inner life.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3R8JYkN" style="color: #3498DB; text-decoration: none">OpenAI open sources Whisper,a multilingual speech recognition system</a> </h3>
+          <p style="font-size: 14px">OpenAI has open sourced Whisper, a speech recognition system that enables translation from multiple languages as well as transcription in the target language. Learn more about it in depth here.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://go.nasa.gov/3dVFqAD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186579276-4922a1f9-c2cb-4a86-9da0-9aafbcca2ee2.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3R8JYkN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191686013-ebdc0ab8-9950-40cc-a6f6-8ec342a6d5f6.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -111,12 +105,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3R7Io34" style="color: #3498DB; text-decoration: none">Google research AI image noise reduction is out of this world</a> </h3>
-          <p style="font-size: 14px">MultiNeRF is a project from Google Research that includes algorithms designed to improve image quality, especially in low-light scenes. The algorithms can remove noise from images to improve their quality, find out more about this in this article.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3S2sdoE" style="color: #3498DB; text-decoration: none">I tried replacing Google with TikTok, and it worked better than I thought</a> </h3>
+          <p style="font-size: 14px">Google has identified TikTok as a possible existential threat to its search engine. Almost 40% of young people use TikTok or Instagram to discover places rather than using Google Maps or Search; this article looks at how the app stacks up against Google in terms of discovery.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3R7Io34" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186390063-848dba23-9376-4a7d-978c-ab99fca1436f.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3S2sdoE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191687883-f87cc6df-8f35-4001-b6a4-2663c493a9cc.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ------ -->
@@ -124,12 +118,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://cnet.co/3Ta0Dqy" style="color: #3498DB; text-decoration: none">Why Stacking Chips Like Pancakes Could Mean a Huge Leap for Laptops?</a> </h3>
-          <p style="font-size: 14px">Intel's new Meteor Lake and Ponte Vecchio processors will use packaging to reach faster speeds. Packaging involves linking several chiplets into one larger processor like Apple does with the M1 Max and M1 Ultra, but with a much lower price tag.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3Urlpma" style="color: #3498DB; text-decoration: none">Coding Made AI—Now, How Will AI Unmake Coding?</a> </h3>
+          <p style="font-size: 14px">Advances in AI are leading to systems that can write code from natural language descriptions. Automated coding assistants, which help developers work faster—are now being used more often. This article discusses advances in AI coding systems that could change how we approach software development as a whole.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://cnet.co/3Ta0Dqy" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186394365-f3cafb0b-bc30-4d33-afd1-ec862adf2d36.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3Urlpma" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191690203-0bb17b6e-c5ce-4fe9-875c-56598337807a.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -141,16 +135,27 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3QKSjvK" style="color: #3498DB; text-decoration: none">Electrical currents to the brain improve memory for older adults, study finds</a> </h3>
-          <p style="font-size: 14px">Scientists used a swim cap-like device studded with electrodes to deliver electric currents to specific parts of the brain. The electrical stimulation helped improve the brain's growth and changed areas important for memory. The scientists plan to test the device on people with Alzheimer's disease.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3R2Pqpx" style="color: #3498DB; text-decoration: none">Ethereum switches to Proof-of-Stake(PoS) consensus after completing The Merge</a> </h3>
+          <p style="font-size: 14px">Ethereum has completed its transition to a new algorithm that reduces energy consumption by more than 99%. Proof-of-Stake, or PoS, is now used instead of mining. Validators stake their own ETH as security deposits and are rewarded for validating blocks on the Ethereum blockchain—with much less in fees compared with previous versions.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3QKSjvK" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/186396816-3d1dd062-beca-402d-8e6e-4810353fd4ae.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3R2Pqpx" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191692154-4af7e45e-843b-4c99-823a-c3cb7de85e74.png"></mj-image>
       </mj-column>
     </mj-section>
     </mj-raw>
     <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LAWc4F" style="color: #3498DB; text-decoration: none">Top 9 Best UI Component Libraries & Frameworks for Front-end Developers</a> </h3>
+          <p style="font-size: 14px">In this article, we'll explore the pros and cons of using a UI component library or CSS framework to build your next project—and then we'll go over some excellent choices available on the market for absolutely free!</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3LAWc4F" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/191695257-35566269-1a1a-4676-a314-862917b0af3e.gif"></mj-image>
+      </mj-column>
+    </mj-section>
     <!-- ---- -->
     <mj-section padding="0px">
       <mj-column width="100%">
