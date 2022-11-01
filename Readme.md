@@ -19,7 +19,7 @@
 |  [June 11th 2022](https://aviyelverse.github.io/newsletter/june-11th-newsletter/)        |[June 18th 2022](https://aviyelverse.github.io/newsletter/june-18th-newsletter/)    |[June 25th 2022](https://aviyelverse.github.io/newsletter/june-25th-newsletter/)   |
 |  [July 6th 2022](https://aviyelverse.github.io/newsletter/july-6th-newsletter/)        |  [July 9th 2022](https://aviyelverse.github.io/newsletter/july-9th-newsletter/)    | [July 23rd 2022](https://aviyelverse.github.io/newsletter/july-23rd-newsletter/)  |
 |  [August 3rd 2022](https://aviyelverse.github.io/newsletter/august-3rd-newsletter/)        | [August 18th 2022](https://aviyelverse.github.io/newsletter/august-18th-newsletter/)    |  [August 27th 2022](https://aviyelverse.github.io/newsletter/august-27th-newsletter/) |
-| [September 12th 2022](https://aviyelverse.github.io/newsletter/september-12th-newsletter/) | [September 23rd 2022](https://aviyelverse.github.io/newsletter/september-23rd-newsletter/) |
+| [September 12th 2022](https://aviyelverse.github.io/newsletter/september-12th-newsletter/) | [September 23rd 2022](https://aviyelverse.github.io/newsletter/september-23rd-newsletter/) | [November 2nd 2022](https://aviyelverse.github.io/newsletter/november-2nd-newsletter/) |
 
 </div>
 
