@@ -418,12 +418,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LTXKoN" style="color: #3498DB; text-decoration: none;word-spacing:0px;">Nft.storage: Open Source Decentralized Storage and Bandwidth platform for NFTs on IPFS and Filecoin.</a></h3>
-          <p style="font-size: 14px;word-spacing:0px;">nft.storage uses the IPFS as a key part of its storage and retrieval infrastructure. The IPFS network is a peer-to-peer network of computers that share resources to efficiently provide content to anyone that requests it.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3tuJIDs" style="color: #3498DB; text-decoration: none;word-spacing:0px;">Togglee: Real-time feature flags without a server.</a></h3>
+          <p style="font-size: 14px;word-spacing:0px;">Togglee is a set of libraries that enable the use of feature toggles in different development languages with one set of toggle definition. It's different from other technologies as it does not depend on a service to serve this content, but actually relies on plain text files server over the internet or your servers through a URL.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3LTXKoN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170487093-b126e38a-da9d-412d-9ffc-ddd6e501fbf6.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3tuJIDs" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201997402-5dbdd70b-8d1a-4e14-8684-cb3d716e2228.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -443,26 +443,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3PLlUoI" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Solana: Fully open source Web-Scale Blockchain for Fast, Secure, Scalable, dapps and Marketplaces. </a></h3>
-          <p style="font-size: 14px;word-spacing:0px;">Solana is a highly functional open source project that implements a new, permissionless, and high-speed layer-1 blockchain.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3hJofnQ" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Tarantx/tarant: Reactive, actor based framework that can be used in client and server side. </a></h3>
+          <p style="font-size: 14px;word-spacing:0px;">Tarant is a JavaScript library that implements the Actor Model, which makes concurrent programming easy to understand and maintain. Thus, the most important building block of Tarant is the Actor.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3PLlUoI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170487771-f4cb8f67-465d-4838-aa61-f36e527b3939.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-raw>
-      <!--  -->
-    </mj-raw>
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3LOK7Hy" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Web3.js - Ethereum JavaScript API</a></h3>
-          <p style="font-size: 14px;word-spacing:0px;"> Web3.js is an Ethereum JavaScript API which connects to the Generic JSON-RPC spec.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3LOK7Hy" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170488549-746b1424-2ad6-423a-9808-350bc7c9cf3d.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3hJofnQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201998611-6245c0fc-15b7-4bbd-984c-ef9ba4df37dc.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-raw>
