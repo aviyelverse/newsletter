@@ -173,6 +173,19 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3eEc36b" target="_blank" style="color: #3498DB; text-decoration: none;">Open Source Project Management With Zero Experience</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3eEc36b" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/189301597-438d3858-bfd2-48ae-a217-1cc5223e3f91.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Want to learn how you can manage an Open Source Project—even if you have no experience in the field? This video is for you!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
           <h3 style="font-weight: bold"> <a href="http://bit.ly/3UVM4Hh" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:0px;">Make Crazy Art with the NEW OpenAI Dall-e API</a> </h3>
         </mj-text>
         <mj-image width="600px" padding-top="0" padding-bottom="0px" href="http://bit.ly/3UVM4Hh" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201970681-7fd06020-f5b5-4f1a-ad71-dba7036d6791.gif"></mj-image>
@@ -213,42 +226,59 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3wPgWyK" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170474710-6852cb95-3c36-4a21-bfe8-5b2fa98fe615.png"></mj-image>
+        <mj-image width="150px" href="http://bit.ly/3V1Ao5B" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201984091-a4fb7374-ed45-4736-bb2b-43e057d5784e.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a href="https://bit.ly/3wPgWyK" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Web3-React: Simple yet Powerful Framework for Building Modern Ethereum dApps using React </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;word-spacing:-1px;" align="justify;word-spacing:0px;"> A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/38Kjoi5" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170475915-9afbebed-bfdb-4c70-ab59-81c66c7f5a45.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/38Kjoi5" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">TypeChain - 🔌 TypeScript bindings for Ethereum smart contracts </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;word-spacing:0px;" align="justify">TypeChain is a typescript binding and code generator used to create ethereum smart contracts that features static typing and IDE support.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3PHXX1C" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170476423-5078c22e-0876-41fc-a60f-85c1e0871b9f.png"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3PHXX1C" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Maskbook - The Portal to a New, Open Internet.</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;word-spacing:0px" align="justify">Mask Network is a portal to the new, open internet, that bridge from Web2.0 to Web3.0 . With Mask Network, you can send encrypted posts to your friends, trade your best token on Twitter, enjoy NFT pfps, participate in crypto lucky-draws, and share encrypted files on the multiple platforms. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3V1Ao5B" target="_blank" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Devenv: Fast, Declarative, Reproducible, and Composable Developer Environments.</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;word-spacing:0px" align="justify">Devenv allows developers to create fast, declarative, reproducible, and composable developer environments. It allows developers to share their local development environments, without containers, using a single command. </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-raw>
       <!-- DIVIDER LINE -->
     </mj-raw>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3x6lqly" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201976946-81c17f7e-77ba-457a-a734-eb7faee8e744.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3x6lqly" target="_blank" style="color: #3498DB; text-decoration: none">Quantifying GitHub Copilot’s impact on developer productivity and happiness</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">A year ago, GitHub launched a new tool called Copilot. The company has spent the past year learning how to make it better. They conducted research using surveys and experiments with developers. Their findings led to both expected—and unexpected—answers. Read this article to find out what conclusion they came up with.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3TVvoje" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201978757-2e29f3da-c0a3-4129-86eb-35f2b6f1dd82.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3TVvoje" target="_blank" style="color: #3498DB; text-decoration: none">The Realities And Myths Of Contrast And Color</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">In this article, Andrew Somers—a 35-year veteran of the Hollywood film and television industry—reveals his experience designing for illuminated presentations.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="http://bit.ly/3EAi8Lo" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201987699-5a4f4b8d-a48f-4e99-833a-54bbb3e05a13.gif"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3EAi8Lo" target="_blank" style="color: #3498DB; text-decoration: none">Directory Serve: CLI tool to send and receive file on a network to a server</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Directory serve is a command-line tool for sending and receiving files from Android or iOS devices. It creates a QR code that users scan to remotely access directories.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
     <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
@@ -267,48 +297,36 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3NFiYIj" style="color: #3498DB; text-decoration: none;word-spacing:0px;">Solana Integration: Brave Browser to Expand Web3 Access </a> </h3>
-          <p style="word-spacing:-1px;font-size: 14px;word-spacing:0px;">Solana Co-founder, Anatoly Yakovenko believes that the Solana integration will help the firm onboard the next billion users to Web3.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3O7NxrE" style="color: #3498DB; text-decoration: none;word-spacing:0px;">FTX’s ongoing saga: Everything that’s happened until now </a> </h3>
+          <p style="word-spacing:-1px;font-size: 14px;word-spacing:0px;">This article examines the relationship between two major cryptocurrency exchanges, Binance and FTX. A recent investigation into one of FTX's sister companies, Alameda Research, has resulted in a loss of faith in FTX and its token FTT. Binance, a former major FTX investor, publicly announced that it was selling its FTT holdings, causing the token price to plummet.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3NFiYIj" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170452916-e2928496-7382-418f-b005-116f54cb66b8.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3O7NxrE" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201989227-b54c946e-875f-49c1-aa27-500ee2097e85.png"></mj-image>
       </mj-column>
     </mj-section>
     <!---->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3sU6rsI" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Google seeks fresh talent to lead global Web3 team </a> </h3>
-          <p style="word-spacing:-1px;font-size: 14px;word-spacing:0px;">Following the establishment of a Web3 team within Google Cloud, the tech giant is now looking for a full-time candidate to oversee its Global Web3 marketing initiatives.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3TMK57i" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">The first cubesat to fly and operate at the Moon has successfully arrived </a> </h3>
+          <p style="word-spacing:-1px;font-size: 14px;word-spacing:0px;">CAPSTONE spacecraft has entered into lunar orbit. It will continue to refine its orbit over the next few days. The cubesat passes within 3,000 km of the lunar surface at its closest point. NASA plans to build a small space station in this orbit later this decade. Learn more about it in this article.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3sU6rsI" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170478867-4c860e15-3002-452a-bfe4-d4f8c1b87e33.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3TMK57i" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201990286-9f7891eb-0885-4ded-b96f-96800913d393.png"></mj-image>
       </mj-column>
     </mj-section>
     <!---->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3wNtmHn" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">Web3 games Million on Mars and Sunflower Land will do cross-chain event </a> </h3>
-          <p style="word-spacing:-1px;font-size: 14px;word-spacing:0px;">Getting blockchain games to cooperate and share gameplay across two different networks is one of the ambitions for the larger metaverse. Learn how two companies managed to accomplish this across two blockchain networks.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3GiQQu7" style="color: #3498DB; text-decoration: none;word-spacing:-1px;">AI Can Now Make Fake Selfies For Your Tinder Profile </a> </h3>
+          <p style="word-spacing:-1px;font-size: 14px;word-spacing:0px;">AI image-generating craze has entered its next phase of absurdity: creating fake profile pics that make you look good on dating apps and social media.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3wNtmHn" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170481231-87295c7f-d4f0-4408-a1a6-f6f88c90970e.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/38jKImW" style="color: #3498DB; text-decoration: none;word-spacing:0px;">Singapore Venture Firm Launches $100M Web3 and Metaverse Fund </a> </h3>
-          <p style="word-spacing:-1px;font-size: 14px;word-spacing:0px;">The startup fund, backed by Babel Finance and Huobi Ventures, will back emerging projects that are building for the Web3 and Metaverse economies.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/38jKImW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170480800-6e391e94-60e8-4a9e-b31d-ec0fd17b4d99.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3GiQQu7" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201992107-8452fcca-9fad-4b9f-83c3-8b3d3a780037.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -341,12 +359,12 @@
     </mj-raw>
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/39TonNu" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170483577-45ee9fc2-487a-428a-a101-a0eeac307887.png"></mj-image>
+        <mj-image width="150px" href="http://bit.ly/3O6XlSI" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201982098-1c0b1b25-9e4e-4344-aa07-feff24cd2c0e.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/39TonNu" target="_blank" style="color: #3498DB; text-decoration: none">100days of Web3 </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;word-spacing:0px;" align="justify">Follow this collection of FREE resources to become a full-stack web3 developer. Although this course is geared toward Ethereum developers, many of the principles are applicable to other blockchains or involve many blockchains. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3O6XlSI" target="_blank" style="color: #3498DB; text-decoration: none">Twitter alternative: how Mastodon is designed to be “antiviral” </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;word-spacing:0px;" align="justify">The new social software called Mastodon is subtly designed to reduce the huge, viral surges of attention we see on Twitter. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -406,6 +424,19 @@
       </mj-column>
       <mj-column width="25%">
         <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3LTXKoN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/170487093-b126e38a-da9d-412d-9ffc-ddd6e501fbf6.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3D8OLQ4" style="color: #3498DB; text-decoration: none">Evil Martians: an extraterrestrial product development consultancy and COSS team.</a></h3>
+          <p style="font-size: 14px">Evil Martian has created dozens of free and open source libraries and utilities for developers in diverse communities, as well as tools and plugins for UI designers.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3D8OLQ4" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/201979999-2f0a7a23-5c53-4a67-932e-cea0e6b4d990.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
