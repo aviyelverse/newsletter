@@ -1,0 +1,394 @@
+<mjml>
+  <mj-head>
+    <mj-title>Aviyel Newsletter</mj-title>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;500;600&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Inter, Helvetica, sans-serif" background-color="#FEFCFE"></mj-all>
+      <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="10px 0px">
+      <mj-column width="60%">
+        <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_7" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="90%">
+        <mj-image width="200px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_7" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/205895844-3a05bb3f-7e30-4bec-b369-14d634666218.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px">Offbeat ideas just curated for you!</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="15px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">ISSUE #29 - December 7th</mj-text>
+        <mj-divider width="60%" border-width="2px" border-color="#8661d1"></mj-divider>
+        <mj-image padding-top="10px" target="_blank" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_7" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- READ -->
+    <!--  -->
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <!-- ------ -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#READ</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="70px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- - -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HaJoBW" style="color: #3498DB; text-decoration: none">Google switching to continuous scrolling for desktop Search results</a></h3>
+          <p style="font-size: 14px">Google is adding continuous scrolling to its desktop search results, allowing users to see up to six more pages of results without clicking. This feature will be available first for English users in the United States.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3HaJoBW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/205898532-058203ed-1347-49de-b757-55567caae3a5.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
+    <!-- -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3gTXRHu" style="color: #3498DB; text-decoration: none">Apple flexes its control over the App Store</a> </h3>
+          <p style="font-size: 14px">Apple has updated its AppStore rules to allow it to take a cut of some advertising and purchase revenue from social media apps, as well as web3 applications. The company is attempting to make more money from its AppStore. While developers are unhappy about the changes, they feel powerless to do anything.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3gTXRHu" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/198519048-8135072d-1957-4f74-85f1-e7fa10fdd875.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3U0NxLS" style="color: #3498DB; text-decoration: none">It happened: Elon officially owns Twitter</a> </h3>
+          <p style="font-size: 14px">After months of legal drama, bad memes, and will-they-won't-they chaos to rival any romcom, Elon Musk has finally closed his $44 billion acquisition of Twitter. The deal was officially signed off on Thursday—ousting a handful of executives in the process.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3U0NxLS" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/198518425-91a9e6dc-93e0-46ef-bf9b-1fe521e45dd6.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
+    <!-- ---- -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3NnJuqV" style="color: #3498DB; text-decoration: none">Can a new form of cryptography solve the internet’s privacy problem?</a> </h3>
+          <p style="font-size: 14px">Callisto is a site that allows survivors of sexual assault to determine whether their assailants are repeat offenders. The site uses encryption to protect perpetrators' identities while allowing victims to find lawyers if they're named by two or more people. It could also be used in other ways, such as anonymously reporting incidents.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3NnJuqV" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199304312-f19e4ea2-46ae-4cff-b054-ac2971051131.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UiI2YX" style="color: #3498DB; text-decoration: none">A Step-by-Step Guide to Automating an API Test Case with Testsigma</a> </h3>
+          <p style="font-size: 14px">As the demand for API services grows,it can be a challenge to set up tests for multiple endpoints.In this article you will explore how to use Testsigma—which automates testing APIs—to streamline your development process.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3UiI2YX" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199308984-d8db88c0-334f-4bf2-8eb3-886b652d5f38.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ---- -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- Event -->
+    <!-- Watch -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-top="30px" padding-bottom="0px" font-size="18px">#WATCH</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="85px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3sM5ZfN" target="_blank" style="color: #3498DB; text-decoration: none;">How to Build a Space Colony | Visualizing The Future</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3sM5ZfN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199266523-c7cc4fc1-427b-461a-8722-4c872545f578.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">In this video, you will learn what humans' first off-world settlement might look like and how we would navigate life in the final frontier?</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3TVBlMZ" target="_blank" style="color: #3498DB; text-decoration: none;">When your JavaScript framework gets acquired</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3TVBlMZ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199270872-c7320d69-92c6-44c0-b883-48ca2815edeb.gif"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">The Remix React framework is joining forces with Shopify where it will be integrated into its Hydrogen framework. Interestingly, this is a change in direction away from React Server Components (RSC), which were recently adopted by Next.js.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3NsfNEZ" target="_blank" style="color: #3498DB; text-decoration: none;">Build and Deploy an Online Multiplayer Web 3 NFT Card Game | Full Course (5hr course)</a> </h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3NsfNEZ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199271683-4df624c5-62a5-4abe-8aad-07ca935ae07d.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Web 3.0 will change the way we think about and use the internet forever, but you can be one of the first people to take advantage of this new paradigm by creating your own blockchain application right now! Create your characters, create and join live battles, choose your battleground, and battle other players in real-time!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3 style="font-weight: bold"><a href="https://bit.ly/3TOs0X7" target="_blank" style="color: #3498DB; text-decoration: none;">Harvard CS50 – Full Computer Science Course(24hr course)</a></h3>
+        </mj-text>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3TOs0X7" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199272320-c69d68e9-0863-43ca-be34-1a4a03038eb1.png"></mj-image>
+        <mj-text padding-top="0">
+          <p style="font-size: 14px;">Watch this video to learn the basics of computer science from Harvard University. This is CS50, an introduction to the intellectual enterprises of computer science and programming languages.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- -->
+    <!-- -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#CODE</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3Ug05zb" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199341255-7b68ddee-9029-4084-b4fe-3db52ec93c3c.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Ug05zb" target="_blank" style="color: #3498DB; text-decoration: none">How to write maintainable JavaScript code in 2023 — Web or Node.js</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">JavaScript development is still chaotic. Computers get faster every year, so we get to write code for programmers—not machines. In this article you will learn how to write maintainable JavaScript that works well on both Web and Node implementations.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3h55ElT" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199342964-d870e582-3ae4-45ff-850d-2c078fbbed72.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h55ElT" target="_blank" style="color: #3498DB; text-decoration: none">Replit’s Ghostwriter AI can explain programs to you—or help write them</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Replit announced Ghostwriter, an AI-powered programming assistant that can suggest and compose code in various programming languages within its online development environment. It resembles GitHub Copilot's ability to recognize and compose codes from repositories on the platform—but unlike Copilot Ghostwritter is suggested as an add-on rather than a standalone offering.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3WprT6b" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199349811-343e89a4-2e15-49b6-905b-aebb60be7fef.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3WprT6b" target="_blank" style="color: #3498DB; text-decoration: none">How to Build Production Ready eCommerce site with ReactJS, TailwindCSS, PlanetScale and Stripe </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">In this detailed guide written by Sharvin Shah, you will learn to build a production-ready eCommerce website using React JS and Tailwind CSS PlanetScale and Stripe as the payment gateway system.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3DOALL8" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199343629-207b9096-af7e-40ba-ba0d-c26851494276.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3DOALL8" target="_blank" style="color: #3498DB; text-decoration: none">How to Implement Infrastructure as Code with AWS</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Infrastructure as code is a process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable. In this article you will learn how to use IaC with AWS.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154232409-345f9978-4ba2-4ee1-9bf4-e88bd7a732bb.png" alt="" width="405px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- NEWS -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#NEWS</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="80px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3fnppEH" style="color: #3498DB; text-decoration: none">This implant turns brain waves into words</a></h3>
+          <p style="font-size: 14px">Scientists have developed a system that allows people to communicate with each other using only their thoughts. The system decodes users' intent to control the vocal tract and involves implanting a flexible electrode array across the surface of the cortex.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3fnppEH" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199333611-bdbc33f6-eea0-4025-a07d-a6c2805afa23.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!---->
+    <!---->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3FAbntT" style="color: #3498DB; text-decoration: none">How a Redditor Ended Up With an Industrial Grade Netflix Server</a> </h3>
+          <p style="font-size: 14px">A Redditor says they managed to get a hold of an old Netflix server for free and posted their findings about the mysterious hardware online. The devices were part of Netflix’s Open Connect CDN—so that users would receive a better streaming experience for Netflix content. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3FAbntT" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199331555-fff4860d-067d-4115-b06c-98bd1793ce63.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UaYZo8" style="color: #3498DB; text-decoration: none">Why one web pioneer thinks it’s time to reinvent the browser</a></h3>
+          <p style="font-size: 14px">Darin Fisher is working on a new browser that he hopes will change how people think about the web. He built some of the world's most popular browsers—and now believes it’s time to shake things up with something different.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3UaYZo8" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199339697-49548fc1-2983-4162-80b2-68800aa5d5f9.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!---->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3WmYIjZ" style="color: #3498DB; text-decoration: none">Twitter Blue will cost $8 per month with regional pricing</a> </h3>
+          <p style="font-size: 14px">Twitter’s new subscription plan, announced by Elon Musk on Twitter, will cost $8 a month and have fewer ads than usual..</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3WmYIjZ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199327765-8a711c39-bd39-438b-8af6-a31ac375b4f9.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- Learn -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#OSSSpotlight</mj-text>
+        <mj-divider align="left" border-width="2px" border-color="#8661d1" width="130px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3U6L7vk" style="color: #3498DB; text-decoration: none">Rocket.Chat: The communications platform that puts data protection first. </a></h3>
+          <p style="font-size: 14px">Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3U6L7vk" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199346387-71415823-c925-4589-8a77-5912e5469d7f.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3zzwdFQ" style="color: #3498DB; text-decoration: none">InfuseAI/primehub: an open source MLOps platform.</a></h3>
+          <p style="font-size: 14px">PrimeHub is an effortless infrastructure for machine learning built on the top of Kubernetes. It provides cluster-computing, one-click research environments, easy dataset loading, and management of various resources and access-control.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3zzwdFQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199345157-6dff4e5d-fc86-4f60-9b45-1e086978b98e.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- DIVIDER LINE -->
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-image src="https://user-images.githubusercontent.com/37651620/154254152-43c0acc2-164e-4614-9998-7336026648cc.png" alt="" width="520px" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- ------ -->
+    <!-- Last line -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="0px" border-color="#E0E0E0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- Test -->
+    <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
+      <mj-column width="100%">
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_7" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
+          <mj-social-element background-color="#3B5998" target="_blank" href="https://bit.ly/3w4iA0i" name="facebook-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" target="_blank" href="https://bit.ly/3sYJFk8" name="twitter-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#0077B5" target="_blank" href="https://bit.ly/3pUONnJ" name="linkedin-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+          <mj-social-element background-color="#000000" target="_blank" href="https://bit.ly/3EWZOcr" name="github-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/github.png"></mj-social-element>
+          <mj-social-element background-color="#FF0000" target="_blank" href="https://bit.ly/3HCTrNa" name="youtube-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/youtube.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/32QpESj" name="Discord-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801j.png"></mj-social-element>
+          <mj-social-element target="_blank" href="https://bit.ly/3t0l3HU" name="Reddit-noshare" src="https://0ww71.mjt.lu/tplimg/0ww71/b/sknx5/801n.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <!-- Footer -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" align="center">
+          <p> This e-mail has been sent to [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">click here to unsubscribe</a>. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
