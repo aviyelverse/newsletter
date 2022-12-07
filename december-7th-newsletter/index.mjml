@@ -53,6 +53,18 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UATMWD" style="color: #3498DB; text-decoration: none">Maximizing Your Productivity with Aviyel's GitHub Bot: A Comprehensive Guide </a> </h3>
+          <p style="font-size: 14px">Bots can be a powerful tool for improving productivity and efficiency on GitHub. This article explores the benefits of using bots on the platform and provides an example of how the Aviyel bot can be integrated into GitHub to automate tasks and streamline your workflow.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3UATMWD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206090555-f312078d-9a48-474d-a08c-8d8e0d98ab8e.gif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
           <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HaJoBW" style="color: #3498DB; text-decoration: none">Google switching to continuous scrolling for desktop Search results</a></h3>
           <p style="font-size: 14px">Google is adding continuous scrolling to its desktop search results, allowing users to see up to six more pages of results without clicking. This feature will be available first for English users in the United States.</p>
         </mj-text>
@@ -66,12 +78,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3gTXRHu" style="color: #3498DB; text-decoration: none">Apple flexes its control over the App Store</a> </h3>
-          <p style="font-size: 14px">Apple has updated its AppStore rules to allow it to take a cut of some advertising and purchase revenue from social media apps, as well as web3 applications. The company is attempting to make more money from its AppStore. While developers are unhappy about the changes, they feel powerless to do anything.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3iumhYD" style="color: #3498DB; text-decoration: none">Biotech labs are using AI inspired by DALL-E to invent new drugs</a> </h3>
+          <p style="font-size: 14px">Biotech labs are using diffusion models to create new protein designs that do not exist in nature. These models can be used to produce proteins with specific properties for specific purposes. This technology has the potential to lead to the development of more effective drugs. However, scientists still need to figure out how to create and test these proteins.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3gTXRHu" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/198519048-8135072d-1957-4f74-85f1-e7fa10fdd875.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3iumhYD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/205903255-112b4fc2-099f-45c4-a5c3-9cc90242e656.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ------ -->
@@ -79,41 +91,29 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3U0NxLS" style="color: #3498DB; text-decoration: none">It happened: Elon officially owns Twitter</a> </h3>
-          <p style="font-size: 14px">After months of legal drama, bad memes, and will-they-won't-they chaos to rival any romcom, Elon Musk has finally closed his $44 billion acquisition of Twitter. The deal was officially signed off on Thursday—ousting a handful of executives in the process.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3utwW8L" style="color: #3498DB; text-decoration: none">ChatGPT shrugged</a> </h3>
+          <p style="font-size: 14px">ChatGPT is a new AI tool that uses NLP technology to enable people to communicate with computers in a more intuitive and natural way. The development of ChatGPT is driven by a desire to improve human-computer interaction, and the technology has many potential applications. This article will explore the background of ChatGPT and discuss how it can be used to benefit society.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3U0NxLS" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/198518425-91a9e6dc-93e0-46ef-bf9b-1fe521e45dd6.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3utwW8L" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206058438-679ea2f6-233e-4c3f-aa58-1e35cb6f49e0.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- DIVIDER LINE -->
     <!-- ---- -->
-    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3NnJuqV" style="color: #3498DB; text-decoration: none">Can a new form of cryptography solve the internet’s privacy problem?</a> </h3>
-          <p style="font-size: 14px">Callisto is a site that allows survivors of sexual assault to determine whether their assailants are repeat offenders. The site uses encryption to protect perpetrators' identities while allowing victims to find lawyers if they're named by two or more people. It could also be used in other ways, such as anonymously reporting incidents.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HbS3nH" style="color: #3498DB; text-decoration: none">The Day The AGI Was Born</a> </h3>
+          <p style="font-size: 14px">Are you curious about the latest advancements in AI? Look no further! This article explores the exciting new AI tool ChatGPT, which uses NLP technology to enable more intuitive communication between humans and computers. Learn about the potential usecases of ChatGPT and how it could help achieve AGI. Don't miss out on this fascinating insight into the future of AI—read the article now!</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3NnJuqV" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199304312-f19e4ea2-46ae-4cff-b054-ac2971051131.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UiI2YX" style="color: #3498DB; text-decoration: none">A Step-by-Step Guide to Automating an API Test Case with Testsigma</a> </h3>
-          <p style="font-size: 14px">As the demand for API services grows,it can be a challenge to set up tests for multiple endpoints.In this article you will explore how to use Testsigma—which automates testing APIs—to streamline your development process.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3UiI2YX" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199308984-d8db88c0-334f-4bf2-8eb3-886b652d5f38.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3HbS3nH" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206061925-02d277cb-9037-4a14-bf3f-6bd4af7fcdc1.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ---- -->
+    <!--  -->
     <mj-section padding="0px">
       <mj-column width="100%">
         <mj-image src="https://user-images.githubusercontent.com/37651620/154231668-ba366f9e-a506-4c8b-9798-4a1b115831ed.png" alt="" width="420px" align="left" border="none"></mj-image>
@@ -136,37 +136,35 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3sM5ZfN" target="_blank" style="color: #3498DB; text-decoration: none;">How to Build a Space Colony | Visualizing The Future</a></h3>
+          <h3 style="font-weight: bold"> <a href="http://bit.ly/3h4Kpke" target="_blank" style="color: #3498DB; text-decoration: none;">The Most Brutal Ant: The Slaver Ant Polyergus</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3sM5ZfN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199266523-c7cc4fc1-427b-461a-8722-4c872545f578.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="http://bit.ly/3h4Kpke" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206089906-90649208-5a3a-4bde-8932-747db17d4e51.gif"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">In this video, you will learn what humans' first off-world settlement might look like and how we would navigate life in the final frontier?</p>
+          <p style="font-size: 14px;">In this video, you will witness the devastating effects of a slaver nation's attack on a thriving ant colony. The once-prosperous colony has been reduced to a state of slavery, with its inhabitants forced to serve their new masters until they die, only to be replaced by fresh victims brutally harvested in raids.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!-- DIVIDER LINE -->
-    <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"> <a href="https://bit.ly/3TVBlMZ" target="_blank" style="color: #3498DB; text-decoration: none;">When your JavaScript framework gets acquired</a></h3>
+          <h3 style="font-weight: bold"> <a href="http://bit.ly/3FxoVGd" target="_blank" style="color: #3498DB; text-decoration: none;">Full Stack Web Developer Course |MERN Stack | Realtime Chat| Netflix Clone (10 hours)</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3TVBlMZ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199270872-c7320d69-92c6-44c0-b883-48ca2815edeb.gif"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="http://bit.ly/3FxoVGd" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206080783-41fc4f42-ff95-411d-ba13-55298332d784.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">The Remix React framework is joining forces with Shopify where it will be integrated into its Hydrogen framework. Interestingly, this is a change in direction away from React Server Components (RSC), which were recently adopted by Next.js.</p>
+          <p style="font-size: 14px;">In this video you will learn React, Node.js, Sockets for Real time chat app, JWT, Firebase, Redux Toolkit, Typescript, Tailwind CSS, MongoDB, Express, Styled Components and many more awesome technologies. You will build Realtime Chat App, Netflix Clone and Youtube Clone.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!-- DIVIDER LINE -->
-    <!--  -->
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3NsfNEZ" target="_blank" style="color: #3498DB; text-decoration: none;">Build and Deploy an Online Multiplayer Web 3 NFT Card Game | Full Course (5hr course)</a> </h3>
+          <h3 style="font-weight: bold"> <a href="https://bit.ly/3ULrwko" target="_blank" style="color: #3498DB; text-decoration: none;">Things are gonna get weird in 2023</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3NsfNEZ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199271683-4df624c5-62a5-4abe-8aad-07ca935ae07d.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3ULrwko" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206086691-e4f69055-a86a-45b8-88bb-709bef66982f.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Web 3.0 will change the way we think about and use the internet forever, but you can be one of the first people to take advantage of this new paradigm by creating your own blockchain application right now! Create your characters, create and join live battles, choose your battleground, and battle other players in real-time!</p>
+          <p style="font-size: 14px;">2022 was a crazy year. Let’s take a look at 10 tech trends and how they will affect software engineers going into the year 2023. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -174,11 +172,11 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3 style="font-weight: bold"><a href="https://bit.ly/3TOs0X7" target="_blank" style="color: #3498DB; text-decoration: none;">Harvard CS50 – Full Computer Science Course(24hr course)</a></h3>
+          <h3 style="font-weight: bold"> <a href="http://bit.ly/3UDNOo1" target="_blank" style="color: #3498DB; text-decoration: none;">Python GUI Development Using PySide6 and Qt – Tutorial</a></h3>
         </mj-text>
-        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="https://bit.ly/3TOs0X7" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199272320-c69d68e9-0863-43ca-be34-1a4a03038eb1.png"></mj-image>
+        <mj-image width="600px" padding-top="0" padding-bottom="0px" href="http://bit.ly/3UDNOo1" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206087340-de4fffa8-676d-40be-9567-2cc126ab6a7f.png"></mj-image>
         <mj-text padding-top="0">
-          <p style="font-size: 14px;">Watch this video to learn the basics of computer science from Harvard University. This is CS50, an introduction to the intellectual enterprises of computer science and programming languages.</p>
+          <p style="font-size: 14px;">Learn how to use Qt for Python using PySide6 to build cross platform desktop apps for Windows, Mac and Linux.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -199,36 +197,36 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3Ug05zb" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199341255-7b68ddee-9029-4084-b4fe-3db52ec93c3c.png"></mj-image>
+        <mj-image width="150px" href="http://bit.ly/3He6LKX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206079022-4738f03b-7f9b-4a10-b43d-29f75a89f7e6.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3Ug05zb" target="_blank" style="color: #3498DB; text-decoration: none">How to write maintainable JavaScript code in 2023 — Web or Node.js</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">JavaScript development is still chaotic. Computers get faster every year, so we get to write code for programmers—not machines. In this article you will learn how to write maintainable JavaScript that works well on both Web and Node implementations.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3He6LKX" target="_blank" style="color: #3498DB; text-decoration: none">Super Useful CSS Resources 🌈</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This article presents 70 web tools that can generate CSS code without requiring JavaScript or external libraries. The tools are organized into categories such as property generators, animations, backgrounds, typography, loaders, and layouts. A screenshot of each tool is included in the article.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3h55ElT" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199342964-d870e582-3ae4-45ff-850d-2c078fbbed72.png"></mj-image>
+        <mj-image width="150px" href="http://bit.ly/3UDT4I0" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206076435-37eb50db-ac24-4128-af62-dbd533279c67.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3h55ElT" target="_blank" style="color: #3498DB; text-decoration: none">Replit’s Ghostwriter AI can explain programs to you—or help write them</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Replit announced Ghostwriter, an AI-powered programming assistant that can suggest and compose code in various programming languages within its online development environment. It resembles GitHub Copilot's ability to recognize and compose codes from repositories on the platform—but unlike Copilot Ghostwritter is suggested as an add-on rather than a standalone offering.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3UDT4I0" target="_blank" style="color: #3498DB; text-decoration: none">Digging Deeper Into Container Style Queries</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Geoff Graham explores the ins and outs of container-style queries, a powerful tool for developers that allows them to create responsive and flexible designs for modern web applications. Graham goes into detail about how these queries work and how they can be used effectively in web design, making this a must-read for anyone interested in staying up to date with the latest developments in web development.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3WprT6b" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199349811-343e89a4-2e15-49b6-905b-aebb60be7fef.png"></mj-image>
+        <mj-image width="150px" href="http://bit.ly/3uOirwF" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206075047-9867efa4-de51-4e91-998e-94aa87b42d27.gif"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3WprT6b" target="_blank" style="color: #3498DB; text-decoration: none">How to Build Production Ready eCommerce site with ReactJS, TailwindCSS, PlanetScale and Stripe </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">In this detailed guide written by Sharvin Shah, you will learn to build a production-ready eCommerce website using React JS and Tailwind CSS PlanetScale and Stripe as the payment gateway system.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3uOirwF" target="_blank" style="color: #3498DB; text-decoration: none">Modern-errors: Handle errors in a simple, stable, consistent way </a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Modern Errors is a JavaScript and TypeScript library that provides a consistent and stable way to handle errors. Its features include error class creation, error property setting, error wrapping and aggregation, and the ability to distinguish between known and unknown errors. This library can be extended using plugins.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -236,12 +234,12 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="https://bit.ly/3DOALL8" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199343629-207b9096-af7e-40ba-ba0d-c26851494276.png"></mj-image>
+        <mj-image width="150px" href="http://bit.ly/3iy1eV6" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206073698-802c56da-5118-439a-96e4-ca2dc1fc1a61.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3DOALL8" target="_blank" style="color: #3498DB; text-decoration: none">How to Implement Infrastructure as Code with AWS</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Infrastructure as code is a process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable. In this article you will learn how to use IaC with AWS.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3iy1eV6" target="_blank" style="color: #3498DB; text-decoration: none">Awesome CTO: A curated list of resources for CTO's, with the emphasis on startups</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This repository has a hand-picked list of resources for Chief Technology Officers and VPs of Research and Development. It talks about how to become a CTO, how to hire people, how to manage people, how to grow your career, how to run projects, and a lot more. More resources are available on general topics like how to negotiate a job offer, how to prepare for a talk, dataops, devops—and more.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -264,12 +262,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3fnppEH" style="color: #3498DB; text-decoration: none">This implant turns brain waves into words</a></h3>
-          <p style="font-size: 14px">Scientists have developed a system that allows people to communicate with each other using only their thoughts. The system decodes users' intent to control the vocal tract and involves implanting a flexible electrode array across the surface of the cortex.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3UL9qyY" style="color: #3498DB; text-decoration: none">Third-party Twitter app makers turn their attention to Mastodon</a></h3>
+          <p style="font-size: 14px">Mastodon is an open source alternative to Twitter that is gaining popularity following the acquisition of Twitter by Elon Musk. Developers of popular Twitter apps like Aviary and Tweetbot are now looking to build similar apps for the Mastodon community—read the article now to learn more!</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3fnppEH" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199333611-bdbc33f6-eea0-4025-a07d-a6c2805afa23.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3UL9qyY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206063579-4da8a229-cd2a-4894-9328-965107e8af50.png"></mj-image>
       </mj-column>
     </mj-section>
     <!---->
@@ -277,37 +275,37 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3FAbntT" style="color: #3498DB; text-decoration: none">How a Redditor Ended Up With an Industrial Grade Netflix Server</a> </h3>
-          <p style="font-size: 14px">A Redditor says they managed to get a hold of an old Netflix server for free and posted their findings about the mysterious hardware online. The devices were part of Netflix’s Open Connect CDN—so that users would receive a better streaming experience for Netflix content. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3PaKujc" style="color: #3498DB; text-decoration: none">AWS releases Wickr, encrypted messaging service for enterprises </a> </h3>
+          <p style="font-size: 14px">The release of the enterprise version of the encrypted messaging service, announced at AWS re:Invent, is designed to allow secure collaboration across messaging, voice, video and file sharing. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3FAbntT" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199331555-fff4860d-067d-4115-b06c-98bd1793ce63.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UaYZo8" style="color: #3498DB; text-decoration: none">Why one web pioneer thinks it’s time to reinvent the browser</a></h3>
-          <p style="font-size: 14px">Darin Fisher is working on a new browser that he hopes will change how people think about the web. He built some of the world's most popular browsers—and now believes it’s time to shake things up with something different.</p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3UaYZo8" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199339697-49548fc1-2983-4162-80b2-68800aa5d5f9.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3PaKujc" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206065287-0d0c2148-75a7-4bbe-b988-37ced21d9003.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3W0pCNN" style="color: #3498DB; text-decoration: none">Apple Makes Plans to Move Production Out of China</a></h3>
+          <p style="font-size: 14px">Apple is reportedly planning to move its production outside of China in response to increasing tensions between the foxcon and workers. The company is looking at India and Vietnam as potential locations for assembling its products, and has instructed its suppliers to begin planning for production in other parts of Asia. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3W0pCNN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206067105-169c725e-1df2-46e4-83be-433efbd076d1.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
     <!---->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3WmYIjZ" style="color: #3498DB; text-decoration: none">Twitter Blue will cost $8 per month with regional pricing</a> </h3>
-          <p style="font-size: 14px">Twitter’s new subscription plan, announced by Elon Musk on Twitter, will cost $8 a month and have fewer ads than usual..</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3HgENxX" style="color: #3498DB; text-decoration: none">Physicists Create a Holographic Wormhole Using a Quantum Computer</a> </h3>
+          <p style="font-size: 14px">Physicists from the California Institute of Technology claim to have created a wormhole using a quantum computer. In the experiment, the wormhole emerged as a hologram from quantum bits of information, and the physicists were able to manipulate the qubits and send information through the wormhole. The experiment supports the holographic principle, which states that space-time and gravity arise from quantum effects.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3WmYIjZ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199327765-8a711c39-bd39-438b-8af6-a31ac375b4f9.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3HgENxX" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206068791-7b72a272-8c02-42e9-838d-1c0ea7c184b9.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -329,12 +327,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3U6L7vk" style="color: #3498DB; text-decoration: none">Rocket.Chat: The communications platform that puts data protection first. </a></h3>
-          <p style="font-size: 14px">Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3BhCvuJ" style="color: #3498DB; text-decoration: none">Astuto: A free, open source, self-hosted customer feedback tool 🦊</a></h3>
+          <p style="font-size: 14px">Astuto is a free, open source, self hosted customer feedback tool. It helps you collect, manage and prioritize feedback from your users. It has been heavely inspired by Canny.io ("astuto", indeed, is the italian translation of the word "canny",which means shrewd or clever).</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3U6L7vk" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199346387-71415823-c925-4589-8a77-5912e5469d7f.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3BhCvuJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206070742-f065f501-bcc3-4943-899c-ac49c0c73163.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -342,12 +340,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3zzwdFQ" style="color: #3498DB; text-decoration: none">InfuseAI/primehub: an open source MLOps platform.</a></h3>
-          <p style="font-size: 14px">PrimeHub is an effortless infrastructure for machine learning built on the top of Kubernetes. It provides cluster-computing, one-click research environments, easy dataset loading, and management of various resources and access-control.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3UEt2oj" style="color: #3498DB; text-decoration: none">Hackershare: an open source powerful social bookmarking service</a></h3>
+          <p style="font-size: 14px">Hackershare is a social bookmarking service that allows users to save and organize their favorite links to webpages, articles, and other online content. It is specifically designed for hackers and other tech-savvy individuals, and is often considered an alternative to popular bookmarking services like Delicious and Pocket.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3zzwdFQ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/199345157-6dff4e5d-fc86-4f60-9b45-1e086978b98e.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3UEt2oj" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206072371-02f38b11-77f6-45ae-9634-78bb2c5fa66b.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- DIVIDER LINE -->
