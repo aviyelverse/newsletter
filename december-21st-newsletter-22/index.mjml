@@ -209,36 +209,24 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="http://bit.ly/3He6LKX" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206079022-4738f03b-7f9b-4a10-b43d-29f75a89f7e6.png"></mj-image>
+        <mj-image width="150px" href="https://bit.ly/3PIOQhO" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208615841-dcd0b5e7-8ccc-47b9-89d1-6a19605fb342.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3He6LKX" target="_blank" style="color: #3498DB; text-decoration: none">Super Useful CSS Resources 🌈</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">This article presents 70 web tools that can generate CSS code without requiring JavaScript or external libraries. The tools are organized into categories such as property generators, animations, backgrounds, typography, loaders, and layouts. A screenshot of each tool is included in the article.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3PIOQhO" target="_blank" style="color: #3498DB; text-decoration: none">How We Made MuseScore 4 - Music App Design is Challenging!</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">MuseScore 4 is a complex music composition app for Mac, PC and Linux. Its predecessor (V3) was enormous and incredibly hard to overhaul. In this video, Tantacrul will take you through that process: how they built the team, made design decisions and how they improved its quality.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="http://bit.ly/3UDT4I0" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206076435-37eb50db-ac24-4128-af62-dbd533279c67.png"></mj-image>
+        <mj-image width="150px" href="http://bit.ly/3Wtvy1V" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208617065-956d8dd1-76aa-453a-b72a-c9a4a4102475.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3UDT4I0" target="_blank" style="color: #3498DB; text-decoration: none">Digging Deeper Into Container Style Queries</a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Geoff Graham explores the ins and outs of container-style queries, a powerful tool for developers that allows them to create responsive and flexible designs for modern web applications. Graham goes into detail about how these queries work and how they can be used effectively in web design, making this a must-read for anyone interested in staying up to date with the latest developments in web development.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image width="150px" href="http://bit.ly/3uOirwF" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206075047-9867efa4-de51-4e91-998e-94aa87b42d27.gif"></mj-image>
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3uOirwF" target="_blank" style="color: #3498DB; text-decoration: none">Modern-errors: Handle errors in a simple, stable, consistent way </a> </h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">Modern Errors is a JavaScript and TypeScript library that provides a consistent and stable way to handle errors. Its features include error class creation, error property setting, error wrapping and aggregation, and the ability to distinguish between known and unknown errors. This library can be extended using plugins.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3Wtvy1V" target="_blank" style="color: #3498DB; text-decoration: none">Leaked a secret? Check your GitHub alerts…for free</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">GitHub's Secret Scanning alerts allow developers to track and respond to exposed secrets directly within the GitHub platform. When a secret is identified, the feature analyzes for over 200 token forms and sends alerts. It is now undergoing a public beta rollout and will be accessible to all users by the end of January 2023.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -246,16 +234,28 @@
     <!--  -->
     <mj-section>
       <mj-column width="25%">
-        <mj-image width="150px" href="http://bit.ly/3iy1eV6" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206073698-802c56da-5118-439a-96e4-ca2dc1fc1a61.png"></mj-image>
+        <mj-image width="150px" href="http://bit.ly/3hGNQxY" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208618899-5cc331bb-f836-4aa6-9f2c-1d8bd4d94e7d.png"></mj-image>
       </mj-column>
       <mj-column width="75%">
         <mj-text>
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3iy1eV6" target="_blank" style="color: #3498DB; text-decoration: none">Awesome CTO: A curated list of resources for CTO's, with the emphasis on startups</a></h3>
-          <p style="font-size: 14px;padding-top:0px;" align="justify">This repository has a hand-picked list of resources for Chief Technology Officers and VPs of Research and Development. It talks about how to become a CTO, how to hire people, how to manage people, how to grow your career, how to run projects, and a lot more. More resources are available on general topics like how to negotiate a job offer, how to prepare for a talk, dataops, devops—and more.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="http://bit.ly/3hGNQxY" target="_blank" style="color: #3498DB; text-decoration: none">Big Ideas in Tech for 2023: An a16z Omnibus</a></h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">This article takes a look at the major tech trends that are expected to be prevalent in the year 2023. It examines over 40 upcoming themes in artificial intelligence (AI), internet of things (IoT), blockchain, digital health, cloud computing, 5G, augmented reality and virtual reality (AR and VR), the gig economy—and other areas.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <!--  -->
+    <!--  -->
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image width="150px" href="https://bit.ly/3v97iGw" target="_blank" padding-right="0px" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208614680-d2169d9c-532d-465a-b9f5-b5f617d9bb81.png"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0;"> <a href="https://bit.ly/3v97iGw" target="_blank" style="color: #3498DB; text-decoration: none">4 tips to attract more recruiters</a> </h3>
+          <p style="font-size: 14px;padding-top:0px;" align="justify">Understand how recruiters source candidates on LinkedIn and how to optimize your profile to improve your chances of being found.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <!--  -->
     <!-- DIVIDER LINE -->
     <mj-section padding="0px">
