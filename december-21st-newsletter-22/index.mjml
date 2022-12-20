@@ -52,24 +52,24 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UATMWD" style="color: #3498DB; text-decoration: none">Spotify’s grand plan to monetize developers via its open source Backstage project</a> </h3>
-          <p style="font-size: 14px">Spotify opens source Backstage, a developer-focused project that it has been using internally for three years. Backstage allows companies to build customized "developer portals". The company plans to monetize Backstage by selling premium plugins on top of the open source platform.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3v4HqMk" style="color: #3498DB; text-decoration: none">Spotify’s grand plan to monetize developers via its open source Backstage project</a> </h3>
+          <p style="font-size: 14px">Spotify has open sourced Backstage, a developer-focused project that has been used internally for the past three years to great success. With Backstage, companies can create custom "developer portals" that cater to their specific needs and requirements. Spotify is now planning to monetize this platform by offering premium plugins for purchase. Follow the link to find out more about this exciting new development from Spotify.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3UATMWD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206090555-f312078d-9a48-474d-a08c-8d8e0d98ab8e.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3v4HqMk" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208597674-c2aeb3a4-324b-4b52-aeeb-af4640e33f1f.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HaJoBW" style="color: #3498DB; text-decoration: none">Decentralized discourse: How open source is shaping Twitter’s future</a></h3>
-          <p style="font-size: 14px">Elon Musk has expressed interest in Twitter co-founder Jack Dorsey's vision for an open source social network called Bluesky. Europe is pushing ahead with rules to force interoperability between messaging platforms. What if Twitter decided to go all-in on open source and decentralization? Read this article to find out more.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3Fzb6G4" style="color: #3498DB; text-decoration: none">Decentralized discourse: How open source is shaping Twitter’s future</a></h3>
+          <p style="font-size: 14px">Elon Musk has shown interest in Jack Dorsey's vision for an open source social network called Bluesky. As Europe moves forward with rules to require interoperability between messaging platforms, we can't help but wonder: what if Twitter were to fully embrace open source and decentralization? Read the full article to find out more about the possibilities.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3HaJoBW" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/205898532-058203ed-1347-49de-b757-55567caae3a5.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3Fzb6G4" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208597757-11f3c9dc-6336-44ce-90ab-1ea93b0eab80.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- DIVIDER LINE -->
@@ -77,12 +77,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3iumhYD" style="color: #3498DB; text-decoration: none">Valve pays 100+ open source developers to work on proton, mesa—and other projects</a> </h3>
-          <p style="font-size: 14px">Valve, the developer of the game distribution platform "Steam," has paid development costs to more than 100 open-source developers working on the development of Proton and Mesa in the development of the mobile gaming PC "Steam Deck."</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3hBZdav" style="color: #3498DB; text-decoration: none">Valve pays 100+ open source developers to work on proton, mesa—and other projects</a> </h3>
+          <p style="font-size: 14px">Valve, the developer of the game distribution platform "Steam," has paid development costs to more than 100 open source developers working on the development of Proton and Mesa in the development of the mobile gaming PC "Steam Deck."</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3iumhYD" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/205903255-112b4fc2-099f-45c4-a5c3-9cc90242e656.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3hBZdav" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208598800-5631b47e-8327-4a80-83c3-b13bf7e0f3c1.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ------ -->
@@ -90,12 +90,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3utwW8L" style="color: #3498DB; text-decoration: none">Using open-source data to manage risk</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HLr5Uc" style="color: #3498DB; text-decoration: none">Using open-source data to manage risk</a> </h3>
           <p style="font-size: 14px">Open data is intended to be interoperable, facilitating collaboration and cooperation. Integrating open data with your own business systems could greatly enhance strategic decisions on assets and services. Data can be used to model for very-difficult-to-manage risks. Find out more in this article on how you can use open-source data to manage risk. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3utwW8L" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206058438-679ea2f6-233e-4c3f-aa58-1e35cb6f49e0.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3HLr5Uc" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208597825-e3b66376-820b-411e-a764-1e9b3a44db11.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- DIVIDER LINE -->
@@ -103,12 +103,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HbS3nH" style="color: #3498DB; text-decoration: none">Hackers Bombard Open Source Repositories with Over 144,000 Malicious Packages</a> </h3>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3hBPvoo" style="color: #3498DB; text-decoration: none">Hackers bombarded open source repos with over 144,000 malicious packages</a> </h3>
           <p style="font-size: 14px">Attention developers! The NuGet, PyPi, and npm ecosystems are facing a major threat with over 144,000 malicious packages published by unknown actors. Keep your projects safe by verifying the authenticity of packages before use. For more information, be sure to read this article.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3HbS3nH" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206061925-02d277cb-9037-4a14-bf3f-6bd4af7fcdc1.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3hBPvoo" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206061925-02d277cb-9037-4a14-bf3f-6bd4af7fcdc1.gif"></mj-image>
       </mj-column>
     </mj-section>
     <!-- ---- -->
