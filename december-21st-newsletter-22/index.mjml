@@ -14,12 +14,12 @@
         <mj-text font-size="10px" font-weight="400" align="center"></mj-text>
       </mj-column>
       <mj-column width="30%">
-        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_21" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" target="_blank" width="100px" href="https://aviyel.com?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_7" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-image width="200px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_21" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
+        <mj-image width="200px" padding-top="0" padding-bottom="0px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_7" border-radius="20px" src="https://user-images.githubusercontent.com/37651620/152173212-bffca957-f36a-4964-952e-944394c237b2.gif"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -49,12 +49,11 @@
       </mj-column>
     </mj-section>
     <!-- - -->
-    <!--  -->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UATMWD" style="color: #3498DB; text-decoration: none">Maximizing Your Productivity with Aviyel's GitHub Bot: A Comprehensive Guide </a> </h3>
-          <p style="font-size: 14px">Bots can be a powerful tool for improving productivity and efficiency on GitHub. This article explores the benefits of using bots on the platform and provides an example of how the Aviyel bot can be integrated into GitHub to automate tasks and streamline your workflow.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3UATMWD" style="color: #3498DB; text-decoration: none">Spotify’s grand plan to monetize developers via its open source Backstage project</a> </h3>
+          <p style="font-size: 14px">Spotify opens source Backstage, a developer-focused project that it has been using internally for three years. Backstage allows companies to build customized "developer portals". The company plans to monetize Backstage by selling premium plugins on top of the open source platform.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -65,8 +64,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HaJoBW" style="color: #3498DB; text-decoration: none">Google switching to continuous scrolling for desktop Search results</a></h3>
-          <p style="font-size: 14px">Google is adding continuous scrolling to its desktop search results, allowing users to see up to six more pages of results without clicking. This feature will be available first for English users in the United States.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HaJoBW" style="color: #3498DB; text-decoration: none">Decentralized discourse: How open source is shaping Twitter’s future</a></h3>
+          <p style="font-size: 14px">Elon Musk has expressed interest in Twitter co-founder Jack Dorsey's vision for an open source social network called Bluesky. Europe is pushing ahead with rules to force interoperability between messaging platforms. What if Twitter decided to go all-in on open source and decentralization? Read this article to find out more.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -78,8 +77,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3iumhYD" style="color: #3498DB; text-decoration: none">Biotech labs are using AI inspired by DALL-E to invent new drugs</a> </h3>
-          <p style="font-size: 14px">Biotech labs are using diffusion models to create new protein designs that do not exist in nature. These models can be used to produce proteins with specific properties for specific purposes. This technology has the potential to lead to the development of more effective drugs. However, scientists still need to figure out how to create and test these proteins.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3iumhYD" style="color: #3498DB; text-decoration: none">Valve pays 100+ open source developers to work on proton, mesa—and other projects</a> </h3>
+          <p style="font-size: 14px">Valve, the developer of the game distribution platform "Steam," has paid development costs to more than 100 open-source developers working on the development of Proton and Mesa in the development of the mobile gaming PC "Steam Deck."</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -91,8 +90,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3utwW8L" style="color: #3498DB; text-decoration: none">ChatGPT shrugged</a> </h3>
-          <p style="font-size: 14px">ChatGPT is a new AI tool that uses NLP technology to enable people to communicate with computers in a more intuitive and natural way. The development of ChatGPT is driven by a desire to improve human-computer interaction, and the technology has many potential applications. This article will explore the background of ChatGPT and discuss how it can be used to benefit society.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3utwW8L" style="color: #3498DB; text-decoration: none">Using open-source data to manage risk</a> </h3>
+          <p style="font-size: 14px">Open data is intended to be interoperable, facilitating collaboration and cooperation. Integrating open data with your own business systems could greatly enhance strategic decisions on assets and services. Data can be used to model for very-difficult-to-manage risks. Find out more in this article on how you can use open-source data to manage risk. </p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -104,8 +103,8 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HbS3nH" style="color: #3498DB; text-decoration: none">The Day The AGI Was Born</a> </h3>
-          <p style="font-size: 14px">Are you curious about the latest advancements in AI? Look no further! This article explores the exciting new AI tool ChatGPT, which uses NLP technology to enable more intuitive communication between humans and computers. Learn about the potential usecases of ChatGPT and how it could help achieve AGI. Don't miss out on this fascinating insight into the future of AI—read the article now!</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3HbS3nH" style="color: #3498DB; text-decoration: none">Hackers Bombard Open Source Repositories with Over 144,000 Malicious Packages</a> </h3>
+          <p style="font-size: 14px">Attention developers! The NuGet, PyPi, and npm ecosystems are facing a major threat with over 144,000 malicious packages published by unknown actors. Keep your projects safe by verifying the authenticity of packages before use. For more information, be sure to read this article.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
@@ -365,7 +364,7 @@
     <!-- Test -->
     <mj-section background-repeat="repeat" padding-right="0px" padding-top="40px" text-align="center">
       <mj-column width="100%">
-        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_21" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
+        <mj-image align="center" width="120px" href="https://aviyel.com/discussions?utm_source=mailjet&utm_medium=page_main&utm_campaign=newsletter_december_7" target="_blank" src="https://user-images.githubusercontent.com/37651620/154246572-19c542ff-96e6-4726-aea8-7b528977be13.png"></mj-image>
       </mj-column>
       <mj-column width="100%">
         <mj-social align="center" border-radius="30px" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13px" icon-size="29px" line-height="22px" mode="horizontal" padding-bottom="8px" padding-left="24px" padding-right="24px" padding-top="8px" padding="8px 24px 8px 24px">
