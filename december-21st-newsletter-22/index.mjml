@@ -274,12 +274,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3UL9qyY" style="color: #3498DB; text-decoration: none">Third-party Twitter app makers turn their attention to Mastodon</a></h3>
-          <p style="font-size: 14px">Mastodon is an open source alternative to Twitter that is gaining popularity following the acquisition of Twitter by Elon Musk. Developers of popular Twitter apps like Aviary and Tweetbot are now looking to build similar apps for the Mastodon community—read the article now to learn more!</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://tcrn.ch/3PJHZEz" style="color: #3498DB; text-decoration: none">Meta, Microsoft, AWS and TomTom launch the Overture Maps Foundation to develop interoperable open map data</a></h3>
+          <p style="font-size: 14px">AWS, Meta, Microsoft, and TomTom are driving the program known as the Overture Maps Foundation. It intends to challenge the preeminence of both Google and Apple in the market for map data. The establishment of an open data set will make it possible for businesses to sidestep limitations placed on the types of data to which they have access.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3UL9qyY" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206063579-4da8a229-cd2a-4894-9328-965107e8af50.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://tcrn.ch/3PJHZEz" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208620377-0673aaaf-ef02-448b-8b6c-d998836b2a68.png"></mj-image>
       </mj-column>
     </mj-section>
     <!---->
@@ -287,37 +287,37 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3PaKujc" style="color: #3498DB; text-decoration: none">AWS releases Wickr, encrypted messaging service for enterprises </a> </h3>
-          <p style="font-size: 14px">The release of the enterprise version of the encrypted messaging service, announced at AWS re:Invent, is designed to allow secure collaboration across messaging, voice, video and file sharing. </p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://reut.rs/3vnfOSN" style="color: #3498DB; text-decoration: none">Exclusive: ChatGPT owner OpenAI projects $1 billion in revenue by 2024 </a> </h3>
+          <p style="font-size: 14px">OpenAI's recent pitch to investors predicts that it'll generate $200 million in revenue next year and $1 billion by 2024. You can license the technology for your own use at a cost-effective price; for just a few cents, you can generate thousands of words of text or create stunning images. Its capped-profit structure ensures that investors receive a maximum return of 100 times their initial investment. Find out more in this article.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3PaKujc" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206065287-0d0c2148-75a7-4bbe-b988-37ced21d9003.png"></mj-image>
-      </mj-column>
-    </mj-section>
-    <!--  -->
-    <mj-section>
-      <mj-column width="75%">
-        <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3W0pCNN" style="color: #3498DB; text-decoration: none">Apple Makes Plans to Move Production Out of China</a></h3>
-          <p style="font-size: 14px">Apple is reportedly planning to move its production outside of China in response to increasing tensions between the foxcon and workers. The company is looking at India and Vietnam as potential locations for assembling its products, and has instructed its suppliers to begin planning for production in other parts of Asia. </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3W0pCNN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206067105-169c725e-1df2-46e4-83be-433efbd076d1.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="https://reut.rs/3vnfOSN" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208622248-a2cc0e6d-5294-4173-9f53-b1c601cbc8bf.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
+    <mj-section>
+      <mj-column width="75%">
+        <mj-text align="justify">
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3G8fUE0" style="color: #3498DB; text-decoration: none">Apple reportedly prepping ‘multiple new external monitors’ with Apple Silicon inside</a></h3>
+          <p style="font-size: 14px">Apple is reportedly working on multiple new monitors with Apple Silicon inside. Chips will allow the screens to use less resources from their attached computers. One of the new monitors is a new version of the Pro Display XDR, which may not be released until after the new Mac Pro.Follow the link to find out more about it. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3G8fUE0" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208623093-2a216f04-497a-4e14-9529-b5d603d43f81.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!--  -->
     <!---->
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="https://bit.ly/3HgENxX" style="color: #3498DB; text-decoration: none">Physicists Create a Holographic Wormhole Using a Quantum Computer</a> </h3>
-          <p style="font-size: 14px">Physicists from the California Institute of Technology claim to have created a wormhole using a quantum computer. In the experiment, the wormhole emerged as a hologram from quantum bits of information, and the physicists were able to manipulate the qubits and send information through the wormhole. The experiment supports the holographic principle, which states that space-time and gravity arise from quantum effects.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3jiNnSS" style="color: #3498DB; text-decoration: none">Elon Musk should step down as head of Twitter, says poll</a> </h3>
+          <p style="font-size: 14px">Elon Musk has announced that there will be votes on major policy decisions for Twitter, starting with whether he should continue as CEO. He has vowed to find a new leader if necessary to keep the company afloat. Will you be casting your vote on this crucial decision?</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="https://bit.ly/3HgENxX" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206068791-7b72a272-8c02-42e9-838d-1c0ea7c184b9.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3jiNnSS" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208624263-8b45a1ff-93af-4938-a96d-56ec110dee42.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -331,7 +331,7 @@
     <!-- Learn -->
     <mj-section>
       <mj-column width="100%">
-        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#OSSSpotlight</mj-text>
+        <mj-text align="left" font-weight="500" padding-bottom="0px" font-size="18px">#ProjectSpotlight</mj-text>
         <mj-divider align="left" border-width="2px" border-color="#8661d1" width="130px"></mj-divider>
       </mj-column>
     </mj-section>
@@ -339,12 +339,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3BhCvuJ" style="color: #3498DB; text-decoration: none">Astuto: A free, open source, self-hosted customer feedback tool 🦊</a></h3>
-          <p style="font-size: 14px">Astuto is a free, open source, self hosted customer feedback tool. It helps you collect, manage and prioritize feedback from your users. It has been heavely inspired by Canny.io ("astuto", indeed, is the italian translation of the word "canny",which means shrewd or clever).</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3v2pmCa" style="color: #3498DB; text-decoration: none">Mermaid: An open source diagramming and charting tool</a></h3>
+          <p style="font-size: 14px">Mermaid is a JavaScript-based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3BhCvuJ" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206070742-f065f501-bcc3-4943-899c-ac49c0c73163.gif"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3v2pmCa" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208629398-2d6a93c1-f293-4619-a4f9-fc309d49234a.png"></mj-image>
       </mj-column>
     </mj-section>
     <!--  -->
@@ -352,12 +352,12 @@
     <mj-section>
       <mj-column width="75%">
         <mj-text align="justify">
-          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3UEt2oj" style="color: #3498DB; text-decoration: none">Hackershare: an open source powerful social bookmarking service</a></h3>
-          <p style="font-size: 14px">Hackershare is a social bookmarking service that allows users to save and organize their favorite links to webpages, articles, and other online content. It is specifically designed for hackers and other tech-savvy individuals, and is often considered an alternative to popular bookmarking services like Delicious and Pocket.</p>
+          <h3 style="font-weight: bold; margin-top: 0; margin-bottom: 0"> <a target="_blank" href="http://bit.ly/3YERp8o" style="color: #3498DB; text-decoration: none">autoai-org/AID: One-Stop System for Machine Learning.</a></h3>
+          <p style="font-size: 14px">AID is a DevOps system dedicated to machine learning. It includes a machine learning package manager that can search, download, and deploy models, a dashboard for monitoring installed services and triggering builds and tests, and a registry that offers plugins for notifications and security checks. All of these components work together to provide a comprehensive solution for managing machine learning projects.</p>
         </mj-text>
       </mj-column>
       <mj-column width="25%">
-        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3UEt2oj" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/206072371-02f38b11-77f6-45ae-9634-78bb2c5fa66b.png"></mj-image>
+        <mj-image width="150px" padding-left="0px" target="_blank" href="http://bit.ly/3YERp8o" border-radius="7px" src="https://user-images.githubusercontent.com/37651620/208631712-66f6e97a-213a-43a3-9da8-55946474638a.png"></mj-image>
       </mj-column>
     </mj-section>
     <!-- DIVIDER LINE -->
